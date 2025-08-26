@@ -1,0 +1,54 @@
+[
+  {
+    "question": "What was the CPI inflation rate in FY 2024-25?",
+    "answer": "According to the provided context documents, specifically from Chapter 4 Summary, India's retail inflation rate in FY2024-25 was 4.9%.",
+    "chunks": [
+      {
+        "chapter_number": 4,
+        "subchapter_number": 3,
+        "tags": [
+          "Food_Inflation",
+          "Vegetable_Prices",
+          "Weather_Impact"
+        ],
+        "score": 0.9815650582313538
+      },
+      {
+        "chapter_number": 4,
+        "subchapter_number": 2,
+        "tags": [
+          "Inflation_Rate",
+          "Monetary_Policy",
+          "Global_Economy"
+        ],
+        "score": 0.9468101263046265
+      },
+      {
+        "chapter_number": 4,
+        "subchapter_number": 1,
+        "tags": [
+          "Inflation_Dynamics",
+          "Global_Inflation",
+          "Monetary_Policy"
+        ],
+        "score": 0.9429669976234436
+      }
+    ]
+  },
+  {
+    "question": "Why does the Survey emphasise deregulation for growth?",
+    "answer": "The Survey emphasizes deregulation for growth because it is critical for India's medium-term economic outlook and growth aspirations. To achieve a growth rate of around 8% at constant prices for about a decade or two and become a Viksit Bharat, India needs to focus on domestic growth levers and enhance economic freedom through deregulation.\n\nThe global economic environment is experiencing geo-economic fragmentation (GEF), which refers to a policy-driven reversal of global economic integration. This fragmentation can lead to a decline in global trade, investment, and economic growth, with estimated output losses ranging from 0.2% to 7% of GDP. The rise of China as a manufacturing powerhouse and its impact on the global supply chain pose challenges to other nations, including India.\n\nIn this context, deregulation is essential for India's growth aspirations. The government has implemented several structural reforms, including the Goods and Services Tax (GST), Insolvency and Bankruptcy Code (IBC), and digital infrastructure. However, regulatory compliance burden holds back formalization and labor productivity, limits employment growth, and chokes innovation.\n\nThe Survey suggests that systematic deregulation is necessary to reduce/remove regulatory compliance burden and encourage economic freedom for individuals and organizations to pursue legitimate economic activity. States can undertake systematic deregulation by reviewing regulations for their cost-effectiveness and simplifying taxation laws, rationalizing labor regulations, and decriminalizing business laws.\n\nBy empowering small businesses, enhancing economic freedom, and ensuring a level playing field, governments can help create an environment where growth and innovation are not only possible but inevitable. Therefore, the Survey emphasizes deregulation as a catalyst for growth, innovation, and competitiveness, and states must prioritize deregulation to enhance economic freedom.",
+    "chunks": [
+      {
+        "chapter_number": 5,
+        "subchapter_number": 1,
+        "tags": [
+          "GDP_Growth",
+          "Geo_Economic_Fragmentation",
+          "Trade_Policy"
+        ],
+        "score": 0.12080265581607819
+      }
+    ]
+  }
+]

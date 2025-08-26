@@ -1,0 +1,68 @@
+{
+  "processing_summary": {
+    "total_questions": 50,
+    "successful_answers": 9,
+    "error_count": 41,
+    "no_context_count": 0,
+    "success_rate_percentage": 18.0
+  },
+  "performance_by_difficulty": {
+    "Simple": {
+      "total": 12,
+      "successful": 8,
+      "success_rate": 66.7
+    },
+    "Medium": {
+      "total": 19,
+      "successful": 1,
+      "success_rate": 5.3
+    },
+    "Complex": {
+      "total": 19,
+      "successful": 0,
+      "success_rate": 0.0
+    }
+  },
+  "performance_by_type": {
+    "Factual": {
+      "total": 9,
+      "successful": 5,
+      "success_rate": 55.6
+    },
+    "Commentary": {
+      "total": 32,
+      "successful": 3,
+      "success_rate": 9.4
+    },
+    "Mixed": {
+      "total": 9,
+      "successful": 1,
+      "success_rate": 11.1
+    }
+  },
+  "processing_times": {
+    "total_seconds": 191.8,
+    "average_per_question": 21.09,
+    "fastest_question": 1.63,
+    "slowest_question": 41.09
+  },
+  "context_analysis": {
+    "average_documents_used": 4.1,
+    "min_documents": 3,
+    "max_documents": 5,
+    "distribution": {
+      "5": 5,
+      "3": 4
+    }
+  },
+  "quality_metrics": {
+    "average_relevance_score": 0.523,
+    "highest_relevance": 0.997,
+    "lowest_relevance": 0.003
+  },
+  "knowledge_coverage": {
+    "chapters_referenced": 0,
+    "sections_referenced": 0,
+    "chapter_list": []
+  }
+}

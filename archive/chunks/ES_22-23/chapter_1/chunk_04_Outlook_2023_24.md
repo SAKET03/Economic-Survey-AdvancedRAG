@@ -1,0 +1,25 @@
+# Outlook: 2023-24
+
+outlook: 2023-24
+
+1.29  India's recovery from the pandemic was relatively quick, and growth in the upcoming year will be supported by solid domestic demand and a pickup in capital investment. The current
+
+growth trajectory will be supported by multiple structural changes that have been implemented over the past few years. The private sector - financial and non-financial - was repairing balance sheets,  which  led  to  a  slowdown  in  capital  formation  in  the  previous  decade. The  financial system stress experienced in the second decade of the millennium, evidenced by rising nonperforming assets, low credit growth and declining growth rates of capital formation, caused by excessive lending witnessed in the first decade-plus, is now behind us. Aided by healthy financials, incipient signs of a new private sector capital formation cycle are visible.  More importantly, compensating for the private sector's caution in capital expenditure, the government raised capital expenditure substantially. Budgeted capital expenditure rose 2.7X in the last seven years,  from  FY16  to  FY23,  re-invigorating  the  Capex  cycle.  Structural  reforms  such  as  the introduction of the Goods and Services Tax and the Insolvency and Bankruptcy Code enhanced the  efficiency  and  transparency  of  the  economy  and  ensured  financial  discipline  and  better compliance.
+
+figure I.37: Slowdown in global economic growth and trade
+
+<!-- image -->
+
+Source: IMF, WTO
+
+Note: F stands for Forcast
+
+1.30  Even as India's outlook remains bright, global economic prospects for the next year have been weighed down by the combination of a unique set of challenges expected to impart a few downside risks. Multi-decadal high inflation numbers have compelled central banks across the globe to tighten financial conditions. The impact of monetary tightening is beginning to show in slowing economic activity, especially in Advanced Economies. Besides this, adverse spillovers from the prolonged strains in supply chains and heightened uncertainty due to geo-political conflict have further deteriorated the global outlook. Hence, global growth is forecasted to slow from  3.2  per  cent  in  2022  to  2.7  per  cent  in  2023  as  per  IMF's  World  Economic  Outlook, October 2022. A slower growth in economic output coupled with increased uncertainty will dampen trade growth. This is seen in the lower forecast for growth in global trade by the World Trade Organisation, from 3.5 per cent in 2022 to 1.0 per cent in 2023.
+
+1.31  On the external front, risks to the current account balance stem from multiple sources. While  commodity  prices  have  retreated  from  record  highs,  they  are  still  above  pre-conflict levels. Strong domestic demand amidst high commodity prices will raise India's total import
+
+bill and contribute to unfavourable developments in the current account balance. These may be exacerbated by plateauing export growth on account of slackening global demand. Should the current account deficit widen further, the currency may come under depreciation pressure.
+
+- 1.32  Another risk to the outlook originates from the ongoing monetary tightening exercise. While the pace of rate hikes has slowed, major central banks have reaffirmed their hawkish stance on inflation. Entrenched inflation may prolong the tightening cycle, and therefore, borrowing costs may stay 'higher for longer'. In such a scenario, global economy may be characterised by low growth in FY24. However, the scenario of subdued global growth presents two silver linings - oil prices will stay low, and India's CAD will be better than currently projected. The overall external situation will remain manageable.
+- 1.33  The upside to India's growth outlook arises from (i) limited health and economic fallout for the rest of the world from the current surge in Covid-19 infections in China and, therefore, continued  normalisation  of  supply  chains;  (ii)  inflationary  impulses  from  the  reopening  of China's economy turning out to be neither significant nor persistent; (iii)  recessionary tendencies in major AEs triggering a cessation of monetary tightening and a return of capital flows to India amidst a stable domestic inflation rate below 6 per cent; and (iv) this leading to an improvement in animal spirits and providing further impetus to private sector investment.
+- 1.34  Against this backdrop, the survey projects a baseline GDP growth of 6.5 per cent in real terms in FY24. The projection is broadly comparable to the estimates provided by multilateral agencies such as the World Bank, the IMF, and the ADB and by RBI, domestically. The actual outcome for real GDP growth will probably lie in the range of 6.0 per cent to 6.8 per cent, depending on the trajectory of economic and political developments globally.

@@ -1,0 +1,11 @@
+# Fiscal Developments: Revenue Relish
+
+Fiscal Developments: Revenue Relish
+
+<!-- image -->
+
+The Union Budget for FY23 was presented in an uncertain macroeconomic environment. Soon after its presentation, the geopolitical conflict aggravated global supply disruptions and adversely impacted the prices of fuel, food, and other essential commodities. The Government of India's fiscal policy response to the crisis comprised of a judicious mix of increasing food and fertiliser subsidies on the one hand and a reduction in taxes on fuel and certain imported products on the other. Despite these additional fiscal pressures during the year, the Union Government is on track to achieve the budget estimate for the fiscal deficit in FY23. The resilience in the fiscal performance of the Union Government has  been  facilitated  by  the  recovery  in  economic  activity,  buoyancy  in  revenues  from direct taxes and GST, and realistic assumptions in the Budget. The Gross Tax Revenue registered a YoY growth of 15.5 per cent from April to November 2022, driven by robust growth in the direct taxes and Goods and Services Tax (GST). The growth in direct taxes during  the  first  eight  months  of  the  year  was  much  higher  than  their  corresponding longer-term averages. The GST has stabilised as a vital revenue source for central and state governments, with the gross GST collections increasing at 24.8 per cent on YoY basis during April - December 2022.
+
+On  the  expenditure  side,  the  Union  Government's  emphasis  on  capital  expenditure (Capex) has continued despite higher revenue expenditure requirements during the year. The Centre's Capex has steadily increased from a long-term average of 1.7 per cent of GDP (FY09 to FY20) to 2.5 per cent of GDP in FY22 PA. The Centre has also incentivised the State Governments through interest-free loans and enhanced borrowing ceilings to prioritise their spending on Capex. With an emphasis on infrastructure-intensive sectors like roads and highways, railways, and housing and urban affairs, the increase in Capex has large-scale positive implications for medium-term growth. This Capex-led growth strategy will enable India to keep the growth-interest rate differential positive, leading to a sustainable government debt to GDP in the medium run.
+
+##

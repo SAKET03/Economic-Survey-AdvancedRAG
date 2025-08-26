@@ -1,0 +1,9 @@
+# Outlook
+
+## OUTLOOK
+
+3.69   India's  external  sector  has  performed  well  amidst  unfavourable  geopolitical conditions. On the current account front, though merchandise exports have displayed moderate  growth  owing  to  a  slowdown  in  external  demand,  merchandise  imports have shown remarkable growth supported by strong domestic demand. Increased net services receipts and growing remittances have cushioned the rise in the merchandise trade deficit. On the capital front, the economy has been witnessing net positive capital inflows. Gross FDI inflows have shown a higher growth in the first eight months of FY25 compared to the corresponding period of the previous year. However, a surge in repatriation has reined in the expansion in net FDI. FPI inflows have shown volatility in the first nine months of FY25, showing mixed trends.
+
+3.70  Global trade dynamics have changed significantly in recent years, shifting from globalisation to rising trade protectionism, accompanied by increased uncertainty. This calls for a new strategic trade roadmap for India. To remain competitive and enhance its participation in global supply chains, India must continue reducing trade costs and improving facilitation to boost export competitiveness. Much remains to be done to enhance trade competitiveness. The good news is that doing so is entirely in our hands. On its part, the industry must continue to invest in quality.
+
+3.71   The state produces governance, and the private sector produces goods and services. If both these actors focus on quality and efficiency, then despite the trade tensions and protectionism that are likely to come in the way of expanding global trade, India can increase its share in overseas markets and generate resources to sustain a higher level of capital formation. Then, it will be possible for us not just to dream of but actually realise higher economic growth rates on a sustained basis.

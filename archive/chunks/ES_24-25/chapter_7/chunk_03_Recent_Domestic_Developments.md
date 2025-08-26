@@ -1,0 +1,17 @@
+# Recent Domestic Developments
+
+RECENT DOMESTIC DEVELOPMENTS
+
+7.5 The  industrial  sector  (including  four  sub-sectors,  i.e.,  mining  and  quarrying; electricity,  gas,  water  supply  and  utilities;  manufacturing  and  construction)  was affected significantly by the pandemic, leading to a contraction in FY21. This led to growth fluctuations in subsequent years. Hence, comparing FY25 with an average of the previous five years, including the pre-pandemic FY20, is appropriate. Chart VII.2(a) shows that the industrial growth in FY25 is expected higher than the previous five-year average.  The industrial sector grew by 6.2 per cent in FY25, driven by robust growth in electricity and construction.
+
+<!-- image -->
+
+GLYPH&lt;c=3,font=/YQNKUC+Calibri&gt;
+
+7.6 However, industrial growth has declined to 3.6 per cent in the second quarter (Q2) of FY25 on account of three major factors.  Firstly, manufacturing exports experienced a sharp slowdown due to economic challenges in destination countries and intensified trade  competition  and  industrial  policies  followed  by  many  major  trading  nations. Secondly,  the  unprecedented  levels  of  monsoon  produced  mixed  impacts.  While  it helped replenish reservoirs and boost farming operations, it also slowed down activities like mining, construction and, to an extent, manufacturing. Thirdly, the variation in the timing of festivals between September and October in the previous and current years contributed to a slight statistical downward bias in the growth figures for Q2 as festivals drive higher consumer spending and economic activity. Festival sales of select consumer items, including automobiles, picked up in October.
+
+<!-- image -->
+
+7.7 The  remaining  sections  of  the  chapter  are  organised  as  follows.  The  next  two sections review the progress, challenges, and policy measures across various industrial segments, including core industrial input industries and capital and consumer goods sectors.  This is followed by a brief discussion on over-arching themes like research and development and micro, small and medium enterprises. The state-level variations in the degree of industrialisation and the scope for progress are examined in the following section. The last section concludes the discussions and presents a way ahead.
+
+##

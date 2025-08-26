@@ -1,0 +1,34 @@
+# Progressing Labour Reform Measures
+
+progressing labour reform measures
+
+6.17 In  2019  and  2020,  29  Central  Labour  Laws  were  amalgamated,  rationalised,  and simplified into four Labour Codes, viz., the Code on Wages, 2019 (August 2019), the Industrial Relations Code, 2020, the Code on Social Security, 2020, and the Occupational Safety, Health &amp; Working Conditions Code, 2020 (September 2020). The new laws are in tune with the changing labour market trends and, at the same time, accommodate the minimum wage requirement and welfare  needs  of  the  unorganised  sector  workers,  including  the  self-employed  and  migrant workers, within the legislation framework. The Labour Codes have been aligned with the present economic  scenario  and  technological  advancements  along  with  reduction  in  multiplicity  of definitions and authorities. The Codes also ease compliance mechanism aiming to promote ease of doing business/setting up of enterprises and catalyse creation of employment opportunities while ensuring safety, health and social security of every worker. Use of technology, such as, web-based Inspection has been introduced in order to ensure transparency and accountability in enforcement. Decriminalisation of minor offences has also been provided in the Labour Codes.
+
+- 6.18 Rules  made  under  the  Codes  have  been  entrusted  to  Central  Government,  State Government and at appropriate level. There is a requirement for pre-publication of Rules in their official Gazettes for public consultation. As of 13 December 2022, 31 States also have prepublished the draft rules under the Code on Wages, 28 States under Industrial Relations Code, 28 States under Code on Social Security, and 26 States under Occupational Safety Health and Working Conditions Code.
+
+table Vi.3: Status of rules by States/uts under the four labour codes
+
+| name of code                                                     | name of States which have pre-published the draft rules                                                                                                                                                                                                                                                                                                                                     |
+|------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| The Code on Wages, 2019                                          | Andhra Pradesh, Arunachal Pradesh, Assam, Bihar, Chhattisgarh, Goa, Gujarat, Haryana, Himachal Pradesh, Jharkhand, Karnataka, Kerala, Madhya Pradesh, Maharashtra, Manipur, Mizoram, Odisha, Punjab, Rajasthan, Sikkim, Tamil Nadu, Telangana, Tripura, Uttarakhand, Uttar Pradesh, UTs of Andaman & Nicobar Islands, Chandigarh, Jammu & Kashmir, Ladakh, NCT of Delhi and Puducherry (31) |
+| The Industrial Relations Code, 2020                              | Andhra Pradesh, Arunachal Pradesh, Assam, Bihar, Chhattisgarh, Goa, Gujarat, Haryana, Himachal Pradesh, Jharkhand, Karnataka, Kerala, Madhya Pradesh, Maharashtra, Manipur, Mizoram, Odisha, Punjab, Tamil Nadu, Telangana, Tripura, Uttarakhand, Uttar Pradesh, Sikkim, UTs of Chandigarh, Jammu & Kashmir, Ladakh and Puducherry ( 28)                                                    |
+| The Code on Social Security, 2020                                | Andhra Pradesh, Arunachal Pradesh, Assam, Bihar, Chhattisgarh, Goa, Gujarat, Haryana, Himachal Pradesh, Jharkhand, Karnataka, Kerala, Madhya Pradesh, Maharashtra, Manipur, Mizoram, Odisha, Punjab, Telangana, Tripura, Uttarakhand, Uttar Pradesh, Sikkim, UTs of Andaman & Nicobar Islands, Chandigarh, Jammu &Kashmir, Ladakh and Puducherry (28 )                                      |
+| The Occupational Safety Health and working Conditions Code, 2020 | Andhra Pradesh, Arunachal Pradesh, Assam, Bihar, Chhattisgarh, Goa, Gujarat, Haryana, Himachal Pradesh, Jharkhand, Karnataka, Kerala, Madhya Pradesh, Maharashtra, Manipur, Odisha, Punjab, Tamil Nadu, Telangana, Tripura, Uttarakhand, Uttar Pradesh, UTs of Chandigarh, Jammu &Kashmir, Ladakh and Puducherry (26)                                                                       |
+
+Source: Ministry of Labour &amp; Employment; status as of 13 December 2022
+
+## e-Shram portal
+
+6.19 The Government has been working on improving life and dignity of labour force of country by protecting and safeguarding the interest of workers, promoting their welfare and providing social security both in organised and unorganised sectors. Accordingly, Ministry of Labour and Employment (MoLE) has developed eShram portal for creating a National database of  unorganised  workers,  which  is  verified  with Aadhaar.  It  captures  details  of  workers  like name, occupation, address, occupation type, educational qualification, and skill types etc., for the optimum realisation of their employability and extend the benefits of the social security schemes to them. It is the first-ever national database of unorganised workers, including migrant workers,  construction  workers,  gig  and  platform  workers,  etc.Currently,  e-Shram  portal  has been linked to NCS portal and ASEEM portal for seamless facilitation of services.
+
+6.20 As on 31 December 2022, total over 28.5 crore unorganised workers have been registered on eShram portal. Female registrations stood at 52.8 per cent of the total and 61.7 per cent of
+
+total registrations belonged to the age group 18-40 years. State-wise, Uttar Pradesh (29.1 per cent), Bihar (10.0 per cent), and West Bengal (9.0 per cent) accounted for nearly half of total registrations. Agriculture sector workers contributed to 52.4 per cent of the total registrations, followed by domestic and household workers (9.8 per cent), and construction workers (9.1 per cent).
+
+figure Vi.2: cumulative registrations under e-Shram portal
+
+<!-- image -->
+
+Source: e-Shram Dashboard, MoLE
+
+##

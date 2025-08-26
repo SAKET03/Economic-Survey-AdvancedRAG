@@ -1,0 +1,45 @@
+# Finance for Sustainable Development
+
+Finance for Sustainable development
+
+7.44  Finance is a critical input in India's climate actions. The country's climate actions have so far been largely financed from domestic sources, including government budgetary support, a mix of market mechanisms, fiscal instruments, and policy interventions. India has shown global leadership in the fight against climate change and has committed itself to achieving net-zero emissions by 2070. While several estimates of the required investments are indicated in the LTLEDS report prepared by India, it is important to note that all allude to a need for tens of trillions of US dollars.
+
+7.45  The understanding in the Convention and the Paris Agreement has been that the developed countries will mobilise the resources through public and other sources, including by catalysing private finance to enable a flow of financial resources at a reasonable cost. While these are yet to materialise, India has scaled up its efforts towards greater mobilisation of private capital to meet its ambitious climate action goals.
+
+## green Bonds
+
+7.46  Green bonds  are financial instruments that generate proceeds for investment in environmentally  sustainable  and  climate-suitable  projects.  With  the  growing  focus  on  the environmental  sustainability  of  projects,  green  bonds  have  become  widely  accepted  as  an
+
+instrument to raise funds to support climate and environmental projects and command a relatively lower cost of capital vis-à-vis regular bonds. Major countries that resorted to green bonds to raise funds include the UK, France, Germany, the USA, and China. IMF data indicates that green bonds of value around US$ 620 billion were issued across the world in the year 2021, in which countries issued green bonds of value US$ 587.7 billion and international organisations issued bonds of value US$ 32.3 billion. As per SEBI's data on green debt securities, during the period of 2017 to September 2022, 15 Indian corporates have issued green bonds of value ₹4,539 crore.  Most of these are related to renewable energy generation, while one is slated to be used for the tertiary treatment of wastewater.
+
+Figure vii.12: Status of Sovereign green Bond issuances in 2021
+
+<!-- image -->
+
+Source: IMF Climate Change Dashboard
+
+7.47  In keeping with the ambition to reduce the carbon intensity of the economy significantly, the Union Budget 2022-23 announced the issue of Sovereign Green Bonds. The issuance of Sovereign Green Bonds will help the government to tap the requisite finance from potential investors for deployment in public sector projects aimed at reducing the carbon intensity of the  economy.  The  final  Sovereign  Green  Bonds  framework  of  India  has  been  issued.  The Framework has been designed to comply with the components and key recommendations of the International Capital Market Association (ICMA) Green Bond Principles (2021).
+
+7.48  A Green Finance working committee has also been set up to oversee and validate key decisions on the issuance of Sovereign green bonds. The committee has the mandate to select the projects for allocation of proceeds, do a time-bound review of the allocation and carry out annual reporting along with an impact assessment of the proceeds from sovereign green bonds issued.
+
+7.49  The Reserve Bank of India (RBI) has notified the indicative calendar for the issuance of Sovereign Green Bonds (SGrBs) for the fiscal year 2022-23. The issuance would take place through two auctions on January 25, 2023 and February 9, 2023, respectively, for ₹8,000 crore each, totalling ₹16,000 crore. The security-wise allocation would include 5 year and 10 year SGrBs for ₹4,000 crore each for both auctions. Five per cent of the notified amount of sale has been reserved for retail investors as specified under the 'Scheme for Non-competitive Bidding Facility in the auction of Government of India Dated Securities and Treasury Bills'. The SGrBs will  be  designated  as  specified  securities  under  the  'Fully Accessible  Route'  for  investment in  Government  Securities  by  non-residents.  Over  time,  the  SGrBs  would  provide  a  pricing
+
+reference for private sector entities in India for their domestic borrowings through Environment, Social, and Governance (ESG) bonds. Thus, the issuance of SGrBs would help in creating an ecosystem which fosters a greater flow of capital into green projects and entities undertaking such projects.
+
+## regulatory Framework for issuance of green debt Securities
+
+7.50  On  November  3,  2021,  the  RBI  published  its  'Statement  of  Commitment  to  Support Greening India's Financial System' - NGFS. Here, the Reserve Bank of India (RBI) laid out, keeping in view its national commitments, priorities, and complexity of our financial system, committed to, among others, exploring how climate scenario exercises can be used to identify vulnerabilities  in  RBI-supervised  entities'  balance  sheets,  business  models  and  gaps  in  their capabilities for measuring and managing climate-related financial risks. Also, in 2007, the RBI advised banks to put in place an appropriate action plan for making a meaningful contribution to  sustainable  development.  Over  time,  RBI  has  incentivised  bank  lending  towards  greener industries  and  projects.  For  example,  renewable  energy  projects  have  been  included  under Priority Sector Lending (PSL). The RBI has also been spreading awareness on the issue of green and sustainable finance by discussing the opportunities and challenges of green finance through its publications and other communication.
+
+- 7.51  SEBI  introduced  the  regulatory  framework  for  issuance  of  green  debt  securities  as  a mode of sustainable finance under the erstwhile SEBI (Issue and Listing of Debt Securities) Regulations, 2008, (ILDS Regulations) , vide circular dated May 30, 2017.
+- 7.52  At the time of review of the ILDS Regulations, the provisions of the erstwhile circular were subsumed, and the definition of 'green debt security' was incorporated as Regulation 2(1)(q) in the SEBI (Issue and Listing of Non-Convertible Securities) Regulations, 2021 ( 'NCS Regulations' ).  The  disclosure  requirements  were  prescribed  vide  Operational  Circular  dated August 10, 2021.
+- 7.53  Recently, vide a circular dated November 24, 2022, SEBI has allowed an issuer under the SEBI (Issue and Listing of Municipal Debt Securities) Regulations, 2015 ('ILMDS Regulations') to issue a green debt security if it falls within the definition of 'green debt security' as per Regulation 2(1)(q) of the NCS Regulations. Such an issuer has to comply with both ILMDS Regulation and NCS Regulations.
+- 7.54  In the backdrop of increasing interest in sustainable finance in India as well as around the  globe,  and  with  a  view  to  aligning  the  extant  framework  for  green  debt  securities  with the  updated  Green  Bond  Principles  recognised  by  International  Organisation  of  Securities Commission (IOSCO), SEBI undertook a review of the regulatory framework for green debt securities. Based on the review, it has been decided in the SEBI board meeting dated December 20, 2022, to:
+- a. Enhance the scope of the definition of green debt security by including new modes of sustainable finance in relation to pollution prevention and control, eco-efficient products, etc.;
+
+- b. Introduce the concept of blue bonds (related to water management and marine sector), yellow bonds (related to solar energy) and transition bonds as subcategories of green debt securities.
+
+## investing in resilience for Sustainable development
+
+7.55  SEBI  has  been  one  of  the  early  adopters  of  sustainability  reporting  for  listed  entities and  requires  mandatory  ESG-related  disclosures  for  the  top  100  listed  entities  (by  market capitalisation) since 2012. Over the years, the requirement was strengthened to cover the top 500 and then the top 1000 entities. SEBI has issued new sustainability reporting requirements under the Business Responsibility and Sustainability Report (BRSR), which are more granular with quantifiable metrics in line with the principles ensconced in the 'National Guidelines on Responsible Business Conduct'. The BRSR was made mandatory for the top 1000 listed entities (by market capitalisation) from 2022-23. Early research show that for top Indian firms, ESG performance  reduced  stock  return  volatility  during  Covid-19 13 and  enabled  firms  to  access capital  at  lower  cost  by  building  investors'  confidence  as  ESG  disclosures  create  long-term value for investors as well as reduce information asymmetry 14 .
+
+##

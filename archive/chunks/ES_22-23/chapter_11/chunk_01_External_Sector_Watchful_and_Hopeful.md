@@ -1,0 +1,19 @@
+# External Sector: Watchful and Hopeful
+
+ExtErnal SEctor: watchful and hopEful
+
+<!-- image -->
+
+India's external sector has been buffeted by shocks and uncertainty manifested in terms of elevated, though now easing global commodity prices; tightening international financial conditions; heightening financial market volatility; reversal of capital flows; currency depreciation, and looming global growth and trade slowdown. However, it has been able to face these headwinds from a position of strength on the back of strong macroeconomic fundamentals and buffers.
+
+During FY23 (till December 2022) India's exports have displayed resilience on the back of record levels of exports in FY22. Petroleum products, gems &amp; jewellery, organic &amp; inorganic  chemicals,  drugs  &amp;  pharmaceuticals  were  among  the  leading  export  items. However,  the  slowdown  in  Indian  exports  is  inevitable  in  a  slowing  global  economy characterised by slowing global trade. Recognising the key role exports play in improving the  resilience  of  the  external  sector,  from  a  medium  to  long-term  perspective,  various export  promotion measures are being considered/implemented. These measures would nurture  the  inherent  comparative  advantage  that  Indian  exports  embody.  In  addition, while National Logistics Policy would ease the domestic frictions to encourage Indian exports by reducing the cost of internal logistics, the latest Free Trade Agreements, such as with UAE and Australia, would address the external frictions by creating opportunities for  exports  at  concessional  tariffs  and  non-tariff  barriers.  Thus,  the  whole  ecosystem would evolve in an export-friendly manner over time.
+
+Apart  from  the  elevated  crude  oil  prices,  the  revival  of  economic  activity  contributed to  an  increase  in  imports.  Petroleum,  crude  &amp;  products;  electronic  goods;  coal,  coke &amp; briquettes, etc.; machinery, electrical &amp; non-electrical and gold were among the top import items. While the continued softening of the global commodity price outlook would assist  moderate  imports  going  forward,  non-gold,  non-oil  imports  may  not  decelerate significantly.  Further,  efforts  are  underway  to  promote  international  trade  settlement in Indian Rupees. Once these initiatives gain traction, dependence on foreign currency would potentially reduce, making the economy less vulnerable to external shocks.
+
+Balance of Payments (BoP) encountered pressures during the year under review. While the impact of a sharp rise in oil prices was discernible in the widening of the Current Account Deficit (CAD), notwithstanding the cushion provided by the surplus on Invisibles (services,  transfer,  and  income),  policy  tightening  by  the  US  Federal  Reserve  and  the strengthening of the US dollar led to Foreign Portfolio Investment (FPI) outflows. As a result, the surplus of the capital account was lower than the CAD leading to a depletion of forex reserves on a BoP basis. However, going forward, the expected easing of crude oil
+
+prices, the resilience of net services exports and buoyant inward remittances would result in lower CAD during the remainder of FY23 and is expected to be within sustainable limits.
+
+The fortified shock absorbers of India's external sector are in place to cushion the global headwinds be it the formidable forex reserves, sustainable external debt indicators, or market-determined exchange rate. While forex reserves as of the end December 2022 stood at US$ 562.72 billion, accounting for 9.3 months of imports, the ratio of external debt to GDP is at a comfortable level of 19.2 per cent as of end-September 2022.
+
+##

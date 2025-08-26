@@ -1,0 +1,61 @@
+# Air Pollution
+
+air pollution. A promising solution gaining traction is the concept of vertical gardens, also called living walls or vertical greenery systems  (VGS).  These  systems  incorporate  vegetation  into  vertical  structures,  effectively addressing  these  issues.  By  transforming  urban  facades  into  vibrant  green  landscapes, vertical gardens enhance the aesthetic appeal of buildings and contribute to environmental sustainability-improving thermal performance, sequestering carbon, and fostering biodiversity in densely populated cities. (Zaid et al., 2018 10 ; Harbiankova &amp; Manso, 2025) 11 .
+
+The practical application of this innovation is the Income Tax Department's initiative to create vertical gardens using over seven lakh waste plastic bottles. This project recycles waste and adorns urban structures across 17 states, showcasing the environmental and aesthetic enhancements vertical gardens can offer. 12
+
+Looking ahead, India's regulatory framework is continuously evolving, exemplified by the introduction  of  the  Energy  Conservation  and  Sustainable  Building  Code  (ECSBC)  2024, which advocates energy-efficient and environmentally sustainable building practices. While this code facilitates the adoption of sustainable designs, there remains an opportunity for further enhancements, such as explicit guidelines for vertical gardens. These additions could significantly improve urban air quality and mitigate heat islands. Such policy advancements would align India with global best practices observed in Singapore, Japan, and the European Union, where vertical greening has become integral to urban development. (Bustami et al., 2018) 13 .
+
+The future  of  urban  planning  in  India  stands  to  gain  immensely  from  embedding  these ecological  considerations  into  building  policies  and  approval  processes,  making  vertical gardens  a  standard  feature  in  the  architectural  landscape.  This  shift  would  ultimately contribute to healthier and more sustainable urban environments.
+
+10.16 The Smart City Mission 14   adopts  a  people-centric  approach  anchored  around liveability,  economic  ability  and  sustainability.  The  Urban  River  Management  Plan (URMP)  aims  to  assist  river  cities  in  reviving  and  maintaining  rivers  sustainably. Launched in 2021, the River Cities Alliance (RCA), a partnership between the Ministry of Jal Shakti and MoHUA, focuses on sustainable river-centric development in more than 145 member cities.
+
+10  Zaid, S. M., Perisamy, E., Hussein, H., Myeda, N. E., &amp; Zainon, N. (2018). Vertical Greenery System in urban tropical climate and its carbon sequestration potential: A review. Ecological Indicators, 91, 57-70. https://doi. org/10.1016/j.ecolind.2018.03.086.
+
+11    Harbiankova,  A.,  &amp;  Manso,  M.  (2025).  Integrating  Green  Roofs  and  Green  Walls  to  Enhance  Buildings Thermal  performance:  A  literature  review.  Building  and  Environment,  112524.  https://doi.org/10.1016/j. buildenv.2025.112524.
+
+12     Press  Information Bureau. (2022, October 31). Creation of vertical gardens by the Income Tax Department by using waste plastic bottles. Retrieved January  21, 2025, from https://pib.gov.in/PressReleasePage.aspx?PRID=1872353.
+
+13    Bustami, R. A., Belusko, M., Ward, J., &amp; Beecham, S. (2018). Vertical greenery systems: A systematic review of research trends. Building and Environment, 146, 226-237. https://doi.org/10.1016/j.buildenv.2018.09.045.
+
+14    UN-Habitat.  MoHUA,  GoI.  (2023).  Smart  Cities  Mission,  India:  Localizing  Sustainable  Development  Goals. Retrieved December 17, 2024, from https://smartcities.gov.in/sites/default/files/2023-09/SCM\_UN\_Report%20.pdf.
+
+## Adaptation in coastal regions
+
+10.17 India's 7,600 km long coastline and many islands make adaptation in the coastal region particularly important. The coastal regions face extreme climate events (such as heavy rain, severe storms, high tide flooding, etc.), and slow onset events, such as sealevel rise, bring the risk of permanent inundation. Adaptation action in coastal regions can include planting and sustaining mangroves, building sea walls and artificial reefs, beach nourishment, dune planting, sand bypassing, etc.
+
+## BOX-X.2  Mangrove Initiative for Shoreline Habitats &amp; Tangible Incomes (MISHTI)
+
+The  'Mangrove  Initiative  for  Shoreline  Habitats  &amp;  Tangible  Incomes  (MISHTI)'  was introduced in the Union Budget for 2023-24. It aims to promote and conserve mangroves, which  are  unique  natural  ecosystems  known  for  their  high  biological  productivity  and carbon sequestration capabilities. Additionally, mangroves serve as a protective barrier for coastlines against cyclones, typhoons, and tidal waves.
+
+The objective is to restore mangrove forests through reforestation and afforestation measures along India's coast. This will be achieved by adopting the best practices established in India and worldwide, all within a realistic timeline. The aim is to enhance sustainable livelihood options  for  coastal  communities  and  improve  the  support  and  services  the  mangrove ecosystem provides to the community and the economy.
+
+The programme will cover approximately 540 square kilometres across nine coastal states and four UTs over five years (2023-2028). It will create approximately 22.8 million mandays of employment with an estimated carbon sink of 4.5 million tons of carbon, creating potential areas for nature tourism and livelihood potential for local communities.
+
+The programme is being implemented in convergence mode, with funding from the State Compensatory Afforestation Fund Management and Planning Authority (CAMPA), National CAMPA,  Mahatma  Gandhi  National  Rural  Employment  Guarantee  Act  (MGNREGA) and  other  sources.  State  forest  departments  are  the  primary  implementing  agencies  of the programme. Gap funding to support the core and support activities under MISHTI is through National-CAMPA.
+
+As  of  30  November  2024,  six  states  and  UTs:  Andhra  Pradesh,  Gujarat,  Odisha,  West Bengal, Kerala, and Puducherry have been allocated funds under the program. This funding is  intended  to  treat  3,836  hectares  under  the  National  CAMPA  program,  based  on  the annual plans submitted by these states for their first-year activities. Additionally, through collaboration with other initiatives, including State CAMPA, the Mahatma Gandhi National Rural Employment Guarantee Scheme (MGNREGS), and various state-specific programs, a total of 22,560.34 hectares of degraded mangrove areas have been brought under restoration across 13 states and UTs.
+
+Source: Based on inputs from the Green India Mission Directorate, MoEFCC.
+
+10.18  The government of India has undertaken several steps to protect and enhance mangrove  forests  in  coastal  states/union  territories  (UTs)  through  promotional and  regulatory  measures. 15   Promotional  measures  are  implemented  through  the 'Conservation  and  Management  of  Mangroves  and  Coral  Reefs'  scheme  under  the National Coastal Mission Programme. Regulatory measures are implemented through the  Coastal  Regulation  Zone  (CRZ)  Notification  (2019)  under  the  Environment (Protection)  Act,  1986;  the  Wild  Life  (Protection)  Act,  1972;  the  Indian  Forest  Act, 1927; the Biological Diversity Act, 2002; and rules under these acts as amended from time to time.
+
+## BOX-X.3  Enhancing climate resilience of India's coastal communities
+
+The 'Enhancing Climate Resilience of India's Coastal Communities' project aims to enhance the resilience of the lives and livelihoods of the most vulnerable populations, particularly women, and to build resilience to climate change and extreme events, using an ecosystemcentred and community-based approach. The project is being implemented across India's coastal states and UTs.
+
+As of 31 December 2024, approximately 4955.01 hectares of ecosystem has been restored which includes 3259.11 hectares of mangroves and 1695.9 hectares of degraded watershed. It is estimated that approximately 40,617.8 tonnes CO2 eq. have been sequestered under this  project.  An  assessment  of  the  coastal  zone's  cumulative  vulnerability  is  proposed  to facilitate  appropriate  adaptive  measures.  Other  proposed  activities  under  the  project include promoting/demonstrating alternative climate-resilient livelihood options such as establishing mud crab hatcheries, promoting climate-resilient agriculture practices - and systematic rice intensification (SRI) technology for paddy cultivation.
+
+Source: Based on inputs received from MoEFCC.
+
+## Adaptation action for water management
+
+10.19 The Jal Shakti Abhiyan was initiated in 2019 to address the acute water stress in various parts of the country. The recent Jal Shakti Abhiyan: Catch the Rain - 2024, themed  "Nari  Shakti  se  Jal  Shakti'  (9  March  to  30  November  2024),  was  focused on  women's  role  in  water  conservation  through  five  interventions  like  rainwater harvesting,  water  body  mapping,  intensive  afforestation,  and  awareness  generation. The National Aquifer Mapping Project (NAQUIM) has been completed across 25 lakh square kilometres, offering water conservation plans and recharge structures to state agencies for implementation.
+
+15    Press Information Bureau. (2024, February 5). Schemes for Restoration of Mangrove Forests. Retrieved December 16, 2024, from https://www.pib.gov.in/PressReleasePage.aspx?PRID=2002625.
+
+10.20  The Bhu-Neer portal, launched in September 2024, is a Central Ground Water Authority  portal  for  managing  and  regulating  groundwater  resources,  promoting transparency,  efficiency  and  sustainability  in  groundwater  usage.  The  FloodWatch India  app  (Version  2.0)  launched  by  the  Central  Water  Commission  provides  realtime flood forecasts and detailed data from 592 flood monitoring stations, along with reservoir storage insights to assist flood management.
+
+10.21 Several  states  have  undertaken  other  initiatives  to  manage  water  resources. The 'Jal Sanchay Jan Bhagidari' initiative, launched in Gujarat in September 2024, focuses  on  constructing  24,800  rainwater  harvesting  structures  across  the  state  to enhance rainwater harvesting and ensure long-term water sustainability. The Smart Laboratory  on  Clean  Rivers  (SLCR),  established  under  the  India-Denmark  Green Strategic  Partnership  in  Varanasi,  aims  to  rejuvenate  the  Varuna  River  through sustainable practices and collaboration among government bodies, institutions, and communities.  The  Mawrah  Multipurpose  Reservoir  Project  of  Meghalaya  in  East Khasi  Hills  district  aims  to  conserve  rainwater,  recharge  groundwater,  rejuvenate springs,  restore  the  catchment  area  and  rehabilitate  mine-spoilt  land.  The  project serves as a model for integrated water resource management and community-driven environmental conservation efforts. The Dhamtari district of Chhattisgarh launched the Jal Jagar campaign focused on rainwater harvesting, rooftop water collection and wastewater management by engaging the community, especially women. It aims to transfer technology to field functionaries and empower communities to make decisions based on scientific data, and financial prudence. Jal Jagar activities were undertaken across  370  gram  panchayats  of  Chhattisgarh,  involving  the  participation  of  80,389 women and 61,580 men.
+
+##

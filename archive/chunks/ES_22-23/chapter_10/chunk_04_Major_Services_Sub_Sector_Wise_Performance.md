@@ -1,0 +1,236 @@
+# Major Services: Sub-Sector-Wise Performance
+
+Major Services: Sub-Sector-Wise Performance
+
+## tourism and hotel industry
+
+10.10 The post-pandemic scenario of global tourism is gradually converging to the pre-pandemic one. With travel restrictions and health concerns subsiding, tourism has become a vital driver of a strong upswing in contact-intensive activity. As per the World Tourism Barometer of the United Nations  World  Tourism  Organisation  (November  2022),  international  tourism  showed  robust performance in January-September 2022, with international tourist arrivals reaching 63 per cent of the pre-pandemic level in the first nine months of 2022, boosted by strong pent-up demand, improved confidence levels and the lifting of restrictions. The pace of recovery would have been even stronger but for the lingering global uncertainties and higher inflation in advanced nations.
+
+1 Until October 2022
+
+2 Sigma Report (No 4/2022) by Swiss Re (Page no 15)
+
+- 10.11 The Covid-19 pandemic affected the fortunes of the hospitality and tourism industries in recent years. The hotel industry closed the year 2020 with an average hotel occupancy rate of 3336 per cent, reflecting a decline of 32 per cent 3 . In the wake of falling demand and occupancies, hotels reduced tariffs significantly to attract business, thus, pulling down Revenue per Available Room (RevPAR) to a dismal low of ₹1,500 - ₹1,800, a decline of around 57-59 per cent. However, hotel occupancy began a strong recovery in the third quarter of 2021 4 , driven by domestic leisure travel growth, partial resumption of business travel in the country, as well as wedding and social events. Small-to-medium-sized domestic MICE (Meetings, Incentives, Conference, Exhibitions) events also made a comeback, fuelling demand for hotels. The sector ended the year with an average occupancy of 42-45 per cent, up 10-13 percentage points over the previous year.
+- 10.12 The reintroduction of travel restrictions across States at the beginning of 2022 due to the emergence of a new Covid-19 strain, Omicron, again threw the Indian hospitality sector into an upheaval. Other leisure and business travel plans were put on hold, barring critical and urgent travel as people exercised caution. The low demand resulted in an average hotel occupancy rate of 50 per cent during January-March 2022. However, due to the lower severity and hospitalisation rate of the Omicron variant, travel demand in India began its return to normalcy in March 2022. Aiding the revival of travel demand was the high vaccination rate in the country, as also effective pandemic management that ensured speed in imposing as well as the lifting of mobility restrictions closely tracking the spread and subsiding of the virus. After a two-year hiatus, India also resumed all  regular  international  flights  at  full  capacity  as  2021-22  came  to  a  close.  Consequently,  the entire aircraft movement (cargo aircraft + passenger aircraft) in the country increased by 52.9 per cent YoY between April and November 2022, reaching 93.9 per cent of the movement recorded between April and November 2019. Presently, the hotel industry is thriving with improvements in occupancy rate, an increase in Average Room Rate (ARR) and a rise in RevPAR 5 . The occupancy rate in November 2022 stood at around 68-70 per cent, completely recovering the average prepandemic level of 2019-20.
+- 10.13 Tourism industry was another sector that was adversely impacted by the pandemic. A significant decline in Foreign Tourist Arrivals in India was witnessed in FY21. As per a study 6 conducted by the Ministry of Tourism in collaboration with the National Council of Applied and Economic Research (NCAER), Tourism Direct Gross Value Added (TDGVA) witnessed a decline of 42.8 per cent in Q1, 15.5 per cent in Q2, and 1.1 per cent in  Q3 of FY21 due to the overall economic slowdown in FY21. Tourism being a contact-intensive sector, employment in the sector was impacted due to the lockdown, and it was a global phenomenon. 14.5 million direct jobs in Q1, 5.2 million in Q2, and 1.8 million in Q3 are expected to have been lost compared to an estimated 34.8 million direct jobs in the tourism sector in the pre-pandemic period of FY20.
+- 10.14 However, with the waning of the pandemic, India's tourism sector is also showing signs of revival. Foreign tourist arrivals in India in FY23 have been growing month-on-month with the resumption of scheduled international flights and the easing of Covid-19 regulations. Yet, the arrivals are below the pre-pandemic level. Profitability ratios of the tourism industry further
+
+3 https://api.anarock.com/uploads/research/HVS%20ANAROCK%20Indian%20Hospitality%20Overview%202020.pdf
+
+4 https://api.anarock.com/uploads/research/HVS%20ANAROCK%20India%20Hotel%20Industry%20Overview%202021%20E-book.pdf
+
+5 https://api.anarock.com/uploads/research/HVS%20ANAROCK\_H2O\_DEC%2022.pdf
+
+6 https://tourism.gov.in/sites/default /files/2021-11/Tourism-Corona%20Report\_Print%20version.pdf
+
+point towards a strong rebound in the June 2022 quarter. In addition, with the resumption of corporate travel and flexible work arrangements, the rebound in MICE tourism and bleisure 7 travel  is  re-gaining  popularity  in  India.  With  infrastructure  amenities  constantly  improving, India is increasingly the preferred destination for MICE events.
+
+figure X.6: hotel occupancy rate near the pre-pandemic level
+
+figure X.7: improvement in Average Daily rate (ADr) and revenue per Available room (revPAr)
+
+<!-- image -->
+
+<!-- image -->
+
+Source: Anarock
+
+10.15 India is ranked 10th out of the top 46 countries in the World in the Medical Tourism Index FY21 released by Medical Tourism Association. The way India has handled the Covid situation and also prepared itself for future shocks, trust in India's medical infrastructure has improved. This will give a big push to Medical Value Tourism (MVT) which is expected to grow to US$ 13 billion by 2022 8 . Several factors, such as the presence of world-class hospitals and skilled medical professionals, superior quality healthcare, low treatment costs compared with other countries, credibility in alternative systems of medicine, and increased global demand for wellness services like Yoga and meditation, make India a popular medical tourism destination.
+
+figure X.8: foreign tourist Arrivals (ftAs) in india are catching-up with the pre-pandemic levels
+
+<!-- image -->
+
+Source: Ministry of Tourism
+
+7 Bleisure is a term used to describe travel that combines both business and leisure
+
+8 https://www.niti.gov.in/sites/default/files/2022-02/AIM-NITI-IPE-whitepaper-on-Blended-Financing.pdf
+
+10.16 India has also attempted to improve its attractiveness as a destination for specialised tourism. Recent initiatives like the Ayush visa for tourists who desire to visit India for medical treatment, the launch of the National Strategy for Sustainable Tourism &amp; Responsible Traveller Campaign, the introduction of the Swadesh Darshan 2.0 scheme, and Heal in India can assist in capturing a larger share of the global medical tourism market. Going forward, the G20 presidency presents a unique opportunity for the Indian travel and tourism industry to take advantage of this chance to promote India as a "major tourism destination", which is likely to positively impact passenger travel and hotel occupancy rate.
+
+## Box X.2: Making india an attractive tourist destination
+
+The Ministry of Tourism has undertaken various measures to boost the Tourism sector, which include: niDhi: The  Ministry  of  Tourism,  with  the  help  of  State  Governments  and  Union  Territory Administrations, is making efforts to register accommodation units in the country in the Ministry's portal  National  Integrated  Database  of  Hospitality  Industry  (NIDHI).  The  comprehensive  national database will help in creating policies and strategies for the promotion and development of tourism at various destinations.
+
+SAAthi: System for Assessment, Awareness, and Training for Hospitality Industry (SAATHI) was launched in association with the Quality Council of India to restrict any further transmission of the virus while providing accommodation and other services post-lockdown. The objective of the scheme is to sensitise the industry on the Covid-19 regulations of the government and instil confidence amongst the staff and guests that the hospitality unit has exhibited intent towards ensuring safety and hygiene at the workplace.
+
+rcS uDAn3: Better  connectivity  is  the  critical  component  for  flourishing  tourism  in  any  region. With this objective, the Regional Connectivity Scheme (RCS- UDAN) was launched by the Ministry of  Civil Aviation to facilitate/stimulate regional air connectivity by making it affordable. The total number of Tourism RCS air routes has increased to 59, out of which 51 are presently operational. An amount of ₹104.19 core has already been reimbursed to the Airport Authority of India in the form of Viability Gap Funding (VGF) during FY21 and FY22.
+
+LgScAtSS: Under  the  Loan  Guarantee  Scheme  for  Covid  Affected  Tourism  Service  Sector (LGSCATSS)  administered  through  the  National  Credit  Guarantee  Trustee  Company  (NCGTC), working capital/personal loans are provided to households that were impacted due to the Covid-19 pandemic to discharge liabilities and restart businesses. The scheme was launched to cover 10,700 Regional Level Tourist Guides (recognised by the Ministry of Tourism), Tourist Guides (recognised by the State Governments/ UT Administration), and about 1,000 Travel and Tourism Stakeholders (TTS) (recognised by the Ministry of Tourism).
+
+To boost the tourism sector, the first 5 lakh Tourists Visa were announced by the Government for tourists of foreign nationals visiting India. The scheme was applicable until 31st March 2022 or until 5 lakh free visas were issued, whichever is earlier. The benefit was available only once per tourist.
+
+## real estate
+
+10.17 The onset of the Covid-19 pandemic accentuated a slowdown in every economic space, and the real estate sector was no different. Project delays, deferment of big-ticket purchases, stagnation of property prices, and scarce funding for developers induced slackening of demand. The situation was further aggravated by the associated lockdown and migration of workforces
+
+involved in the sector to their natives. The work-from-home model had an impact on the demand for office space requirements by the corporates.
+
+10.18 The Pandemic, however, brought about a change in individual home buyers' sentiment in favour of owning a house. With the easing of curbs, there was an increase in interest in the residential  housing sector and more so in the readily available and affordable segment. The hybrid work mode with the privileges of working from anywhere encouraged first-time home buyers to move away from the conventional metros, and this brought about a pent-up demand in the residential real estate markets of Tier II and III cities. Improvement in affordability in response to measures taken by the government during the pandemic, such as lower interest rates, reduction in circle rates, and cut in stamp duties on transaction of sale/purchase of immovable property, the extension of the Real Estate Regulation Act (RERA) also played a significant role in post-pandemic rebound of Real Estate sector.
+
+## Box X.3: Measures taken by the government to boost the housing sector
+
+The various policy intervention by the government, including 'Housing for  All',  Aatmanirbhar Bharat, etc., provided an impetus to the Housing Finance sector. The permission by RBI to lending institutions to grant a total moratorium of 6 (3+3) months in case of payment failure due between 1st March 2020 to 31st August 2020, infusion of ₹75,000 crore for Non-Banking Financial Corporations (NBFCs), Housing Finance Companies (HFCs) and Micro Finance Institutions (MFIs), among others, have also contributed to the revival of the real estate sector.
+
+The  interest  subvention  under  Pradhan  Mantri  Awas  Yojana-Credit  Linked  Subsidy  Scheme Urban)  (PMAY-CLSS  (U))  has  been  the  demand-side  driver  in  the  residential  housing  space. This, along with streamlined policies to increase the credit flow, has helped in the creation of a consumer-friendly ecosystem for housing finance. Since its inception, the government has released a subsidy amounting to ₹ 53,548 crore benefitting approximately 22.87 lakh households. Further, the Affordable Housing Fund (AHF) created sufficient liquidity in the sector for viable growth. Under the Affordable Housing Fund, National Housing Bank has disbursed ₹ 34,588 crore for 3.9 lakh dwelling units since its inception. Under the Special Liquidity Facility of RBI, National Housing Bank (NHB) disbursed ₹13,917 crore and ₹8,112 crore during the 1st and 2nd waves of the pandemic, respectively, to ensure seamless business as usual in the sector. Including the above, National Housing bank has provided Liquidity support of ₹ 88,400 crore through various refinance schemes since the onset of the Pandemic.
+
+The concessional liquidity provided the sector with the much-needed liquidity influx for keeping the sector resilient. The Co-lending model has been put forward with the aim to leverage the liquidity base of the banks and reach of HFCs to deliver formal housing credit to the bottom of the pyramid. The Smart City Project, with a plan to build 100 smart cities across India, was aimed at improving the overall opportunity for the real estate sector and encouraging investments. The overall affordability in the residential real estate sector was high during the post-pandemic period, as reflected by a decline in the weighted average annual interest rate on home loans from 8.6 per cent during January-March 2020 to 7.3 per cent during January-March 2022 for Scheduled Commercial Banks. Also, with a consistent thrust on affordable housing and a series of measures taken by the Government and the Regulators, the sector bounced back, registering a more robust growth with consistent improvement in sales as well as new launches.
+
+10.19 The  geopolitical  tensions  between  Russia  and  Ukraine  have  again  raised  concerns regarding disruption in the global supply chain and its consequent impact on the real estate sector. With a volatile international market, the surge in prices of construction materials has pushed developers to halt ongoing construction. The Wholesale Price Index for Cement, Lime &amp; Plaster has increased from 127.1 in December 2021 to 137.6 during December 2022, indicating an uptick in the input cost for construction. The Russia-Ukraine conflict has further affected the supply chain resulting in price escalations of steel, cement, finishing materials, imported chemicals, and fuel, thereby increasing the overall construction cost and resulting in a rise in housing prices.
+
+10.20 Notwithstanding the current impediments, such as rising interest rates on home loans and an increase in property prices, the sector has witnessed resilient growth in the current year, with housing sales and the launch of new houses in Q2 of FY23 surpassing the pre-pandemic level of Q2 of FY20. There is evidence of a significant decline in the inventory overhang 9 dipping to 33 months during Q3 of FY23 from 42 months last year. The unsold inventory stood at 8.5 lakh at the end of 2022 with 80 per cent of the stocks under various stages of construction. This comes on the back of sustained sales momentum as the sector steadily recovers from the impact of the pandemic. Going forward, the recent government measures, such as the reduction in import duties on steel products, iron ore, and steel intermediaries, will cool off the construction cost and help to check the rise in housing prices.
+
+figure X.9: Sustained growth in housing sales and launches, surpassing the pre-pandemic level
+
+figure X.10: the decline in inventory overhang
+
+<!-- image -->
+
+<!-- image -->
+
+Source: Prop Tiger
+
+10.21 According to JLL's 2022 Global Real Estate Transparency Index 10 11 , India's real estate market transparency is among the top ten most improved markets globally, with its composite
+
+9 Inventory overhang refers to the estimated time period developers are likely to take to sell off the unsold inventory, based on the current sales velocity.
+
+10 The Global Real Estate Transparency Index is based on a combination of quantitative market data and survey results across 94 countries and 156 city markets. The Index scores markets on a scale of 1 to 5 based on their performance in the following indicators-Performance measurement, Market fundamentals, Governance of Listed Vehicles, Regulatory and Legal, Transaction Process and Sustainability
+
+11 https://www.us.jll.com/content/dam/jll-com/documents/pdf/research/global/jll-global-real-estate-transparency-index-2022.pdf. A lower value represents a more transparent market, and a higher value represents that the market is opaque
+
+transparency score improving from 2.82 in 2020 to 2.73 in 2022, driven by increased institutional investment  and  the  growing  number  of  Real  Estate  Investment  Trusts  (REITs).  Regulatory initiatives  such  as  the  Model  Tenancy Act  and  digitisation  of  land  registries  &amp;  market  data through the Dharani and Maha RERA platforms have helped to broaden the market and bring more formalisation to the sector.
+
+figure X.11: top transparency improvers in global real estate transparency index between 2020 and 2022
+
+<!-- image -->
+
+Source: JLL, LaSalle 2022
+
+## it-BPM industry
+
+10.22 Covid-19 has accelerated the pace of digital transformation across most of India's enduser  industries,  with  companies  witnessing  a  rise  in  investment,  more  complex  technology convergence use-cases, and the prioritisation of enterprise-scale data and cloud strategy. With rapid digitisation across the value chain, end-user industries are primed to adopt holistic and high-end enterprise performance solutions in an evolutionary journey over the near to long term.
+
+10.23 According to NASSCOM's report 12 , India's IT-BPM industry has been exceptionally resilient during the pandemic, driven by increased technology spending, accelerated technology adoption, and digital transformation. This is evident in the swift and wide-scale remote working adoption of one of the world's largest IT workforces. Capitalising on the learnings from the first wave, the industry's response to the second wave has moved beyond addressing the immediate challenges to significantly enhancing capabilities to become a future-ready organisation. An obsession with customer-centricity, domain-specific solutions, a digital-first  talent  pool,  and a laser-sharp focus on creating future-ready solutions have been the key pillars that enabled technology firms to respond proactively to emerging customer demand throughout the pandemic.
+
+10.24 IT-BPM revenues registered YoY growth of 15.5 per cent during FY22 compared to 2.1 per cent growth in FY21, with all sub-sectors showing double-digit revenue growth. Within the ITBPM sector, IT services constitute the majority share (greater than 51 per cent). Exports (including hardware) witnessed a growth of 17.2 per cent in FY22 compared to 1.9 per cent growth in FY21, owing to the increased reliance of businesses on technology, the roll-out of cost-reducing deals 13
+
+12 https://nasscom.in/knowledge-center/publications/technology-sector-india-2022-strategic-review
+
+13 Cost-reducing deals refer to business deals which result in a decline in the company's expenses to maximise profits. It involves identifying and removing expenditures that do not provide added value while also optimizing processes to improve efficiency.
+
+and the use of core operations. Growth in exports was seen across all the major markets, with the USA, Europe (excl. UK), and the UK continues to be the major markets. Many firms are now focusing on new markets, more prominently the Middle East and Latin America leading to market diversification which will increase the IT-BPM sector's resilience in the coming years. The industry recorded nearly 10 per cent estimated growth in direct employee pool in FY22 with a highest-ever net addition to its employee base. The domestic technology industry is estimated to grow at 10 per cent on account of enterprise digital acceleration and transformation.
+
+figure X.12: geographic distribution of it-BPM exports (excluding hardware)
+
+figure X.13: Segment-wise break-up of revenues in fY22
+
+<!-- image -->
+
+Source: NASSCOM
+
+Note: APAC stands for Asia Pacific Region
+
+10.25 The industry undertook over 290 Mergers and Acquisitions in FY22, primarily focusing on  digital  services.  India's  massive  digital  infrastructure  played  a  crucial  role  in  driving technology  adoption,  with  public  digital  platforms  becoming  the  bedrock  of  India's  digital advantage.  However, NASSCOM's quarterly review in August 2022 indicates that technology spending during FY23 is likely to see a relatively muted growth dampened by an expected global slowdown.
+
+## Box X.4: Major growth drivers in the it-BPM industry
+
+## · increasing penetration of digital tech and 'Made in india digital-first solutions for the world.'
+
+In India, the proportion of digital revenue as a percentage of total revenue has increased from around 26-28 per cent in FY20 to 30-32 per cent in FY22. In recent years, India has emerged as a global powerhouse for Engineering R&amp;D (ER&amp;D) and innovation and is steadfastly committed to ushering future growth and innovation for global enterprises. Many Global Competency Centres (GCCs) have been incorporated in India in the last six years. GCCs in India are increasingly performing complex R&amp;D functions and are leveraging futuristic technologies and developing digitally innovative products as well building either the largest or the second-largest ER&amp;D hubs in India. Patent filing has increased drastically, with over 138,000 patents filed between 2015- 21, with over 85,000 filed in emerging technologies.
+
+<!-- image -->
+
+## · Margin defence through operational excellence
+
+Margin defence has been the critical focus amidst supply challenges as growing demand for tech talent puts pressure on margins with a limited opportunity to pass on the cost increase. Key margin levers include increased capacity utilisation, a higher share of offshore revenue, a declining share of travel and facility costs, and operating leverage.
+
+## · india is a digital talent nation
+
+India has emerged as a digital talent nation with a high share of the working population and growing undergraduate enrolments. Employment across technology companies witnessed an increase, with an uptrend in the digital talent base. New talent hiring from tier-2 cities, with  a  focus  on  reskilling  non-tech  talent,  has  led  India  to  evolve  as  a  significant  subcontractor base, with more women getting back into the workforce.
+
+## · Leading in hybrid work models
+
+Indian  tech  industry  led  the  adoption  of  hybrid  work  models.  The  technology  used  for augmenting employee experience and integrating tech solutions in aspects such as employee onboarding,  communication, collaboration,  and  employee  well-being  &amp;  enablement  has been the major driver. The HR functions at organisations are undergoing a transformation journey; the organisations are moving forward with an objective to deliver cost savings while  expanding  services  and  improving  experiences  by  using  a  combination  of  labour arbitrage, optimised workforce models, elimination of low-value vendor spends, increasing talent liquidity and reducing people space cost.
+
+## e-commerce
+
+10.26 On  the  same  lines  as  the  IT-BPM  sector,  the  E-Commerce  sector  also  witnessed  a renewed push and a sharp increase in penetration in the aftermath of the pandemic. Lockdowns and mobility restrictions disrupted consumer behaviour and gave an impetus to online shopping. The  Government's  push  to  boost  the  digital  economy,  growing  internet  penetration,  rise  in smartphone  adoption,  innovation  in  mobile  technologies,  and  increased  adoption  of  digital payments further accelerated the adoption and growth of e-commerce. According to the Global Payments Report by Worldpay FIS, India's e-commerce market is projected to post impressive gains and grow at 18 per cent annually through 2025.
+
+10.27 The expansion of e-commerce to newer segments like grocery, fresh-to-home fruits and vegetables, and general merchandise has contributed to the expansion of the customer base beyond traditional buyers.  And as per the latest report 'How India Shops Online 2022' by Bain &amp; Company, emerging categories - fashion, grocery, general merchandise - would shore up e-commerce growth in India and would capture nearly two-thirds of the Indian e-commerce market by 2027.
+
+10.28 There has also been an increase in the adoption of digital solutions by Micro, Small and Medium Enterprises (MSMEs) like e-commerce and e-procurement, realising the prospects of increased revenues and margins, improved market reach, access to new markets, and customer acquisition. A recent study by IIFT analysing the impact of the interaction between MSMEs and e-commerce found that in recent years, MSMEs that adopted digital solutions fared far better than offline MSMEs, assisting them in accessing a large marketplace without incurring huge costs. The E-commerce platform has not only empowered small businesses by removing geographical barriers and providing a large customer base but also allowed them to deal directly
+
+with manufacturers and suppliers, thus reducing the cost of procurement. This increased access to suppliers significantly helps small business owners scale up their businesses at a much lower investment level, thus boosting their cost structure.
+
+10.29 Further,  there  has  been  a  phenomenal  geographical  expansion  with  the  growth  of e-commerce  business  in  rural  India  driven  by  increased  smartphone  penetration,  internet adoption,  and  increased  purchasing  power  of  rural  customers.  In  addition,  fiscal  support during the pandemic helped boost e-commerce penetration in rural areas, likely by increasing consumption, which could mostly be done online in the presence of pandemic restrictions. A vast  untapped  rural  market  holds  the  potential  for  strengthening  consumption  growth;  new E-commerce companies like Trell, Meesho, and shop 101, are expanding and gaining popularity in Tier 3 and 4 cities. The E-commerce industry is focusing on local solutions to penetrate rural areas by strengthening the network of rural distributors and retailers and using local distribution centres as Pick Up Drop Off points, enabling logistics companies to serve rural consumers.
+
+<!-- image -->
+
+figure X.14: fashion, grocery, and general merchandise to capture nearly two-thirds of the indian e-commerce market by 2027
+
+<!-- image -->
+
+Source: How India Shops Online 2022, Bain and Company
+
+10.30 In  terms  of  order  volume  and  valuation,  post-Covid-19  years  have  been  the  most successful years for Indian E-commerce start-ups. As per the Retail and E-commerce Trends report  released  by  Unicommerce  and  Wazir  Advisors 14 ,  overall  e-commerce  order  volume witnessed a growth of 69.4 per cent YoY in FY22, driven mainly by consumers from tier-II and tier-III cities in the last two years. The shoppers from tier-II and tier-III cities accounted for over 61.3 per cent of the overall market share in FY22, increasing from 53.8 per cent in FY21. The order volume from tier-II and tier-III cities grew at almost double the pace of tier-I cities, with 92.2 per cent and 85.2 per cent YoY growth, respectively, in FY22. In contrast, tier-I cities indicated a comparatively slower order volume growth rate of 47.2 per cent.
+
+10.31 The  Government  E-Marketplace  (GeM)  has  also  witnessed  tremendous  growth  in Gross Merchandise Value (GMV) and is catching up with E-commerce giants like Amazon and
+
+14 https://retail.economictimes.india times.com/files/cp/1294/cdoc-1661333692-ECOM\_july\_7\_5in%20x%208in\_Correction.pdf
+
+Flipkart. GeM attained an annual procurement of ₹1 lakh crore within FY22, representing a 160 per cent growth compared to last FY. GeM has taken a host of steps to onboard products of Self-Help Groups (SHGs), tribal communities, artisans, weavers, and MSMEs. 57 per cent of the total business on GeM has come through the MSME units, and female entrepreneurs have contributed over 6 per cent.
+
+10.32 Initiatives taken by the Government for the promotion of e-Commerce, including the Digital India program, Unified Payment Interface (UPI), GeM, etc., have been major contributory factors to the growth of E-commerce in recent years. Various initiatives have also been taken to provide an opportunity to small retailers, manufacturers, and Self-Help Groups for greater outreach. One District - One Product (ODOP) initiative has been facilitating the onboarding of  sellers  of  identified  products  on  e-Commerce  platforms  to  provide  greater  visibility  for small  businesses  from  the  rural  sector.  E-marketplace  www.tribesindia.com  portal  through Tribal Cooperative Marketing Development Federation of India Limited (TRIFED) has been onboarding tribal artisans with their products for online sales, ensuring tribal products find a larger audience in the international market as well.
+
+10.33 The recent initiative of the launch of Open Network for Digital Commerce (ONDC) is also playing a significant role in democratising digital payments, enabling interoperability, and bringing down transaction costs. ONDC provides better market access to sellers and helps bring  the  country's  remotest  corners  into  the  e-Commerce  framework  by  empowering  them with digitisation. Details on the applicability and advantages of ONDC are further discussed in Ch-12 on Physical and Digital Infrastructure: Lifting Potential Growth.
+
+## Digital financial Services
+
+10.34 Digital financial services enabled by emerging technologies and innovative solutions are accelerating financial inclusion, democratising access, and spurring the personalisation of products. With a strong foundation provided by the Jan Dhan-Aadhaar-Mobile (JAM) trinity, UPI, and other regulatory frameworks, the pandemic has aided acceleration in digital adoption and provided a fillip to digital financial services solutions by banks, NBFCs, insurers as well as fintech. The pandemic provided the opportunity for fintech companies to reach the underserved and  provide  cost-effective  financial  services  to  those  at  the  bottom  of  the  pyramid.  While globally, the technological solutions cushioned the reverberations of the pandemic, India took the lead with the fintech adoption rate of 87 per cent, substantially higher than the world average of 64 per cent as per the latest Global FinTech Adoption Index 15 .
+
+10.35 Over the last few years, the number of neobanking platforms and global investments in the neo-banking segment has also risen consistently. Neobanks operate under mainstream finance's umbrella but empower specific services long associated with traditional institutions such  as  banks,  payment  providers,  etc.  Neobanks  operate  entirely  online,  with  no  physical presence apart from office space in the offline world. The growth of these institutions is spurred by the need for on-demand and easier-to-access financial solutions by a young and increasingly digitally savvy demographic. Neobanks have eased availability and provided access to financial services to MSMEs and underbanked customers and areas. The government also, through various
+
+15 https://assets.ey.com/content/dam /ey-sites/ey-com/en\_gl/topics/banking-and-capital-markets/ey-global-fintech-adoption-index.pdf
+
+initiatives, has given a push to digital banking solutions. 75 Digital Banking Units (DBU) across 75 districts announced in Union Budget 2022-23 to take banking solutions to every nook and corner of the country have been launched.
+
+- 10.36 The introduction of CBDC will also significantly boost digital financial services. Issuance of  CBDC in India offers  several  benefits,  which  inter  alia,  include  reduction  in  operational costs involved in physical cash management, fostering financial inclusion, bringing resilience, efficiency, and innovation in the payments system, boosting innovation in cross-border payments space, and providing public with uses that any private virtual currencies can provide, without the associated risks. As of July 2022, there are 105 countries in the process of exploring CBDC, a number that covers 95 per cent of the global GDP. Many countries have already launched the CBDC, while others are in the pilot stage.
+- 10.37 RBI has also recently launched pilots of CBDC in both the Wholesale and Retail segments. Digital Rupee -Wholesale- the pilot in the wholesale segment was launched on 1st November 2022, with the use case being limited to the settlement of secondary market transactions in government securities. Use of Digital Rupee- Wholesale is expected to make the inter-bank market more efficient. The pilot in the retail segment, known as Digital Rupee-Retail kicked off on 1st December 2022, within a closed user group comprising participating customers and merchants. For full operationalisation of CBDC, RBI is gradually expanding the pilots' scope to include more banks, users, and locations based on feedback received during the pilots.
+- 10.38 Digitalising documents has also played a pivotal role in giving further impetus to digital financial services. The digitisation of documents ensures safety, online verification, improved accessibility, and fraud reduction, enhancing use for end customers and the service provider.
+
+## Box X.5: Account Aggregator framework: transforming india's financial Services
+
+Account Aggregator (AA) is a Non-Banking Financial Company (NBFC) engaged in the business of providing the service of retrieving or collecting financial information pertaining to the customer. No financial information of the customer is retrieved, shared or transferred by AA without the explicit consent of the customer. AA transfers data from one financial institution  to  another  based  on  an  individual's  instruction  and  consent.  Registering  with an AA is fully voluntary for consumers. Entities may enrol themselves on AA framework as  Financial  Information  Provider  (FIP)  viz.  banking  company,  non-banking  financial company,  asset management  company,  depository,  depository participant, insurance company, insurance repository, pension fund etc. and as Financial Information User (FIU) which is an entity registered with and regulated by any financial sector regulator. In this direction,  RBI  has  issued  the  Master  Direction  viz  Non-Banking  Financial  Company  Account Aggregator (Reserve Bank) Directions, dated September 02, 2016. At present, RBI has granted a Certificate of Registration to six companies as AA.
+
+Achievements so far
+
+- As on 31st December 2022, 27 Financial Institutions have gone live as FIPs, including all  12  PSBs,  10  Private  Sector  Banks,  1  Small  Finance  Bank,  and  4  Life  Insurance Companies.
+
+- 119  Financial  Institutions  have  gone  live  as  FIUs  viz;  93  RBI  Regulated,  12  SEBI Regulated, 12 IRDAI-regulated entities, and 2 PFRDA-regulated entities.
+- With 23 Banks onboarded to the Account Aggregator framework, more than 1.1 billion bank accounts are eligible to share data on AA. 3.3 million users have linked their accounts on the AA framework out of which 3.28 million users successfully shared data via AA.
+
+RBI has also notified Goods and Services Tax Network as FIP on 23rd November 2022 which will enable digital invoice financing and provide much-needed credit to the MSME sector.
+
+## Box X.6: Dematerialisation of documents: the next wave of digitisation
+
+In line with the objective of the Digital India mission, which seeks to transform India into a digitally empowered nation, National e-Governance Services Limited (NeSL), an Information Utility registered with and regulated by the Insolvency and Bankruptcy Board of India under the aegis of the IBC 2016, introduced the Digital Document Execution (DDE) platform in 2020. This was done at the behest of the Insolvency and Bankruptcy Board of India and with the support of the Department of Financial Services (DFS), Ministry of Finance.
+
+The core principle of the NeSL-DDE platform is to digitise all the steps of the document/ agreement execution journey. These include: -
+
+- Submission of information and document/agreement to be executed on the platform
+- Flexibility to accommodate any agreement/document format
+- Consent-based process
+- Digital payment of stamp duty and affixing of digital e-stamp certificate
+- Verification of the identity of the executants and digital execution using an electronic signature
+- Secure storage transmission and retrieval of the digitally executed document generated using the platform
+
+The NeSL-DDE platform eliminates the need for the physical presence of the executants and the manual process to be carried out for executing documents/agreements. By doing so, the platform generates several benefits, such as lower execution time and cost, a secure system, authorised access, bulk processing, fraud prevention, legal robustness, and evidentiary value. A significant enabler in the journey of digitisation of documents/agreements in the financial sector is the use of the Aadhaar e-Sign, which has made electronic signatures widely available to citizens at a nominal cost.
+
+The  NeSL-DDE  platform  has  garnered  the  support  of  state  governments,  ministries,  and financial institutions. DFS has been encouraging banks to consider adopting DDE for their agreements. Currently, 23 States and Union Territories are available for digital e-stamping on the NeSL DDE platform. 27 banks and NBFCs are using the platform for executing their agreements, and so far, more than 9 lakh transactions have been undertaken. This includes small-ticket consumer lending transactions to large-value corporate lending transactions.
+
+One use case of the NeSL-DDE platform is the electronic bank guarantee (e-BG), which takes away all the issues and challenges associated with the issuance, transfer, and management of physical bank guarantees and brings inefficiencies of time and cost savings. As the adoption of e-BG picks up, the NeSL platform can also function as a central repository of bank guarantees. Recently, the Department of Expenditure has amended the General Financial Rules, 2017, to permit the acceptance of e-BG in the government procurement process.
+
+While  the  initial  use  case  of  NeSL-DDE  is  financial  documents/agreements,  the  platform shall also enable the digital execution of other documents/agreements. This secure, paperless, hassle-free contracting offered by NeSL-DDE will have significant implications on the ease of doing business in the nation.
+
+##

@@ -1,0 +1,52 @@
+{
+  "Introduction": {
+    "filename": "chunk_01_Introduction.md",
+    "word_count": 450,
+    "char_count": 3250
+  },
+  "Infrastructure Capex Improves Post-Election": {
+    "filename": "chunk_02_Infrastructure_Capex_Improves_Post_Election.md",
+    "word_count": 179,
+    "char_count": 1247
+  },
+  "Physical Connectivity": {
+    "filename": "chunk_03_Physical_Connectivity.md",
+    "word_count": 2130,
+    "char_count": 14716
+  },
+  "Power Sector": {
+    "filename": "chunk_04_Power_Sector.md",
+    "word_count": 596,
+    "char_count": 4076
+  },
+  "Digital Connectivity": {
+    "filename": "chunk_05_Digital_Connectivity.md",
+    "word_count": 694,
+    "char_count": 4760
+  },
+  "Rural Infrastructure": {
+    "filename": "chunk_06_Rural_Infrastructure.md",
+    "word_count": 1062,
+    "char_count": 7644
+  },
+  "Urban Infrastructure": {
+    "filename": "chunk_07_Urban_Infrastructure.md",
+    "word_count": 1513,
+    "char_count": 12236
+  },
+  "Tourism Infrastructure": {
+    "filename": "chunk_08_Tourism_Infrastructure.md",
+    "word_count": 162,
+    "char_count": 1180
+  },
+  "Space Infrastructure": {
+    "filename": "chunk_09_Space_Infrastructure.md",
+    "word_count": 327,
+    "char_count": 2461
+  },
+  "Conclusions and Way Forward": {
+    "filename": "chunk_10_Conclusions_and_Way_Forward.md",
+    "word_count": 505,
+    "char_count": 3737
+  }
+}

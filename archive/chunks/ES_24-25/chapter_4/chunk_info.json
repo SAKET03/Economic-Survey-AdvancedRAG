@@ -1,0 +1,22 @@
+{
+  "Global Inflation": {
+    "filename": "chunk_01_Global_Inflation.md",
+    "word_count": 210,
+    "char_count": 1416
+  },
+  "Introduction": {
+    "filename": "chunk_02_Introduction.md",
+    "word_count": 198,
+    "char_count": 1297
+  },
+  "Domestic Inflation": {
+    "filename": "chunk_03_Domestic_Inflation.md",
+    "word_count": 2515,
+    "char_count": 20122
+  },
+  "Outlook and Way Forward": {
+    "filename": "chunk_04_Outlook_and_Way_Forward.md",
+    "word_count": 605,
+    "char_count": 3948
+  }
+}

@@ -1,0 +1,9 @@
+# Industry: Steady Recovery
+
+INDUSTRY: STeaDY RecoveRY
+
+<!-- image -->
+
+The industry holds a prominent position in the Indian economy contributing about 30 percent  of  total  gross  value  added  in  the  country.  In  FY23,  the  Indian  industry  faced some extraordinary challenges as the Russian-Ukraine conflict broke out. That led to a sharp rise in the prices of many commodities. Prices of edible oil, crude oil, fertilisers and food grains rose sharply. They remained at elevated levels for several months. The risk of another round of supply chain disruptions emerged, but they were not as severe as feared. Nonetheless, both the price and the availability of essential commodities had the potential to dent the industry' s optimism on consolidating the recovery of FY22 and further accelerating it. It is fair to say that the Indian industry acquitted itself rather well under trying circumstances. Overall Gross Value Added (GVA) by the Industrial Sector, based on data available for the first half of the FY23, rose 3.7 per cent, which is higher than the average growth of 2.8 per cent achieved in H1 of the last decade.
+
+Robust domestic conditions since FY22 have provided a

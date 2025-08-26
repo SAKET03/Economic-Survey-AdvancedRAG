@@ -1,0 +1,336 @@
+# Quality and Affordable Health for all
+
+Quality and affordable Health for all
+
+6.79 Ensuring the provision  of  quality  health  facilities  to  citizens  is  an  important  priority for the Government. Towards this objective, multidimensional initiatives have been launched and carried forward for better overall health of the citizens, as encapsulated below. Under the National Health Mission, the Government has made concerted efforts to engage with all relevant sectors and stakeholders to move in the direction of achieving universal health coverage and delivering  quality  healthcare  services  to  all  at  affordable  cost.  Today,  the  Indian  healthcare network is among the largest in the world. The results of an effective health approach are visible in the improvement in some of the important health-related indicators.
+
+## major initiatives from 2014 to 2022 for better overall health
+
+## 2014
+
+## 2019-20
+
+## 2017
+
+## 2022
+
+- Mission Indradhanush
+- Rashtriya Kishor Swasthya Karyakram
+- Swachh Bharat Abhiyan
+- National Health Policy
+- Mental Healthcare Act
+- National Strategic Plan for TB Elimination
+- HIV and AIDS (Prevention &amp; Control) Act
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+## 2015-16
+
+- Free Drugs and Diagnostic Service
+- Maternity Benefits Act - 6 months paid maternity  leave
+- Pradhan Mantri Ujjawala Yojana
+- Pradhan Mantri National Dialysis Programme
+- Surakshit Matritva Aashwasan (SUMAN)
+- e-Sanjeevani  OPD
+- Social A wareness  and Actions to Neutralize Pneumonia Successfully (SAANS)
+- Pradhan Mantri TB Mukt Bharat Abhiyaan to end TB by 2025
+- National List of Essential Medicines Revision
+- National Tele Mental Health Programme (Tele MANAS)
+
+<!-- image -->
+
+## 2018
+
+<!-- image -->
+
+- Ayushman  Bharat - Health and Wellness Centres
+- Ayushman  Bharat -PM Jan Aarogya Yojana
+- POSHAN Abhiyaan
+- Anemia Mukt Bharat Strategy
+- COVID-19 Vaccination Programme
+- XV-Finance Commission -Health Sector Grants to Local Bodies
+- Ayushman  Bharat Digital Mission
+- Ayushman  Bharat -Health Infrastructure Mission
+- Medical Termination  of Pregnancy (Amendment) Act, 2021
+
+## table Vi.17: improvement in health-related indicators
+
+|                                                                                                                            |   nfHS-4 (2015-16) |   nfHS-5 (2019-21) |
+|----------------------------------------------------------------------------------------------------------------------------|--------------------|--------------------|
+| Households with any usual member covered under a health insurance/ financing scheme (per cent)                             |               28.7 |               41   |
+| Total fertility rate (children per woman)                                                                                  |                2.2 |                2   |
+| Current Use of Family Planning Method- Any Method (per cent)                                                               |               53.5 |               66.7 |
+| Mothers who had at least 4 antenatal care visits (per cent)                                                                |               51.2 |               58.1 |
+| Institutional births (per cent)                                                                                            |               78.9 |               88.6 |
+| Neonatal mortality rate (per 1000 live births)                                                                             |               29.5 |               24.9 |
+| Infant mortality rate (per 1000 live births)                                                                               |               40.7 |               35.2 |
+| Under-five mortality rate (per 1000 live births)                                                                           |               49.7 |               41.9 |
+| Children age 12-23 months fully vaccinated based on information from either vaccination card or mother's recall (per cent) |               62   |               76.4 |
+| Children under age 6 months exclusively breastfed (per cent)                                                               |               54.9 |               63.7 |
+| Children under 5 years who are stunted (height-for-age) (per cent)                                                         |               38.4 |               35.5 |
+| Children under 5 years who are wasted (weight-for-height) (per cent)                                                       |               21   |               19.3 |
+| Children under 5 years who are underweight (weight-for-age) (per cent)                                                     |               35.8 |               32.1 |
+| Children under 5 years who are overweight (weight-for-height) (per cent)                                                   |                2.1 |                3.4 |
+| Women who are overweight or obese (BMI≥25.0 kg/m 2 ) (per cent)                                                            |               20.6 |               24   |
+| Men who are overweight or obese (BMI≥25.0 kg/m 2 ) (per cent)                                                              |               18.9 |               22.9 |
+| Women age 15-24 years who use hygienic methods of protection during their menstrual period (per cent)                      |               57.6 |               77.3 |
+
+Source: National Family Health Surveys (NFHS) 2015-16 and 2019-21, MoHFW
+
+6.80 With  concerted  efforts  made  under  the  Reproductive,  Maternal,  New-born,  Child, Adolescent Health Plus Nutrition (RMNCAH+N) strategy, India has made considerable progress in improving the health status of both mothers and children. As per the Sample Registration System (SRS) data, India has successfully achieved the major milestone to bring the Maternal Mortality Ratio (MMR) to below 100 per lakh live births by 2020 (laid down in National Health Policy 2017) by bringing it down to 97 per lakh live births in 2018-20 from 130 per lakh live births in 2014-16. Eight states have already achieved the SDG target to reduce MMR to less than 70 per lakh live births by 2030. These include Kerala (19), Maharashtra (33), Telangana (43) Andhra Pradesh (45), Tamil Nadu (54), Jharkhand (56), Gujarat (57), and Karnataka (69).
+
+6.81 Following a steady downward trend, Infant Mortality Rate (IMR), Under Five Mortality Rate (U5MR) and Neonatal Mortality Rate (NMR) have further declined as a result of countrywide efforts towards increasing health service coverage through strengthening of service delivery; quality  assurance;  RMNCAH+N;  human  resources,  community  processes;  information  and knowledge; drugs and diagnostics, and supply chain management, etc.
+
+table Vi.18: trends in mortality indicators
+
+|                                                                  | 2014          | 2016          | 2018          | 2020         |
+|------------------------------------------------------------------|---------------|---------------|---------------|--------------|
+| Maternal Mortality Ratio (per lakh live births)                  | 167 (2011-13) | 130 (2014-16) | 113 (2016-18) | 97 (2018-20) |
+| Infant Mortality Rate (per 1000 live births)                     | 39            | 34            | 32            | 28           |
+| Neonatal Mortality Rate (per 1000 live births)                   | 26            | 24            | 23            | 20           |
+| Under 5 Mortality Rate (per 1000 live births)                    | 45            | 39            | 36            | 32           |
+| Early Neonatal Mortality Rate - 0- 7 days (per 1000 live births) | 20            | 18            | 18            | 15           |
+
+Source: Sample Registration System
+
+## Health expenditure estimates
+
+6.82 National Health Account (NHA) 38  for the year FY19 (which is the latest available account) highlights the rising importance of public healthcare and social security in ensuring universal health coverage. The NHA estimates for FY19 show that there has been an increase in the share of Government Health Expenditure (GHE)  39  in the total GDP from 1.2 per cent in FY14 to 1.3 per cent in FY19. Additionally, the share of GHE in Total Health Expenditure (THE) 40 has also increased over time, standing at 40.6 per cent in FY19, substantially higher than 28.6 per cent in FY14.
+
+38  NHA estimates for India 2018-19 is the sixth consecutive NHA estimates report prepared by NHSRC, designated as National Health Accounts Technical Secretariat in 2014 by the Union Health Ministry. This was released on 12 September 2022.
+
+39  GHE constitutes spending under all schemes funded and managed by Union, State, and Local Governments including quasi-Governmental organisations and donors in case funds are channelled through Government organisations.
+
+40 THE constitutes current and capital expenditures incurred by government and private sources including external funds.
+
+6.83 Overall, for FY19, THE for India is estimated to be ` 5,96,440 crore (3.2 per cent of GDP and ` 4,470 per capita). Current Health Expenditure (CHE) 41 is ` 5,40,246 crore (90.6 per cent of THE) and capital expenditures is ` 56,194 crore (9.4 per cent of THE). Of the GHE, Union Government's share is 34.3 per cent and the State Governments' share is 65.7 per cent.
+
+6.84 Aligning with the focus on providing healthcare services to all, which comprises one of the policy recommendations of the National Health Policy 2017, the Government is focusing on primary healthcare expenditure which has increased from 51.1 per cent in FY14 to 55.2 per cent in FY19. This not only ensures quality services at the grassroot level but also reduces the chances  of  ailments  requiring  secondary  or  tertiary  healthcare  services.  Between  FY14  and FY19, the share of primary and secondary care in the GHE increased from 74.4 per cent to 85.7 per cent. On the other hand, share of primary and secondary care in private health expenditure has declined from 82.0 per cent to 70.2 per cent during the same period.
+
+6.85 The social security expenditure on health, which includes the social health insurance programme, government-financed health insurance schemes, and medical reimbursements made to government employees, has increased from 6 per cent in FY14 to 9.6 per cent in FY19. This is a significant increase which shows that the citizens are better equipped and better provided in terms of healthcare at their doorstep making it more accessible. Due to several such steps, Outof-Pocket Expenditure (OOPE) 42  as a percentage of THE has declined substantially from 64.2 per cent in FY14 to 48.2 per cent in FY19.
+
+figure Vi.16: government Health expenditure (gHe) and out of pocket expenditure (oope) as per cent of total Health expenditure (tHe)
+
+<!-- image -->
+
+figure Vi.17: Social Security expenditure and private Health insurance expenditure as per cent of total Health expenditure (tHe)
+
+<!-- image -->
+
+Source: National Health Accounts, MoHFW
+
+figure Vi.18: out of pocket expenditure as per cent of total Health expenditure - Statewise for 2018-19
+
+<!-- image -->
+
+figure Vi.19: government Health expenditure as per cent of total Health expenditure - State-wise for 2018-19
+
+<!-- image -->
+
+Source: National Health Accounts 2018-19, MoHFW
+
+Note: Jammu and Kashmir represents the erstwhile J&amp;K including Ladakh
+
+## rural health care - strengthening of infrastructure and human resource
+
+6.86 Health infrastructure is an important indicator for understanding the healthcare delivery provisions and welfare mechanisms in a country. Public health infrastructure has been referred to as 'the nerve centre of the public health system', forming the basic support system for the last-mile delivery of public health services. Alongside, human resources for health are identified as  one  of  the  core  building  blocks  of  the  health  system.  These  include  physicians,  nursing professionals, pharmacists, midwives, dentists, allied health professionals, community health workers, social health workers and other health care providers, as well as health management and support personnel.
+
+6.87 The recent health sector reforms in India have laid emphasis on strengthening health infrastructure as well as human resource in the public sector system. This can be observed in the rise in the number of Sub-centres (SCs), Primary Health Centres (PHCs), and Community Health Centres (CHCs) in rural areas, along with the rise in doctors, nurses, and other medical personnel over time. With the implementation of the Ayushman Bharat programme, the strengthening of SCs and PHCs are being done by converting them into Health and Wellness Centres (HWCs), in a phased manner, to deliver comprehensive Primary Healthcare services through these Centres. As on 31   December 2022, more than 1.5 lakh HWCs have already been set up.
+
+## rural health care system in india
+
+## Community Health Centre (CHC)
+
+30-bedded Hospital/Referral Unit for 4 PHCs with specialised services
+
+<!-- image -->
+
+## Primary Health Centre (PHC)
+
+Referral Unit for 6 Sub Centres 4-6 bedded manned with a Medical Officer-incharge and subordinate paramedical staff
+
+<!-- image -->
+
+## Sub Centre (SC)
+
+Most peripheral contact point between Primary Health Care System &amp; Community manned with one Health worker (female)/Auxiliary Nurse Midwife &amp; one Health Worker (male)
+
+## table Vi.19: progress in health infrastructure
+
+(as of March each year)
+
+(numbers in thousands )
+
+| indicators                           |   2014 |   2019 |   2020 |   2021 |   2022 |
+|--------------------------------------|--------|--------|--------|--------|--------|
+| Sub-centres (SCs)                    |  152.3 |  157.4 |  155.4 |  156.1 |  157.9 |
+| Primary Health Centres (PHCs)        |   25   |   24.9 |   24.9 |   25.1 |   24.9 |
+| Community Health Centres (CHCs)      |    5.4 |    5.3 |    5.2 |    5.5 |    5.5 |
+| Doctors at PHCs                      |   27.4 |   29.8 |   28.5 |   31.7 |   30.6 |
+| Total Specialists at CHCs            |    4.1 |    3.9 |    5   |    4.4 |    4.5 |
+| Auxiliary Nurse Midwife at SCs &PHCs |  213.4 |  234.2 |  212.6 |  214.8 |  207.6 |
+| Nursing Staff at PHCs &CHCs          |   63.9 |   81   |   71.8 |   79   |   79.9 |
+| Pharmacists at PHCs &CHCs            |   22.7 |   26.2 |   25.8 |   28.5 |   27.1 |
+| Lab Technicians at PHCs &CHCs        |   16.7 |   18.7 |   19.9 |   22.7 |   22.8 |
+
+Source: Rural Health Statistics 2021-22, MoHWF
+
+Note: Greener shades indicate improvements
+
+## progress under major government initiatives for Health
+
+## immunisation
+
+6.88 Under Universal Immunisation Programme (UIP), immunisation is being provided free of cost against 12 vaccine-preventable diseases: Diphtheria, Pertussis, Tetanus, Polio, Measles, Rubella, a severe form of Childhood Tuberculosis, Rotavirus diarrhoea, Hepatitis B, etc. To reinforce universal immunisation, Mission Indradhanush (MI) was launched in December 2014 with the aim to rapidly increase full immunisation coverage of children to 90 per cent and sustain it thereafter. The drive focuses on unvaccinated and partially vaccinated children. Intensified MI was then launched in October 2017 in identified 190 districts/urban areas.
+
+6.89 In FY23, Intensified MI 4.0 was conducted in 416 districts (including 75 districts under Azadi Ka Amrit Mahotsav) across 32 states/UTs, to cover children and pregnant women who missed routine immunisation during the Covid-19 pandemic. Until December 2022, a total of 11 phases of MI have been completed covering 701 districts across the country under which a total of 4.5 crore children and 1.1 crore pregnant women have been vaccinated. Resultantly, NFHS5 shows a 14.4 per cent increase in Full Immunisation Coverage (FIC) from NFHS-4 and an increase in the percentage of FIC in 30 states/UTs.
+
+## eSanjeevani
+
+6.90 eSanjeevani  is  an  innovative,  indigenous,  cost-effective,  and  integrated  cloud-based telemedicine  system  application  to  enable  patient-to-doctor  teleconsultation  to  ensure  a continuum of care and facilitate health services to all citizens in the confines of their homes, free of cost. At present, eSanjeevani is operational in all states and UTs across India. As of 17
+
+January 2923, 1,12,553 HWCs in rural areas and 15,465 Hubs at tertiary level hospitals, and medical colleges in the states have been enabled in the eSanjeevani. This innovative solution has served over 9.3 crore patients across the country and is currently serving around 4 lakh patients daily. eSanjeevani - National Telemedicine Service of India has evolved into the world's largest outpatient services system.
+
+## box Vi.7: progress under ayushman bharat
+
+## Ayushman Bharat Pradhan Mantri - Jan Arogya Yojana (AB PM-JAY)
+
+AB PM-JAY is the world's largest health insurance scheme that intends to minimise the OOPE of the target beneficiaries arising due to expenditure on healthcare. The scheme provides health cover of ` 5 lakh per family per year for secondary and tertiary care hospitalisation to over 10.7 crore poor and vulnerable families (approximately 50 crore beneficiaries) that form the bottom 40 per cent of the  Indian  population  identified  based  on  the  deprivation  and  occupational  criteria  of  the  SocioEconomic Caste Census 2011 (SECC 2011) and other State schemes.
+
+As of 4 January 2023, approximately 21.9 crore beneficiaries have been verified under the Scheme including 3 crore beneficiaries verified using State IT systems. Approximately 4.3 crore hospital admissions, amounting to ` 50,409 crore, have also been authorised under the Scheme through a network of over 26,055 hospitals.
+
+## Ayushman Bharat - Heath and Wellness Centres (AB-HWCs)
+
+Under the scheme, 1.5 lakh AB-HWCs were envisaged to be established by upgrading the SHCs and  PHCs in  rural  and  urban  areas  which  will  ensure  comprehensive  primary  health  care  closer to  the  community. These AB-HWCs provide Comprehensive Primary Health Care, by expanding and strengthening the existing Reproductive &amp; Child Health services and Communicable Diseases services and by including services related to Non- Communicable Diseases such as hypertension, diabetes and 3 common cancers, viz. Oral, Breast and Cervix. The status of service delivery through AB-HWCs as on 31 December 2022 is as under:
+
+-  The first HWCs was inaugurated on 14 April 2018 in the Bijapur District of Chhattisgarh.
+-  1,54,070 HWCs operationalised across the country.
+-  More than 135 Crore cumulative footfall.
+-  More than 87.0 Crore cumulative screening of Non communicable diseases
+-  More than 1.6 crore Wellness Sessions, including Yoga,.
+-  Under the e-Sanjeevani teleconsultation platform, more than 9.3 crore tele-consultations have been provided through functional HWCs at 15,465 Hubs (comprising MBBS/ Specialty/SuperSpecialty  doctors  at  zonal  level)  and  1,12,987  Spokes  (AB-HWCs  at  state  level)  across  the country, as on 17 January 2023.
+
+## Ayushman Bharat Digital Mission (ABDM)
+
+The Mission aims at creating a secure online platform based on open, interoperable digital standards. This will enable access and exchange of health records of citizens with their consent through Services such as the issuance of Health ID, Healthcare Professionals Registry, Health Facility Registry and Health Records. This will boost the adoption of digital technologies in healthcare, thereby making
+
+quality healthcare more accessible and affordable. As on 10 January 2023 key achivements are as under:
+
+-  Ayushman Bharat health account (earlier known as Health ID) created: 31,11,96,965
+-  Verified facilities on health facility registry: 1,92,706
+-  Verified healthcare professionals on healthcare professional registry: 1,23,442
+-  Health records linked : 7,52,01,236
+
+## box Vi.8: national deworming day Grabbing the Low Hanging Fruits in Child Health
+
+National Deworming Day (NDD), launched in 2015 in 11 states and expanded to the whole country in 2016, is a fixed-day approach to treating intestinal worm infections in children aged 1-19 years with Albendazole tablets. The programme is held every year on 10 February and 10 August through schools and Anganwadis, followed by mop-up days to cover those left out due to absenteeism or sickness.  Besides  Government  and  Government-aided  schools  and  Anganwadis,  special  efforts are made to reach out-of-school children, and private schools have also enthusiastically joined the programme.
+
+During  Covid-19,  the  continuity  of  deworming  efforts  were  maintained  while  minimising  risks. Frontline health workers were trained to follow appropriate safety guidelines during home visits or through staggered 'Village Health Sanitation and Nutrition Day' based model.
+
+## Need for the Programme
+
+Soil-Transmitted  Helminthiases  (STH),  also  known  as  parasitic  intestinal  worm  infection,  is  a public health concern adversely affecting children's physical and cognitive growth. Intestinal worm infection is known to cause, aggravate, and intensify nutritional losses, particularly of Vitamin A and Iron. Micronutrient deficits and worm infestation together culminate into stunted growth and development in children.
+
+channels of the impact of deworming
+
+<!-- image -->
+
+## Deworming: a low-cost high-returns intervention
+
+Eminent research, including by Prof. Michael Kremer, Nobel Laureate in Economics in 2019, has shown the significant impact of deworming on school absenteeism 43 , health, nutritional, and learning outcomes 44 .  In  long-duration  studies,  deworming  was  found  to  have  significantly  increased  the likelihood of higher-wage jobs, ten years after the deworming treatment 45 . Regular deworming thus contributes to achieving better nutrition and health. The deworming initiative also supplements the Swachh Bharat Abhiyan in eliminating sanitation-related health risks.
+
+The combined benefits of deworming, when compared to the low cost of the intervention, lead to a remarkably high benefit-to-cost ratio. The annualised social internal rate of return has been estimated to be around 37 per cent in a 20-years long study in Kenya. 46
+
+National  Deworming Day is, thus, a low-hanging fruit of programme innovations in health well plucked for deep-rooted development.
+
+## national covid-19 Vaccination programme
+
+- 6.91 India's  National  Covid-19  Vaccination  Programme,  which  is  the  world's  largest vaccination programme, began on 16 January 2021, initially with the aim of covering the adult population of the country in the shortest possible time. The programme was expanded to include all persons aged 12 years and above and for the precautionary dose for all persons aged 18 years and above. Test-Track-Treat-Vaccinate and adherence to Covid appropriate behaviour continue to remain the tested strategy for Covid management.
+- 6.92 The introduction of Covid-19 vaccines entailed many challenges such as research and development  for  new  Covid  vaccines,  training  of  more  than  2.6  lakh  vaccinators  and  4.8 lakh other vaccination team members, optimum utilisation of available vaccine, difficult-toreach  population,  and  the  need  to  ensure  all  essential  health  services  along  with  scaling  up of vaccination programme. In addition, logistical challenges such as storage and decentralised distribution of vaccines across 29,000 cold chain points, augmenting cold chain capacity, and developing IT platform for registering the beneficiaries and vaccine service delivery, were also noticed. The programme was able to overcome these challenges and meet its goals within a short time frame.
+- 6.93 As on 6 January 2023, India has been able to administer more than 220 crore Covid vaccine doses across the country. 97 per cent of eligible beneficiaries have already received at least one dose of Covid-19 vaccine and around 90 per cent of eligible beneficiaries have received both the doses. Vaccination for the age group 12-14 years was started on 16 March 2022, followed by the precautionary dose for the age group 18-59 years starting from 10 April 2022. So far, more than
+
+43 Miguel, E. &amp; Kremer, M. (2004). Worms: Identifying impacts on education and health in the presence of treatment externalities. Econometrica, 72:159-217.
+
+44 Ozier, O. (2018). Exploiting Externalities to Estimate the Long-Term Effects of Early Childhood Deworming. American Economic Journal: Applied Economics. 10(3):235-262
+
+45  Baird, S., Hicks, J.H., Kremer, M. &amp; Miguel, E.(2016). Worms at Work: Long-run Impacts of a Child Health Investment. The Quarterly Journal of Economics, 131(4):1637-1680.
+
+46 Hamory, J., Miguel, E., Walker, M., Kremer, M. &amp; Baird, S. (2021). Twenty-year economic impacts of deworming. Proceedings of the National Academy of Sciences, vol 118(14).
+
+4.2 crore adolescents have been administered the first dose of the Covid-19 vaccine and 22.4 crore precautionary doses have been administered.
+
+figure Vi.20: number of covid-19 vaccinations
+
+<!-- image -->
+
+Source: Ministry of Health and Family Welfare 47
+
+## box Vi.9: Health- a narrative on dedicated covid infrastruture
+
+The first Covid-19 case in India was detected on 30 January 2020, the same day the World Health organisation (WHO) declared it a public health emergency of international concern. India had alertly implemented surveillance as early as 17 January 2020, even before the first few cases were officially detected. Covid-19 virus posed an unprecendented challenge to the country which was tackled with an  agile  approach,  based  on  feed-back  loops,  real-time  monitoring  of  actual  outcomes,  flexible responses, and safety-net buffers, as discussed in previous Economic Surveys. 47 Over two years since the pandemic was declared, the Government has taken various fiscal and social measures to balance the revival of the economy and deal with increasing caseloads. These included ramping up health infrastructure, both physical and digital, enhanced training of health professionals and, continuing with the mass vaccination drive.
+
+Under the Aatmanirbhar Bharat Abhiyaan, the Union Government focussed on scaling up expenditure on health infrastructure by (a) investing in grass root health institutions and ramping up HWCs in rural and urban areas; (b) setting up critical care hospital blocks in all districts; and (c) strengthening the laboratory network and surveillance by integrated public health laboratories in all districts and blocks and public health units to manage pandemics. The State Governments also took various measures to fight the pandemic. This was complemented by digital infrastructure through Co-WIN for mass vaccination and e-Sanjeevani for telemedicine to reach the last mile. The timely intervention at all levels helped India navigate the Covid pandemic successfully despite successive shocks.
+
+In the last few months, the caseload has subsided significantly, where the active caseload is below 4000 and daily new cases recorded below 300 ( as of 29 December 2022). India may have won a
+
+47  Economic Survey 2021-22 and 2020-21 (Chapter 1 'State of the Economy' and Chapter 10 'Social Infrastructure and Employment').
+
+major battle. India is one of the countries which has learned the most from the pandemic to create a mechanism for protecting its citizens and economy. After the successful rollout of two doses of indigenous vaccines, the third dose was introduced.
+
+## dedicated covid infrastructure:
+
+A three-tier arrangement of dedicated Covid-19 health facilities in the country had been implemented to reduce the risk of cross-infection to non-Covid patients and to make provision for non-Covid essential health services. This three-tier arrangement of health facilities comprises (i) a Dedicated Covid Care Centre with isolation beds for mild or pre-symptomatic cases; (ii) a Dedicated Covid Health Centre oxygen-supported isolation beds for moderate cases, and (iii) Dedicated Covid Hospital with ICU beds for severe cases. Besides this, tertiary care hospitals under the ESIC, Defence, Railways, Central Armed Police Forces, Steel Ministry, etc., were also leveraged for case management. In addition, in many states, the Defence Research and Development Organisation (DRDO) has utilised large-scale field hospitals to rapidly scale up treatment capacities.
+
+## oxygen infrastructure Strengthening during covid pandemic
+
+Pressure  Swing  Adsorption  (PSA)  Oxygen  Generation  Plant s:  PSA  plants  are  being  established in  hospitals,  especially  in  far-flung  areas  enabling  the  hospitals  to  become  self-sufficient  in  the generation of oxygen for their needs and, thereby, reducing the burden on the medical oxygen supply grid across the country. It was emphasised that each district of the country should have at least 1 PSA plant from PM-CARES support at the public health facilities. Accordingly, 4,135 PSA plants are being established in the country, which enhances the oxygen generation capacity by 4,852 MT, as per details below. Ministry of Health and Family Welfare (MoHFW) has developed and shared the guidelines on indicative norms for setting up oxygen plants in all health facilities on 6 July 2021 with the states.
+
+| Source                  |   no. of pSaplants |   commissioned |
+|-------------------------|--------------------|----------------|
+| PM-CARES                |               1225 |           1225 |
+| Central Government PSUs |                283 |            283 |
+| Foreign Aid             |                 53 |             50 |
+| State/CSR Initiatives   |               2574 |           2571 |
+| total                   |               4135 |           4127 |
+
+* Data as on 28 December 2022
+-  Oxygen Cylinders: The  Government  has  ensured  an  adequate  supply  of  medical  oxygen  for patient care in the states. Until now, 4,02,517 oxygen cylinders have been supplied to States/UTs/ Central Government hospitals; which consists of 1.0 lakh by Central Medical Services Society (CMSS) in 2020; 1.3 lakh by CMSS in 2021; 1.5 lakh by DRDO in 2021 and 23,000 from foreign aid. The oxygen cylinder allocation has been performed in a transparent and participative manner with States/UTs.
+-  Moreover,  MoHFW  has  also  approved  the  distribution  of  additional  14,340  D-Type  oxygen cylinders among states from UNICEF-ADB (Asian Development Bank) support, which is under process.
+
+-  Oxygen Concentrators: A total  of  1,13,186  oxygen  concentrators  have  been  procured  by  the Government for Covid management, i.e., 99,186 under PM-CARES through ONGC for use in rural areas; and 14,000 under Emergency Covid Response Package (ECRP) support. All these domestically procured concentrators have already been allocated to states/UTs. Moreover, states have been advised to promptly issue oxygen concentrators to districts with details of consignee points and promptly enter data pertaining to the receipt of oxygen concentrators at the district level on the OC-MIS portal (OxyCare MIS Portal).
+
+## doctor-patient ratio
+
+The intervention in the medicinal education system since 2014 has resulted in improved recruitment of doctors and supporting staff. As per National Medical Commission (NMC), 13,08,009 allopathic doctors are registered with the State Medical Councils and NMC as on June 2022. Assuming 80 per cent availability of registered allopathic doctors and 5.7 lakh AYUSH doctors, the doctor-population ratio in the country is 1:834 against the WHO norms of 1:1000.
+
+## initiatives for increasing/hiring/recruitment of doctors &amp; Staff
+
+To  further  augment  the  medical  education  facilities  and  improve  the  medical  standards,  the Government has envisaged various short and long-term measures, including: -
+
+- (a) A  CSS for establishing new medical colleges by upgrading district/ referral hospitals, under which 157 new medical colleges have been approved, out of which 94 are already functional.
+- (b) A  CSS  for  strengthening/  upgradation  of  existing  State  Government/Central  Government Medical Colleges to increase the number of MBBS and PG seats.
+- (c) Under  the  'Upgradations  of  Government  Medical  Colleges  by  the  construction  of  Super Specialty Blocks' of Pradhan Mantri Swasthya Suraksha Yojana (PMSSY) scheme, 75 projects have been approved.
+- (d) Under the Central Sector Scheme for setting up new AIIMS, 22 AIIMS have been approved. Undergraduate courses have started in 19 of these.
+- (e) Relaxation  in  the  norms  for  setting  up  of  Medical  College  in  terms  of  the  requirement  for faculty, staff, bed strength, and other infrastructure.
+- (f) Diplomate of National Board qualification has been recognised for appointment as teaching faculty to take care of the faculty shortage.
+- (g) Enhancement of age limit for appointment/ extension/ re-employment against posts of teachers/ dean/principal/ director in medical colleges up to 70 years.
+
+To summarise, 'Public Health' being a State Subject, all the administrative and personnel matters, including appointment/recruitment/ engagement of doctors and staff in public health facilities, lie with the respective State/UT Governments. No set of measures is sufficient to counter any instantaneous shock like the Covid pandemic, as the measures are designed with the assumption of ' ceteris paribus ', meaning everything else remains the same. But the major difference is that we are operating in a new normal, and hence towards the end, it is all about better management of the crisis and planning ahead. Thus, the strong inventory India has built over the last few years will improve the country's overall health infrastructure and governance system.
+
+## box Vi.10: co-Win: a successful digital story of vaccination to tell
+
+The history of vaccines and vaccinations in India takes us back to 1802 when the first dose of vaccine was registered for smallpox. 48 Tracing the medical history of the vaccines during those times was a rigorous task. However, in the contemporary scenario, we have substantially progressed in the digital journey, and most medical science searches are a 'click' away. Also, even before Covid arrived, India had laid down the strategy for mass vaccination as year-long programs were running for several other diseases. Over the years, the government focused on digital health service delivery by imbibing the basic philosophy of 'Antyodaya'. However, the need for end-to-end digitisation in the vaccination process was felt as this was the only way to achieve herd immunity during the pandemic. While many economies had to develop a model from scratch, India was in a comfortable position. Thanks to the Government's vision of the JAM trinity, the critical challenge was addressed in a time-bound manner through  Co-WIN  (Covid  Vaccine  Intelligence  Network)  in  implementing  the  National  Covid-19 Vaccination Programme.
+
+Co-WIN has been developed as an extension of the eVIN (electronic Vaccine Intelligence Network) platform. A comprehensive cloud-based IT solution for planning, implementing, monitoring, and evaluating  Covid-19  vaccination  in  India,  the  Co-WIN  system  provided  an  end-to-end  solution with utilities for the entire public health system. The dual interface of the open platform made it scalable across citizen and administrator-centric services. To ensure accountability and transparency in supply chains for vaccination, the platform provided real-time stock tracking at the national, state, and district levels (Government and Private). This further plugged the wastage of Covid-19 vaccines, which otherwise occurred pre-Co-WIN.
+
+Going beyond the users (admins, supervisors, and vaccinators), vaccination centres, and beneficiaries' registration in 12 regional languages, the web solution extended the issuance of digitally verifiable certificates. The Vaccination Certificate was designed at par with WHO Guidelines to assist even international travellers. To reduce the burden of registration hinging on a single document (Aadhaar), the Government allowed registration using any of the 10 photo identity cards [Aadhaar Card, Driving License,  PAN  Card,  Passport,  Pension  Passbook,  NPR  Smart  Card,  Voter  ID,  Unique  Disability Identification Card,Ration Card with Photo, Student Photo ID card]. Tackling the problem of the digital divide and digital exclusion, multiple beneficiaries (up to six) were allowed onboarding using a single mobile number through the National Covid helpline. To ensure that those having limited access to physical facilities during times of Covid, either due to age, disability or identity, are not left out, special provisions through the 'Workplace Covid Vaccination Centre' in the Government and private sector and also 'Near to Home Covid Vaccination Centres ' were made available.
+
+The present administration of more than 220 crore Covid-19 vaccine doses was made possible because of the robust digital infrastructure of Co-WIN. It was this broad interlock of digital framework and the Government's vigour of continuously improving its outreach for better inclusion that India could register a quick and durable economic recovery while continuing to secure both lives and livelihoods. With more than 84.7 crore Co-WIN beneficiaries seeded with Aadhaar among the total 104 crore (between January 2021 to September 2022), the seeds of JAM sown in FY15 proved to be a life saver for the nation.
+
+48  https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4078488/
+
+##

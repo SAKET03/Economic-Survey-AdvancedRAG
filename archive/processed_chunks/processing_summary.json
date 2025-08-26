@@ -1,0 +1,452 @@
+{
+  "total_chapters": 12,
+  "total_chunks": 89,
+  "output_directory": "/workspace/processed_chunks",
+  "processed_chunks": [
+    {
+      "chapter_no": 1,
+      "chunk_no": 1,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 1,
+      "chunk_no": 2,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 1,
+      "chunk_no": 3,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 1,
+      "chunk_no": 4,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 2,
+      "chunk_no": 1,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 2,
+      "chunk_no": 2,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 2,
+      "chunk_no": 3,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 2,
+      "chunk_no": 4,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 3,
+      "chunk_no": 1,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 3,
+      "chunk_no": 2,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 3,
+      "chunk_no": 3,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 3,
+      "chunk_no": 4,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 3,
+      "chunk_no": 5,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 3,
+      "chunk_no": 6,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 4,
+      "chunk_no": 1,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 4,
+      "chunk_no": 2,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 4,
+      "chunk_no": 3,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 4,
+      "chunk_no": 4,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 4,
+      "chunk_no": 5,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 4,
+      "chunk_no": 6,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 4,
+      "chunk_no": 7,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 4,
+      "chunk_no": 8,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 4,
+      "chunk_no": 9,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 4,
+      "chunk_no": 10,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 4,
+      "chunk_no": 11,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 4,
+      "chunk_no": 12,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 5,
+      "chunk_no": 1,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 5,
+      "chunk_no": 2,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 5,
+      "chunk_no": 3,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 5,
+      "chunk_no": 4,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 5,
+      "chunk_no": 5,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 5,
+      "chunk_no": 6,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 5,
+      "chunk_no": 7,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 5,
+      "chunk_no": 8,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 6,
+      "chunk_no": 1,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 6,
+      "chunk_no": 2,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 6,
+      "chunk_no": 3,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 6,
+      "chunk_no": 4,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 6,
+      "chunk_no": 5,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 6,
+      "chunk_no": 6,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 6,
+      "chunk_no": 7,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 6,
+      "chunk_no": 8,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 6,
+      "chunk_no": 9,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 6,
+      "chunk_no": 10,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 6,
+      "chunk_no": 11,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 6,
+      "chunk_no": 12,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 6,
+      "chunk_no": 13,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 6,
+      "chunk_no": 14,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 6,
+      "chunk_no": 15,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 7,
+      "chunk_no": 1,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 7,
+      "chunk_no": 2,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 7,
+      "chunk_no": 3,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 7,
+      "chunk_no": 4,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 7,
+      "chunk_no": 5,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 7,
+      "chunk_no": 6,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 8,
+      "chunk_no": 1,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 8,
+      "chunk_no": 2,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 8,
+      "chunk_no": 3,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 8,
+      "chunk_no": 4,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 8,
+      "chunk_no": 5,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 8,
+      "chunk_no": 6,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 8,
+      "chunk_no": 7,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 8,
+      "chunk_no": 8,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 8,
+      "chunk_no": 9,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 8,
+      "chunk_no": 10,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 9,
+      "chunk_no": 1,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 9,
+      "chunk_no": 2,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 9,
+      "chunk_no": 3,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 9,
+      "chunk_no": 4,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 9,
+      "chunk_no": 5,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 9,
+      "chunk_no": 6,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 9,
+      "chunk_no": 7,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 9,
+      "chunk_no": 8,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 10,
+      "chunk_no": 1,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 10,
+      "chunk_no": 2,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 10,
+      "chunk_no": 3,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 10,
+      "chunk_no": 4,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 10,
+      "chunk_no": 5,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 11,
+      "chunk_no": 1,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 11,
+      "chunk_no": 2,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 11,
+      "chunk_no": 3,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 11,
+      "chunk_no": 4,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 11,
+      "chunk_no": 5,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 11,
+      "chunk_no": 6,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 12,
+      "chunk_no": 1,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 12,
+      "chunk_no": 2,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 12,
+      "chunk_no": 3,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 12,
+      "chunk_no": 4,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 12,
+      "chunk_no": 5,
+      "file_saved": true
+    }
+  ]
+}

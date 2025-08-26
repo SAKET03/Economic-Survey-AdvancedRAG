@@ -1,0 +1,18 @@
+# Conclusion and Way Forward
+
+conclusion and Way forward
+
+6.138 History suggests  that  when  different  aspects  of  human  development  like  education, skill,  employment,  health,  and  rural  development  are  dovetailed  with  technology,  all-round revolutionary  innovation  resulting  in  technology-led  growth  and  prosperity  follows.  The Hon'ble Prime Minister observed in 2015:
+
+' The government must nurture an eco-system:
+
+- where the economy is primed for growth; and growth promotes all-round development;
+- where development is employment-generating; and employment is enabled by skills;
+- where skills are synced with production; and production is benchmarked to quality;
+- where quality meets global standards; and meeting global standards drives prosperity
+
+Most importanty, this prosperity is for the welfare of all '  60
+
+6.139 Today, India is moving towards the attainment of the UN SDGs. While doing so, it is cognisant of the fact that for equitable development, a country as vast and diverse as India requires the implementation of broad-based inclusive social policies, supported by adequate and commensurate financial resources. Thus, the character and contour of such an approach to development presents a unique set of challenges which is consistently being addressed in the form of mindful reforms. Ensuring that intended outcomes of social sector development schemes reach the intended, involvement of the grassroot level of governance is imperative and is being actively pursued. Technology has been a great enabler in ensuring the last-mile connectivity of government schemes to the targeted citizens. It has revolutionised the delivery of services while ensuring transparency and accountability. It needs to be harnessed further to help the government attain the lofty SDGs on the social front.
+
+6.140 As India marches ahead, the ground lost as regards social sector improvements due to  the  pandemic, has largely been recouped, powered by prompt policymaking and efficient implementation  interwoven  with  technology.  Going  forward  with  the  vision  of  'Minimum Government; Maximum Governance', further developments will hold the key to attaining more equitable economic growth. Evident ones include stepping up learning outcomes through digital and teaching interventions in schools, enhancing the role of community workers in healthcare, pushing SHGs through better product design and upscaling enterprises. Further, channelising women's economic potential through ecosystem services such as affordable market alternatives for  care  work,  safe  transportation  and  lodging,  and  long-term  counselling  support,  can  help capitalise the gender dividend for the country's future economic and social development.

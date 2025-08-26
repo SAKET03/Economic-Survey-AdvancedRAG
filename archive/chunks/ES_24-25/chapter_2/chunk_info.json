@@ -1,0 +1,22 @@
+{
+  "Introduction": {
+    "filename": "chunk_01_Introduction.md",
+    "word_count": 32,
+    "char_count": 249
+  },
+  "Financial Intermediation": {
+    "filename": "chunk_02_Financial_Intermediation.md",
+    "word_count": 204,
+    "char_count": 1473
+  },
+  "Outlook": {
+    "filename": "chunk_03_Outlook.md",
+    "word_count": 8,
+    "char_count": 56
+  },
+  "Monetary Developments": {
+    "filename": "chunk_04_Monetary_Developments.md",
+    "word_count": 17565,
+    "char_count": 119400
+  }
+}

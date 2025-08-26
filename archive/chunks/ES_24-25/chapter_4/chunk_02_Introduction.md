@@ -1,0 +1,8 @@
+# Introduction
+
+INTRODUCTION
+
+4.1.  In the ever-evolving landscape of global economics, understanding the dynamics of inflation is crucial. The persistent inflationary pressures pose several challenges for policymakers and the general public. On the global front, central banks are cautiously unwinding their restrictive policies to balance inflation control with economic recovery. In India, the various government initiatives and monetary policy reviews are helping to keep inflationary pressure at check.
+
+- 4.2.  Global inflation peaked at 8.7 per cent in 2022, driven by supply chain disruptions and geopolitical tensions, to 5.7 per cent in 2024 1 . In India, retail inflation moderated from 5.4 per cent in FY24 to 4.9 per cent in FY25 (April-December) despite challenging food price dynamics. Food items constitute about two-fifths of the consumer price index in India. Hence, the Consumer Food Price Index (CFPI) is a significant determinant of retail inflation. In recent years, food inflation has been a major contributor to headline inflation. However, an increase in prices is not widespread across all food categories. It is primarily driven by a few items.
+- 4.3.  Given this context, the chapter is organised into four sections. Section 2 analyse the global inflation, while Section 3 examines the

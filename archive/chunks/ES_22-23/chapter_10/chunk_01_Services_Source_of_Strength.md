@@ -1,0 +1,15 @@
+# Services: Source of Strength
+
+ServiceS: Source of Strength
+
+<!-- image -->
+
+India's services sector witnessed a swift rebound in FY22 driven by growth in the contactintensive services sub-sector, which bore the maximum burden of the pandemic. This subsector completely recovered from the pre-pandemic level in Q2 of FY23, driven by the release of  pent-up  demand,  ease  of  mobility  restriction,  and  near-universal  vaccination  coverage. Going forward, strong momentum growth and an uptick in the High-Frequency Indicators (HFIs) for the contact-intensive services sector reflect a strong growth opportunity in the next fiscal. PMI services, indicative of service sector activity, has also witnessed a strong rebound in recent months with the retreating of the price pressures of inputs and raw materials.
+
+India has been a major player in services trade, being among the top ten services exporting countries in 2021, having increased its share in world commercial services exports from 3 per cent in 2015 to 4 per cent in 2021. India's services exports have remained resilient during the Covid-19 pandemic and amid current geopolitical uncertainties, driven by higher demand for digital support, cloud services, and infrastructure modernisation catering to new challenges.
+
+To ensure the liberalisation of investment in various industries, the Government has permitted 100 per cent foreign participation in telecommunication services including all services and infrastructure providers, through the Automatic Route. The FDI ceiling in insurance companies was also raised from 49 to 74 per cent. Measures undertaken by the Government, such as the launch of the National Single-Window system and enhancement in the FDI ceiling through the automatic route, have played a significant role in facilitating investment.
+
+With  the  waning  of  the  pandemic  and  external  shocks  on  account  of  the  Russia-Ukraine conflict, there is evidence of improvement in the performance of various services sub-sectors. The hotel industry is thriving with improvements in occupancy rate, increase in the Average Room Rate (ARR) and rise in Revenue Per Available Room (RevPAR) which are now much nearer to the pre-pandemic level of FY20. The tourism sector is also showing signs of revival, with foreign tourist arrivals in India in FY23 growing month-on-month with the resumption of scheduled international flights and the easing of Covid-19 regulations. The Real Estate sector has witnessed resilient growth in the current year, with housing sales and the launch of new houses surpassing in Q2 of FY23 the pre-pandemic level of Q2 of FY20. Information Technology-Business  Process  Management  (IT-BPM)  and  the  E-commerce  industry  have been exceptionally resilient during the Covid-19 pandemic, driven by accelerated technology adoption and digital transformation. The Government's push to boost the digital economy, growing internet penetration, rise in smartphone adoption and increased adoption of digital
+
+payments have also given a renewed push to these industries. The

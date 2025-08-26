@@ -1,0 +1,174 @@
+# Performance of Capital Goods and Consumer Goods Industries
+
+PERFORMANCE OF CAPITAL GOODS AND CONSUMER GOODS INDUSTRIES
+
+## Capital goods
+
+7.15    The  production  of  capital  goods  fluctuated  between  FY20  and  FY23,  before recording a robust growth in FY24. Yet, the growing reliance on the import of such goods poses a challenge. Due to technology gaps, this sector imports the high-end machines required for manufacturing. There is an urgent need to address the technology, skill and  infrastructure  gaps.  The  government  has  notified  phase  II  of  the  Scheme  for Enhancement of Competitiveness of the Capital Goods Sector. The objective of Phase II of the Scheme is to expand and enlarge the impact created by its Phase I. Phase II of the scheme promotes identification of technologies through technology innovation portals,  setting  up  of  new  advanced  centres  of  excellence  and  common  engineering facility centres among others for enhancing the global competitiveness of capital goods sector.
+
+11  https://pib.gov.in/PressReleasePage.aspx?PRID=2066478.
+
+<!-- image -->
+
+7.16  The government has been actively promoting Smart Manufacturing and Industry 4.0,  supporting  the  establishment  of  Smart  Advanced  Manufacturing  and  Rapid Transformation Hub (SAMARTH) Udyog centres at various institutions. These centres aim to foster an ecosystem where manufacturing industries, especially SMEs, can learn about and adopt new technologies.
+
+## Automobile Industry
+
+7.17  The Indian automobile industry is a significant driver of economic growth, offering a diverse range of domestically produced vehicles. In FY24, the industry recorded auto mobile domestic sales growth of 12.5 per cent. Recognising the sector's potential, the government has extended the PLI Scheme by one year.
+
+<!-- image -->
+
+Source: Federation of Automobiles Dealers Association(FADA)
+
+Notes: *Two wheelers(2w), Three wheelers(3W), Commercial vehicles (CV) and Passenger vehicles (PV) and TRAC(tractor)
+
+## Electronics Industry
+
+7.18 India's  electronics  sector  has  been  dynamic  regarding  domestic  production, exports and imports in the last decade. The domestic production of electronic goods has  increased  substantially  from  ₹1.90  lakh  crore  in  FY15  to  ₹9.52  lakh  crore  in FY24, growing at a CAGR of 17.5 per cent. The country has also drastically reduced its dependence on smartphone imports, with 99 per cent now manufactured domestically. In FY24, the country produced approximately 33 crore mobile phone units, with over 75 per cent of the models being 5G enabled. The key drivers of growth have been the large domestic market, the availability of skilled talent, and low-cost labour.
+
+<!-- image -->
+
+GLYPH&lt;c=3,font=/YQNKUC+Calibri&gt; Source: Data provided by Industry Associations &amp; Directorate General of Commercial Intelligence and Statistics (DGCI&amp;S)
+
+7.19  Programmes  such  as  Make  in  India  and  Digital  India,  along  with  improved infrastructure, ease of doing business, and various incentives, have boosted domestic manufacturing and drawn foreign investments. However, India's electronics market represents 4 per cent of the global market. The industry has largely focused on assembly, with limited progress in design and component manufacturing.
+
+## BOX-VII.1: Empowering India's Domestic Manufacturing in Electronics Sector Through Production-linked Incentives
+
+The  PLI  scheme  has  been  introduced  in  14  key  sectors  including  electronics.  The  PLI scheme adopts a sector-specific  approach,  avoiding  a  "one  size  fits  all"  methodology.  In the electronics sector. PLI aims to scale up assembly processes to encourage the existing domestic manufacturing ecosystem. The results are evident: in FY15, mobile phone imports accounted for 78 per cent of the market in value terms, whereas, by FY23 this figure had dropped to just 4 per cent. In terms of volume, only 0.8 per cent of mobile phones were imported in FY23. Exports tell a similar story. Mobile phone exports, valued at zero in FY16, soared to ₹88,726 crore in FY23. Similarly, in the white goods sector, the scheme seeks to boost domestic value addition, targeting an increase from 15-20 per cent to 75-80 per cent  12 .
+
+The  3rd  Round  of  on-line  application  window  for  PLI  Scheme  for  White  Goods  (Air Conditioners and LED lights) attracted 38 responses. 43 per cent of the new applicants are in the MSME sector which shows the confidence among MSMEs to become part of the value chain of manufacturing of components of ACs and LED Lights. 13
+
+According to FICCI, the support of the PLI scheme, encouraging local production of the key components like compressor, heat exchangers, motors, controllers etc., triggered the development of a complete value chain for key AC components. As the annual size of room AC market has grown considerably in recent years, the import dependency for compressors has reduced. Local capacities for heat exchangers, cross flow fans and controller PCBAs also improved. The PLI scheme has fostered collaboration across various industry layers. Suppliers of  raw  materials,  component  manufacturers,  and  producers  of  finished  goods,  including multinational corporations and local brands, as well as MSMEs, have aligned their requirements.
+
+## Textiles
+
+7.20  The textile industry is a major employment generator and it accounts for about 11 per cent of India's manufacturing GVA. India is a leading producer of jute and ranks second globally in cotton, silk, and man-made fibre production. India is the sixth largest exporter of textiles and apparel and has a share of about 4 per cent of the global trade in this segment. The share of textiles and apparel, including handicrafts, in India's total merchandise exports stood at about 8 per cent in FY24.
+
+<!-- image -->
+
+7.21  After having recorded a high of USD 44.44 billion in FY22, India's export of textiles and apparel, including handicrafts, stood at USD 35.87 billion in the FY24, compared to export of USD 36.69 billion in FY23. India is looking to diversify its export market to other regions. India has traditionally focused on cotton textiles. Globally, manmade fibre (MMF) consumption is dominant. Hence, in order to move towards a higher global MMF share, it is essential to simultaneously focus on MMF along with cotton textiles.
+
+7.22  Technical textiles are another area of potential growth 14 . India's technical textile industry  is  rapidly  growing,  ranking  fifth  globally.  Indian  technical  textiles  market stands at US$26.8 billion in FY24 15 . India is a net exporter of technical textiles, with exports valuing US$2.58 billion in FY24. To assist the technical textiles manufacturing ecosystem, the government has introduced several initiatives, including the Production Linked Incentive (PLI) scheme. To ensure quality and standardisation of the technical textiles, 68 items have been brought under regulation through quality control order in various segments.
+
+7.23  Despite possessing a complete value chain, textiles face several challenges. The dominance of MSMEs limits scale and efficiency, while its fragmented nature increases logistical costs. India's reliance on cotton, unlike the global shift towards MMF, limits its competitiveness in the worldwide market. The sector has attracted limited foreign direct  investment,  hindering  technological  advancements  and  reliance  on  imported textile machinery. A significant skill gap persists, hindering productivity and innovation. Addressing these challenges is crucial for India to realise its full potential as a global textile powerhouse.
+
+## Pharmaceuticals
+
+7.24   The  Indian  pharmaceutical  industry  is  the  world's  third-largest  by  volume. The industry boasts of a diverse product portfolio encompassing generic drugs, bulk drugs, over-the-counter medications, vaccines, biosimilars, and biologics, establishing a  strong  global  presence.  The  total  output  of  the  pharmaceuticals,  medicinal  and botanical products industry in FY23, at constant prices, reached ₹4.56 lakh crore, with a value-added of ₹1.76 lakh crore 16 .  The total annual turnover of pharmaceuticals in FY24 was ₹4.17 lakh crore, growing at an average rate of 10.1 per cent in the last five years. Exports account for 50 per cent of the total turnover, with its value at ₹2.19 lakh crore in FY24. The total import of pharmaceuticals was worth about ₹58,440.4 crore. The government has taken various measures to support the sector like PLI scheme and Strengthening of Pharmaceuticals Industry (SPI) among others. PLI scheme aims to attain self-reliance and reduce import dependence in critical Key Starting Materials (KSMs)/Drug  Intermediates  and  Active  Pharmaceutical  Ingredients  (APIs).  SPI addresses the demand to support the existing pharma clusters and MSMEs across the country to improve their productivity, quality and sustainability.
+
+7.25 The medical devices industry in India is experiencing rapid growth, with a CAGR of approximately 15 per cent. Currently, India holds an estimated 1.5 per cent share of the global medical devices market. Within Asia, India ranks fourth in terms of market size, following Japan, China, and South Korea. On a global scale, India is recognised as one of the top twenty medical device markets.
+
+14  Technical textiles are specialized textile materials designed for specific functions rather than appearance.
+
+15  Ministry of Textiles.
+
+16  https://pib.gov.in/PressReleseDetail.aspx?PRID=2085345&amp;reg=3&amp;lang=1.
+
+7.26   As  noted  by  UNIDO,  among  the  top  5  pharmaceutical  producers,  the  United States led the way with a robust 4.7 per cent quarter-over-quarter growth in Q3 2024. Following the US were Japan at 1.4 per cent and China at 0.9 per cent. In contrast, Switzerland experienced a decline of -2.1 per cent, and India saw a slight decrease of -1.2 per cent.
+
+7.27   India  is  making  significant  strides  in  the  area  of  cell  and  gene  therapy.  In October  2023,  the  Central  Drugs  Standard  Control  Organisation  approved  India's first indigenously developed CAR-T cell therapy. To expedite the availability of newer drugs,  such  as  gene  therapy  products,  orphan  drugs,  drugs  representing  significant therapeutic advantage, in the country, the Central Drugs Standard Control Organisation under the rule 101 of the New Drugs and Clinical Trials Rules, 2019, has notified the United States of America, United Kingdom, Japan, Australia, Canada and the European Union, enabling waiver of local clinical trial for new drugs that are already approved and marketed in the notified countries. The overall pharma landscape of India points towards a need to focus on innovation, new drug development and biopharmaceuticals, as R&amp;D spending still lags behind global leaders.
+
+## FLOURISHING INNOVATIONS AMIDST ASPIRATIONS OF ENHANCED R&amp;D
+
+7.28  India has a robust intellectual property ecosystem. As per the WIPO Report 2022, India ranks sixth among the top 10 patent filing offices globally. Patent applications are largely in computer &amp; electronics, mechanical &amp; biomedical, and communication fields.  Since  the  National  IPR  Policy  2016,  amendments to rules governing patents, designs,  copyrights,  and  trademarks  have  streamlined  application  processes  and reduced  compliance.  The  Patent  (Amendment)  Rules  2024  has  further  simplified patent processing, filing and maintenance.
+
+<!-- image -->
+
+35
+
+40
+
+usands)
+
+30
+
+25
+
+usands)
+
+35
+
+30
+
+25
+
+<!-- image -->
+
+GLYPH&lt;c=3,font=/YQNKUC+Calibri&gt;
+
+GLYPH&lt;c=3,font=/YQNKUC+Calibri&gt; 7.29  The government has also implemented several other initiatives to encourage IP protection. Some of them include:
+
+GLYPH&lt;c=3,font=/YQNKUC+Calibri&gt;
+
+- GLYPH&lt;c=3,font=/YQNKUC+Calibri&gt; · Expedited patent examination for start-ups, SMEs, women inventors, government departments, and academic institutions.
+- GLYPH&lt;c=3,font=/YQNKUC+Calibri&gt; GLYPH&lt;c=3,font=/YQNKUC+Calibri&gt; GLYPH&lt;c=3,font=/YQNKUC+Calibri&gt; GLYPH&lt;c=3,font=/YQNKUC+Calibri&gt; · Simplified  patent  procedures:  The  government  has  simplified  the  disclosure requirements  for  patent  working  and  foreign  filings,  reduced  the  timeline  for examination from 48 months to 31 months, introduced certificates of inventorship, and provided a grace period for prior disclosed inventions.
+- GLYPH&lt;c=3,font=/YQNKUC+Calibri&gt; · Simplified trademark procedures: The number of trademark forms has been reduced from 74 to 8, streamlining the trademark registration.
+- Fee  reduction:  Significant  fee  reductions  have  been  implemented  for  start-ups, MSMEs, and educational institutions for patent, design, and trademark filings.
+- Digitalization: The adoption of virtual hearings, AI/ML-based search systems, and secure VPN connections have improved efficiency, accuracy, and decision-making in IP processes.
+- Start-Up Intellectual Property Protection Scheme: It provides financial and technical assistance  to  start-ups  in  filing  and  processing  patent,  design,  and  trademark applications, which has been extended till March 2026.
+- IP  Saarthi  Chatbot:  offers  instant  support  and  guidance  to  users  regarding  IP registration and grant processes.
+- Technology Transfer Organizations for promoting R&amp;D and IP commercialisation by  providing  services  to  innovators  and  entrepreneurs.  The  government  has established 34 Technology and Innovation Support Centres across the country to facilitate these efforts.
+
+7.30  These measures have made the IP eco-system more efficient and prolific, helping India  emerge  as  a  global  IP  leader  (Box-VII.2),  ranking  in  the  top  10  for  patents, trademarks, and industrial designs.
+
+## BOX-VII.2: India's Innovation Landscape: Major Milestones…
+
+- There is a more than 2-fold increase in patent filing since 2014-15, and patent grants have increased by more than 17-fold from 2014-15.
+- There is a marked growth in resident filings which increased to more than 50 per cent of the total filings in FY24 from 28 per cent in FY15.
+- The patent filings by domestic educational institutes have tripled from 7405 in 2021-22 to 23306 in FY24.
+- Patent filings by women applicants increased from 15 in FY15 to 5183 in FY24.
+-  India's rank in the Global Innovation Index has improved to 39th in 2024 among 133 economies from 81st position in 2015.  It ranks 1st among the 38 lower middle-income group economies and 1st among the 10 economies in Central and Southern Asia 17 .
+- India  holds  the  7th  position  in  intangible  asset  intensity,  surpassing  the  growth  rates of  many  high-income  economies  and  matching  the  intangible  investment  intensity  of Germany and Japan (as a share of GDP). 18
+-  India holds 4th position in Science and Technology Cluster Ranking 2024 by WIPO with 4 cities among the world's top 100 science and technology clusters 19 .
+
+Nonetheless, the Global Innovation Report 2024 notes that India needs to enhance human capital,  improve  access  to  finance  and,  reduce  regulatory  burdens  further  and  improve infrastructure for innovation ecosystem.
+
+<!-- image -->
+
+7.31    While  the  focus  on  frugal  innovations,  abundance  of  scientific  manpower, strength of IT, pharma industry, vibrant start-up eco-system, and policy support have fostered innovations, India lags in R&amp;D, with a significant gap across major sectors. The gross expenditure on research &amp; development (GERD) in India has increased from approximately ₹60,196 crore in FY11 to about ₹127,381 crore in FY21 20 . However, this is 0.64 per cent of the GDP, which is insufficient and remains low compared to many countries that have forged ahead in R&amp;D.
+
+7.32  While government R&amp;D policies and interventions have been making sustained efforts, there is a need for more contribution from the private sector. The funding for R&amp;D in India is predominantly sourced from government entities.
+
+<!-- image -->
+
+7.33   In  contrast,  in  most  developed  and  emerging  economies,  business  enterprises contribute over 50 per cent to the GERD. In countries like China, Japan, South Korea, and the USA, this share exceeds 70 per cent 21 . In the USA, the private sector leads, with  companies  like  Google  and  Amazon  accounting  for  about  70  per  cent  of  R&amp;D spending 22 . China, on the other hand, has a combination of major government funding with rising private sector involvement, leading to R&amp;D spending of about 2.1 per cent of its GDP 23 .
+
+20  Research and development Statistics at a glance 2022-23.
+
+21  Ibid.
+
+22  National Science Board, 2020.
+
+23  Ibid.
+
+## BOX-VII.3: R&amp;D Incentives: A Global Comparison
+
+R&amp;D-related incentive systems vary across countries, yet there are common threads. China's strategy  is  characterised  by  significant  government  intervention.  Key  incentives  include substantial tax breaks, such as super deductions and reduced corporate income tax rates. Preferential treatment is given for innovative products and services and various financial incentives and subsidies, especially in designated economic zones. South Korea focuses on targeted R&amp;D investment with tax credits for investments in strategic technologies and new growth sectors and emphasising investment in tangible assets. The US approach relies more on market-based mechanisms and tax incentives. Key incentives include non-refundable tax credits and research credits with tax incentives for R&amp;D investments in designated zones.
+
+In  addition,  there  are  no  specific  geographic  requirements  for  IP  location  or  designated innovation zones 24 .
+
+In  India,  incentives  like  grants,  loans,  tax  exemptions,  patent-related  incentives  etc.  are given for R&amp;D. In addition to these incentives, initiatives like Start-Up India, Digital India, and the Atal Innovation Mission have been introduced to foster entrepreneurship, research, and technological advancement. To provide financial support to industries, the government has  also  created  the  Technology  Development  Board.  Many  state  governments  provide stamp duty waivers and concessions, and soft loans 25 .
+
+| R&Dincentives* 26         | India   | China   | South Korea   | United States   | Japan   |
+|---------------------------|---------|---------|---------------|-----------------|---------|
+| Grants                    |        |         |               |                 |         |
+| Loans                     |        |         |               |                 |         |
+| Patent related incentives |        |         |               |                 |         |
+| Tax credits               |         |         |              |                |        |
+| Tax deductions            |         |        |               |                 |         |
+| Tax exemption             |        |        |               |                 |         |
+| Tax holiday               |         |        |               |                 |         |
+
+24  EY Worldwide Research and Development Incentives Reference Guide 2024.
+
+25    Reforming R&amp;D incentives: Ushering in a New Era for Indian Innovation, Deloitte, June 2024.
+
+26    EY Worldwide Research and Development Incentives Reference Guide 2024 (*note: Not the exhaustive list of R&amp;D incentives).
+
+7.34   In India, not only is the industrial R&amp;D low, but it is also sectorally concentrated. Drugs  and  pharmaceuticals  led the way, followed by information technology, transportation, defence, and biotechnology.  Public sector R&amp;D is primarily driven by the defence industry, followed by the fuels and metallurgical sectors.
+
+7.35  Historically, India's R&amp;D focus has been on basic research rather than applied research. This often lacks the practical applications needed to attract private investment (DST, 2020). This gap needs to be bridged to streamline and drive innovations and investment  across  multiple  sectors.  To  bridge  this  gap,  we  need  to  foster  industryacademia  collaboration,  enhance  private-sector  participation,  and  prioritise  applied research. And the private sector needs to respond to the R&amp;D challenge wholeheartedly.
+
+<!-- image -->
+
+##

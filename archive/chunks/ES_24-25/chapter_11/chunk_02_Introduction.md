@@ -1,0 +1,107 @@
+# Introduction
+
+INTRODUCTION
+
+11.1  The virtuous cycle of economic and social development starts with sustainable and inclusive economic growth. While growth expands the economic pie, development represents the process of sustained economic progress and is a medium to long-term outcome of growth. Such growth supports inclusion by providing better and more equal opportunities, enhancing incomes, and reducing extreme poverty. Inclusive growth also improves the overall living standards of citizens of the country in terms of healthcare, education, basic necessities of life and livelihood.
+
+11.2  For growth to transition into meaningful development, sound, effective, holistic, and comprehensive policies are indispensable. Focus is required on education, health, social  security,  enhancing  employment  opportunities  through  skilling  etc.  These translate to improved quality of social and economic infrastructure in the country.  In alignment with this vision for growth-led-development, the government has adopted interventions  to  ensure  welfare  for  all.  Inclusive  economic  growth  is  central  to  the vision of Viksit Bharat 2047 .
+
+11.3  Social sector policies need to consider the complex interplay of multiple factors which  eventually  determine  their  success.  For  example,  a  policy  to  improve  school education may not be very effective without policies related to healthcare, food and nutritional  security,  access  to  transport  facilities,  and  household  income  playing  as the  contributing  factors  to  a  child  continuing  school.  Further,  policies  are  required to  aim towards empowering citizens and enhancing their capability to achieve their aspirations.  This  requires  providing  them  with  opportunities  for  self-growth  and progress. In keeping with this understanding, the focus is on all-round development to  ensure  a  better  quality  of  life  for  all  citizens  through  efficient  delivery  of  welfare measures.  Government  programmes  are  being  designed  to  reach  citizens  costeffectively, leveraging user-friendly dashboards and management information systems for real-time monitoring, promoting transparency and accountability.
+
+## Trend in social services expenditure
+
+11.4  The general government's social sector expenditure has been keeping pace with the sector's growing importance. The general government's social services 1  expenditure (SSE) has shown a rising trend since FY17. The SSE as a percentage of total expenditure (TE) has increased from 23.3 per cent in FY21 to 26.2 per cent in FY25 (BE). The social services expenditure witnessed an increase of 21 per cent in FY24 (RE) over FY23 and another 10 per cent increase in FY25 (BE) over FY24 (RE). During the five years from FY21 (pandemic year) to FY25 (BE), the SSE grew at a CAGR of 15 per cent. While the SSE outlay of the centre and state governments was ₹14.8 lakh crore in FY21, it has increased steadily to stand at ₹25.7 lakh crore in FY25 (BE). Expenditure on education has grown at a CAGR of 12 per cent from ₹ 5.8 lakh crore in FY21 to ₹ 9.2 lakh crore in FY25 (BE). 2 Expenditure on health grew at CAGR 18 per cent from ₹ 3.2 lakh crore in FY21 to ₹ 6.1 lakh crore in FY25 (BE). 3
+
+1   Social services include, education, sports, art and culture; medical and public health, family welfare; water supply and sanitation; housing; urban development; welfare of SCs, STs and OBCs, labour and labour welfare; social security and welfare, nutrition, relief on account of natural calamities etc.
+
+2  Expenditure on 'Education' pertains to expenditure on education, sports, arts and culture.
+
+3  Expenditure on 'Health' includes expenditure on 'Medical and Public Health', 'Family Welfare' and 'Water Supply and Sanitation'.
+
+## Chart XI.1: Trends in social service sector expenditure by government (combined Centre and States)
+
+<!-- image -->
+
+## Chart XI.2. Expenditure on education and health
+
+GLYPH&lt;c=3,font=/YQNKUC+Calibri&gt;
+
+<!-- image -->
+
+Sources: Budget Documents of Union and State Governments.
+
+Note: *The Ministry of Education (MoE), Government of India, also calculates the General Government spending on education. While RBI's data on Education expenditure incorporates the spending incurred by Centre and States on 'Education, Sports, Arts, and culture, MoE's estimates also include expenditure incurred on medical and public health education, agriculture research and education, welfare of SC, ST, OBC &amp; Minority's education, other scientific research &amp; development, Education under social security, Nutritious food expenditure under mid-day  meal,  expenditure  on  imparting  training  to  police,  Labour  employment  and  skill  development expenditure, education/training expenditure under rural development Programmes etc. This leads to a higher estimate of expenditure on education. The latest available estimate is for the year 2021-22 (BE).
+
+## Household Consumption Expenditure Survey 2023-24
+
+11.5  The results of the Household Consumption Expenditure Survey (HCES) 2023-24 4 highlights  the  narrowing  urban-rural  gap  in  consumption  expenditure.  The  average monthly  per  capita  expenditure  (MPCE)  in  rural  and  urban  India  in  2023-24  is
+
+4  The survey period is August 2023 to July 2024. (https://tinyurl.com/syyuey62)
+
+estimated at ₹4,122 and ₹6,996, respectively. 5  Considering the imputed values of items received free of cost through various social welfare programmes, these estimates rise to ₹4,247 and ₹7,078, respectively, for rural and urban areas. 6  The urban-rural gap in MPCE has declined to 71 per cent in 2022-23 from 84 per cent in 2011-12. It has further come down to 70 per cent in 2023-24, which confirms the sustained momentum of consumption growth in rural areas.
+
+<!-- image -->
+
+11.6  Social  sector  initiatives  have  reduced  inequality  and  increased  consumption spending,  as  reflected  in  the  survey.  The  Gini  coefficient  improved  for  rural  areas (declined to 0.237 in 2023-24 from 0.266 in 2022-23) and urban areas (declined to 0.284 in 2023-24 from 0.314 in 2022-23). The bottom 5 per cent of the rural population, ranked by MPCE, has an average MPCE of ₹1,677, compared to ₹2,376 in urban areas. The top 5 per cent have average MPCEs of ₹10,137 in rural and ₹20,310 in urban areas.
+
+11.7    The  largest  growth  in  average  MPCE  between  2022-23 and 2023-24 occurred among the bottom 5-10 per cent  of  the  population  in  both  rural  and  urban  areas. The bottom 5 per cent of the rural population saw a 22 per cent increase, while the corresponding urban segment experienced 19 per cent growth in the MPCE.
+
+11.8  The Economic Survey 2023-24 (chapter 7) highlighted how the welfare policies of the government and the social sector initiatives have resulted in the reduction of inequality marked by rising consumption expenditure, as evident from the results of
+
+5  The figures do not consider the values of items received free of cost by the households through various social welfare programmes.
+
+6  (i) food items: Rice, Wheat/Atta, Jowar, Bajra, Maize, Ragi, Barley, Small Millets, Pulses, Gram, Salt, Sugar, Edible Oil and (ii) non-food items: Laptop/PC, Tablet, Mobile Handset, Bicycle, Motor Cycle/Scooty, Clothing (school uniform), Footwear (school shoe etc.) received free of cost by the households through government programmes, have been imputed. Accordingly, another set of estimates of MPCE considering imputed values of these items and of consumption out of home produce, free collection, gifts, loans etc. has also been compiled for HCES: 2023-24.
+
+the HCES 2022-23. Fiscal policies of the government are playing a key role in reshaping income distribution, inter-alia, through the provision of subsidies, pensions, and other direct transfers, as well as public spending on social services such as education and health.  Various  government  welfare  schemes  such  as  free  foodgrain  or  subsidised availability  of  foodgrains,  subsidised  cooking  fuel,  insurance  cover,  etc,  are  lifting household incomes. These fiscal transfers help to provide additional resources to the financially deprived sections and, thus, favourably impact people's standard of living. 7 As an example, building upon the learnings of the HCES, a study by the World Bank 8 presents evidence of the re-distribution impact of the Public Distribution System (PDS).
+
+Box XI.1 discusses this evidence.
+
+## Box XI.1:  Evidence on the distribution of benefits from the PDS
+
+Food subsidies constitute the largest fiscal outlay in the government's large set of social schemes. In 2022-23, Union government spent 6.5 per cent of its budget on the PM Pradhan Mantri Garib Kalyan Anna Yojana (PMGKAY) to provide free and subsidised food rations. As  food  subsidies  were  expanded  (and  consolidated  under  the  PMGKAY)  as  part  of  the emergency fiscal response to COVID-19, the Union food subsidy bill increased from 0.5 per cent to one per cent of GDP between FY19 and FY23. Microdata from the HCES 2022-23 confirm that most households currently purchase food rations-at a subsidised price or free of cost-via the PDS and PMGKAY entitlements. The widespread coverage of ration cards protects low income and vulnerable populations.
+
+The  survey  also  provides  insights  into  the  allocation  of  these  benefits  across  different segments of the population. In 2022-23, 84 per cent of the population had access to a ration card, including 59 per cent who reported holding a Below Poverty Line (BPL), Antyodaya Anna Yojana (AAY),  or  Priority  Household  (PHH)  card  in  their  household.  In  practice, 74 per cent of the population actively consumes food rations (or kerosene) via the PDS/ PMGKAY, with rice and wheat as the most commonly consumed food. Coverage of ration cards is higher in rural areas (at 89 per cent of the population) compared to urban areas (72 per cent).
+
+## The PDS/PMGKAY rations improve welfare
+
+An imputation exercise was conducted 9 based on HCES microdata to evaluate the welfare gains from PDS-related consumption. The results suggest that the market-equivalent value of the PDS/PMGKY subsidy equals four per cent of the (final or post-subsidy) nominal
+
+7   For more detailed discussion on this aspect, refer to Chapter 2, 'Perspectives on the Inequality Debate in India', of  the  Ministry  of  Finance's  publication,  'RE-EXAMINING  NARRATIVES:  A  Collection  of  Essays',    https:// tinyurl.com/2nt6mubz
+
+8 This work was undertaken by World Bank staff, under the Taskforce on Indian Statistical System led by the NITI Aayog.
+
+9 Following international best practices, the unitary value of food rations and kerosene consumption obtained via the PDS/PMGKAY, in 2011-12 and 2022-23, are imputed. The methodology aims to find an equivalent valuation of the PDS/PMGKAY items (paid at subsidised prices or received free of cost) in the local market economy for each household consuming rations in the survey.
+
+monthly consumption expenditure per capita (MPCE), on average, across all households. 10 The relative subsidy is higher in rural (four per cent) than in urban areas (two per cent). The imputed average subsidy is also equivalent to 7 per cent of (post-subsidy) food consumption (eight per cent among rural households). The average PDS benefits increased in 2022-23, relative to three per cent in 2011-12.
+
+The imputation exercise suggests that the benefits (expressed relative to consumption) are higher among lower consumption groups. In 2022-23, the value of the subsidy accounted, on average, for seven per cent of household consumption among the rural bottom 20 per cent but only for two per cent among the top 20 per cent. A similar progressive pattern is observed in urban areas. The benefits are seen to decrease for higher consumption groups but remain positive. Across all quintiles, the relative benefits have increased since 201112. Finally, the PDS subsidy was also progressive in absolute terms. The subsidy amount (rupees per capita) was higher among lower-income and rural households and lower among higher quintiles and urban households. The concentration of larger benefits among lower consumption groups suggests that the PDS/PMGKAY policies support the low income and protect other vulnerable households against income fluctuations and impoverishment.
+
+11.9    Box XI.2 offers a clearer insight into the consumption patterns and choices of rural  households benefiting from direct benefit transfers (DBTs) and women in the target population obtaining loans from self-help groups (SHGs) based on findings from a primary survey. 11   The survey was conducted in selected districts of Bihar, Jharkhand, Madhya Pradesh, and Uttar Pradesh in November 2024.
+
+## Box XI.2: Consumption choices of rural households: Direct benefit transfers and self-help groups
+
+To better understand the consumption choices of rural households, a survey was conducted among married women aged 25 to 45 in rural areas who were relatively less financially privileged.  The  survey  focused  on  those  receiving  loans  from  SHGs,  representing  a population poorer than the average Indian population.  The survey aimed to explore key aspects of women's labour force participation, household decision-making, and the impact of welfare schemes.
+
+The survey asked respondents about their access to government schemes (e.g., Jal Jeevan Mission, PM Kisan Samman Nidhi, Ayushman Bharat, Swachh Bharat Mission - Grameen) and how they utilised funds when the schemes were delivered in cash, such as direct deposits into their or a household member's account. In total, 59 per cent of respondents reported that
+
+10    The average subsidy is calculated across all Indian households. Considering only those households that consumed PDS items over the past 30 days, the market-equivalent value of the PDS subsidy is equivalent to 5 per cent of their (post-subsidy) MPCE or 10 per cent of (post-subsidy) food MPCE.
+
+11    Artha  Global's  Centre  for  Rapid  Insights  (CRI)  conducted  a  survey  of  approximately  2400  married  women between the ages of 25 and 45 in rural areas, who were relatively less financially privileged, in selected districts of Bihar, Jharkhand, Madhya Pradesh, and Uttar Pradesh in November 2024.
+
+The sample population is poorer than the Indian population on average. This demographic group was chosen for study because an increased female labour force participation rate (FLFPR) has been observed among this group. Furthermore, as a popular target for DBTs and cash as well as loans through SHGs from both the Centre and various state governments, a survey of this group allows for an analysis of patterns of consumption due to cash transfers and loans.
+
+the  primary  benefit  of  government  schemes  was  an  increase  in  the  quality  of  life.  In comparison,  another  19  per  cent  reported  that  the  primary  benefit  was  more  time  for economic activity. Evidence shows that government schemes have spurred consumption and income-generating activity in low-income households. The prevalence of cash schemes is also very high among the surveyed households, with 77 per cent of households receiving cash from either the centre or a state government, indicating a preference towards cash schemes among economically vulnerable households. The data suggests that economically disadvantaged households demonstrate a preference for cash schemes, likely attributable to the financial empowerment facilitated by the schemes.
+
+These cash transfers are relatively universal and typically impose low levels of conditionality; that is, cash is often given as a function of government-verified social attributes rather than hard-to-monitor behaviours by the household. From a theoretical perspective, it is often argued that imposing strong conditions on cash receipts denies households the ability to use cash where they most need to use it.
+
+The data show sophisticated expenditure patterns from household cash benefits. Overall, 44 per cent of the surveyed households spend the money on increased food consumption, and another 31 per cent spend primarily on non-food consumption (e.g., electricity, water), savings, or loan repayments, while 14 per cent spend on house repair.
+
+However,  there  is  a  significant  variation  in  expenditure  patterns  by  wealth.  Among  the 10 per cent of 'better off' households in the sample, 52 per cent primarily spend on food consumption, and less than 20 per cent primarily spend on non-food consumption, savings, or loan repayments. Among the remaining households, 43 per cent primarily spend on food consumption, and 32 per cent primarily spend on non-food consumption, savings, or loan repayments - suggesting far more diverse expenditure patterns among the less well-off sections of society, bearing in mind that the entire sample itself consists of less financially privileged households.
+
+A significant share of the sample (37 per cent) is engaged in SHGs. Among those in SHGs, 78 per cent have received a loan. While household consumption (34 per cent) is the most reported usage for SHG loans, there is significant usage for health expenditure (22 per cent), starting businesses (19 per cent) and agricultural expenditure (19 per cent). Relatively low use for education (3 per cent) may point to the success of DBTs provided for education.
+
+This highlights the consumption benefits of cash transfers and loans to targeted poorer and lower-income households. These households report using the funds for various basic needs and debt repayments. The exercise reinforces the case for replacing in-kind subsidies with direct and targeted cash transfers.
+
+11.10 Against  this  background,  the  chapter  highlights  the  progress  made  by  the economy in terms of economic well-being and presents certain challenges on the way. Section 1 discusses the education initiatives with a focus on foundational literacy and numeracy (FLN), the integration of social and emotional learning (SEL) in the school curriculum, and the importance of digital literacy in a technology-driven world. The section also addresses higher education challenges faced in medical education and the
+
+role of regulation. Section 2 presents the situation in the health space in the country, its  progress, and challenges. It further highlights the role of disruptive technologies in providing equitable healthcare and the impact of lifestyle choices on mental wellbeing. Section 3 explores the

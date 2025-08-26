@@ -1,0 +1,11 @@
+# Crop Production: Incentivising Productivity Increase, Crop Diversification and Efficiency in the Use of Inputs
+
+CROP PRODUCTION: Incentivising productivity increase, crop diversification and efficiency in the use of inputs
+
+9.10 Despite the increase in crop production, further enhancements in productivity across  various  crops  and  regions  are  vital  for  boosting  performance  and  positively influencing farmers' incomes. Productivity is closely linked to on-farm and post-harvest inputs such as improved access to quality seeds, better irrigation facilities, efficient water management practices, effective extension services, soil health improvements, modern post-harvest infrastructure, and accessible markets. Additionally, agricultural price policies play a crucial role in facilitating informed decision-making by protecting farmers from market price volatility and encouraging them to diversify their crops, promoting sustainable agricultural practices.
+
+<!-- image -->
+
+9.11    The  Minimum  Support  Price  (MSP)  for  essential  crops  such  as  wheat,  rice, pulses, oilseeds, and nutri-cereals acts as a safety net for farmers, reassuring them of a guaranteed minimum price for their crops from the government. This mechanism also serves as a guiding signal for farmers in planning their future crop compositions. In the Union Budget of 2018-19, the government decided the principle of fixing MSP at a level of at least 1.5 times the weighted average cost of production for these crops. The support provides the necessary returns to promote sustainable farming practices and encourage farmers to focus on cultivating key crops. The government has raised the MSP for nutri cereals (Shree Anna), pulses, and oilseeds as part of these initiatives. For the fiscal year FY25, the MSP for arhar and bajra has been increased by 59 per cent and 77 per cent over the weighted average cost of production, respectively. Moreover, the MSP for Masur has risen by 89 per cent, while rapeseed has seen an impressive increase of 98 per cent.
+
+##

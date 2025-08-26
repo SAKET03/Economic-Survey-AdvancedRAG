@@ -1,0 +1,154 @@
+# Balance of Payments: Resilience Amid Challenges
+
+BALANCE OF PAYMENTS: RESILIENCE AMID CHALLENGES
+
+3.43   Against  the  backdrop  of  uncertainties  in  the  external  trade  and  investment environment, India's Balance of Payments (BoP) position has remained stable, led by resilient services exports, benign crude oil prices, renewed foreign portfolio inflows, and a revival in FDI flows. These trends are discussed in this Section.
+
+## Current account
+
+3.44  India's current account deficit (CAD) moderated slightly to 1.2 per cent of GDP in Q2 of FY25 against 1.3 per cent of the GDP recorded in Q2 of FY24. The recent rise in the CAD can be attributed to an increase in the merchandise trade deficit, which rose to USD 75.3 billion in Q2 of FY25 from USD 64.5 billion in the corresponding quarter of the previous year. The rising net services receipts and increase in private transfer receipts cushioned the expansion in the merchandise trade deficit. Net service receipts increased to USD 44.5 billion in Q2 of FY25 from USD 39.9 billion in the corresponding quarter in FY24.
+
+<!-- image -->
+
+GLYPH&lt;c=3,font=/YQNKUC+Calibri&gt;
+
+Source: RBI press release on developments in India's Balance of Payments during the second quarter (JulySeptember) of 2024-25
+
+<!-- image -->
+
+3.45 India's CAD has remained relatively contained compared to other G20 economies, such as Brazil and Australia, which have faced similar external pressures, including higher commodity prices and weaker global demand.
+
+3.46 Private transfers, mainly driven by remittances by Indians employed overseas, formed the bulk of net transfers, growing steadily from USD 28.1 billion in Q2 of FY24 to USD 31.9 billion in Q2 of FY25. This growth reflects the continued strength of India's diaspora and robust remittance inflows despite global economic uncertainties.
+
+## Capital and Financial Account
+
+3.47   The Capital and Financial Account is a vital segment of the BoP, serving as the primary mechanism for financing the CAD and strengthening foreign exchange reserves. Over the period from Q1 of FY23 to Q2 of FY25, India has generally recorded surpluses in  the  capital  account, largely driven by robust inflows from FDI, FPI, and external loans. These inflows have supported the country's external position and contributed to building foreign exchange reserves.
+
+GLYPH&lt;c=3,font=/YQNKUC+Calibri&gt;
+
+<!-- image -->
+
+Source: RBI press release on developments in India's Balance of Payments during the second quarter (JulySeptember) of 2024-25
+
+3.48   The  growth  trajectory  of  capital  inflows  has  shown  signs  of  revival  in  recent quarters. In Q2 of FY25, net capital inflows stood at USD 30.5 billion, a significant increase from the USD 12.8 billion recorded during the same period in the previous year. This rise can be primarily attributed to increased FPI inflows, external commercial borrowings, and NRI deposits.
+
+## Performance of FDI flows
+
+3.49  FDI recorded a revival in FY25, with gross FDI inflows 88  increasing from USD 47.2 billion in the first eight months of FY24 to USD 55.6 billion in the same period of FY25, a YoY growth of 17.9 per cent.
+
+<!-- image -->
+
+GLYPH&lt;c=3,font=/YQNKUC+Calibri&gt;
+
+GLYPH&lt;c=3,font=/YQNKUC+Calibri&gt; 88  Based on the FDI data released by the RBI.
+
+GLYPH&lt;c=3,font=/YQNKUC+Calibri&gt;
+
+GLYPH&lt;c=3,font=/YQNKUC+Calibri&gt;
+
+3.50 Over the long term, FDI inflows into India have surpassed the USD 1 trillion mark from April 2000 to September 2024, solidifying the country's position as a safe and significant global investment destination. According to data from the Department for Promotion of Industry and Internal Trade (DPIIT) 89 , the cumulative FDI inflows, which  include  equity  inflows,  reinvested  earnings,  and  other  capital,  reached  USD 1,033.4 billion during this period.
+
+3.51 From a sectoral perspective, the services sector 90 remains the largest recipient of FDI, accounting for 19.1 per cent of total equity inflows in H1 of FY25. Other significant sectors attracting foreign investments include computer software and hardware (14.1 per cent), trading (9.1 per cent), non-conventional energy (7 per cent), and cement &amp; gypsum products (6.1 per cent). 91  Despite the short-term volatility in global markets, triggered by factors such as inflationary pressures, rising interest rates in developed economies, and geopolitical tensions, the long-term outlook for FDI in India remains favourable.  India's  robust  economic  fundamentals,  ongoing  structural  reforms,  and growing consumer market position make it a key destination for foreign investments.
+
+<!-- image -->
+
+3.52    FDI into India has recently been scrutinised due to concerns about declining inflows.  However,  a  broader  analysis 92 reveals  that  FDI  flows  globally  have  been hampered by economic uncertainty, geopolitical tensions, and rising borrowing costs. Even though gross FDI inflows to India have increased in the first eight months of FY25, it has been accompanied by a rise in repatriations as international companies realised returns from investments. Many multinational companies have capitalised on India's strong stock market through secondary sales and Initial Public Offerings, indicating investor  confidence.  In  2024,  private  equity-backed  exits  increased,  supported  by India's  stable  macroeconomic  environment  and  investor-friendly  policies.  As  per Avendus  Spark  analysis  based  on  DPIIT  data,  Private  Equity  and  Venture  Capital exit from Indian stock markets stood at USD 19.5 billion from January to September 2024, higher than USD 18.3 billion in the corresponding period of the previous year. 93 The depth and resilience of the Indian capital market offer profitable exits for direct investors, boosting future investments. 94
+
+3.53  India remains a strong destination for FDI, ranking high in greenfield project announcements and international project finance deals. However, the country has to pay heed to numbers. As per the data published by RBI, net FDI to India during the first eight months of FY25 stood at USD 0.48 billion compared to USD 8.5 billion in the corresponding period of FY24. 95  Similarly, for FY23, the figure stood at USD 19.8 billion. For FY24 as a whole, the net FDI was USD 10.1 billion. The last two financial years have indeed seen much larger repatriation from India. The amounts were USD 29.3 billion and USD 44.5 billion, respectively, in FY23 and FY24. In the current year, up to November, the repatriation amount is USD 39.6 billion. At this rate, the full-year figure might exceed last year's figure.
+
+3.54  To a large extent, this is a success story as foreigners take profits. Second, much of it was sold to portfolio investors. In other words, the large portfolio inflows in FY24 were the other side of the coin of large repatriation. At a gross level, FY23 and FY24 have seen a decline in gross FDI, including earnings retained in India. This has broken the steadily rising trend seen since FY14. The period between FY13 and FY22 witnessed
+
+92    'Behind India's growth over last 10 yrs-increase in repatriations, steady FDI inflows'. https://tinyurl.com/2tt3pxsf.
+
+93    Avendus Spark Strategy-Macro Alert-Net FDI inflows fall to a record low in H1 of FY25, https://www.avendus. com/india/reports.
+
+94  https://www.ft.com/content/0575e216-8dae-4df6-bf50-312f78468e99.
+
+95    Net FDI is calculated as follows: -
+
+- (1) FDI by foreigners: Foreign direct investment inflows+retained earnings-repatriation
+- (2) FDI by Indians: Indian investment overseas +retained earnings-repatriation
+
+(3) The net FDI figure: (1)-(2)
+
+- (4) Then, there are Portfolio Investment flows: -
+- (5) Foreign  Portfolio  Investors'  net  flows  -  Indians'  Portfolio  Investment  (Indians'  portfolio  investment overseas is small)
+- (6) Total Investment flows: (1)-(2) +(3)
+
+ultra-low interest rates and quantitative easing policies in the developed world. The cost of funds was much lower. Interest rates in developed countries rose sharply in 2022 and 2023. The Federal Funds Rate topped 5 per cent. Other Asian countries such as Thailand, Malaysia and Indonesia also witnessed declines in inward FDI in 2023, according to UNCTAD.
+
+3.55  However, India runs a CAD, and its investment needs are much larger considering the size of its economy. Supplementing domestic savings with reasonably large foreign savings expands the scope for capital formation. If, for various reasons, capital flows are going to be problematic, it raises questions as to the level of sustainable CAD for India. It may not be 2.5 per cent to 3 per cent as before, but it is much lower. It used to be said that a country can run as large a CAD as the Rest of the World (RoW) is willing to finance. If the RoW is unwilling or unable to do so for various reasons, then the size of the CAD will have to be lower. Developed countries, too, are wooing investments, and India is not competing with other emerging economies alone. So, India has two options.
+
+3.56  One, we must pull out all the stops wooing FDI and making itself more attractive for  foreign  investors.  India  has  been  doing  so.  For  example,  most  sectors  in  the country are open for foreign investors under the automatic route. The large amount of repatriations, as witnessed in the data, also suggests that it is easy to transfer the returns on investment made in India. However, there is room to improve tax certainty and  tax  stability  in  matters  such  as  APA  (Advance  Pricing  Agreement).  India  has simplified many of its laws, rules and regulations over the years leading to a regime shift in terms of the ease of doing business compared to yester years. At the same time, all statutory and regulatory authorities must bear in mind that international investors benchmark countries cross-sectionally and not longitudinally. That will determine the success of the government's goal to make global companies produce in India for the world, making India a part of the global supply chain.
+
+3.57    The  second  option  is  to  make  the  available  and  existing  investments  deliver more. In other words, if the investment rate cannot be increased because of capital constraints, then investment efficiency has to go up. That is where deregulation and 'Ease of Doing Business' come into play. That is why the main theme of this Survey is about deregulation.  Therein  lies  the  clue  to  improving  India's  investment  efficiency.  Most of the chapters peer into regulations and recommend deregulation. The deregulation theme is explored in greater detail in Chapter 5.
+
+## Performance of Portfolio flows
+
+3.58  FPIs became net buyers in the Indian equity market starting in June 2024 after being sellers in the first two months of FY25. This trend continued until September 2024, showcasing a clear preference for Indian equities as FPIs injected substantial capital into the market over those months. However, this trend reversed in October and the first  half  of  November  2024,  resulting  in  a  net  outflow  of  USD  11.5  billion and 2.5 billion, respectively. Factors such as concerns about slowing earnings growth, high valuations, rising geopolitical tensions, and recent developments in China 96  led FPIs to withdraw significant funds from Indian equities. However, during the latter half of November 2024, FPIs became more optimistic about the Indian stock market, reversing  the  significant  selling  seen  in  October  and  early  November  2024.  This positive trend in FPI inflows continued in December 2024, with net inflows amounting to USD 3.1 billion in December 2024. Factors such as India's strong macroeconomic fundamentals,  favourable  business  environment  and  robust  economic  growth  have encouraged investors to reverse the outflow trend. On a cumulative basis, the net FPI inflows 97  into India slowed to USD 10.6 billion from April to December 2024 from USD 31.7 billion during the same period the previous year. The volatility in portfolio flows underscores  the  susceptibility  of  equity  and  bond  markets  to  global  developments. However, the sound economic and corporate fundamentals in India underpin the longterm attractiveness of the Indian equity market for foreign investors.
+
+<!-- image -->
+
+3.59  The inclusion of Indian Government Bonds (IGB) in some global bond indices this year has significantly supported debt inflows. Since the announcement of inclusion in JP Morgan index in October 2023, there has been heightened activity in the FPI debt segment with cumulative flows of ₹ 1.1 lakh crore from October 2023 to June 2024. Post effective date of inclusion, FPIs invested ₹ 62,431 crore in the debt segment from July to November 2024. Assets under custody, which reflects the total market value of the holdings, shows that FPI's cumulative investment in Fully Accessible Route (FAR) securities crossed the USD 20 billion mark within nine months of the announcement of their inclusion in the JP Morgan EM Bond Index. In FY25, as of 15 December 2024, inclusion already resulted in a net inflow of more than USD 3 billion in Indian FAR bonds, with assets under custody of India FAR bonds standing at USD 28 billion as of 15 December 2024. 98
+
+3.60  Since the investor sentiment/perception of the trajectory of Fed rates and the interest rate differentials are the key drivers of FPI flows in India, it will be interesting to analyse the trends in FPI debt flows and the yield differential between India and the US. Chart III.17 compares the FPI debt flows and the yield gap between India and US10 year yields, which shows that a widening yield differential in India's favour leads to higher inflows (November 2023 to March 2024) and vice-versa. India's strong growth fundamentals  and  range-bound  inflation  also  made  it  a  preferred  choice  amongst foreign investors despite the narrowing yield differentials seen from May to July 2024.
+
+<!-- image -->
+
+<!-- image -->
+
+3.61   The increase in demand for India's G-Secs is also set to have a positive externality in terms of lowering the borrowing costs for the government as the yields soften due to heightened demand and limited supply dynamics. The preliminary impact of this is  already  visible  in  the  Indian  10Y  G-Sec  yields.  The  inclusion  of  Indian  bonds  in global indices signals a growing appetite amongst foreign investors to include Indian government securities in their investment portfolios, trust in India's growth prospects, and financial stability in the Indian markets.
+
+## Others
+
+3.62  NRI deposits, external commercial borrowings (ECBs), and short-term trade credit have contributed additional buffers to India's capital account, though each component exhibits varying degrees of stability. ECBs have shown an upward trajectory in recent months, with net inflows rising to USD 9.2 billion from April to October 2025, up from USD 2.8 billion in the corresponding period of the previous year, reflecting a greater appetite  for  borrowing  from  foreign  sources.  Similarly,  Non-Resident  Indian  (NRI) deposits have also surged significantly, with net inflows increasing to USD 10.2 billion during H1 of FY25, compared to USD 5.4 billion in the same period of the previous year. This growth can be attributed to continued strong remittance inflows and a favourable exchange rate environment, which incentivised NRIs to park their savings in India.
+
+## Foreign Exchange Reserves
+
+3.63  India's foreign exchange reserves comprise foreign currency assets (FCA), gold, special drawing rights (SDRs) and reserve tranche position (RTP) in the IMF. After surpassing the USD 700 billion benchmark, India's foreign exchange reserves moderated to USD 640.3 billion as of the end of December 2024. The reserves are sufficient to
+
+cover  approximately  90  per  cent  of  India's  external  debt  of  USD  711.8  billion  as  of September 2024, reflecting a strong buffer against external vulnerabilities. As of 2024, India has secured its place among the world's largest foreign exchange reserve-holding countries, ranking 4th globally, following China, Japan, and Switzerland. Supported by net positive capital inflows, India's forex reserves witnessed a notable increase of USD 27.1 billion in 2024. FCA constituted the bulk of this increase, strengthening India's overall reserve position.
+
+3.64   The import cover, a crucial indicator of external sector stability, stood at 10.9 months as of December 2024. This increase enhances India's ability to weather external shocks, with reserve adequacy significantly surpassing the IMF's recommended threemonth import cover for emerging economies. 99  The BoP surplus of USD 63.7 billion in FY24, supplemented by a modest valuation gain of USD 4.3 billion, was the key driver of this improvement. In H1 of FY25, forex reserves rose by USD 59.4 billion, driven by a BoP surplus of USD 23.9 billion and a valuation gain of USD 35.5 billion.
+
+<!-- image -->
+
+3.65   A  global  rise  in  uncertainty  has  led  to  fluctuations  in  the  composition  of foreignexchange reserves. CY24 saw gold bullion holdings nearing their highest level since World War II, which was largely driven by an accumulation of gold by emerging market central banks. 100  As per the IMF, steady changes are underway in the global reserve  system,  including  a  gradual  movement  away  from  dollar  dominance  and  a rising role of non-traditional currencies. 101
+
+99  IMF survey: Assessing the need for Foreign Currency Reserves, https://tinyurl.com/3knsb5se. 100  IMF, Dollar Dominance in the International Reserve System: An Update 2024, https://tinyurl.com/26dn5sxr. 101  Ibid note 100.
+
+## Exchange Rate
+
+3.66   The  value  of  the  Indian  Rupee  (INR)  is  market-determined, with no target or specific level or band. Various domestic and global factors influence the exchange rate of the INR, such as the movement of the Dollar Index, trends in capital flows, level of interest rates, movement in crude prices, current account deficit, etc. In the first nine months of FY25 (up to 6 January 2025), the INR depreciated a modest 2.9 per cent, performing better than currencies such as the Canadian Dollar, South Korean Won and the Brazilian Real, which depreciated by 5.4 per cent, 8.2 per cent and 17.4 per cent, respectively, during the same period. One of the primary factors behind the rupee depreciation during 2024 has been the broad-based strengthening of the USD amidst geopolitical tensions in the Middle East and uncertainty surrounding the US election.
+
+<!-- image -->
+
+Source: IMF
+
+Note: The euro (€) is the official currency of 20 out of 27 EU member countries constituting the Eurozone, officially called the euro area.
+
+To determine currency appreciation or depreciation, the representative exchange rates of major countries are expressed in currency units per U.S. dollar. Exceptions, marked with (1), are presented as U.S. dollars per currency unit.
+
+<!-- image -->
+
+3.67  After adopting the floating exchange rate regime, Effective exchange rates have become a prominent measure of external competitiveness of an economy's tradable sector  relative  to  the  foreign  tradable  sector.  The  Nominal  Effective  Exchange  Rate (NEER)  for  the  INR  remained  stable  in  the  90-92  range  from  April  to  November 2024, indicating relative stability in the currency amidst external uncertainties. The Real  Effective  Exchange  Rate  (REER),  which  reflects  the  real  purchasing  power  of the  currency,  steadily  appreciated  from  103.2  in  April  2024  to  107.2  in  December 2024.
+
+## External debt position
+
+3.68  India's external debt has remained stable over the past few years. A stable external debt position has helped maintain external sector stability, significantly when the rest of the world is affected by geopolitical headwinds. The external debt to GDP ratio rose slightly from 18.8 per cent of the GDP at the end of June 2024 to 19.4 per cent at the end of September 2024. The share of short-term debt (with original maturity of up to one year) in total external debt decreased to 18.8 per cent at the end of September 2024 from 19.4 per cent at the end of June 2024. Similarly, its ratio to foreign exchange reserves decreased to 18.9 per cent at the end of September 2024 from 20.3 per cent at the end of June 2024. Across currencies, the external debt remained primarily denominated in the US Dollar (53.4 per cent), followed by the INR (31.2 per cent), SDR (5 per cent), and the Euro (3 per cent).
+
+<!-- image -->
+
+Source: DEA press release: India's External Debt Report for Quarter ending September 2024
+
+Note: PR - Partially Revised, P-Provisional; ED - External Debt, FER-Foreign Exchange Reserves, TED - Total
+
+External Debt, STED - Short Term External Debt
+
+## OUTLOOK
+
+3.69   India's  external  sector  has  performed  well  amidst  unfavourable  geopolitical conditions. On the current account front, though merchandise exports have displayed moderate  growth  owing  to  a  slowdown  in  external  demand,  merchandise  imports have shown remarkable growth supported by strong domestic demand. Increased net services receipts and growing remittances have cushioned the rise in the merchandise trade deficit. On the capital front, the economy has been witnessing net positive capital inflows. Gross FDI inflows have shown a higher growth in the first eight months of FY25 compared to the corresponding period of the previous year. However, a surge in repatriation has reined in the expansion in net FDI. FPI inflows have shown volatility in the first nine months of FY25, showing mixed trends.
+
+3.70  Global trade dynamics have changed significantly in recent years, shifting from globalisation to rising trade protectionism, accompanied by increased uncertainty. This calls for a new strategic trade roadmap for India. To remain competitive and enhance its participation in global supply chains, India must continue reducing trade costs and improving facilitation to boost export competitiveness. Much remains to be done to enhance trade competitiveness. The good news is that doing so is entirely in our hands. On its part, the industry must continue to invest in quality.
+
+3.71   The state produces governance, and the private sector produces goods and services. If both these actors focus on quality and efficiency, then despite the trade tensions and protectionism that are likely to come in the way of expanding global trade, India can increase its share in overseas markets and generate resources to sustain a higher level of capital formation. Then, it will be possible for us not just to dream of but actually realise higher economic growth rates on a sustained basis.

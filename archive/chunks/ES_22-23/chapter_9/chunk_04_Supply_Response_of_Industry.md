@@ -1,0 +1,82 @@
+# Supply Response of Industry
+
+Supply Response of Industry
+
+- 9.7 The supply  response  of  the  industry  to  the  demand  stimulus  has  been  robust,  as  seen in  high-frequency  indicators.  The  PMI-Manufacturing,  for  example,  has  remained  in  the expansionary zone for 18 months since July 2021. In December 2022, the sub-indices of the PMI-Manufacturing  indicated  an  easing  pace  of  input  cost  pressures,  improving  supplier delivery times, robust export orders, and future output. The moderation in input cost inflation has also led to an easing in the momentum of output prices. However, the pace of expansion in new export orders decreased, reflecting a subdued global demand.
+- 9.8 The sustained growth of manufacturing output is also seen within the overall IIP producing consumer  durables  in  sync  with  the  'pent-up'  consumption  demand.  Robust  growth  in  the production of capital goods and infrastructure/construction goods is indicative of the beginnings of an investment cycle in the private sector in the next financial year.
+
+Figure IX.2: PMI Manufacturing remains in expansionary zone
+
+<!-- image -->
+
+Figure IX.3: Sub-indices of IIP growing at a healthy pace (apr-Nov)
+
+<!-- image -->
+
+Source: IHS Markit
+
+Source: MoSPI
+
+9.9 The eight core industries of coal, fertilisers, cement, steel, electricity, refinery products, crude oil, and natural gas are critical in meeting the demand for inputs across industries. The growth in these industries has held steady, reflecting a broad momentum in industrial activity. Their growth underscores the importance that nations have been attaching to the indigenous presence of core capacities in the aftermath of the pandemic and the Russia-Ukraine conflict breaking down the global supply chain.
+
+Figure IX.4: Steady Growth in components of Index of core Industries
+
+<!-- image -->
+
+Source: Department for Promotion of Industry and Internal Trade (DPIIT)
+
+9.10 Growth in industrial output would have been higher, but for some constraints it faced in the first half of FY23. Seasonality has contributed to constraining the growth of production in respect of mining and quarrying, and construction, as total rainfall in Q2 of FY23 was about 12 per cent higher than in Q2 of FY22. Further, as higher rainfall cooled temperatures, electricity demand fell, and hence output rose by less than 5 per cent in Q2 of FY23 over Q2 of FY22.
+
+Figure IX.5: Gva construction (a proxy for construction output) constrained by Higher Rainfall
+
+<!-- image -->
+
+Source: MoSPI
+
+9.11 Manufacturing output appears to have been constrained by a large build-up in inventory. For five consecutive quarters ending in Q2 of FY23, an increase in stocks had accumulated to more than 1.3 per cent of the annual GDP. A typical cycle of change-in-stocks juxtaposed with the growth of manufacturing GVA (a proxy for manufacturing output) suggests that the buildup of stock allows manufacturing to slow its pace with the accumulated stock meeting current demand. When stocks start shrinking, manufacturing output increases to meet current demand and replenish stocks before the onset of the next cycle. Stock build-up appears to have thus played an important role in keeping the growth of manufacturing output restrained in Q2.
+
+Figure IX.6: Gva Manufacturing slowing with build-up in stocks and elevated global uncertainty
+
+<!-- image -->
+
+Source: MoSPI; Note: Change in stocks refers to change in stocks of GFCF.
+
+9.12 The  manufacturing  landscape  shows  uneven  growth  across  various  categories.  For example,  the  motor  vehicles  manufacturing  segment's  performance  continues  to  improve, induced by robust demand and an easing of chip shortage. The manufacturing of 'computer, electronic and optical products', an upcoming industry, has also been rising. Multiple players looking to make India a manufacturing hub of semiconductors have made the investment outlook
+
+in this sector positive. Production of coke and refined petroleum has also increased, fetching high returns in a global market where crude oil prices were higher than in FY22. Chemicals and chemical products such as caustic soda, soda ash, fertilisers and petroleum products have also performed well, contributing to sustaining the growth momentum in the agriculture sector while increasing exports. At the same time, a few product categories, including textiles, apparel and leather, have been showing tepid growth, as export demand for these products has been mellowing with the slowing of global output and demand. Growth in pharmaceutical output has slowed due to an unfavourable base effect and the waning of the pandemic.
+
+Table IX.2: Growth in Manufacturing Sectors (Per cent, YoY)
+
+|                                                            | <0      | >0 but <5   | >0 but <5   | >0 but <5   | >0 but <5   | >5      | >5      |         |         |
+|------------------------------------------------------------|---------|-------------|-------------|-------------|-------------|---------|---------|---------|---------|
+|                                                            | Weights | apr- 22     | May- 22     | Jun- 22     | Jul- 22     | aug- 22 | Sep- 22 | oct- 22 | Nov- 22 |
+| Food Products                                              | 5.3     | 3.8         | 10.1        | 5.1         | -2.6        | 0.7     | 4.0     | -3.7    | 9.9     |
+| Beverages                                                  | 1       | 29.2        | 130.3       | 45.7        | 13.1        | 6.4     | 12.3    | 2.7     | 8.2     |
+| Tobacco Products                                           | 0.8     | 22          | 21.4        | 52.7        | -9.1        | -12.8   | -0.7    | -14.3   | -5.0    |
+| Textiles                                                   | 3.3     | -0.4        | 5.9         | -3.1        | -9.0        | -12.5   | -13.9   | -18.7   | -9.0    |
+| Wearing Apparel                                            | 1.3     | 55.2        | 69.9        | 42.6        | 15.1        | -18.3   | -21.6   | -36.6   | -11.7   |
+| Leather And Related Products                               | 0.5     | 5           | 47.5        | 1.9         | -13.5       | -16.0   | -17.5   | -25.5   | -2.0    |
+| WoodAnd Products Of WoodAnd Cork                           | 0.2     | 4.1         | 54.1        | 14.4        | 7.9         | -7.9    | -3.7    | -14.8   | -0.5    |
+| Paper And Paper Products                                   | 0.9     | -1.9        | 9.7         | 8.3         | -0.2        | -0.1    | 6.2     | -8.2    | -2.3    |
+| Printing and Reproduction Of Recorded Media                | 0.7     | 30.1        | 43          | 45.1        | 41.2        | 27.6    | 29.1    | 13.5    | 22.1    |
+| Coke And Refined Petroleum Products                        | 11.8    | 10.6        | 18.1        | 17.4        | 7.2         | 6.6     | 9.7     | -1.0    | -9.8    |
+| Chemicals And Chemical Products                            | 7.9     | 4.4         | 24.3        | 14.8        | 7.2         | 5.7     | 6.4     | -2.5    | 6.2     |
+| Pharmaceuticals, Medicinal Chemical And Botanical Products | 5       | -5.5        | -13.4       | -4.6        | -4.7        | -17.6   | -15.1   | -21.2   | 10.0    |
+| Rubber And Plastics Products                               | 2.4     | -1.5        | 8.7         | 5.7         | -2.2        | -4.4    | -2.8    | -2.1    | 5.6     |
+| Other Non-Metallic Mineral Products                        | 4.1     | 6.9         | 22.1        | 19.6        | 0.0         | 1.4     | 9.7     | -3.7    | 19.8    |
+| Basic Metals                                               | 12.8    | 6.9         | 16.5        | 7.2         | 6.7         | 4.0     | 5.7     | 4.4     | 8.1     |
+| Fabricated Metal Products,                                 | 2.7     | -0.4        | 29.2        | 14.3        | -4.1        | -14.4   | 14.6    | -11.8   | 8.2     |
+| Computer, Electronic And Optical Products                  | 1.6     | 6.3         | 28.7        | 43.8        | 2.8         | 3.3     | -0.2    | -11.8   | 3.0     |
+| Electrical Equipment                                       | 3       | 8.3         | 59.6        | 11          | -16.1       | -28.5   | -31.0   | -33.0   | 1.2     |
+| Machinery And Equipment N.E.C.                             | 4.8     | 5.4         | 38.8        | 19.9        | 4.1         | 2.9     | 6.4     | -7.2    | 20.8    |
+| Motor Vehicles, Trailers And Semi- Trailers                | 4.9     | 6.5         | 87.3        | 31.2        | 17.8        | 22.7    | 29.1    | 12.2    | 22.2    |
+
+|                           |   Weights |   apr- 22 |   May- 22 |   Jun- 22 |   Jul- 22 |   aug- 22 |   Sep- 22 |   oct- 22 |   Nov- 22 |
+|---------------------------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
+| Other Transport Equipment |       1.8 |      -1.5 |     126.6 |      36.2 |      -1.2 |       7.8 |      14.8 |      -8.1 |      24   |
+| Furniture                 |       0.1 |      59.3 |      73.7 |      31.8 |      32.4 |      44.1 |      30.3 |       6.4 |      15.7 |
+| Other manufacturing       |       0.9 |      -3.2 |      18.5 |      26.4 |       6.9 |       4.2 |       4.8 |     -31.1 |      13.1 |
+
+Source: MoSPI
+
+##

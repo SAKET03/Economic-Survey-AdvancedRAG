@@ -1,0 +1,259 @@
+# Macroeconomic and Growth Challenges in the Indian Economy
+
+macroeconomic and Growth challenges in the Indian economy
+
+1.10  The impact of the pandemic on India was seen in a significant GDP contraction in FY21. The following year, FY22, the Indian economy started to recover despite the Omicron wave of  January  2022.  This  third  wave  did  not  affect  economic  activity  in  India  as  much  as  the previous waves of the pandemic did since its outbreak in January 2020. Mobility enabled by localised lockdowns, rapid vaccination coverage, mild symptoms and quick recovery from the virus contributed to minimising the loss of economic output in the January-March quarter of 2022. Consequently, output in FY22 went past its pre-pandemic level in FY20, with the Indian economy staging a  full  recovery  ahead  of  many  nations.  The  experience  with  the  Omicron variant  engendered  a  cautious  optimism  that  it  was  possible  to  stay  physically  mobile  and engage in economic activities despite the pandemic.  FY23 thus opened with a firm belief that the pandemic was rapidly on the wane and that India was poised to grow at a fast pace and quickly ascend to the pre-pandemic growth path.
+
+figure I.9: economic growth remains resilient
+
+<!-- image -->
+
+Source: NSO, MoSPI
+
+Note: AE stands for Advanced Estimates, PE stands for Provisional Estimates, RE stands for Revised Estimates
+
+Broad-based growth driven by Demand and Investment
+
+figure I.10a: yoy growth of Real Gva components
+
+figure I.10b: Share of Real GDp components
+
+<!-- image -->
+
+<!-- image -->
+
+Source: NSO, MoSPI
+
+Note: AE stands for Advanced Estimates, PE stands for Provisional Estimates, RE stands for Revised Estimates
+
+figure I.11: cpI Inflation eased back to RBI's target range
+
+figure I.12: Indian Rupee performed well compared to other emes
+
+<!-- image -->
+
+<!-- image -->
+
+Source: MoSPI
+
+Source: Bloomberg, RBI (Exchange rates for December as on 31st Dec 2022)
+
+1.11  However,  the  conflict  in  Europe  necessitated  a  revision  in  expectations  for  economic growth and inflation in FY23. The country's retail inflation had crept above the RBI's tolerance range in January 2022. It remained above the target range for ten months before returning to below the upper end of the target range of 6 per cent in November 2022. During those ten months, rising international commodity prices contributed to India's retail inflation as also local
+
+weather conditions like excessive heat and unseasonal rains, which kept food prices high. The government cut excise and customs duties and restricted exports to restrain inflation while the RBI, like other central banks, raised the repo rates and rolled back excess liquidity.
+
+1.12  With  monetary  tightening,  the  US  dollar  has  appreciated  against  several  currencies, including  the  rupee.  However,  the  rupee  has  been  one  of  the  better-performing  currencies worldwide, but the modest depreciation it underwent may have added to the domestic inflationary pressures besides widening the CAD. Global commodity prices may have eased but are still higher compared to pre-conflict levels. They have further widened the CAD, already enlarged by India's growth momentum. For FY23, India has sufficient forex reserves to finance the CAD and intervene in the forex market to manage volatility in the Indian rupee.
+
+figure I.13: Widened current account Deficit
+
+figure I.14: adequate foreign exchange reserves to finance caD
+
+<!-- image -->
+
+<!-- image -->
+
+Source: RBI
+
+Source: RBI
+
+1.13  For  many countries around the world, including India, 2021 was a period of recovery for health and economies from the impact of the pandemic. For the advanced economies, in particular,  the  enormous  fiscal  stimulus  earlier  injected  by  their  governments  supported  a strong demand revival. Growth in world trade subsequently followed, of which India was also a  beneficiary.  India's  exports  surged in FY22, and the momentum lasted up to the first half of FY23. Export growth was strong enough to increase India's share in the world market of merchandise exports. However, due to aggressive and synchronised monetary tightening, global economic growth has started to slow, and so has world trade. As per United Nations Conference on Trade and Development (UNCTAD) latest global trade update, global trade growth turned negative during the H2:2022, and geopolitical frictions, persisting inflationary pressures, and subdued demand are expected to suppress global trade further in 2023. This is likely to affect many countries, including India, with the prospects of sluggish exports continuing into FY24, compared to the promise shown at the beginning of the current year.
+
+figure I.15: Declining shipping freight cost as trade slows
+
+figure I.16: Share of export in GDp expands, despite global slowdown
+
+<!-- image -->
+
+<!-- image -->
+
+Source: The Great Eastern Shipping Co. Ltd.  Source: NSO, MoSPI
+
+## India's economic Resilience and Growth Drivers
+
+1.14  Monetary tightening by the RBI, the widening of the CAD, and the plateauing growth of exports have essentially been the outcome of geopolitical strife in Europe.  As these developments posed downside risks to the growth of the Indian economy in FY23, many agencies worldwide have been revising their growth forecast of the Indian economy downwards. These forecasts, including the advance estimates released by the NSO, now broadly lie in the range of 6.5-7.0 per cent.  Despite the downward revision, the growth estimate for FY23 is higher than for almost all major economies and even slightly above the average growth of the Indian economy in the decade leading up to the pandemic. IMF estimates India to be one of the top two fast-growing significant economies in 2022. Despite strong global headwinds and tighter domestic monetary policy, if India is still expected to grow between 6.5 and 7.0 per cent, and that too without the advantage of a base effect, it is a reflection of India's underlying economic resilience; of its ability to recoup, renew and re-energise the growth drivers of the economy.
+
+figure I.17: India growth projections by various agencies for fy23
+
+<!-- image -->
+
+Source: Various Agencies
+
+Note: ADB stands for Asian Development Bank, IMF is International Monetary Fund
+
+1.15  India's economic resilience can be seen in the domestic stimulus to growth seamlessly replacing the external stimuli. The growth of exports may have moderated in the second half of FY23. However, their surge in FY22 and the first half of FY23 induced a shift in the gears of the production processes from mild acceleration to cruise mode. Manufacturing and investment activities  consequently  gained  traction.  By  the  time  the  growth  of  exports  moderated,  the rebound in domestic consumption had sufficiently matured to take forward the growth of India's economy. Private Consumption as a percentage of GDP stood at 58.4 per cent in Q2 of FY23, the highest among the second quarters of all the years since 2013-14, supported by a rebound in contact-intensive services such as trade, hotel and transport, which registered sequential growth of 16 per cent in real terms in Q2 of FY23 compared to the previous quarter.
+
+1.16  Although domestic consumption rebounded in many economies, the rebound in India was impressive for its scale. It contributed to a rise in domestic capacity utilisation. Domestic private consumption remains buoyant in November 2022, as indicated by Motilal Oswal's Economic Activity Index. The index estimates that private consumption grew at a five-month high pace of 5.6 per cent YoY, driven by auto sales and broad-based expansion of services. 2
+
+figure I.18: enhanced capacity utilisation and business sentiments
+
+<!-- image -->
+
+Source: RBI
+
+Note: BEI - Business Expectations Index
+
+1.17  The near-universal coverage of vaccination in India overseen by the government was the single most important reason that brought people out to the streets to re-experience the 'bazaar' as the marketplace was rapidly populated with service providers returning to resume business. The contact-based service providers like restaurants, hotels, shopping malls, cinemas, and tourist destinations, among others, soon ran up a thriving business and have significantly contributed to keeping up the consumer sentiments, as captured in repeated surveys. If, on the one hand, the universal vaccination coverage saved lives, on the other, it served as a health stimulant to raise consumer sentiments and thus the recovery and growth of the economy.
+
+2  https://www.motilaloswal.com/site/rreports/HTML/638084191269979180/index.htm
+
+figure I.19a: private consumption highest since fy15 across h1
+
+<!-- image -->
+
+figure I.19B: Improving consumer confidence
+
+<!-- image -->
+
+Source: NSO, MoSPI
+
+Source: RBI
+
+1.18  The rebound in consumption has also been supported by the release of 'pent-up' demand, a phenomenon not again unique to India but nonetheless exhibiting a local phenomenon influenced by a rise in the share of consumption in disposable income. Since the share of consumption in disposable income is high in India, a pandemic-induced suppression of consumption built up that much greater recoil force. Hence, the consumption rebound may have lasting power. Accelerating growth  in  personal  loans  in  India  testifies  to  an  enduring  release  of  'pent-up'  demand  for consumption. RBI's most recent survey 3 of  consumer confidence released in December 2022 pointed to improving sentiment with respect to current and prospective employment and income conditions.
+
+1.19  The 'release of pent-up demand' was reflected in the housing market too. Demand for housing loans picked up. Consequently, housing inventories have declined, prices are firming up, and construction of new dwellings is picking up pace. This has stimulated innumerable backward and forward linkages that the construction sector is known to carry. The universalisation of vaccination coverage also has a significant role in lifting the housing market as, in its absence, the migrant workforce could not have returned to construct new dwellings.
+
+figure I.20: Growth in bank credit to housing complimenting falling household inventory
+
+<!-- image -->
+
+<!-- image -->
+
+Source: RBI, PropTiger
+
+- 3  See https://rbi.org.in/Scripts/PublicationsView.aspx?id=21569
+
+1.20  Apart from housing, construction activity, in general, has significantly risen in FY23 as the much-enlarged capital budget (Capex) of the central government and its public sector enterprises is rapidly being deployed. Going by the Capex multiplier estimated for the country, the economic output of the country is set to increase by at least four times the amount of Capex. 4,5 States, in aggregate, are also performing well with their Capex plans. Like the central government, states also have a larger capital budget supported by the centre's grant-in-aid for capital works and an interest-free loan repayable over 50 years.
+
+figure I.21: total capital expenditure grew at an average rate of 13.0% during fy12 and fy22
+
+<!-- image -->
+
+Source: Union Budget, States Budgets, RBI
+
+1.21  A capex thrust in the last two budgets of the Government of India was not an isolated initiative meant only to address the infrastructure gaps in the country. It was part of a strategic package  aimed  at  crowding-in  private  investment  into  an  economic  landscape  broadened by the vacation of non-strategic PSEs (disinvestment) and idling public sector assets. Three developments support this 6 . First, the significant increase in the Capex budget in FY23, as well as its high rate of spending. Second, direct tax revenue collections have been highly buoyant, and  so  have  GST  collections,  which  should  ensure  the  full  expending  of  the  Capex  budget within the budgeted fiscal deficit. The growth in revenue expenditure has also been limited to pave the way for higher growth in Capex. Third, the pick-up in private sector investment since the January-March quarter of 2022. Evidence shows an increasing trend in announced projects and capex spending by the private players. Surveys of leading industry CEOs also reveal their plans and commitment to increasing Capex.
+
+4  https://rbi.org.in/scripts/PublicationsView.aspx?Id=15369
+
+5  https://www.nipfp.org.in/media/medialibrary/2014/02/WP\_2013\_125.pdf
+
+6  https://www.imf.org/en/Publications/WP/Issues/2016/12/31/Crowding-Out-or-Crowding-In-Public-and-Private-Investment-in-India-43470
+
+figure I.22: capex doubled in the past five years
+
+<!-- image -->
+
+Source: CGA
+
+figure I.24: Buoyant tax collections (april-november)
+
+<!-- image -->
+
+figure I.23: private Investment remains upbeat
+
+<!-- image -->
+
+Source: Capitaline, Axis Bank Research
+
+figure I.25: limited growth in revenue expenditure
+
+<!-- image -->
+
+Source: CGA
+
+Source: CGA
+
+1.22  While  an  increase  in  export  demand,  rebound  in  consumption,  and  public  capex  have contributed  to  a  recovery  in  the  investment/manufacturing  activities  of  the  corporates,  their stronger balance sheets have also played a big part equal measure to realising their spending plans. As per the data on non-financial debt from the Bank for International Settlements, in the course of the last decade, Indian non-financial private sector debt and non-financial corporate debt as a share of GDP declined by nearly thirty percentage points. This limited the increase in interest costs, which, together with possible savings on overheads during lockdowns, contributed to the recent fortification of corporate balance sheets by higher profits. In FY22, the surge in
+
+exports also contributed to increasing profits in the corporate world. After-tax profits were also boosted by the lower taxes announced in 2019. Better profitability helped corporates pay down debt. Consequently, not only do corporates have more scope to borrow now, but their improved financial health has also reassured their prospective lenders to expand their credit portfolios. As per Axis Bank Business and Economic Research, Capex by the Corporate sector increased to ₹3.3 lakh crore in H1 of FY23, driven by heavy investments in electricity, steel, chemicals, auto and pharmaceuticals sectors.
+
+1.23  The banking sector in India has responded in equal measure to the demand for credit. The Year-on-Year growth in credit since the January-March quarter of 2022 has moved into double-digits  and  is  rising  across  most  sectors.  The  credit  growth  to  the  MSME  sector  has been remarkably high, over 30.5 per cent, on average, during Jan-Nov 2022, supported by the extended ECLGS of the central government. The aggressive supply of credit by the banking sector has as much been triggered by their improved financial health as that of the corporates. The finances of the public sector banks have seen a significant turnaround, with profits being booked  at  regular  intervals  and  their  Non-Performing Assets  (NPAs)  being  fast-tracked  for quicker resolution/liquidation by the Insolvency and Bankruptcy Board of India (IBBI). At the same time, the government has been providing adequate budgetary support for keeping the PSBs well-capitalized,  ensuring  that  their  Capital  Risk-Weighted Adjusted  Ratio  (CRAR)  remains comfortably above the threshold levels of adequacy. The successful macro stress tests performed on the banking sector further testify to its financial strength. It does help that the banking sector has negligible cross-border claims in times when currency risk is high. Nonetheless, financial strength has helped banks make up for lower debt financing provided by corporate bonds and External Commercial Borrowings (ECBs) so far in FY23. Rising yields on corporate bonds and higher interest/hedging costs on ECBs have made these instruments less attractive than the previous year.
+
+figure I.26: Double-digit growth in Bank credit to mSmes
+
+<!-- image -->
+
+Source: RBI
+
+figure I.27: Declining ScB's Gnpa Ratio
+
+<!-- image -->
+
+figure I.28: provisioning coverage Ratio
+
+<!-- image -->
+
+Source: RBI
+
+Note: SCBs stand for Scheduled Commercial Banks, PSBs stand for Public Sector Banks, PVBs stand for Private Sector Banks, FBs stands for Foreign Banks, GNPA stands for Gross Non-Performing Assets
+
+figure I.29: Rising corporate Bond yields
+
+figure I.30: moderation in private placements of corporate Bonds
+
+<!-- image -->
+
+<!-- image -->
+
+Source: Bloomberg
+
+Source: SEBI
+
+figure I.31: higher interest/hedging costs made ecBs and fccBs less attractive source of funds
+
+<!-- image -->
+
+Source: RBI
+
+1.24  RBI has projected headline inflation at 6.8 per cent in FY23, which is outside its target range. At the same time, it is not high enough to deter private consumption and also not so low as to weaken the inducement to invest. Moderately high inflation has further ensured the anchoring of inflationary expectations preventing prices from weakening demand and growth in India. Additionally, with inflation on the declining path, the interest cost of domestic credit will likely decline, inducing a further increase in demand for credit by corporates and retail borrowers.
+
+figure I.32: Inflation expectations anchoring
+
+<!-- image -->
+
+<!-- image -->
+
+Source: RBI
+
+Source: IIMA
+
+## India's Inclusive Growth
+
+1.25  Growth  is  inclusive  when  it  creates  jobs.  Both  official  and  unofficial  sources  confirm that  employment levels  have  risen  in  the  current  financial  year.  The  Periodic  Labour  Force Survey (PLFS) shows that the urban unemployment rate for people aged 15 years and above declined from 9.8 per cent in the quarter ending September 2021 to 7.2 per cent one year later (quarter ending September 2022). This is accompanied by an improvement in the labour force participation rate (LFPR) as well, confirming the emergence of the economy out of the pandemicinduced slowdown early in FY23. Job creation appears to have moved into a higher orbit with the initial surge in exports, a strong release of the 'pent-up' demand, and a swift rollout of the capex. Since export growth is plateauing and the 'pent-up' release of demand will have a finite life,  it  is  essential  that  capex  continues  to  grow to facilitate employment in the economy, at least until such time the global economy rebounds and, through the export channel, provides an additional window to India for job creation. Thankfully, the private sector has all the necessary pre-conditions lined up to step up to the plate and do the capex heavy lifting. Their internal resource generation is good, capacity utilisation is high, and the demand outlook continues to improve. Capital markets are willing to finance new investments, as are financial institutions.
+
+1.26  In FY21, the Government announced the Emergency Credit Line Guarantee Scheme. The scheme has succeeded in shielding micro, small and medium enterprises from financial distress. A recent CIBIL report (ECLGS Insights, August 2022) showed that the scheme has supported MSMEs in facing the covid shock, with 83 per cent of the borrowers that availed of the ECLGS
+
+being micro-enterprises. Among these micro units, more than half had an overall exposure of less than ₹10 lakh. Furthermore, CIBIL data also shows that ECLGS borrowers had lower nonperforming asset rates than enterprises that were eligible for ECLGS but did not avail of it. Further, the GST paid by MSMEs after declining in FY21 has been rising since and now has crossed the pre-pandemic level of FY20, reflecting the financial resilience of small businesses and the effectiveness of the pre-emptive government intervention targeted towards MSMEs.
+
+figure I.33: Urban Unemployment Rate at four-year low
+
+<!-- image -->
+
+Source: NSO, MoSPI
+
+figure I.34: GSt paid by mSmes in fy22 crossed the pre-pandemic level
+
+<!-- image -->
+
+Source: Ministry of Finance
+
+Note: Includes firms with turnover up to ₹1000 crore. Micro -- &lt;= 25cr; Small &lt;= 25 to 100 Cr.; Medium 100 to 1000 Cr.
+
+figure I.35: eclGS aided mSmes in improving their asset quality
+
+<!-- image -->
+
+Source:  ECLGS  Insights  Report',  TransUnion  CIBIL, August 2022
+
+1.27  The scheme implemented by the government under the Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) has been rapidly creating more assets in respect of 'Works on individual's land' than in any other category. The share of this category rose to about 60 per cent in FY22, indicating that MGNREGA, besides generating daily wage employment, has  also  been  creating  assets  for  individual  households  to  diversify  their  sources  of  income
+
+and lift their supplementary incomes. Details on asset creation under MGNREGA are further discussed in Chapters 6  'Social Infrastructure and Employment: Big Tent'. In addition, schemes like PM-KISAN, which benefits households covering half the rural population, and PM Garib Kalyan Anna Yojana have significantly contributed to lessening impoverishment in the country. The UNDP Report of July 2022  stated that the recent inflationary episode in India would have a low poverty impact due to well-targeted support. In addition, the National Family Health Survey (NFHS) in India shows improved rural welfare indicators from FY16 to FY20, covering aspects like gender, fertility rate, household amenities, and women empowerment.
+
+figure I.36: Improvement in Rural Welfare Indicators
+
+<!-- image -->
+
+Source: NFHS-4 and NFHS-5
+
+1.28  The  year  FY23  so  far  for  India  has  reinforced  the  country's  belief  in  its  economic resilience. The economy has withstood the challenge of mitigating external imbalances caused by the Russian-Ukraine conflict without losing growth momentum in the process. India's stock markets had a positive return in CY22, unfazed by withdrawals by foreign portfolio investors. India's inflation rate did not creep too far above its tolerance range compared to several advanced nations  and  regions. A  relatively  higher  growth  forecast  among  major  economies,  projected retail inflation only slightly higher than the tolerance limit, and an estimated current account deficit financeable with normal capital inflows and forex reserves large enough to finance close to a year's imports are clear evidence of economic resilience amidst a global polycrisis. Strong consumption rebound, robust revenue collections, sustained capex in both the public and the private sector, growing employment levels in the urban as well as the rural areas, and targeted social security measures further underpin the prospects for economic and social stability and sustained growth. India is the third-largest economy in the world in PPP terms and the fifthlargest in market exchange rates. As expected of a nation of this size, the Indian economy in FY23 has nearly 'recouped' what was lost, 'renewed' what had paused, and 're-energised' what had slowed during the pandemic and since the conflict in Europe.
+
+##
