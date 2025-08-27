@@ -1,0 +1,37 @@
+# Core Input Industries
+
+## CORE INPUT INDUSTRIES
+
+## Cement
+
+7.8 Currently, India is the second largest cement producer in the world after China 7 . The Indian cement industry comprises 159 integrated large cement plants, 128 grinding units, five clinkerization units and 62 mini cement plants. The current annual installed capacity of the cement industry is about 639 million tonnes, with cement production of around 427 million tonnes in FY24. Most of the cement plants in India are located in proximity to the raw material source. About 87 per cent of the cement industry is concentrated  in  the  States  of  Rajasthan,  Andhra  Pradesh,  Telangana,  Karnataka, Madhya  Pradesh,  Gujarat,  Tamil  Nadu,  Maharashtra,  Uttar  Pradesh,  Chhattisgarh, Odisha, Meghalaya and West Bengal. The industry has adequate capacity to meet the domestic cement demand. Domestic cement consumption is around 290 kg per capita
+
+against a global average of 540 kilograms per capita. The government's focus on mega projects like highways, railways, and housing schemes, coupled with rural development and industrial growth, is expected to fuel significant cement demand.
+
+<!-- image -->
+
+7.9 The cement industry carries an environmental footprint. The industry has been actively working to reduce its carbon emissions of cement by 2070.
+
+## Steel Industry
+
+7.10 In April-November of FY25, the country's crude steel and finished steel production registered a growth of 3.3 per cent and 4.6 per cent. There has been an overall upward trend in steel production and consumption during April-November FY25 despite some month-on-month fluctuations.
+
+7.11  The sustained growth in steel sector was fuelled by ongoing development projects and  increased  public  infrastructure  spending.  The  primary  drivers  of  steel  demand included  expansion  in  end-user  sectors  and  the  implementation  of  policies  like  the National Steel Policy and Production-Linked Incentive schemes. Government initiatives on housing, urban and rural infrastructure also contributed to the rising demand 9 .
+
+8 MTPA (Million Tonnes Per Annum).
+
+9  https://t.ly/R0Lzj.
+
+<!-- image -->
+
+7.12   Driven  by  an  infrastructure-focused  growth  strategy,  steel  demand  in  India is  expanding  at  a  strong  pace.  This  growth  is  further  bolstered  by  significant advancements  in  key  user  industries,  particularly  building  &amp;  construction,  and infrastructure. In FY24,  construction, and infrastructure accounted for an estimated 68 per cent of total steel consumption, followed by engineering and packaging at 22 per cent and automobiles at nine per cent. India has been a net importer of steel from April to November FY25. The decline in India's export of finished steel during FY25 was mainly driven by gaps between international and domestic prices. The low price in the international market during this period resulted in a low margin on exports and cheaper imports.
+
+7.13    The  government's Steel's Scrap Recycling Policy encourages efficient recycling of scrap. The total domestic consumption of steel scrap in India is approximately 30 Million  Tonnes  (MT),  of  which  around  5  MT  is  imported.  Ensuring  the  availability of high-quality scrap in sufficient quantities is crucial for transitioning to green steel and supporting the future growth of the steel industry. In addition, the use of scrap significantly reduces specific energy consumption. It also reduces the water consumption by 40 per cent, and greenhouse gas emissions by 58 per cent 10 .
+
+## Chemical and Petrochemical Sector
+
+7.14 The share of chemicals and chemical products sector in the GVA of manufacturing sector (at 2011-12 prices) was 9.5 per cent during FY23. The country is a net importer of these products, with a dependence on imports of around 45 per cent of petrochemical intermediates 11 .  Reducing  the  gap  between  domestic  demand  and  supply  is  a  high priority.
+
+GLYPH&lt;c=3,font=/YQNKUC+Calibri&gt;
+
+<!-- image -->

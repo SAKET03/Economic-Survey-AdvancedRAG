@@ -1,0 +1,32 @@
+{
+  "Introduction": {
+    "filename": "chunk_01_Introduction.md",
+    "word_count": 1971,
+    "char_count": 13363
+  },
+  "Present Status of India's Climate Action": {
+    "filename": "chunk_02_Present_Status_of_Indias_Climate_Action.md",
+    "word_count": 931,
+    "char_count": 6444
+  },
+  "Adaptation is Critical for India": {
+    "filename": "chunk_03_Adaptation_is_Critical_for_India.md",
+    "word_count": 8155,
+    "char_count": 57823
+  },
+  "International Commitments on Climate Finance: The Developments": {
+    "filename": "chunk_04_International_Commitments_on_Climate_Finance_The_D.md",
+    "word_count": 1178,
+    "char_count": 8316
+  },
+  "India's International Initiatives to Address Climate Change Issues": {
+    "filename": "chunk_05_Indias_International_Initiatives_to_Address_Climat.md",
+    "word_count": 837,
+    "char_count": 5717
+  },
+  "Conclusion": {
+    "filename": "chunk_06_Conclusion.md",
+    "word_count": 733,
+    "char_count": 5362
+  }
+}

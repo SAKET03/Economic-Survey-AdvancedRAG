@@ -1,0 +1,9 @@
+# Introduction
+
+## INTRODUCTION
+
+8.1 Employment  is  the  crucial  link  between  growth  and  prosperity,  and  its  quantity  and quality determine the extent to which economic output translates into better quality of life for the population. To foster employment is to oil the engine of demand-led growth, kept running by  a  populace  progressively  less  dependent  on  the  Government  for  its  dignified  survival and sustenance.  Generation  of  suitable  employment  opportunities,  commensurate  with  the legitimate aspirations of India's youth, is also necessary to reap the country's once-in-a-lifetime demographic dividend.
+
+8.2 This chapter explores various aspects of employment and skill development in the country. The first section dwells on the employment situation in the country, specifically focussing on women and youth employment. The structural transformation of the workforce and the trend
+
+in factory employment are discussed, besides additions to EPFO's payroll and trend in rural wages. It also presents a bird's eye view of the government programmes to facilitate employment generation and promote labour welfare. The second section looks at the new forces shaping the labour market, including Artificial Intelligence (AI), gig work, climate change, etc. this is followed by an in-house simple estimation of the annual rise in job creation required to cater to the expanding working age population, rising female participation in labour force, and labour shifting out of agriculture. Next, agro-processing sector is proposed as a fertile sector for job creation in a pragmatic and decentralised manner. The next section discusses the felt need of a well-developed care economy, key to supporting workforce participation by women, and cater to an ageing population. The final section presents details of the country's skilling infrastructure and the outcomes of policies in enhancing skilling for employability.

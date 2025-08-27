@@ -1,0 +1,22 @@
+{
+  "Introduction": {
+    "filename": "chunk_01_Introduction.md",
+    "word_count": 620,
+    "char_count": 4229
+  },
+  "Performance of Key Sectors and Related Issues": {
+    "filename": "chunk_02_Performance_of_Key_Sectors_and_Related_Issues.md",
+    "word_count": 5939,
+    "char_count": 77207
+  },
+  "Cross-cutting Themes": {
+    "filename": "chunk_03_Cross_cutting_Themes.md",
+    "word_count": 2877,
+    "char_count": 25521
+  },
+  "Conclusion and Outlook": {
+    "filename": "chunk_04_Conclusion_and_Outlook.md",
+    "word_count": 669,
+    "char_count": 4789
+  }
+}

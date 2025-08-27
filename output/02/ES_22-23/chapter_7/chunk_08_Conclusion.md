@@ -1,0 +1,15 @@
+# Conclusion
+
+## Conclusion
+
+7.85  India  is  spearheading  one  of  the  world's  most  ambitious  clean  energy  transitions  and remains steadfast in its commitment to combating climate change. Despite the adverse impacts of Covid-19 on the economy, India has enhanced its climate ambition manifold and embarked on a long-term strategy towards a Low GHG Emission Development Strategy by adopting a multi-pronged approach.
+
+- 7.86  The energy transition plan is complemented by numerous policies intended to improve the ecosystem to deploy promising technological innovations, like green hydrogen. The country has consistently modified/amended regulatory standards and adopted policy-level interventions to support the development and adoption of new technology. India's progress on energy transition may be understood from the fact that it has enhanced its non-fossil fuel based installed capacity target  to  50  per  cent  in  its  updated  NDC  as  the  target  of  40  per  cent  of  the  first  NDC  was achieved well in advance.
+
+7.87  The sustainable finance framework has also evolved from the initial steps covering the top listed 100 companies required to conform to sustainability standards. The requirement has now not only been extended to 1000 top listed companies on a mandatory basis but also the sustainability standards have become much stronger and measurable that correspond to the best practices while taking into account the specific context of India.
+
+7.88  As mentioned earlier, resources have competing use, and development strategies are not substitutable. Modification in the development pathway has a transition cost, including social and economic costs.  India's climate ambitions require resources to be dedicated to the cause of climate change, in addition to, what is needed for the country's development goals. Obligations on climate should be matched with the on-time availability of climate finance, technology, and inputs like critical minerals, while not jeopardising the socio-economic development objectives and aspirations.
+
+7.89  Even if India has so far undertaken climate actions on its own, the heightened expectations of  further  large-scale  climate  measures  have  to  be  equated  with  the  enhanced  initiatives  by developed  countries  in  terms  of  providing  means  of  implementation,  including  finance, technology transfer, and capacity-building support.
+
+- 7.90  More importantly, the global climate agenda will advance if advanced countries can set examples of policy and behavioural changes that work in their backyard and whose trade-offs are well recognised and accepted by their people. Then, it might be realistic to expect such policies and behavioural expectations of households to succeed in developing countries with suitable adaptation.

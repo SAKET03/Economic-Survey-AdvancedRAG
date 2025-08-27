@@ -1,0 +1,23 @@
+# Conclusion and Way Forward
+
+## CONCLUSION AND WAY FORWARD
+
+11.74 Historically, India's services sector has thrived on low-cost offerings. The digitisation of services, coupled with appropriate policy nudges, kept progressively transforming the nature of service delivery almost irreversibly during the early part of the last decade. This trend accelerated post the pandemic. Another distinct pattern that emerged during the last three years is that the contact-intensive business and personal services-prominently trade, transport, real estate and their ancillary services - that underwent a steep decline during the pandemic are recovering, embedding greater technology and digital content in them. At the same time, India's services exports are diversifying beyond software to include Human Resources (HR), legal, and design services  in  line  with  emerging  global  demands.  Thus,  two  significant  transformations  are reshaping India's services landscape: the rapid technology-driven transformation of domestic service delivery and the diversification of India's services exports.
+
+11.75 The country is emerging as a hub for Global Capability Centres. Domestically, start-ups drive innovation, improving access to credit, raw materials, and markets. Aided by the deep technology ecosystem and the consistent policy push, many technology start-ups are digitising manufacturing and other services. The embedded service content of the non-service economic activities  has  increased  significantly,  as  evidenced  by  the  National  Accounts  Statistics.  The post-production  value  addition  in  activities  is  also  increasingly  dependent  on  services  like e-commerce, innovative packaging and advertisement and modern logistics services.
+
+11.76 As India looks forward to creating millions of jobs by 2030, dovetailing this transformation in the demand-supply dynamics of services is pivotal to meeting the hiring requirements in the medium term. The emerging job demands in the services sector entail greater and more focussed  skills.  The  World  Economic  Forum's  report 52   highlights  an  increasing  focus  on cognitive abilities (like complex problem-solving and creative thinking), digital literacy, and proficiency in AI and big data. This shift underscores the strategic imperative for businesses and the workforce to adapt to technological advancements and meet global market demands. Focus areas should include blockchain, AI, machine learning, Internet of Things, cybersecurity, cloud computing, big data analytics, augmented reality, virtual reality, 3D printing, and web and mobile development. Thus, the immediate task of the skilling programme in India is to
+
+52    World Economic Forum. (2023). WEF Future of Jobs 2023 (Page 7). https://www3.weforum.org/docs/WEF\_ Future\_of\_Jobs\_2023.pdf
+
+plan and equip itself to meet these requirements adequately. A report by Capital Economics argues that AI could lead to a slowing down of India's services export growth, cutting it by 0.30.4 percentage points a year over the next decade. 53  This only underscores the importance of the relatively less skill-dependent tourism sector for employment generation. Therefore, public policy should pay particular attention to boosting the tourism sector. Governments at all levels and the private sector must work together to realise the sector's potential. 54
+
+11.77 In the short run, tentative global economic outlook and commodity price uncertainties present a serious challenge to input costs and demand for services 55 . Thus, sustaining positive demand trends and effectively managing rising costs and competitive pressures will be critical for  the  services  sector's  continued  growth  and  resilience  in  the  upcoming  year.  The  postpandemic dynamism shown by the economy and the services sector, in particular, should help transcend these uncertainties and challenges.
+
+********
+
+53    The Economist (24 June 2024).Will services make the world rich?  https://www.economist.com/finance-andeconomics/2024/06/24/will-services-make-the-world-rich
+
+54    Hotel  Association  of  India  &amp;  Benori  Knowledge.  Vision  2047:  Indian  Hotel  Industry  (Page  29).  https:// hotelassociationofindia.com/Vision%202047%20-%20March%2030.pdf
+
+55    As per the latest Supply and Use Tables for 2019-20 published by the Central Statistics Office, bulk of the inputs used in the production of services in India originate from commodity-producing (agricultural and industrial) sectors. So, pressure on commodity prices can significantly affect the input cost of services and, hence, their demand.

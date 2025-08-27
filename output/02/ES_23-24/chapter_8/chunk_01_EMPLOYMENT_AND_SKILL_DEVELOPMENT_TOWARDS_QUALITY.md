@@ -1,0 +1,7 @@
+# EMPLOYMENT AND SKILL DEVELOPMENT: TOWARDS QUALITY
+
+## EMPLOYMENT AND SKILL DEVELOPMENT: TOWARDS QUALITY
+
+<!-- image -->
+
+Indian labour market indicators have improved in the last six years, as per the Periodic Labour Force Survey data, with the unemployment rate declining to 3.2 per cent in 2022-23. Rising youth and female participation in the workforce present an opportunity to tap the demographic and gender dividend. The factory employment data exhibits the bounce-back of the organised manufacturing sector in FY22, with continued rise in employment and the upscaling of factories. The net payroll additions under EPFO have more than doubled in the past five years, signalling healthy growth in formal employment. With artificial intelligence taking roots in several spheres of economic activity,  job  market  must  adapt  while  steering  the  technological  choices  towards collective welfare is key. To generate and sustain quality employment, agro-processing and care economy are two promising candidates, the latter also being a necessity for levelling the playing field for women in labour market. The fillip to skilling has yielded progress while there remains scope for more, as only 4.4 per cent of young workforce is formally skilled. Many regulatory clean-ups pose as low-hanging fruits of employment generation, including multiple state-level laws relating to use of land, sectors restricted for women workers, and apprenticeship promotion.

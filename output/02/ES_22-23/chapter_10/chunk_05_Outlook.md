@@ -1,0 +1,5 @@
+# Outlook
+
+## outlook
+
+10.39 India's  services  sector  growth  which  was  highly  volatile  and  fragile  during  the  last 2 fiscal  years,  has  shown resilience in FY23 driven by the release of pent-up demand, ease of  mobility  restriction,  near-universal  vaccination  coverage  and  pre-emptive  government interventions. Broad-based recovery has been observed in recent months, with pick up in almost all sub-sectors especially contact intensive services sector, which bore the maximum brunt of the pandemic. This is reflective of an uptick in the performance of various HFIs, reflecting a solid upswing in recent months, hinting at an enhanced presentation of the services sector in the next fiscal. The prospects look bright with improved performance of various sub-sectors like Tourism, Hotel, Real estate, IT-BPM, E-commerce etc. The downside risk, however, lies in the external exogenous factors and bleak economic outlook in Advanced Economies impacting growth prospects of the services sector through trade and other linkages.

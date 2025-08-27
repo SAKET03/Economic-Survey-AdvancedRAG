@@ -1,0 +1,47 @@
+# Monetary Developments
+
+## Monetary developments
+
+4.1 Inflationary pressures dominated the global economic landscape in FY23. The build-up of price pressures occurring in tandem with the economic recovery in FY22 from the pandemic was long viewed as transient. It was expected to abate as supply chains normalised. The debate on said transience was put to rest by the conflict that erupted in Europe in February 2022. It resulted in commodity prices soaring and added significantly to the prevailing inflationary pressures. This development has triggered the current sharp and synchronous monetary tightening cycle. Setting the context, this chapter will review India's monetary developments and the performance of the financial system in the current financial year. It includes reviewing the monetary policy actions and their impact on system liquidity and evaluating the performance of the banking system, sectoral credit developments and various insolvency frameworks. Further, it looks into the capital market, insurance and pension sector developments.
+
+4.2 The Monetary Policy Committee (MPC) maintained a status quo on the policy repo rate between May 2020 and February 2022 after implementing a 115 basis points (bps) reduction between March 2020 and May 2020. Retail inflation has crossed the upper limit of RBI's tolerance band since January 2022. Sensing a serious risk to price stability, RBI initiated the monetary tightening  cycle.  In  its April  2022  meeting,  the  committee  introduced  the  Standing  Deposit Facility (SDF), which allowed for the deposit of excess funds by banks with the RBI without the necessity of collateral in the form of government securities, thereby allowing effective liquidity management  in  a  collateral-free  manner.  Here,  it  is  worth  mentioning  that  while  the  SDF window is available for overnight deposits, the Reserve Bank retains the flexibility to absorb surplus liquidity of longer tenors under the window, if necessary, with appropriate pricing. The SDF, introduced at a rate of 3.75 per cent, replaced the reverse repo rate as the new floor of the Liquidity Adjustment Facility (LAF) corridor. The MPC also indicated a change in stance from 'Accommodative' to 'Accommodative and focused on the withdrawal of accommodation, while supporting growth' in this meeting, signalling the start of the monetary tightening cycle.
+
+## figure iV.1: Policy rates
+
+<!-- image -->
+
+Source: RBI
+
+4.3 Recognising the sizeable upside risk imparted by adverse global developments, such as the generalised hardening of commodity prices and an increased likelihood of prolonged supply chain disruptions, the MPC convened an off-cycle meeting in May 2022. Members unanimously voted for an increase of 40 bps each in the policy repo rate, the SDF and the Marginal Standing Facility (MSF), and a 50 bps increase in the Cash Reserve Ratio (CRR). Between May 2022 and December 2022 and over five meetings, the MPC implemented a cumulative hike of 225 bps each in the policy repo rate, the SDF, the MSF and the bank rate. In the initial phases of the tightening cycle, the committee noted that commodity price-driven inflationary pressures, increased volatility and initial signs of a slowdown in output characterised the global outlook. In its latest meeting of December 5-7 2022, the MPC hiked the policy repo rate by 35 bps, and reiterated its focus on withdrawal of accommodation to ensure that inflation remains within the target going forward, while supporting growth.
+
+4.4 Reserve money (M0) increased by 10.3 per cent year-on-year (YoY) as on 30th  December 2022 compared to 13 per cent last year. However, reserve money adjusted for the first-round impact of changes in the Cash Reserve Ratio (CRR) recorded a YoY growth of 7.8 per cent compared to 9.1 per cent a year ago. On the component side, growth in Currency in Circulation (CIC) broadly remained stable at levels seen after Covid-19, barring a marginal increase in the immediate aftermath of the outbreak of the Russia-Ukraine conflict, which can be attributed to a rise in precautionary holdings. So far, expansion in M0 during FY23 was mainly driven by bankers' deposits with the RBI, with an increase in the CRR.
+
+table iV.1: yoy growth in monetary aggregates (in per cent)
+
+| item                  | item                           |   fy17^ |   fy18 |   fy19 |   fy20 |   fy21 |   fy22 |   fy23* |
+|-----------------------|--------------------------------|---------|--------|--------|--------|--------|--------|---------|
+| 1. reserve Money (M0) | 1. reserve Money (M0)          |   -12.9 |   27.3 |   14.5 |    9.4 |   18.8 |   13   |    10.3 |
+| 1.a.                  | Currency in Circulation (CiC)  |   -19.7 |   37   |   16.8 |   14.5 |   16.6 |    9.8 |     8.2 |
+| 1.b.                  | Bankers' Deposits with the RBI |     8.4 |    3.9 |    6.4 |   -9.6 |   28.5 |   25.4 |    17.6 |
+| 2. narrow Money (M1)  | 2. narrow Money (M1)           |    -3.9 |   21.8 |   13.6 |   11.2 |   16.2 |   10.7 |     7.6 |
+| 3. Broad Money (M3)   | 3. Broad Money (M3)            |     6.9 |    9.2 |   10.5 |    8.9 |   12.2 |    8.8 |     8.7 |
+| 3.a.                  | Currency with the Public       |   -20.8 |   39.2 |   16.6 |   14.5 |   17.1 |   10.3 |     8.4 |
+| 3.b.                  | Aggregate Deposits             |     6.9 |    5.8 |    9.6 |    8   |   11.3 |    8.4 |     9.2 |
+|                       | Demand Deposits                |    18.4 |    6.2 |    9.6 |    6.8 |   14.8 |   10.9 |     6.2 |
+|                       | Time Deposits                  |    10.2 |    5.8 |    9.6 |    8.1 |   10.9 |    8.1 |     9.1 |
+
+Source: RBI.
+
+Note: ^: March 31, 2017 over April 1, 2016, barring M0, CiC and Bankers' Deposits with the RBI.
+
+- *: Data for FY23 is as on December 30, 2022
+
+Monetary developments reflect the tightening financial conditions
+
+<!-- image -->
+
+Source: RBI
+
+4.5 As on 30th December 2022, broad money stock (M3) increased by 8.7 per cent YoY. From the component side, aggregate deposits have been the largest component and contributed most to the expansion of M3 during the year so far. Amongst sources, bank credit to the commercial sector drove the expansion of broad money, and net bank credit to the government supplemented this expansion. Of significance is the increase in the share of bank credit to the commercial sector in M3 to 64.3 per cent as on 30th December 2022 from 61.1 per cent in the corresponding period  of  the  previous  year,  reflecting  the  upswing  in  the  credit  disbursal  by  commercial banks.
+
+4.6 The money multiplier - the  ratio  of  M3  and  M0  -  has  broadly  remained  stable  at  an average of 5.1 over April - December 2022 period compared to 5.2 in the corresponding period of the previous year. However, M0 adjusted for reverse repo, which is analytically akin to banks' deposits with the RBI, was much higher until April 2022. Hence, the adjusted money multiplier was lower at 4.3 at the beginning of FY23. M0 adjusted for the reverse repo is now much closer to M0; hence, as on 30 December 2022, the money multiplier and adjusted money multiplier stood at 5.21 and 5.03, respectively.

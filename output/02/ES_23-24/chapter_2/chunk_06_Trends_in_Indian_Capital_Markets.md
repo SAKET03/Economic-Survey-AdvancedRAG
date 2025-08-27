@@ -1,0 +1,176 @@
+# Trends in Indian Capital Markets
+
+## Trends in indian capital markets
+
+2.68 Despite heightened geopolitical risks, rising interest rates and volatile commodity prices, Indian capital markets have been one of the best performing among emerging markets in FY24, reflecting India's bright economic stature. Capital markets are becoming prominent in India's growth story, with an expanding share in capital formation and investment landscape on the back of technology, innovation, and digitisation. The following sections present the significant trends in primary markets, secondary markets, and institutional investment in India.
+
+## Primary Markets
+
+2.69 Amid  healthy  domestic  economic  performance  and  a  favourable  investment  climate, primary markets remained robust during FY24, facilitating capital formation of ₹10.9 lakh crore (which approximates 29 per cent of the gross fixed capital formation of private and public corporates during FY23), compared to ₹9.3 lakh crore in FY23. Of the total amount mobilised in FY24, 78.8 per cent was raised through debt issuances. Fund mobilisation through all three modes, viz., equity, debt, and hybrid, increased by 24.9 per cent, 12.1 per cent and 513.6 per cent, respectively, in FY24 compared to the previous year.
+
+2.70 The number of initial public offers (IPOs) increased by 66 per cent in FY24 from 164 in FY23 to 272 in FY24, while the amount raised grew by 24 per cent (from ₹54,773 crore in FY23 to ₹67,995 crore in FY24). SME platforms at the exchanges witnessed heightened activities during FY24 as the number of IPOs/FPOs (Follow-on Public Offers) of SMEs increased by 1.6 times (from 125 in FY23 to 196 in FY24), while the corresponding fund raised rose by more than two and half times over the previous year (from ₹2,333 crore in FY23 to ₹6,095 crore in FY24). As per E&amp;Y Global IPO trends report, Indian exchanges were global leaders in IPO listings. India's share consistently rose to 17 per cent in 2023 from 6 per cent and 11 per cent in 2021 and 2022, respectively. 46 Reflecting the buoyant market conditions, Qualified Institutional Placements (QIPs) 47   emerged as a critical  equity  fundraising  mechanism for the  corporates during FY24. Resource mobilisation through rights issues more than doubled to ₹15,110 crore during FY24, compared to ₹6,751 crore in the previous year.
+
+## Public debt issuances
+
+2.71 The corporate debt market in India is going from strength to strength. During FY24, the value of corporate bond issuances increased to ₹8.6 lakh crore from ₹7.6 lakh crore during the previous financial year. The number of corporate bonds public issues in FY24 was the highest for any financial year so far, with the amount raised (₹19,167 crore) at a four-year high. Private placements remained the preferred channel for corporates, accounting for 97.8 per cent of total resources mobilised through the bond market. Increasing investor demand and the rise in
+
+46 E&amp;Y Press Release on 'Indian stock exchanges rank first in the world in terms of the number of IPOs in 2023' dated 19 February 2024, https://shorturl.at/Lj6Z3
+
+47 QIP was introduced by SEBI in 2006, under which Indian listed companies can raise funds by issuing equity shares, fully or partially convertible debentures, or any other securities as mentioned under the notification by SEBI in this regard. Listed companies can raise capital without meeting the legal requirements like submitting the pre-issue filings to SEBI.
+
+the cost of borrowing from banks have made these markets more attractive for corporates for funding requirements. The quantum of outstanding corporate bonds increased by 5.5 per cent YoY to ₹45 lakh crore (i.e., 15.5 per cent of GDP) at the end of March 2024.
+
+## REITs and InvITs
+
+2.72 During FY24, ₹39,024 crore was raised by Real Estate Investment Trusts (REITs) and Infrastructure Investment Trusts (InvITs), more than five times compared to FY23, supported by the Government's thrust on infrastructure development.
+
+## Secondary Markets
+
+## India among the best-performing markets
+
+2.73 After  enduring  a  highly  turbulent  global  environment  in  FY23,  global  stock  markets recovered and performed well during FY24. All the major markets, except China and Hong Kong, delivered better returns during the period compared to the previous year. Indian stock market was among the best-performing markets, with India's Nifty 50 index ascending by 26.8 per cent during FY24, as against (-)8.2 per cent during FY23. FY24 saw stellar performances from the US, Brazilian and Japanese markets among the global markets. There was evidence of an AI-led tech stock surge, with the tech-heavy US Nasdaq index rising by 34 per cent during FY24 after delivering heavy losses in FY23.
+
+<!-- image -->
+
+2.74 The  exemplary  performance  of  the  Indian  stock  market  compared  to  the  world  and emerging markets over the  years  can  be  primarily  attributed  to  India's  resilience  to  global geo-political and economic shocks, its solid and stable domestic macroeconomic outlook, and the strength of the domestic investor base. Mirroring the positive outlook on Indian markets, India's weight in the MSCI-EM index has increased to 17.7 per cent at the end of FY24 from 13.7 per cent at the end of April 23, the second-highest share among the EMs in the index.
+
+2.75 The market capitalisation of the Indian stock market has seen a remarkable surge over the years. Significant interest from domestic and global investors in the Indian stock market as an attractive investment destination and sustained IPO activity placed the Indian market fifth in the world by market capitalisation in FY24. India's market capitalisation to GDP ratio has improved significantly over the last five years to 124 per cent in FY24, compared to 77 per cent in FY19, far higher than that of other emerging market economies like China and Brazil. It is essential to strike a note of caution. The market capitalisation to GDP ratio is not necessarily a sign of economic advancement or sophistication. Financial assets are claims on real goods and services. If equity market claims on the real economy are excessively high, it is a harbinger of market instability rather than market resilience.
+
+2.76 The  value  traded  increased  across  all  segments  in  the  exchanges,  except  currency derivatives during FY24, with increased investors' participation and positive market trends. Commodity derivatives turnover rose by 87 per cent in FY24, driven by an increase in turnover of options contracts of the energy segment.
+
+Table II.5: Market capitalisation to GDP ratios across countries (percentage)
+
+|        |   India |   China |   Brazil |   Japan |   South Korea |   United Kingdom |   United States |
+|--------|---------|---------|----------|---------|---------------|------------------|-----------------|
+| Dec-19 |      77 |      60 |       65 |     121 |            89 |              106 |             159 |
+| Dec-20 |      95 |      79 |       68 |     129 |           122 |               92 |             197 |
+| Dec-21 |     113 |      80 |       50 |     136 |           127 |              108 |             208 |
+| Dec-22 |     105 |      65 |       42 |     126 |            96 |               91 |             158 |
+| Dec-23 |     124 |      61 |       44 |     147 |           114 |               71 |             179 |
+
+Note: *GDP figures are taken from the World Federation of Exchanges (WFE), and market capitalisation is calculated as the sum of the market capitalisation of NASDAQ and NYSE
+
+Source: CEIC Database, World Bank, WFE
+
+2.77 Box II.3 discusses the initiatives undertaken to strengthen the capital markets through the use of technology, which have played a significant role in enhancing their performance and efficiency.
+
+## Box II.3: The synergy of technology and Indian capital markets: Driving growth and efficiency
+
+Indian capital markets have witnessed a broad-based expansion across various sub-markets, with the country's equity market capitalisation reaching ₹415 lakh crore (USD 5 trillion) in May 2024, placing it fifth in the global rankings.
+
+The  proliferation  of  technology  has  been  a  critical  catalyst  in  transforming  economies worldwide,  and  the  Indian  capital  markets  have  been  no  exception.  The  sector  has continuously transformed over the past few years, leveraging technological advancements to facilitate growth and efficiency.
+
+Technology  plays  a  role  in  meeting  the  market  regulator  SEBI's  three  goals:  market regulation, investor protection, and market development.
+
+Individual investors today are over 9.5 crore and have nearly 10 per cent direct ownership of the market through its almost 2500 listed companies. This translates to around ₹36 lakh crore of wealth as of March 2024, apart from indirect ownership in equity mutual funds that have ₹28 lakh crore in assets under management (AuM). In this manner, technology allows exchanges to help allocate capital to firms and millions of market investors to invest in companies they have never visited and participate in their long-term success and wealth creation. Overall, the market capitalisation in India has risen by over 100 times in the last three decades.
+
+Technological  advancements  such  as  India  Stack  and  regulatory  measures  have  fuelled an unprecedented surge in retail investor participation and activity. The prevalence and proliferation of user-friendly trading apps, mobile-friendly educational resources, and financial market guidance have democratised access to the capital markets. 48 The seamless use  of  technology  has  empowered  investors  to  open  trading  and  demat  accounts  online within  minutes,  trade  from  the  comfort  of  their  homes,  access  investment  reports,  and raise  queries  online  efficiently.  Initiatives  such  as  the  SEBI  Complaints  Redress  System (SCORES), a platform  for  investor  grievance  resolution,  and  Securities  Market  Trainers (SMARTs) a program for investor education, have been instrumental in safeguarding the interests of market participants, particularly first-time investors.
+
+Technology has also played a crucial role  in  market  development.  India's  unique  digital architecture has imbued the capital market regulator with the confidence to switch to the "T+1 settlement regime' comfortably, a feat followed by very few countries worldwide. 49 The introduction of 'Interoperability' among clearing corporations (CCs) created a oneto-many  relationship  between  stock  exchanges  and  CCs  that  reduced  trading  costs  via better margin utilisation and capital resources of the participants. 50  Indian capital markets have also adopted on a pilot basis the 'Application Supported by Blocked Account' facility in the secondary market, which allows investors to block funds in their bank until trade confirmation. A recent initiative of the National Securities Depository Limited (NSDL) titled NSDL-CAS has further eased the investors' lives by presenting an aggregated view of assets held in demat format across multiple accounts and mutual fund folios. 51
+
+Beyond growth, investor safety, and market development, business continuity today has become a critical aspect of capital markets. Initiated in 2022, the 'Disaster Recovery (DR)
+
+48 Explained: What's driving increased retail participation in the Indian stock market? Livemint (2024), link available at: https:// tinyurl.com/3xetmuvt
+
+49 Indian equity markets have even transitioned to same-day settlement cycles ("T+0") in a limited manner, becoming the first nation to do so. The transition to shorter settlement cycles has increased efficiency and reduced settlement risk.
+
+50 Interoperability among clearing corporations, PWC (2019)
+
+51 Enhancing Investor Centric Services through Technology and Education, AIBI Summit (2022)
+
+45' framework allows the continuation of trading using existing connectivity parameters in case of unforeseen events with minimal switching time. 52  In consultation with SEBI, stock exchanges and brokers have implemented various measures to address technical glitches in stockbrokers' electronic trading systems, such as the "LAMA (Log Analytics and Monitoring Application) reporting" API, a monitoring platform to overview the IT structure and perform analytics thereof. 53 Additionally, clearing corporations like NSCCL and ICCL 54  have worked on two-way portability to be operated as a "SaaS" (Software as a Service) model to manage unforeseen software failures. 55
+
+While  the  synergy  of  technology  and  capital  markets  has  unlocked  significant  benefits, evolving  challenges  must  be  addressed.  Privacy  concerns,  cybersecurity  risks,  and  the rising digital divide in the population are some issues that require attention. Nonetheless, regulators have been steadfast in their approach, realising that unlocking the maximum potential from the marriage of technology and capital markets is essential for the overall growth and development of the Indian economy.
+
+## Retail Participation in the Capital Market
+
+2.78 The Indian capital markets have seen a surge in retail activity through direct (trading in markets through their accounts) and indirect (through mutual funds) channels in the last few years. The individual investor's share in the equity cash segment turnover was at 35.9 per cent in FY24. The number of demat accounts with both depositories rose from 1,145 lakh in FY23 to 1,514 lakh in FY24. The impact of this influx of individual investors in the market is also reflected in new investor registrations with the exchanges, their share in total traded value, net investments, and ownership in the listed companies. For instance, the registered investor base at NSE has nearly tripled from March 2020 to March 2024 to 9.2 crore as of 31 March 2024, potentially translating into 20 per cent of the Indian households now channelling their household savings into financial markets.
+
+Mutual Funds (MFs): Accelerating the financial savings and retail participation in capital markets
+
+2.79 A  rise  in  retail  participation  was  more  substantial  and  steadier  through  the  indirect channel via mutual funds. FY24 has been a spectacular year for MFs as their AuM of the MFs increased by ₹14 lakh crore (YoY growth of 35 per cent) to ₹53.4 lakh crore at the end of FY24, boosted by mark-to-market (MTM) gains and expansion of the industry. The total number of folios increased from 14.6 crore at the end of FY23 to 17.8 crore at the end of FY24. Barring income/debt-oriented schemes, all categories of MF schemes witnessed net inflows. Inflows into growth/equity-oriented and hybrid schemes accounted for more than 90 per cent of net
+
+52 https://www.nseindia.com/trade/disaster-recovery-faqs
+
+53 LAMA reporting: Failure is not an option, ITRS Blog (2023), https://www.itrsgroup.com/blog/new-year-operational-risk
+
+54 National Securities Clearing Corporation Limited; Indian Clearing Corporation Limited
+
+55 NSE Clearing Archives dated 29 March, 2023, https://archives.nseindia.com/content/circulars/COM56205.pdf
+
+inflows into MFs. Among the passive schemes, exchange-traded funds (ETFs) (other than gold exchange-traded funds) witnessed a 37 per cent rise in net assets in FY24.
+
+2.80  The MF segment presently has about 8.4 crore systematic investment plan (SIP) accounts 56 through which investors regularly invest in schemes. Annual net SIP flows have doubled in the last three years, from ₹0.96 lakh crore in FY21 to ₹2 lakh crore in FY24. Total SIP AuM is approximately 35 per cent of the AuM of the MF industry for equity-oriented schemes. This has pushed up ownership of MFs in Indian equities to 9.2 per cent as of 31 December 2023, compared to 7.7 per cent as of 31 December 2021.
+
+<!-- image -->
+
+GLYPH&lt;c=3,font=/AEGMLN+Calibri&gt;
+
+Note: Outstanding SIP accounts and SIP AuM are reported at the end of each financial year. SIP contribution pertains to yearly gross contribution through SIP accounts. Source: Association of Mutual Funds in India (AMFI)
+
+2.81 Some of the factors that facilitated the entry of investors in the pandemic period and beyond included seamless technological integration, Government measures towards financial inclusion, growth of digital infrastructure, rapid smartphone penetration, a rise of low-cost brokerages,  the  pursuit  of  generating  income  from  alternative  sources  and  lower  returns generated by traditional asset classes such as real estate and gold. However, retail investors have cashed in their gains in financial markets and been investing in real assets. It is smart portfolio diversification. A conducive economic environment in the form of lower interest rates, sustained post-COVID-19 recovery, elevated inflation, and a supportive policy backdrop also boosted the retail accumulation of capital market assets. Further, continuous investor awareness programs focusing  on  the  rights  and  responsibilities  of  investors  have  contributed  to  the  continuing growth  of  individual  participation  in  securities  markets.  In  August  2023,  SEBI  introduced the Online Dispute Resolution, which combines online conciliation and online arbitration to resolve disputes arising in the securities market. Another significant measure introduced in FY24 was the centralised mechanism for reporting and verification in case of demise of an investor, thereby smoothening the transmission process to the legal heirs. Enhanced Investor
+
+56 A SIP is a systematic approach to investing in mutual funds that involves allocating a small pre-determined amount of money for investment in the market at regular intervals.
+
+Protection  Fund 57   and  Settlement  Guarantee  Fund 58 and  shortening  of  the  settlement  cycle have improved the perception of safety and security in the Indian markets. Nonetheless, it is essential to ensure that retail investors do not mistake these funds as mechanisms to underwrite their losses and provide a backstop.
+
+2.82 The number of unique tax IDs registered on the NSE rose from 2.7 crore in FY19 to 9.2 crore in FY24. The enhanced participation of retail investors in the Indian capital market is hugely welcome and lends stability to the capital market. It has also enabled retail investors to earn higher returns on their savings. Most of the new retail investors are likely young and may have a higher risk appetite. It is also reflected in the interest that retail investors have shown in derivatives trading, especially expiration-day trading. While derivatives are hedging instruments, they are mostly used as speculative instruments by investors worldwide. India is likely no exception.
+
+- 2.83 Derivatives  trading  holds  the  potential  for  outsized  gains.  Thus,  it  caters  to  humans' gambling  instincts  and  can  augment  income  if  profitable.  These  considerations  are  likely driving active retail participation in derivatives trading. However, globally, derivatives trading loses money for the investors, for the most part. Raising investor awareness and continuous financial  education  is  essential  to  warn  them  of  the  low  or  negative  expected  returns  from derivatives trading. A significant stock correction could see losses that are more considerable for retail investors participating in capital markets through derivatives. Investors' behavioural response would be to feel 'cheated' by unseen more considerable forces. They may not return to capital markets for a long time. That is a loss to them and the economy.
+- 2.84 The financialisation of economies has not ended well, even for advanced economies. The global financial crisis of 2008 is an obvious example. Developing countries face debilitating crises when financial market 'innovations' and growth run ahead of economic growth. The Asian crisis of 1997-98 set back the high-flying economies of the region for a long time. Therefore, India needs to have an orderly and gradual evolution of the financial market. 59
+
+2.85 All  stakeholders  -  market  participants,  market  infrastructure  institutions,  regulators, and the Government must ensure that capital markets play their theoretically assigned role of directing savings to their most productive investments. It is not just in the national interest. It is an act of self-interest, too.
+
+## Social Stock Exchanges: Leveraging finance from a social stand-point
+
+2.86 Box II.4 discusses the role of the Social Stock Exchange (SSE) in bridging the financing gap by providing alternative fund-raising instruments for achieving socio-development goals.
+
+57  The Investor Protection Fund compensates the investors to the extent of funds found insufficient in the defaulters' account to meet the admitted value of the claim, subject to a maximum limit of ₹25 lakh per investor per defaulter/expelled member in respect of claims arising on expulsion/declaration of default of members.
+
+58 The  objective  of  the  Settlement  Guarantee  Fund  is  to  guarantee  the  settlement  of  all  transactions  of  the  members  of  the exchange inter-se through the stock exchange.
+
+59 For further details, please see: Nageswaran, V. &amp; Natarajan, Gulzar. (2019), 'The Rise of Finance: Causes, Consequences and Cures'. Cambridge University Press.
+
+## Box II.4: Social Stock Exchanges in India: Making progress
+
+Indian securities markets, over the years, have been characterised by momentous strides in expanding the retail footprint in finance, innovative fund-raising, and regulatory solid scrutiny of stock exchange platforms. To leverage this transparency and rigour of equity markets for social good, in the Union Budget of FY20, the Government proposed to initiate steps towards creating a SSE under the regulatory ambit of SEBI for listing social enterprises and voluntary organisations working for the realisation of a social welfare objective so that they can raise capital as equity as well as, debt in the country.
+
+Need for Social Stock Exchange: The SSE aims to bridge the financing gap by providing alternative  fund-raising  instruments  for  achieving  socio-development  goals.  SSE  is  a separate segment of the existing stock exchange, which can help social enterprises like nonprofit organisations (NPOs) and non-government organisations (NGOs) raise funds from the public through the stock exchange mechanism. In this way, SSE is expected to stimulate the  ecosystem  of  outcome-driven  philanthropy  in  India  in  a  transparent  and  regulated environment. SSE also offers a platform for constructive engagement of NGOs and other enterprises working in the area of social projects related to health, education, livelihood generation,  etc.,  to  directly  raise  funds  from  the  private  sector,  corporate  entities  and individuals (including High Net Worth Individuals (HNIs)) and contribute to development goals. With the increasing global appetite for socially responsible investments, SSE bridges this  gap  and  brings  the  capital  markets  closer  to  the  masses  for  meeting  various  social welfare objectives.
+
+Operationalisation of SSEs: The contributions towards the social sector projects listed on SSE are made through a unique security, known as Zero Coupon, Zero Principal (ZCZP) instrument as the nature of funding is akin to a donation and, as such, does not promise any payment of coupon or return of the principal amount. To scale up this ecosystem, the Government has recently extended tax exemption under section 80G of the Income Tax Act, 1961, to the contributions made through ZCZPs on SSE. Another noteworthy feature of
+
+SSE is that fund-raising on this platform is tied to specific projects undertaken by eligible NPOs. These NPOs are mandated to declare their year-wise milestones that are targeted to be achieved with funds raised from the public. In this regard, the SEBI (Issue of Capital and Disclosure Requirements (ICDR)) Regulations, 2018 identifies broad activities for which these potential projects can be undertaken, in areas such as eradication of hunger, poverty, malnutrition, and inequality; promotion of healthcare, education, livelihood for rural and urban poor; disaster management; and environmental sustainability, among others.
+
+To be listed on SSE, NGOs/NPOs must disclose their past social audit reports, verifying proven expertise and commitment to executing social sector projects. As eligibility criteria, the  regulatory  framework  requires  that  the  NGOs/NPOs  have  at  least  3  years  of  field experience in executing social sector projects. Further, to ensure accountability of fund-
+
+raisers to fund-providers, entities raising funds on SEE must disclose detailed information about their social and environmental performance in an Annual Impact Report within 90 days from the end of the financial year, duly audited by a social auditor. 60 Thus, through its rigour, transparency, and scrutiny, the SSE platform ensures that donations reach credible entities, inspiring confidence in the ecosystem and paving the way for its scalability as we advance.
+
+Progress so far: After the rollout of the regulatory framework for SSE by SEBI, National Stock  Exchange  (NSE)  and  Bombay  Stock  Exchange  (BSE)  obtained  SEBI's  in-principal approval to set up a separate segment of SSE. As of April 2024, 51 NPOs are registered on the BSE, and 50 (11 undergoing renewal) are registered on the NSE. Nine NPOs have raised funds on SSE, amounting to a total of ₹ 12.4 crore. These projects span social projects in education, livelihood generation, skill development, etc. 61
+
+## Gift IFSC: emerging as a dominant gateway for global capital inflows into india
+
+2.87 The  IFSC  in  GIFT  City,  Gujarat,  is  envisaged  to  be  a  unique  international  financial jurisdiction  located  inside  onshore  India,  set  up  with  a  dual  objective  of  onshoring  Indiacentric international financial services business as well as serving as a preferred gateway for channelising global capital flows into and out of the country. Over the last few years, GIFT IFSC has made great strides in achieving both of these objectives. The initiative is a shining example of India's firm commitment to undertake deep, bold and ambitious financial sector reforms to attract the global financial services business and gradually become a global leader in international finance.
+
+2.88 The  uniqueness  of  the  IFSC  as  a  distinct  financial  jurisdiction  emanates  from  three fundamental factors. First, the IFSC has been designated as a non-resident zone under the Foreign Exchange Management Act, which means that entities set up in the IFSC are outside the capital control restrictions and, therefore, can conduct business in any of the eleven notified foreign  currencies. 62 Second,  the  IFSC  has  been  brought  under  the  regulatory  purview  of  a dedicated  and unified financial regulator, i.e. IFSCA (International Financial Services Centres Authority), which has been set up under an Act of Parliament. This regulatory intervention by the Government has significantly bolstered the attractiveness of IFSC among global investors and financial institutions, as they now have to deal with only one Authority for all approvals and  licenses.  Third,  through  successive  Union  Budgets,  the  Government  has  provided  a separate tax regime for the IFSC, which is at par with what is available in other leading global financial centres.  The competitive tax regime has ensured that financial services institutions
+
+60 A financial auditor audits financial statements and transactions, keeping in mind the objective of issuing an opinion on the state of financial affairs, whereas a social auditor looks at the impact caused on society by the organisation, covering environmental, social and economic aspects. SEBI defines a social auditor as an individual registered with a self-regulatory Organisation (SRO) under the purview of the Institute of Chartered Accounts of India (ICAI).
+
+61   As per SEBI
+
+62  US Dollar (USD) Euro (EUR) Japanese Yen (JPY) UK Pound Sterling (GBP) Canadian Dollar (CAD) Australian Dollar (AUD) Swiss Franc (CHF) Hong Kong Dollar (HKD) Singapore Dollar (SGD) UAE Dirham (AED) Russian Ruble (RUB)
+
+operating from IFSC are not at a disadvantage. The contribution of GIFT IFSC in transforming the country's financial industry landscape can be better appreciated by looking at some key business activities in GIFT IFSC.
+
+- 2.89 Banking  sector: The  Banking  ecosystem  in  GIFT  IFSC  is  rapidly  evolving  with  a healthy mix of foreign and domestic banks, primarily catering to the foreign currency borrowing requirements of Indian corporates and public sector enterprises through external commercial borrowing, trade finance, etc. Transactions under these heads, previously booked from foreign financial centres such as Singapore, Dubai, Hong Kong, etc., are now being booked out of GIFT IFSC.  As of March 2024, the total asset size of IFSC Banking Units (IBUs) crossed USD 60 billion, and the cumulative value of transactions undertaken by IBUs crossed USD 795 billion. 63
+- 2.90 Funds Industry: The robust funds industry in GIFT IFSC has a transformative impact in catalysing global capital inflows into India, including the start-up ecosystem. In the last three years, there has been rapid growth in Fund Management Entities (FMEs) and AIFs registered with IFSCA. As of March 2024, the cumulative FMEs and funds registered rose from 39 and 33  as  of  September  2022  to  114  and  120,  respectively,  as  of  March  2024.  Previously,  the pooling of international capital for investments in India was structured through funds (private equity, venture capital, hedge funds, etc.) set up in offshore jurisdictions. Now, with enabling regulations, a competitive tax regime, and beneficial cost of operations, GIFT IFSC is emerging as a preferred jurisdiction for the pooling of global capital by foreign and Indian fund managers.
+- 2.91 Aircraft &amp; ship leasing and financing: The aviation industry in India is on the cusp of unprecedented growth, with a strong order book of more than 1500 + aircrafts placed by Indian airlines and a projected demand for over 2,200 aircrafts by 2042. Currently, most aircraft operated by Indian airlines are leased from offshore lessors that have access to competitive capital costs. The aircraft leasing and financing business, the most profitable segment in the aviation value chain, was entirely residing in foreign jurisdictions. Recognising the immense potential of the aircraft leasing and financing business, IFSCA introduced the enabling leasing framework, and the Government supported the endeavour by providing several tax incentives. In three years, green shoots have been visible in IFSC, with more than 28 aircraft lessors already registered, which have leased more than 120 + aviation assets, including commercial aircraft, helicopters, aircraft engines and ground support equipment. Interestingly, Air India has also commenced leasing its wide-bodies aircraft from the IFSC Zone.
+
+2.92 Considering the critical role of the maritime and shipping industry, the Government and IFSCA have taken significant steps to develop a robust ship leasing and financing ecosystem in GIFT IFSC. The initial focus is to bring back Indian shipping companies who are leasing/ owning  ships  out  of  foreign  jurisdiction.  With  an  enabling  regulatory  framework,  the  ship leasing  ecosystem  is  gaining  traction.  As  of  31  March  2024,  the  number  of  ship  leasing companies registered with IFSCA has risen to 11, underscoring the financial centre's rising appeal for maritime business. Furthermore, these companies have acquired and leased four
+
+63 Data sourced from IFSC GIFT City
+
+assets from GIFT IFSC. Going forward, IFSCA intends to work with IFSC Banking Units (IBUs) to develop a vibrant ship and aircraft financing ecosystem and contribute towards increasing Indian ownership of assets.
+
+2.93 Foreign  universities  initiative: The  IFSC,  being  an  offshore  jurisdiction,  is  also uniquely  positioned  to  become  an  'international  higher  education  hub'  by  attracting  topquality global universities keenly exploring India due to its talent and demographic profile. This opportunity was outlined in the Union Budget FY23, wherein it was stated that 'World Class Foreign Universities and Institutions will be allowed in the GIFT City to offer courses in Financial Management, Fintech, Science, Technology, Engineering and Mathematics, free from domestic regulations, except those by the IFSCA to facilitate the availability of high-end human resources for financial services and technology '. In this endeavour, IFSCA achieved a significant milestone in FY24 when Deakin University from Australia became the first foreign university to be granted final registration for their International Branch Campus in GIFT IFSC under IFSCA (Setting up and operation of International Branch Campus and Offshore Education Centre) Regulation, 2022. Additionally, the University of Wollongong from Australia became the second foreign university to receive in-principal approval for their International Branch Campus in GIFT IFSC. The entry of two foreign universities in GIFT IFSC has paved the way for other globally reputed universities to look at this opportunity and contribute to the rise of an educated and skilled India.
+
+2.94 There are several ongoing reforms to establish IFSC as a reputed international financial centre towards achieving the dual mandate of development and regulation of financial services. IFSCA is in the process of implementing robust regulatory and supervisory systems backed by best-in-class technology. The announcements made in the Union Budget FY24, such as a single window IT system for registrations and delegating powers under the SEZ Act to IFSCA to avoid dual regulations, will enhance the ease of doing business. The IFSC is expected to emerge as a preferred gateway for global capital flows into and out of the country.

@@ -1,0 +1,109 @@
+# Global Economic Scenario
+
+## GLOBAL ECONOMIC SCENARIO
+
+1.1 After a year marked by global uncertainties and volatilities, the global economy achieved greater stability in 2023. While uncertainty stemming from adverse geopolitical developments remained elevated, global economic growth was surprisingly robust. As per the World Economic Outlook (WEO), April 2024 of the International Monetary Fund (IMF) 1 , the global economy registered a growth of 3.2 per cent in 2023, though marginally lower than in 2022 2   and average
+
+<!-- image -->
+
+Source: World Economic Outlook Database, April 2024, IMF, UNCTADstat database, Federal Reserve Bank of New York, Economic Policy Uncertainty; Notes 3 , 4
+
+1    International Monetary Fund, World Economic Outlook, April 2024, page 10 (https://tinyurl.com/38cuxrbw)
+
+2  International Monetary Fund, World Economic Outlook, October 2023, page 12 (https://tinyurl.com/y3xdpktk)
+
+3    Geopolitical Risk Index is based on a tally of newspaper articles covering geopolitical tensions. Ten newspapers are considered. The index is calculated by counting the number of articles related to adverse geopolitical events in each newspaper for each month (as a share of the total number of news articles). A lower value indicates lower risk.
+
+4    Global Supply Chain Pressure Index readings measure standard deviations from the index's historical average. A higher value indicates increased supply chain pressure.
+
+for 2011-19 but higher compared to the projection of 2.8 per cent as per the April 2023 WEO 5 . The context in which the growth of 3.2 per cent in 2023 has been achieved is markedly different compared  to  the  2011-19  period.  Inflationary  pressures  have  been  significantly  higher  on account of the persistence of core inflation. Global trade moderated due to rising geopolitical tensions,  cross-border  restrictions  and  slower  growth  in  advanced  economies  (AEs).  The muted trade growth occurred despite the easing of supply chain pressures. Further, geopolitical developments  and  monetary  policy  changes  across  countries  resulted  in  increased  caution among investors, culminating in moderation in foreign direct investment (FDI) flows.
+
+<!-- image -->
+
+1.2 Both emerging market economies (EMEs) and AEs achieved higher growth in 2023 than projected a year ago.  Almost all major economies have surpassed the pre Covid-19 pandemic (hereinafter as pandemic) real gross domestic product (GDP) levels in 2023. However, growth has been diverse across countries, raising prospects of increasing divergences. Some economies, including India and China, have attained GDP levels 20 per cent higher in 2023 compared to 2019 levels. Among AEs, the US witnessed continued growth momentum. However, economic activity remains subdued in the Euro area, although the magnitude of the downturn has eased.
+
+1.3 The  stark  difference  in  the  economic  performance  of  countries  has  been  on  account of  domestic  structural  issues,  uneven  exposure  to  geopolitical  conflicts  and  the  impact  of monetary policy tightening. The economic shocks resulting from the Russia-Ukraine conflict had an outsized impact on Europe, leading to subdued growth in large countries like Germany and France. The US also faced high inflationary pressures and consequently raised the policy rates substantially. But, the pass-through to outstanding household mortgages was limited on account of the high share of fixed-rate mortgages and corporate debt being termed out at fixed
+
+5    International Monetary Fund, World Economic Outlook, April 2023, page 9 (https://tinyurl.com/2empx2dn)
+
+rates 6 , limiting the impact of higher policy rates on economic activity 7 . India registered a steep decline in economic growth during the pandemic but recovered swiftly, aided by strong private consumption and government impetus to infrastructure investment. China, on the other hand, had only a slight moderation in growth during the pandemic on account of swift policy actions, including a high vaccination rate 8 , but growth has slowed subsequently due to structural issues. Japan, post-pandemic, went through subdued growth but is expected to turn around in 2024, driven by a weak yen and improved consumer spending.
+
+## Chart I.3: All major economies have surpassed pre-pandemic GDP levels
+
+|                |   Year in which crossed pre pandemic GDP (constant prices, national currency) |   Ratio of GDP (constant prices, national currency) in 2023 to corresponding level in 2019 |
+|----------------|-------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+| Brazil         |                                                                          2021 |                                                                                        107 |
+| China          |                                                                          2020 |                                                                                        120 |
+| France         |                                                                          2022 |                                                                                        102 |
+| Germany        |                                                                          2022 |                                                                                        101 |
+| India          |                                                                          2021 |                                                                                        120 |
+| Indonesia      |                                                                          2021 |                                                                                        112 |
+| Italy          |                                                                          2022 |                                                                                        103 |
+| Japan          |                                                                          2023 |                                                                                        101 |
+| Mexico         |                                                                          2022 |                                                                                        104 |
+| South Africa   |                                                                          2022 |                                                                                        101 |
+| Thailand       |                                                                          2023 |                                                                                        100 |
+| United Kingdom |                                                                          2022 |                                                                                        102 |
+| United States  |                                                                          2021 |                                                                                        108 |
+
+Source: World Economic Outlook Database, April 2024, IMF, National Accounts Statistics, Ministry of Statistics and Programme implementation; Note: In IMF data, for India 2021 represents 2021-22 (FY22)
+
+1.4 Apart from GDP estimates, other indicators tracking the performance of the economy also point towards growth resilience. Leading indicators suggest an upturn in global economic activity. The JP Morgan global composite Purchasing Managers' Index (PMI) 9  registered an uptick  since  October  2023  with  quicker  expansion  across  both  manufacturing  and  service sectors. The JP Morgan global manufacturing PMI has been improving and stood at a 23-month high in May 2024 10 .
+
+6     Termed out is a financial concept used to describe the transfer of short-term debt to long-term debt, allowing companies to improve their working capital and take advantage of lower interest rates.
+
+7     de Soyres, F., Herrero, J. G. C., Goernemann, N., Jeon, S., Lofstrom, G., &amp; Moore, D. (2024). Why is the US GDP recovering faster than other advanced economies?.
+
+8     People's  Republic  of  China:  2021  Article  IV  Consultation-Press  Release;  Staff  Report;  and  Statement  by  the Executive Director for the People's Republic of China, IMF (https://tinyurl.com/5456sf94)
+
+9    J.P.Morgan Global Composite PMI (https://tinyurl.com/3ddjnymx)
+
+10  J.P.Morgan Global Manufacturing PMI (https://tinyurl.com/2uabuyb7)
+
+<!-- image -->
+
+1.5 The  escalation  of  the  Red  Sea  crisis  amid  heightened  geopolitical  tensions  in  the Middle East in October 2023 led to supply chain disruptions, sending ripples to global trade and operations. The attacks on commercial shipping in the Red Sea led to increased global transportation costs, reflecting the rerouting of cargo. However, the increase in supply chain pressures  was  transient  and  modest.  Similar  sentiments  were  reflected  in  the  softening  of risk perceptions. The geopolitical risk index, which spiked after the escalation of the conflict, declined thereafter.  However, geopolitical risks are still high and persistent and may worsen in the coming months.
+
+1.6 As the supply chain pressures eased and energy and food price shocks triggered by the Russia - Ukraine conflict faded out, headline inflation across countries declined. After peaking
+
+<!-- image -->
+
+11    PMI values range between 0 and 100. Value greater than 50 implies expansion. Values below 50 implies contraction.
+
+in 2022, inflationary pressures declined considerably in 2023. However, inflation is still above the target in many countries. The easing of supply-chain pressures in tradeable goods in 2023 led to sharp decline in goods inflation in various countries, reducing logistic challenges. Core inflation remained sticky on account of services inflation and a strong labour market, especially in most AEs. 12
+
+<!-- image -->
+
+<!-- image -->
+
+1.7 The persistence of core inflation prompted many central banks to maintain policy rates at a high level or further increase them in 2023, except in China, where the government focussed on giving policy stimulus to revive the economy beset with troubles in the real estate sector. Many central banks have hinted at the peaking of the interest rate hike cycle in recent monetary
+
+12    BIS Quarterly Review, March 2024 Sectoral price dynamics in the last mile of postCovid-19 disinflation (https:// www.bis.org/publ/qtrpdf/r\_qt2403.pdf)
+
+policy review meetings. European Central Bank (ECB) became the first major central bank to cut its policy rate, invoking the first rate cut in nearly five years. ECB lowered its benchmark deposit rate by a quarter percentage point in June 2024. The Federal Open Market Committee (FOMC)  participants'  assessments  also  indicated  rate  cuts  in  2024,  though  the  projected interest rate cut in the latest FOMC meeting (June 2024) 13   is lower than that projected in March 2023. Stronger-than-expected labour market data and persistent inflationary pressures have been a major factor behind the Federal Reserve's (the Fed) reluctance to lower rates. As indicated in the FOMC Meeting statements, from early January 2024 onwards, communication by the Fed increasingly pushed back to dispel excessive market optimism. However, market pricing  of  various  financial  instruments  indicates  greater  investor  conviction  in  earlier  and deeper rate cuts. This is  reflected  in  the  inversion  of  the  yield  curve  (short-term  yields  are higher than long-term yields), implying investor expectation of future policy rate cuts. Financial market participants have also eyed a much easier stance, as reflected in the significant easing of National Financial Conditions in the US in 2023 compared to March 2022, when the Fed began raising rates. Expansionary fiscal policy and the easing of financial conditions have, to a degree, neutralised the monetary policy tightening of the Fed, leaving unanswered questions on the future trajectory of inflation and the US dollar.
+
+<!-- image -->
+
+1.8 On the fiscal front, global general government fiscal deficit (as a per cent of GDP) rose by 1.6 percentage points in 2023 compared to last year. This increase primarily stemmed from a year-on-year (YoY) decline in revenues as windfall revenues from inflation for oil-producing
+
+13   FOMC Projections materials, June 12, 2024 (https://tinyurl.com/2574674a)
+
+14    The NFCI is constructed to have an average value of zero and a standard deviation of one over a sample period extending back to 1971. Positive values of the NFCI have been historically associated with tighter-than-average financial conditions and vice versa.
+
+and commodity-exporting countries waned while expenditures remained largely stable (IMF Fiscal Monitor, April 2024 15 ). Consequently, global public debt also inched up in 2023.
+
+<!-- image -->
+
+1.9 Despite strong global economic growth, as per the WEO data, the global volume of exports of goods and services registered a modest growth of 0.5 per cent in 2023 compared to 2022. The slow growth was driven by lower demand in developed economies and weaker trade in East Asia and Latin America (UNCTAD March Update 2024) 16 . High energy prices and inflation weighed  heavily  on  the  demand  for  manufactured  goods,  resulting  in  a  decline  in  world merchandise trade volume for 2023. On the other hand, developments in the services trade were more upbeat, partly offsetting the decline in goods trade (WEO, IMF Database, April 2024). Recurring disruptions, especially since the Russia-Ukraine crisis and increased concerns about supply-chain resilience also contributed to the slowdown. There is a reallocation of trade along geopolitical lines, with rising cross-border trade restrictions. About 3,000 new restrictions on trade were introduced in 2023, according to Global Trade Alert data (IMF, WEO, April 2024) 17 .
+
+1.10  Concerns  regarding  geopolitical  conflicts,  high  borrowing  costs  and  global  economic fracturing  were  also  reflected  in  weakening  FDI  flows.  Global  FDI  flows  declined  in  2023 compared to 2022 18 .
+
+15    Fiscal Policy in the Great Election Year, Fiscal Monitor, IMF (https://tinyurl.com/bdfxk7c5)
+
+16  Global Trade Update, March 2024, UNCTAD (https://tinyurl.com/pe87zewe)
+
+17    World Economic Outlook, April 2024, International Monetary Fund, page 14 (https://tinyurl.com/38cuxrbw)
+
+18  World Investment Report 2024, UNCTAD (https://tinyurl.com/2u48tsuc)
+
+<!-- image -->

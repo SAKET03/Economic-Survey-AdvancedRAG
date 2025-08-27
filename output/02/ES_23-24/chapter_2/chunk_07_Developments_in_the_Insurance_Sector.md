@@ -1,0 +1,63 @@
+# Developments in the Insurance Sector
+
+## Developments in the insurance sector
+
+## Moderation in global insurance markets
+
+2.95 Global economic slowdown and inflation have raised challenges for insurers. The cost of  capital  is  rising  with  more  robust  investment  returns.  Reserve  adequacy  has  emerged  as a  critical  consideration  as  a  prolonged  period  of  favourable  development  wanes  due  to  the current and recent shocks of high inflation and the COVID-19 pandemic. Despite having a large buffer, the pace of industry reserve releases has slowed. In the existing environment, many uncertainties prevail, such as delayed settlements, which emerge as a more significant problem in periods of high economic and social inflation. The shift of inflation from goods to services has impacted liability exposures. In the future, lower claims once disinflation sets in and higher returns on interest rate-sensitive investments are expected to support profitability.
+
+2.96 Considering  the  abovementioned  factors,  global  insurance  markets  have  witnessed  a contraction in 2022 compared to the previous year. As per the Swiss Re Institute report on World Insurance 2023 64 , total global insurance premiums contracted by 1.1 per cent in real terms in 2022, compared to a growth of 3.4 per cent in 2021. However, the non-life insurance sector witnessed an increase of 0.5 per cent in 2022, though lower than the 2.6 per cent growth registered in 2021, driven by rate hardening in commercial lines in developed markets. In the life  insurance segment, global premiums contracted by 3.1 per cent in 2022, compared to a growth of 4.5 per cent in 2021.
+
+## India is poised to emerge as one of the fastest-growing insurance markets in the coming decade
+
+2.97 Economic  growth,  an  expanding  middle  class,  innovation,  and  regulatory  support have driven insurance market growth in India. In FY23, premium growth moderated slightly compared to the previous year, reflecting still-in-process adjustments to the post-COVID-19 era. Overall insurance penetration 65  in India moderated slightly to 4 per cent in FY23, from 4.2 per cent in FY22. During the same period, insurance penetration in the life-insurance segment declined from 3.2 per cent in FY22 to 3 per cent in FY23, while it remained flat at 1 per cent for the non-life insurance segment. Overall insurance density 66 increased from USD 91 in FY22 to USD 92 in FY23. In the life insurance segment, it rose from USD 69 in FY22 to USD 70 in FY23 and remained stable in the non-life insurance segment. 67
+
+2.98 As per the Swiss Re Institute Report, 68 Life  premium growth in India is estimated to slow to 4.1 per cent in FY23 (higher than the historical average of 3.2 per cent during 20122021) from 5.9 per cent in FY22 as memories (i.e., risk awareness) of the pandemic faded and a recent change in tax norms for high-ticket policies 69   weighed on new premium growth. Owing to these factors, new business premiums, after growing by 40 per cent in the first quarter of FY22, contracted in the fourth quarter (7 per cent). The momentum continued in FY23 as well, with new business premiums in the second quarter declining by 21.2 per cent, mainly due to a contraction in the group insurance business.
+
+## Status of Non-Life Insurance segment
+
+2.99 Non-life premium growth moderated slightly from 9 per cent in FY22 to an estimated 7.7 per cent in FY23 (lower than the historical average of 8 per cent during 2012-2021) as the market stabilised after the pandemic. Growth in almost all lines of business slowed last year
+
+64 Swiss Re Institute Report, World Insurance Market 2023, https://t.ly/64ENQ
+
+65  Insurance penetration refers to the ratio of the insurance premiums written in a particular year to GDP
+
+66 Insurance density refers to the ratio of insurance premium to population, i.e., insurance premium per capita and is measured in US Dollar.
+
+67 Swiss Re Institute Report, 'India's Insurance Market: Growing Fast with Ample Scope to Build Resilience', https://t.ly/tagPh
+
+68 Ibid
+
+69 Under this regulation, any proceeds from a life insurance policy with an annual premium exceeding ₹5 lakh are subject to taxation. As a result, section 10(10) of the Income Tax Act, previously offering exemptions, no longer applies to policies with premiums surpassing this threshold.
+
+as the industry stabilised after the pandemic. The sector faces headwinds such as economic slowdown, high interest rates, and elevated retail and medical inflation.
+
+2.100 Health accounts for around 35 per cent of sector premiums written in FY23. With an estimated increase of 11 per cent in premiums, health saw the fastest growth amongst all nonlife lines in FY23. Increased health awareness, supportive government policies, rising medical costs and innovations in Insurtech have supported this growth. Although price and income constraints may limit demand for the lower income groups, the expanding middle class and increased discretionary spending are expected to support overall growth. Further, to provide health insurance to low-income households, Ayushman Bharat Pradhan Mantri Jan Arogya Yojana  (AB-PMJAY)  and  State  government  extension  schemes  are  in  place.  Recently,  ABPMJAY achieved a milestone of generating 34.2 crore Ayushman cards across India, with 49.3 per cent of them held by females. In the medium term, health premiums are projected to grow by 9.7 per cent annually in 2024-28, with regulatory initiatives to improve the attractiveness of insurance offering some support.
+
+2.101  Agriculture insurance is another line of business, accounting for around 12 per cent of the non-life insurance market. The agriculture insurance is estimated to register a flat growth in FY23 due to a sharp decline in premium rates in the Kharif cropping season. The decline was more than offset by increased insured land area and farmer enrolments during the season. Agriculture premiums will likely rise from 2024 onwards, with an average real premium growth of 2.5 per cent over the medium term, supported by improvements in insurance infrastructure such as mobile applications and remote sensing for crop loss monitoring. The Government has launched various initiatives to address current concerns around crop insurance. These include the launch of new technological initiatives such as the YES-Tech Manual, WINDS portal, and enrolment app AIDE/Sahayak to assess crop damage via satellite-based advanced technologies, and with door-to-door enrolment initiatives making cover more accessible.
+
+2.102 The Government and Insurance Regulatory and Development Authority of India (IRDAI) have taken several steps to support industry growth. Paramount among these is the mission 'Insurance  for  all  by  2047',  launched  in  November  2022,  to  ensure  that  every  citizen  and enterprise has appropriate insurance cover/solution. Three major initiatives, Bima Sugam, 70 Bima  Vahak, 71   and  Bima  Vistaar 72 are  expected  to  be  launched,  aiming  to  raise  insurance penetration, particularly in semi-urban areas, rural towns, and villages.
+
+2.103 The  IRDAI  approved  amendments  to  the  reinsurance  regulations  to  position  India as  a  global  reinsurance  hub.  Fundamental  changes  include  reducing  Foreign  Reinsurance Branches' (FRB) minimum capital requirement to USD 6.1 million from USD 12.2 million and streamlining the regulator's order of preference of cession by Indian insurers to reinsurers to
+
+70 'Bima Sugam' is an online portal to facilitate the buying of insurance, portability facilities, the ability to change insurance agents and the settling of life, motor and health claims directly with insurers
+
+71 'Bima Vahak' is a women-centric insurance distribution channel
+
+72 'Bima Vistaar' is a social safety net accessible to all through the Bima Sugam platform
+
+four from six levels. Reinsurance formats have been simplified, and the International Financial Service Centre Insurance Offices' (IIOs) framework has been aligned with that of the IFSCA rules for better competitiveness.
+
+2.104 A  comprehensive  regulatory  review  has  been  undertaken,  transitioning  from  a  rulebased  approach  to  a  principle-based  architecture  while  establishing  a  resilient  and  robust risk management framework. Streamlining the operations, 167 circulars and 82 returns have been  repealed,  while  78  regulations  have  been  amended,  consolidated,  and  reduced  to  28. The regulatory clearance processes for insurance products have also been replaced from the erstwhile requirement of prior approval under the ' File and Use ' regime, with all the products under the general and health insurance and the majority of the life insurance products being required to follow ' Use and File '  procedures which facilitate insurers to launch the products quickly considering the market dynamics.
+
+2.105 Various regulatory stipulations have also been removed for product offerings under all the segments, focusing on the health insurance segment to provide enhanced coverage and choice to customers. Further, to empower policyholders with a deeper understanding of their insurance coverage, issuance of a concise Customer Information Sheet (CIS) to the policyholders has been made compulsory for all types of insurance policies.
+
+2.106 Further, to make the industry future-ready and align with global standards, significant progress has been made towards the implementation of the Risk-Based Supervisory Framework, Risk-Based Capital Framework, and International Financial Reporting Standards. The IRDAI facilitates coordinated efforts between insurers and state governments through state insurance plans to take insurance services to the last mile and even the remotest parts of the country.
+
+2.107 These reforms and sustained economic growth are expected to facilitate the continued development and advancement of the insurance sector supported by robust economic growth, an  expanding  middle  class,  innovation,  and  strong  policy  support.  There  are  favourable projections  for  the  Indian  Insurance  market.  The  Swiss-Re  Institute  January  2024  report 73 projected that over the next five years (2024-28), total insurance premiums in India will grow by 7.1 per cent in real terms, well above the global (2.4 per cent), emerging economies (5.1 per cent) and advanced economies (1.7 per cent) market averages. At this rate, India will have the fastest-growing insurance sector amongst the G20 countries. Insurance penetration as a per cent of GDP is projected to grow from 3.8 per cent in FY23 to 4.3 per cent by FY35. The growth in life business (premiums up 6.7 per cent in 2024-28) is likely to be supported by rising demand for term life cover by the middle class, the country's young population and increasing industry adoption of Insurtech. Non-life premiums are projected to grow at an annual average of  8.3  per  cent  during  2024-28,  driven  by  economic  growth,  improvement  in  distribution channels, government support and a favourable regulatory environment. Further, over the next
+
+73 https://tinyurl.com/mryvwj9m
+
+decade (2024-34), total premiums are expected to more than double (inflation-adjusted), and insurance penetration will increase from 3.8 per cent presently to 4.5 per cent in 2034.
+
+2.108 For  the  anticipated  rise  in  insurance  penetration  to  materialise,  the  industry  has  to become more customer-friendly. According to  the  Annual  Report  of  IRDAI  for  FY23 74 ,  the centralised grievance portal received over two lakhs of complaints during the year. If the Life Insurance Corporation of India is excluded, over 50 per cent of the complaints against life insurers were about unfair business practices, a euphemism for mis-selling. Further, 66 per cent of the complaints against general insurers were about claims, including delayed and denied settlements. The industry has to think and work for the long term. Insurance penetration will not rise. Data for FY23 showed a decline in insurance penetration. When it comes to financial products,  globally,  'soft-touch'  regulations  have  seldom  worked  over  a  sustained  period  in delivering customer satisfaction and value for money. 75  Globally, the private financial sector has repeatedly shown itself to be adept at selective or misinterpretation of principles-based regulations to its benefit.

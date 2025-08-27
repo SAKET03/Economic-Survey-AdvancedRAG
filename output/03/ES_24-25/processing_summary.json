@@ -1,7 +1,7 @@
 {
   "total_chapters": 13,
-  "total_chunks": 94,
-  "output_directory": "/workspace/output/03/ES_24-25",
+  "total_chunks": 88,
+  "output_directory": "/workspace/processed_chunks_24-25",
   "processed_chunks": [
     {
       "chapter_no": 1,
@@ -54,11 +54,6 @@
       "file_saved": true
     },
     {
-      "chapter_no": 2,
-      "chunk_no": 5,
-      "file_saved": true
-    },
-    {
       "chapter_no": 3,
       "chunk_no": 1,
       "file_saved": true
@@ -89,11 +84,6 @@
       "file_saved": true
     },
     {
-      "chapter_no": 3,
-      "chunk_no": 7,
-      "file_saved": true
-    },
-    {
       "chapter_no": 4,
       "chunk_no": 1,
       "file_saved": true
@@ -121,16 +111,6 @@
     {
       "chapter_no": 5,
       "chunk_no": 2,
-      "file_saved": true
-    },
-    {
-      "chapter_no": 5,
-      "chunk_no": 3,
-      "file_saved": true
-    },
-    {
-      "chapter_no": 5,
-      "chunk_no": 4,
       "file_saved": true
     },
     {
@@ -216,6 +196,11 @@
     {
       "chapter_no": 7,
       "chunk_no": 7,
+      "file_saved": true
+    },
+    {
+      "chapter_no": 7,
+      "chunk_no": 8,
       "file_saved": true
     },
     {
@@ -364,11 +349,6 @@
       "file_saved": true
     },
     {
-      "chapter_no": 10,
-      "chunk_no": 8,
-      "file_saved": true
-    },
-    {
       "chapter_no": 11,
       "chunk_no": 1,
       "file_saved": true
@@ -461,16 +441,6 @@
     {
       "chapter_no": 13,
       "chunk_no": 7,
-      "file_saved": true
-    },
-    {
-      "chapter_no": 13,
-      "chunk_no": 8,
-      "file_saved": true
-    },
-    {
-      "chapter_no": 13,
-      "chunk_no": 9,
       "file_saved": true
     }
   ]

@@ -1,0 +1,17 @@
+# Major Decisions at COP 27
+
+## major decisions at CoP 27
+
+7.56  The COP 27 to the UNFCCC was held from 6 to 20 November 2022 in Sharm el-Sheikh, Egypt. In conjunction with COP 27, the 17 th Session of the Conference of Parties serving as the meeting of the Parties to the Kyoto Protocol (CMP17), the 4th Session of the Conference of the Parties serving as the Meeting of Parties to Paris Agreement (CMA4), 57th session of the Subsidiary Body for Scientific and Technological Advice (SBSTA) and the Subsidiary Body for Implementation (SBI) were also held.
+
+- 7.57  India participated in COP 27, with a focus on mainstreaming the theme of LiFE - Lifestyle for Environment. The Indian Pavilion at COP 27 highlighted the theme of LiFE in various ways - models, audio-visual displays, activities, and 49 side events. India invited all countries to join the LiFE movement, which is a pro-people and pro-planet effort seeking to shift the world from mindless and wasteful consumption to mindful and deliberate utilisation of natural resources.
+- 7.58  The cover decision of COP 27, titled the Sharm el-Sheikh Implementation Plan, notes the 'importance of the transition to sustainable lifestyles and sustainable patterns of consumption and production for efforts to address climate change'. Other decisions were setting up the Just Transition and Mitigation Work Program and the agreement on Joint work on the implementation of climate action on agriculture and food security to be conducted over four years.
+- 7.59  During COP 27, developing nations strongly voiced setting up a separate fund for loss and damage. After negotiations, it was decided to establish new funding arrangements for assisting developing countries that are particularly vulnerable to the adverse effects of climate change in responding to loss and damage, with a focus on addressing loss and damage. A transitional committee has been established to work out the modalities.
+
+13 Beloskar, V. D., &amp; Rao, S. V. D. (2022). Did ESG Save the Day? Evidence from India During the Covid-19 Crisis. Asia-Pacific Financial Markets, 1-35.
+
+14 Mulchandani, K., Mulchandani, K., Iyer, G., &amp; Lonare, A. (2022). Do Equity Investors Care about Environment, Social and Governance (ESG) Disclosure Performance? Evidence from India. Global Business Review, 23(6), 1336-1352.
+
+7.60  Other  substantive  elements  covered  in  the  Sharm  el-Sheikh  Implementation  Plan  are the importance of science in guiding climate action, doubling adaptation finance, dialogue on making finance flows consistent with low-emissions, and climate-resilient development calls on  Multilateral  Development  Banks  (MDB)  reform  for  delivering  climate  finance  at  scale; diversity of sources of finance (including new and additional finance), etc. COP 27 also saw progress on adaptation, with governments agreeing on how to move forward on the Global Goal on Adaptation, which will conclude at COP 28 and inform the first Global Stocktake in 2023.
+
+7.61  Lastly, during COP 27, it was also recognised that the target of US$ 100 billion per year is yet to be achieved. The COP 21 decided that, prior to 2025, a New Collective Quantified Goal (NCQG) on climate finance from a floor of US$ 100 billion per year, taking into account the needs and priorities of developing countries, shall be set. To further the agenda of setting the NCQG by 2024, COP 27 decided that Four Technical Expert Dialogues (TEDs) will be carried out prior to COP 28.

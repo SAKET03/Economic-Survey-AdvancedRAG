@@ -1,0 +1,203 @@
+# Domestic Retail Inflation
+
+## Domestic Retail Inflation
+
+## Headline Inflation Declined from its Peak
+
+- 5.7 FY22 witnessed lower CPI-Combined (CPI-C) based retail inflation as compared to FY21. Even so, inflation remained on the higher side when compared to the moderation seen during the years prior to the pandemic. During FY22, some sub-groups such as 'oils &amp; fats', 'fuel &amp; light' and 'transport &amp; communication' reported high inflation. This was mainly driven by supply disruptions caused by pandemic-induced lockdowns. The subsequent year (FY23) began with the Russia-Ukraine crisis that led to high headline inflation rate in April 2022.
+- 5.8 In FY23, retail inflation was mainly driven by higher food inflation, while core inflation stayed at a moderate level. Food inflation ranged between 4.2 per cent to 8.6 per cent between April and December 2022, while the core inflation rate stayed at around 6 per cent except in April 2022.
+
+Table V.1: Average Annual Retail Inflation Based on CPI-C (per cent) (base: 2012=100)
+
+| Groups/Sub-groups    |   Weight |   FY20 |   FY21 |   FY22 |   FY23* |
+|----------------------|----------|--------|--------|--------|---------|
+| Food &beverages      |     45.9 |    6   |    7.3 |    4.2 |     7   |
+| Cereals and products |      9.7 |    2.8 |    3.8 |    0.5 |     9.3 |
+| Meat and fish        |      3.6 |    9.3 |   15.4 |    7.9 |     4.7 |
+| Egg                  |      0.4 |    4.5 |   12.9 |    7.6 |    -1   |
+| Milk and products    |      6.6 |    2.9 |    5.4 |    2.8 |     6.8 |
+| Oils and fats        |      3.6 |    2.9 |   16   |   27.4 |     5.4 |
+| Fruits               |      2.9 |    0.7 |    2.6 |    6.2 |     4.4 |
+| Vegetables           |      6   |   21.3 |    5.8 |   -7.2 |     7.6 |
+| Pulses and products  |      2.4 |    9.9 |   16.4 |    6   |     1.8 |
+
+|                              |   Weight |   FY20 |   FY21 |   FY22 |   FY23* |
+|------------------------------|----------|--------|--------|--------|---------|
+| Sugar and confectionery      |      1.4 |    0.8 |    2.5 |    2.3 |     2.7 |
+| Spices                       |      2.5 |    4.4 |   10.9 |    5.3 |    14.9 |
+| Pan, tobacco &intoxicants    |      2.4 |    4.2 |    9.9 |    4.5 |     2   |
+| Clothing &footwear           |      6.5 |    1.6 |    3.4 |    7.2 |     9.7 |
+| housing                      |     10.1 |    4.5 |    3.3 |    3.7 |     4.1 |
+| Fuel and light               |      6.8 |    1.3 |    2.7 |   11.3 |    10.5 |
+| Miscellaneous                |     28.3 |    4.4 |    6.6 |    6.7 |     6.3 |
+| Household goods and services |      3.8 |    3.1 |    3   |    5.8 |     7.5 |
+| Health                       |      5.9 |    6.2 |    5.1 |    7.5 |     5.8 |
+| Transport and communication  |      8.6 |    2.4 |    9.9 |   10.1 |     6.4 |
+| Recreation and amusement     |      1.7 |    4.9 |    5.1 |    6.5 |     6.4 |
+| Education                    |      4.5 |    5.5 |    2.8 |    2.9 |     5.2 |
+| Headline Inflation           |    100   |    4.8 |    6.2 |    5.5 |     6.8 |
+| Core Inflation               |     47.3 |    4   |    5.5 |    6   |     6.1 |
+| Food Inflation               |     39.1 |    6.7 |    7.7 |    3.8 |     7   |
+
+Source: MoSPI,
+
+Note: *April-December, CPI data for December 2022 are provisional
+
+Figure V.3: Declining Food Inflation but Sticky Core Inflation
+
+<!-- image -->
+
+Source: MoSPI
+
+## Retail Inflation Driven by Food Commodities
+
+- 5.9 Retail price inflation mainly stems from the agriculture and allied sector, housing, textiles, and pharmaceutical sectors. Further, the global spillovers, representing the imported inflation channel, driven by price pressures in energy, mining, chemicals, trade, basic and machinery, 2 reaches the retail segment mainly through the wholesale price inflation. During FY23, 'food &amp; beverages', 'clothing &amp; footwear', and 'fuel &amp; light' were the major contributors to headline inflation- the first two contributing more this fiscal than in the previous one.
+- 5.10  Within the 'miscellaneous' group, high inflation was observed in subgroups 'household goods and services' and 'personal care and effects' owing to the revival of consumer demand in the post-Covid-19 period. Moreover, retail inflation in the 'health' sub-group moderated in the current financial year as compared to FY22. However, inflation in the 'education' subgroup surged on account of schools reopening for in-person classes after the pandemic.
+
+Figure V.4: Retail Inflation Driven by 'Food and Beverages' Group
+
+<!-- image -->
+
+Source: MoSPI
+
+Note: *April-December
+
+## Food Inflation Caused by Vegetables and Cereals in FY23
+
+- 5.11  Food inflation based on Consumer Food Price Index (CFPI) climbed to 7.0 per cent in FY23 from 3.8 per cent in FY22. Though the increase in food inflation is broad-based, the major contributors are vegetables, cereals, milk and spices. The RBI forecasts elevated domestic prices for cereals and spices in the near term, owing to supply shortages. Milk prices are also expected to spike reflecting high feed costs. Since September 2022, double-digit inflation was observed in cereals. To check the soaring prices of wheat and rice, the government has prohibited the export of wheat products under HS Code 1101 and imposed an export duty on rice. Further, in order
+
+2 Monetary Policy Report, RBI, September 2022
+
+Figure V.5: Retail Inflation in Major Groups/Sub-groups
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+Source: MoSPI
+
+<!-- image -->
+
+<!-- image -->
+
+to  insulate  vulnerable  sections  from  the  rise  in  prices,  the  Government  has  launched  a  new integrated food security scheme, 'Pradhan Mantri Garib Kalyan Ann Yojana' on 1 January 2023, to provide free foodgrains to more than 80 crore beneficiaries.
+
+Figure V.6: Drivers of Food Inflation in FY23* - Vegetables, Cereals, Milk and Spices
+
+<!-- image -->
+
+Source: MoSPI
+
+Note: *April-December
+
+5.12  High inflation in vegetables from April to September 2022 was mainly due to a spike in prices of tomatoes owing to crop damage and supply disruption due to the unseasonal heavy rains in the major producing states of Karnataka, Tamil Nadu, Andhra Pradesh, and Telangana.
+
+Figure V.7: Spike in Tomato Price and 'Vegetables' Inflation in FY23
+
+<!-- image -->
+
+<!-- image -->
+
+Source: MoSPI
+
+- 5.13  Inflation in pulses remained muted owing to higher production and measures taken by the government in terms of maintaining a buffer stock and reduction of import duties and cess on pulses.
+- 5.14  International prices of edible oils surged in FY22 owing to a shortfall in global production and an increase in export tax levies by various countries. India meets 60 per cent of its edible oils demand through imports, making it vulnerable to international movements in prices. For instance, sunflower oil, which makes up 15 per cent of our total edible oil imports, is procured mainly from Ukraine and Russia. Thus, FY22 saw edible oil inflation on account of international price  pressures.  However,  inflation  remained  subdued  in  FY23  because  of  rationalisation  of tariffs and the imposition of stock limits on edible oils and oil seeds.
+
+Figure V.8: Imported Inflation in Edible Oils
+
+<!-- image -->
+
+<!-- image -->
+
+Source: FAO and MoSPI
+
+Figure V.9: Import of Edible Oils
+
+<!-- image -->
+
+Source: Solvent Extractors Association of India
+
+Note: Data corresponding to oil year (November-October)
+
+Figure V.10: Moderating Retail Prices of Edible Oils
+
+<!-- image -->
+
+Source: DoCA
+
+## Box V.1: Measures to Contain Inflation in Essential Food Commodities
+
+The  government  keeps  a  close  watch  on  the  production  and  availability  of  essential  commodities through  regular  reviews  by  the  Inter-Ministerial  Committee  and  Committee  of  Secretaries.  The following fiscal measures are taken to bring down the prices of essential commodities:
+
+## Cereals
+
+-  On 13 May 2022, wheat flour exports were prohibited in order to prevent a domestic surge in prices.
+-  From  12  July  2022  wheat  flour  exports  were  permitted  but  were  subjected  to  restrictions  as recommended by an inter-ministerial panel.
+-  With effect from 14 August 2022 the export of maida and suji was allowed only after the approval of the inter-ministerial panel.
+-  Notification  dated  27  August  2022  prohibited  export  of  wheat  or  meslin  flour  (atta),  maida, samolina (rava/sirgi), wholemeal atta and resultant atta (HS Code 1101). This amendment in the policy aimed to ensure food security and put a check on the mounting prices of wheat flour in the country.
+-  The  Central  Government,  w.e.f.  9  September  2022,  imposed  an  export  duty  of  20  per cent on rice, brown rice, and semi-milled as well as wholly milled rice, except parboiled rice.
+
+## Pulses
+
+-  A  buffer  stock  of  pulses  has  been  maintained  for  price  stabilisation  in  2020-21,  2021-22  and 2022-23. Calibrated release of pulses from the buffer stock will moderate the prices in the market.
+-  The import duty on masur was brought down to zero per cent with effect from 26 July 2021. Further,  the  Agriculture  Infrastructure  and  Development  Cess  (AIDC)  on  masur  was  brought down to zero per cent with effect from 12 February 2022. The nil rate of AIDC has been extended up to 31 March 2023.
+-  On 30 March 2022, the import of tur and urad under the Free Category was extended until 31 March 2023.
+-  The Central Government, on 1 September 2022 decided to provide 1.5 million tonnes of chana to States and UTs at a discounted rate for distribution under various welfare schemes. The states will be able to procure chana at a discount of ` 8 per kg over their respective issue prices.
+
+## Edible Oils
+
+-  The Central government, on 24 May 2022, exempted customs duty and AIDC on yearly import of  20  lakh  metric  tonne  each  of  crude  soya  bean  and  sunflower  oil  for  the  years  2022-23  and 2023-24.
+-  The basic duty on refined  palm  oil  was  reduced  from  17.5  per  cent  to  12.5  per  cent  w.e.f  21 December 2021 until 31 March, 2022 and the basic duty on crude palm oil was reduced from 7.5 per cent to 5 per cent w.e.f  13 February 2022 until 30 September 2022. The Central Government has allowed free import of refined palm oil until 31 December 2022.
+-  The Central Government, in November 2021, cut the basic duty on crude palm oil, crude soyabean oil and crude sunflower oil from 2.5 per cent to Nil. The Agri-cess on these oils has been brought down to 5 per cent.
+-  Vide notification  dated  14  October  2021,  the  basic  import  duty  on  refined  soyabean  oil  and refined sunflower oil has been slashed to 17.5 per cent from 32.5 per cent.
+-  In a bid to cool down the domestic prices of soya meal, Central Government has notified an order under the Essential Commodities Act to declare 'Soya Meal' as an Essential Commodity up to 30 June 2022, by amending the Schedule of the Essential Commodities Act, 1955. Stock limit on soya meal had been imposed for a period from 23 December 2021 to 30 June 2022.
+-  Stock  limits  imposed  on  all  edible  oils  and  oilseeds, vide order  dated  3  February  2022,  were extended up to 31 December 2022, by amending the Removal of Licensing Requirements, Stock Limits  and  Movement  Restrictions  on  Specified  Foodstuffs  Order,  2016.  This  measure  is to curtail any unfair practices like hoarding, black marketing etc. in the market and to control  the prices of edible oils.
+-  In  July  2022,  the  Central  Government  directed  leading  Edible  Oil  Associations  to  ensure  a reduction  in  the  maximum  retail  price  of  edible  oils  by ` 15  per  litre  with  immediate  effect. Mother Dairy has slashed prices of rice  bran  and  soybean  oil  by  up  to ` 14  per  litre  after  the Centre directed edible oil companies to pass on the benefits of a fall in global edible oil prices to consumers.
+
+## Rural-Urban Inflation Differential has Declined
+
+5.15  Rural  inflation  has  remained  above  its  urban  counterpart  throughout  the  current  fiscal year, reversing the trend seen during the pandemic years. CPI-C based food inflation seems to have cooled down after reaching a high of 8.3 per cent in April 2022 due to a subsequent moderation in global food prices and a reduction in farm input costs. However, the cooling was more pronounced for urban inflation, which softened to 2.8  per cent in December 2022. Rural fuel inflation remained lower than its urban counterpart throughout the current fiscal, due to subdued price pressures on traditional fuel items such as firewood and cow dung cakes as opposed to petrol and diesel.
+
+5.16  While the current fiscal year saw rural and urban inflation closely tracking each other, FY22 had seen a wider differential between the two. The gap between rural and urban inflation reached its widest in March 2022 due to a difference in the experience of food inflation. Urban areas experienced a sharper increase in food prices of vegetables and oils during this time as compared to the hinterlands.
+
+Figure V.11: Urban and Rural Inflation
+
+<!-- image -->
+
+<!-- image -->
+
+Source: MoSPI
+
+## Majority of the States/UTs have Higher Rural Inflation than Urban Inflation
+
+5.17  CPI-C inflation increased in most of the states in FY23 as compared to FY22. Telangana, West Bengal, Maharashtra, Madhya Pradesh, Haryana, and Andhra Pradesh saw especially high rates of inflation in FY23. Fuel and clothing were the major contributors to the surge in inflation.
+
+Figure V.12: Higher Retail Inflation in Majority of States in FY23*
+
+<!-- image -->
+
+Source: MoSPI
+
+Note: (i) *April-December
+
+(ii) Inflation for the FY22 is based on the average of June 2021 to March 2022, owing to the non-availability of indices for the months of April &amp; May 2020 due to the Covid-19 pandemic.
+
+- (iii) 22 major States having a population &gt;50 lakhs as per Population Census 2011 are presented
+
+5.18  Most of the States and UTs have witnessed higher rural inflation than urban inflation in the current year, mainly owing to marginally higher food inflation in rural areas. Assam, Haryana, Madhya Pradesh, Manipur, Mizoram, Odisha, Uttarakhand, West Bengal, and Delhi experienced a higher rural inflation than urban inflation. In rural sectors of Haryana, Mizoram, and West Bengal it was because of higher 'food and beverages' and 'clothing and footwear' inflation. In rural sectors of Madhya Pradesh, Manipur and Assam, it was due to 'fuel and light' segments. Food, clothing and fuel were the major contributors to higher inflation in urban areas of Bihar, Meghalaya, and Tripura.
+
+Figure V.13: Higher Rural Inflation in Most of States/UTs in FY23*
+
+<!-- image -->
+
+<!-- image -->
+
+Source: MoSPI
+
+Note: (i) *April-December
+
+- (ii) Data for Urban Arunachal Pradesh is not available

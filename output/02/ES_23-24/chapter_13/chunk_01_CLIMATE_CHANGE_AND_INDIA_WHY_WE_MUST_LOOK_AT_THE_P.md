@@ -1,0 +1,13 @@
+# CLIMATE CHANGE AND INDIA: WHY WE MUST LOOK AT THE PROBLEM THROUGH OUR LENS
+
+## CLIMATE CHANGE AND INDIA: WHY WE MUST LOOK AT THE PROBLEM THROUGH OUR LENS
+
+<!-- image -->
+
+Addressing anthropogenic climate change has emerged as the top global priority, with multilateral bodies, experts, and the media calling for nations worldwide to do their part in mitigating a 'climate catastrophe' before it's too late. India, having partaken in the collective effort, has made major strides over the last decade, yet continues to be labelled as one of the largest polluters in the world and is frequently chastised for not  doing  enough.  However,  the  criticisms  of  the  Indian  approach  fail  to  recognise two critical points. One, India is faced with balancing economic development along with meaningful climate action akin to its developing peers, and second, the proposed solutions to climate change, which serve as the basis for criticising India, ignore how sustainable living is built into the Indian lifestyle.
+
+Rooted  in  the  principles  of  sustenance,  India's  ethos  emphasises  a  harmonious relationship with nature, which is in sharp contrast to the overconsumption prevalent in other parts of the developed world. Solutions to address climate change are based on the principles of a market society, which seeks to substitute the means to achieve overconsumption rather than addressing overconsumption itself. Such an approach thus gives importance to the label under which their lifestyle can continue instead of bringing about a change in their lifestyle.
+
+Over the years, this has produced a slew of policies that have unintended consequences for the planet, resulting in little or no reduction in carbon emissions. If India, with its large population, chooses to go down this path, the climate consequences for the country and the world will be hugely negative. Therefore, India needs to follow its own path and look at the problem through its own lens if the nation is to empower its citizens through economic development while simultaneously addressing the issue of climate change.
+
+These considerations  served  as  the  foundation  for  Mission  LiFE,  a  unique  initiative announced by the Hon'ble Prime Minister at the 2021 UN Climate Change Conference. Mission LiFE seeks to bring individual responsibility to the forefront of the fight against climate change. Deriving its principles from ancient Indian philosophy, the tenets of this approach are based on making pro-planet choices without compromising on quality of life. It is about making deliberate choices in the present while remaining conscious of the generations to come. Mission LiFE seeks to address the 'wants' of the people without letting them hurt Nature.

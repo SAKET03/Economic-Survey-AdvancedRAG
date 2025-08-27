@@ -1,0 +1,12 @@
+# Conclusion
+
+## Conclusion
+
+5.36  It  is  not  wishful  thinking  that  2023  will  show  less  macroeconomic  volatility  than  its preceding  financial  year.  Both  CPI-C  and  WPI  have  fallen  below  6  per  cent  (which  is  the RBI tolerance limit for the former) and are on the descending slope of the surge that hit the economy in the first half of the current fiscal. International crude oil prices, the principal drivers of inflation this financial year, have returned to normal levels and so have prices of other major commodities. RBI projects CPI inflation for Q1 - FY24 at 5.0 per cent and for Q2 -FY24 at 5.4 per cent on the assumption of a normal monsoon.
+
+- 5.37  India's inflation management has been particularly noteworthy and can be contrasted with advanced economies that are still grappling with sticky inflation rates. Due to the anticipated slowdown in advanced economies, inflation risks coming from global commodity prices are likely  to  be  lower  in  FY24  than  in  FY23.  However,  in  terms  of  overall  risks  to  the  benign baseline view on inflation, upside risks to India's projected rates may outweigh the downside
+
+risks. For instance, the re-emergence of Covid-19 in China can trigger supply chain disruptions as was the case during the pandemic period. On the other hand, if China returns to normalcy from Covid-19, there can be a surge in commodity demand - thus reversing the recent slump in commodity prices. Further, the probability of a soft landing in the US economy has risen in  recent  months,  and  that  might  keep  up  the  US  demand  for  oil.  Similarly,  the  geopolitics associated with oil can particularly affect our imported inflation.
+
+- 5.38  RBI forecasts elevated domestic prices for cereals and spices in the near term owing to supply shortages. Milk prices are also expected to spike reflecting high feed costs. In general, climate across the world has become increasingly erratic, further fortifying upside risks to food prices. A lot depends on industrial input prices: they may ease, but on the flip side their delayed pass-through to consumer prices may contribute to the stickiness of core inflation.
+- 5.39  Still, overall, the inflation challenge in FY24 must be a lot less stiff than it has been this year. We expect monetary and fiscal authorities to be as proactive and vigilant as they have been this year.

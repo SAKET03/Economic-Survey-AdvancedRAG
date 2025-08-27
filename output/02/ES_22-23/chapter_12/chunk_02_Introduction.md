@@ -1,0 +1,47 @@
+# Introduction
+
+## introduction
+
+12.1  As India completes 75 years of Independence, the nation is evolving into a prominent force in the global economic order. India is the world's fifth largest economy and the prospect of steady progress in the coming years is bright. Here, the critical role played by infrastructure in economic growth cannot be overemphasised. Investing in high-quality infrastructure 1 is crucial for accelerating economic growth and sustaining it in the long run. As the empirical evidence states, this has a salutary effect on the productivity and efficiency of Indian manufacturing firms 2 . It further plays a significant role in poverty reduction 3 and promotes both rural and agricultural development 4,5 . Empirical evidence also points to the positive effect of infrastructure towards bringing overall economic growth in India 6 .
+
+figure Xii.1: Quantity and quality of infrastructure and level of economic development across countries are strongly correlated
+
+<!-- image -->
+
+Note: The left graph pertains to 2019, and the right graph pertains to 2018.
+
+Quality of overall infrastructure: 1=worst and 7=best.
+
+Source: World Bank, Global Infrastructure Hub, and World Economic Forum Global Competitiveness Index
+
+12.2  The above correlation between infrastructure and development brings us to the present scenario when during the times of pandemic and geo-political crisis, the government kept its focus on reforms in areas of physical, digital and regulatory infrastructure. In order to increase the private sector participation in creation of new infrastructure and development of existing ones, the government took initiatives like Public-Private Partnership (PPP), National Infrastructure Pipeline (NIP) and National Monetisation Pipeline (NMP). In addition to this, as part of the structural  reforms  with  the  objective  to  enhance  efficiencies  and  cost  competitiveness,  Gati
+
+1 In a broad sense, the term infrastructure refers to the '…physical facilities, institutions and organisational structures, or the social and eco -nomic foundations, for the operation of a society' (World Investment Report 2008: Transnational Corporations and the Infrastructure Challenge. United Nations Conference on Trade and Development.). The present chapter focuses only on emerging issues in the context of physical and digital infrastructure. Separate chapters of this survey provide in-depth views on social infrastructure and financial infrastructure related issues.
+
+2 Mitra, A., Varoudakis, A., &amp; Véganzonès-Varoudakis, M. (2002). Productivity and Technical Efficiency in Indian States' Manufacturing: The Role of Infrastructure. Economic Development and Cultural Change, 50(2), 395-426. DOI:10.1086/321916.
+
+3 Dutt, G. and Ravallion, M. (1998). Why have some Indian States Done Better than Others at Reducing Rural Poverty? Economica, 65: 17-38. https://doi.org/10.1111/1468-0335.00112
+
+4 Binswanger, H; Khandker, R. &amp; Rosenzweig, M. (1993). How infrastructure and financial institutions affect agricultural output and invest -ment in India, Journal of Development Economics, Volume 41, Issue 2, 1993, Pages 337-366, https://doi.org/10.1016/0304-3878(93)90062-R.
+
+5 Fan, S., Hazell, P. and Thorat, S. (2000). Government Spending, Growth and Poverty in Rural India. American Journal of Agricultural Eco -nomics, 82: 1038-1051. https://doi.org/10.1111/0002-9092.00101.
+
+6 Sahoo, P. &amp; Dash, R. (2009) Infrastructure development and economic growth in India, Journal of the Asia Pacific Economy, 14:4, 351-365, DOI:10.1080/13547860903169340
+
+Shakti and National Logistics Policy (NLP) were also launched. This buffet of reforms on all aspects related to infrastructure investment and project execution not just ensures economic growth and economic efficiency but also generates confidence among various stakeholders in the economy towards government functioning.
+
+- 12.3  Building upon it, the government has also kept its focus towards developing the traditional infrastructure like roads, railways, airports, ports, mass transport and waterways.  These play a vital role in national integration and regional development. The mechanisms like multi-modal transport system have also been put in place.  The multi-modal connectivity will provide integrated and seamless connectivity for movement of people and goods from one mode of transport to another. It will facilitate the last mile connectivity and also reduce travel time for people, further reducing the logistics cost and promoting export competitiveness. These measures collectively can bring out the untapped potential of underutilised modes of infrastructure.
+- 12.4  With increasing financialisation of the economy and penetration of digital services, growth in physical infrastructure alone could not be the answer for development. Though India's digital journey predates the pandemic, it would be rational to say that the testing times of the pandemic have  accelerated  its  acceptance,  application  and  coverage  in  many  ways.  The  adaptability displayed  by  the  citizens  towards  technology-driven  changes  was  very  encouraging.  This confluence of digitisation and innovation acted as a game changer for India.
+- 12.5  Reflecting on the journey of digital infrastructure growth and its global adoption, it is pertinent to mention that in 2009, only 17 per cent of adults in India had bank accounts, 15 per cent used digital payments, 1 in 25 had a unique ID document, and about 37 per cent had mobile phones. Today, these numbers have seen a meteoric rise - tele density has reached up to 93 per cent, over a billion people have a digital ID document, more than 80 per cent have bank accounts, and as of 2022, over 600 crore of digital payment transactions are completed per month. A Bank for International Settlements (BIS) working paper 7 has estimated that progress towards financial inclusion, which would have taken almost half a century had India followed traditional growth processes, was achieved in India in just about ten years.
+- 12.6  Today, India is able to offer many best practices, particularly with respect to its digital infrastructure innovations, that can be emulated globally. Successful vaccination drive through the one-stop Co-WIN portal, DigiLocker, Open Network for Digital Commerce (ONDC), Open Credit Enablement Network (OCEN), Goods and Services Tax (GST) Sahay are a few success stories among many. The National Payments Corporation of India International (NPCIL) led Unified Payment Interface (UPI) is another such innovation which transformed the payment landscape. UPI based transactions grew both in value and volume terms, paving the way for its international adoption.
+- 12.7  Capitalising  on  the  digital  infrastructure  support,  India  has  also  emerged  as  one  of  the world's most vibrant destinations for start-up ecosystems. Start-ups are being envisioned as the spine of new India, as they encourage the youth to become job creators rather than job seekers. With the highest FinTech adoption rate of 87 per cent among the public compared to the global average of 64 per cent, India has gained the 3rd place in digital payments 8 only after US and
+
+7 https://www.bis.org/publ/bppdf/bispap106.pdf, page 4.
+
+8 https://bfsi.economictimes.indiatimes.com/news/fintech/indias-fintech-market-size-at-31-billion-in-2021-third-largest-in-world report/88794336 BLinC per cent20report\_Fintech\_2022.pdf
+
+China, signifying that India has an untapped market. These untapped opportunities, along with the favourable ecosystem, creates a large growth potential for FinTechs in India.  Taking this vision forward, under the government's policy initiative, a world-class FinTech Hub at Gujarat International Finance Tec-City (GIFT) International Financial Services Centre (IFSC) has been developed.
+
+12.8  This is just an illustration of the opportunities that exist. The massive wave of digitisation, increased penetration of smartphones, and adoption of technology have opened the doors for both traditional and new-age sectors. The rollout of 5G services can unleash new economic opportunities  and  help  the  country  leapfrog  the  traditional  barriers  to  development,  spur innovations by start-ups and business enterprises, and advance the 'Digital India' vision. The journey is far from complete, and a lot remains to be accomplished to realise our true potential.
+
+12.9  To summarise, this chapter covers the recent and past experiences of the government in transforming and inter-locking the potential of physical, regulatory and digital infrastructure. In doing so, the chapter looks to answer the following: How have the various infrastructural sectors fared after the Covid-19 shock? How has the government leveraged digital technologies in the service of the public? How far has the government been able to determine the role of co-ordination  and  efficiency  in  infrastructure  projects  and  what  is  the  government's  vision towards infrastructure development? In doing so, we will cover the government's plans to place India among the top three global economies and inch closer to the status of a developed nation by the 100th year of its Independence.

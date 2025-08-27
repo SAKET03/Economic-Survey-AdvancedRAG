@@ -1,0 +1,672 @@
+[
+  {
+    "question": "What is India’s GDP growth projection for FY 2025-26?",
+    "answer": "The provided context documents do not mention India's GDP growth projection for FY2025-26. The documents discuss inflation dynamics, projections, and policy measures to ensure price stability, but do not provide information on GDP growth projections. Therefore, I cannot provide an answer to this question based on the given context.",
+    "chunks": [
+      {
+        "chapter_number": 4,
+        "subchapter_number": 4,
+        "tags": [
+          "Inflation_Outlook",
+          "Food_Prices",
+          "Agricultural_Production"
+        ],
+        "score": 0.31289786100387573
+      }
+    ]
+  },
+  {
+    "question": "What was India’s real GDP growth in FY 2024-25?",
+    "answer": "The real GDP growth in FY2024-25 is estimated to be 6.4%. \n\nHowever, the real GDP growth in FY2023-24 was 8.2%. The question specifically asked for FY2024-25 which is not directly provided in the initial context but is mentioned as 6.4% in the later part of the text.",
+    "chunks": [
+      {
+        "chapter_number": 1,
+        "subchapter_number": 3,
+        "tags": [
+          "GDP_Growth",
+          "Manufacturing",
+          "Investment_Demand"
+        ],
+        "score": 0.9950190782546997
+      },
+      {
+        "chapter_number": 1,
+        "subchapter_number": 4,
+        "tags": [
+          "GDP_Growth",
+          "Agricultural_Recovery",
+          "Manufacturing_Sector"
+        ],
+        "score": 0.9800706505775452
+      },
+      {
+        "chapter_number": 1,
+        "subchapter_number": 5,
+        "tags": [
+          "Fiscal_Discipline",
+          "Economic_Stability",
+          "Inflation_Control"
+        ],
+        "score": 0.9800706505775452
+      }
+    ]
+  },
+  {
+    "question": "What was the CPI inflation rate in FY 2024-25?",
+    "answer": "The CPI inflation rate in FY2024-25 was not directly provided in the context. However, based on the information given, the RBI and IMF project India's consumer price inflation to align towards the inflation target in FY26, with projected inflation rates of 4.5% in FY25. \n\nWhile the exact CPI inflation rate for FY2024-25 is not provided, India’s retail inflation was 5.4% in FY24, which is the lowest since the Covid-19 pandemic. Additionally, the inflation rate was within the target range of 2-6% in 2023. \n\nIn another part of the document, it is mentioned that India's headline inflation, measured by the Consumer Price Index (CPI), has moderated in FY25 (April-December) compared to FY24. This decline is primarily due to a significant decrease in core inflation. \n\nHowever, a specific CPI inflation rate for FY2024-25 is mentioned as 4.9% in another section.",
+    "chunks": [
+      {
+        "chapter_number": 3,
+        "subchapter_number": 4,
+        "tags": [
+          "Core_Inflation",
+          "Post_Pandemic_Economy",
+          "Monetary_Policy"
+        ],
+        "score": 0.9838158488273621
+      },
+      {
+        "chapter_number": 3,
+        "subchapter_number": 3,
+        "tags": [
+          "Retail_Inflation",
+          "Monetary_Policy",
+          "Fuel_Prices"
+        ],
+        "score": 0.9759095311164856
+      },
+      {
+        "chapter_number": 4,
+        "subchapter_number": 3,
+        "tags": [
+          "Food_Inflation",
+          "Vegetable_Prices",
+          "Monetary_Policy"
+        ],
+        "score": 0.9242540001869202
+      }
+    ]
+  },
+  {
+    "question": "Why does the Survey emphasise deregulation for growth?",
+    "answer": "The Survey emphasizes deregulation for growth because it helps lower the cost of doing business and allows for resources to be used for expanding capacity through more labor and more and better equipment. According to the Survey, deregulation, in general, will boost employment. This is mentioned in Chapter 5 of the Survey, 'Medium Term Outlook', which discusses the important role of deregulation in the economy. By simplifying compliance, fostering labor flexibility, and promoting worker welfare, labor reforms have created an enabling environment that balances ease of doing business with the protection of worker rights, thereby supporting sustainable employment growth and economic inclusivity.",
+    "chunks": [
+      {
+        "chapter_number": 12,
+        "subchapter_number": 6,
+        "tags": [
+          "Labour_Reforms",
+          "Gender_Inclusivity",
+          "Economic_Growth"
+        ],
+        "score": 0.6013582348823547
+      }
+    ]
+  },
+  {
+    "question": "What was India’s Current Account Deficit in FY 2024-25?",
+    "answer": "The Current Account Deficit (CAD) for India in FY2024-25 was not directly provided. However, it was mentioned that India's current account deficit moderated slightly to 1.2% of GDP in Q2 of FY25 against 1.3% of the GDP recorded in Q2 of FY24.\n\nTo provide a comprehensive answer based on the context documents, we need to look at the relevant data provided:\n\n- The CAD for Q2 of FY25 was 1.2% of GDP.\n- The CAD for Q2 of FY24 was 1.3% of GDP.\n\nThe full-year figure for FY2024-25 is not directly provided in the given text. However, it mentions that the CAD has remained relatively contained compared to other G20 economies.\n\nGiven the information available, we can conclude that:\n\n- The Current Account Deficit for Q2 of FY2025 was 1.2% of GDP.\n- The exact full-year Current Account Deficit for FY2024-25 is not specified in the provided text.",
+    "chunks": [
+      {
+        "chapter_number": 3,
+        "subchapter_number": 6,
+        "tags": [
+          "Balance_of_Payments",
+          "Foreign_Direct_Investment",
+          "Trade_Policy"
+        ],
+        "score": 0.9876000881195068
+      },
+      {
+        "chapter_number": 11,
+        "subchapter_number": 7,
+        "tags": [
+          "External_Debt",
+          "Economic_Stability",
+          "India_Economy"
+        ],
+        "score": 0.8700372576713562
+      },
+      {
+        "chapter_number": 11,
+        "subchapter_number": 4,
+        "tags": [
+          "Current_Account_Balance",
+          "Balance_of_Payments",
+          "Foreign_Exchange_Reserves"
+        ],
+        "score": 0.8700372576713562
+      }
+    ]
+  },
+  {
+    "question": "How large were India’s forex reserves as of March 2025?",
+    "answer": "According to the text, India's forex reserves as of end-December2022 stood at $562.72 billion, which can cover 9.3 months of imports.\n\nHowever, the question asks for the forex reserves as of March 2025. Unfortunately, the provided text does not contain information about the forex reserves as of March 2025.\n\nBut as of end-September2022, India's foreign exchange reserves stood at $532.7 billion, and as of end-December2022, it augmented to $562.7 billion.\n\nGiven that no specific data for March 2025 is available, I couldn't provide an exact figure. \n\nHowever, as of end-December2022, India's forex reserves were $562.72 billion.",
+    "chunks": [
+      {
+        "chapter_number": 11,
+        "subchapter_number": 4,
+        "tags": [
+          "Current_Account_Balance",
+          "Balance_of_Payments",
+          "Foreign_Exchange_Reserves"
+        ],
+        "score": 0.8030460476875305
+      },
+      {
+        "chapter_number": 11,
+        "subchapter_number": 1,
+        "tags": [
+          "External_Sector",
+          "Trade_Policy",
+          "Global_Economy"
+        ],
+        "score": 0.8030460476875305
+      },
+      {
+        "chapter_number": 11,
+        "subchapter_number": 7,
+        "tags": [
+          "External_Debt",
+          "Economic_Stability",
+          "India_Economy"
+        ],
+        "score": 0.8030460476875305
+      }
+    ]
+  },
+  {
+    "question": "How does the one view the services sector’s role in GDP?",
+    "answer": "The provided context documents do not explicitly discuss the services sector's role in GDP. However, based on the information given, which focuses on the industry sector, we can infer that the services sector is not the primary focus of these excerpts from the Economic Survey.\n\nBut, we can look at a few related points:\n\n1. **PFCE as a share of GDP**: The Private Final Consumption Expenditure (PFCE) as a share of GDP in H1 of FY23 was the highest since FY15, which indicates a strong domestic consumption, possibly including services.\n\n2. **Exports of goods and services**: Exports of goods and services as a share of GDP have been the highest since FY16, suggesting that services exports play a role in India's GDP, though specific details are not provided.\n\nGiven the lack of direct information on the services sector's role in GDP within the provided text, a comprehensive answer specifically focusing on the services sector cannot be accurately provided. However, it's clear that the services sector, through exports and domestic consumption, contributes to India's economic activity. \n\nFor a precise analysis of the services sector's role, one would typically refer to specific sections of the Economic Survey that directly address the services sector, its growth, contribution to GDP, and policy initiatives aimed at enhancing its performance.",
+    "chunks": [
+      {
+        "chapter_number": 9,
+        "subchapter_number": 3,
+        "tags": [
+          "Industrial_Growth",
+          "Investment_Trends",
+          "Demand_Stimulus"
+        ],
+        "score": 0.007708066608756781
+      }
+    ]
+  },
+  {
+    "question": "What is the fiscal deficit target for FY 2025-26?",
+    "answer": "## Fiscal Deficit Target for FY2025-26\n\nThe fiscal deficit target for FY2025-26 is not explicitly mentioned in the provided context documents. However, the fiscal discipline of the Union government has improved progressively, with a focus on capital expenditure as a percentage of total expenditure. The quality of expenditure has continuously improved since FY21.\n\nTo provide an accurate answer, I would need to look into more recent or specific documents related to India's budget or economic surveys for FY2025-26.\n\n## Analysis Based on Available Data\n\nGiven the data available up to FY25, the government's fiscal indicators have been on a positive trajectory, with improved capital expenditure and a focus on fiscal discipline. \n\n## Recommendation\n\nFor the most accurate and up-to-date information on the fiscal deficit target for FY2025-26, I recommend referring to the latest Economic Survey of India or the Budget documents for FY2025-26, which are typically released by the Ministry of Finance, Government of India.",
+    "chunks": [
+      {
+        "chapter_number": 1,
+        "subchapter_number": 5,
+        "tags": [
+          "Fiscal_Discipline",
+          "Economic_Stability",
+          "Inflation_Control"
+        ],
+        "score": 0.976745069026947
+      },
+      {
+        "chapter_number": 1,
+        "subchapter_number": 4,
+        "tags": [
+          "GDP_Growth",
+          "Agricultural_Recovery",
+          "Manufacturing_Sector"
+        ],
+        "score": 0.976745069026947
+      },
+      {
+        "chapter_number": 1,
+        "subchapter_number": 3,
+        "tags": [
+          "Global_Economic_Growth",
+          "Inflation_Trends",
+          "Trade_Policy_Uncertainty"
+        ],
+        "score": 0.976745069026947
+      }
+    ]
+  },
+  {
+    "question": "What about climate shocks and inflation?",
+    "answer": "Climate shocks and inflation are significant concerns for the Indian economy. The global economy has faced multiple challenges, including the COVID-19 pandemic, the Russia-Ukraine conflict, and synchronized monetary policy rate hikes, leading to a surge in inflation, widening current account deficits, and increased financial contagion risks.\n\nThe Indian economy has also faced challenges, including a widening current account deficit (CAD) and rising inflation. Retail inflation has remained above the RBI's upper tolerance target of 6% for ten months, driven by high food and energy prices. The rupee has depreciated against the US dollar, but has performed better than other emerging market currencies.\n\nThe Economic Survey highlights that climate shocks can have a significant impact on inflation, particularly in India, where food and energy prices are major contributors to inflation. The survey notes that \"the recent inflationary episode in India would have a low poverty impact due to well-targeted support.\"\n\nThe survey also mentions that the Indian economy has shown resilience in the face of global economic challenges, including climate shocks. The economy has grown at 6.5-7.0% in FY23, driven by private consumption and capital formation. However, downside risks to the growth outlook remain, including a widening current account deficit and global economic uncertainty.\n\nIn terms of policy recommendations, the survey suggests continued support for private sector investment, implementation of structural reforms, and targeted social security measures to support vulnerable populations. \n\nHowever, a direct answer on climate shocks and inflation can be summarized as: \n- The Indian economy faces challenges from climate shocks and inflation.\n- The recent inflationary episode in India is expected to have a low poverty impact due to well-targeted support.\n- Retail inflation has remained above the RBI's upper tolerance target of 6% for ten months.",
+    "chunks": [
+      {
+        "chapter_number": 1,
+        "subchapter_number": 5,
+        "tags": [
+          "Inclusive_Growth",
+          "Job_Creation",
+          "MSME_Support"
+        ],
+        "score": 0.06992343068122864
+      }
+    ]
+  },
+  {
+    "question": "What is the stance on AI’s labour market impact?",
+    "answer": "The stance on AI's labour market impact in India, as per the provided context from the Economic Survey, is one of cautious concern. The rapid progress in Artificial Intelligence (AI) has intensified fears about its potential to disrupt labour markets. There are worries that AI could outperform humans in critical decision-making processes across various sectors, potentially leading to job displacement, especially in entry-level positions.\n\nThe concerns revolve around the possibility of AI exacerbating existing social and economic divides. The concentration of AI research and development in a few large companies could lead to a \"winner-takes-all\" approach, potentially to the detriment of developing countries like India, which are labour- and resource-rich.\n\nPolicymakers are anxious about the impact of AI on the labour market, given the magnitude of employment in India. There are calls for a more responsible approach to AI adoption to mitigate these risks. The importance of aligning AI developments with broader societal goals is emphasized.\n\nHowever, the document also notes that the actual labour market impacts of AI may be less severe than estimated, given the current developmental stage of AI and the time required for its widespread adoption. Nevertheless, it stresses the need for preparedness and proactive measures.\n\nTo address these challenges, the document suggests several steps:\n\n1. **Capacity Building and Institution Building**: There is a need for building robust institutions to minimize the costs associated with AI's impact on labour markets.\n2. **Structural Changes in Education**: Changes in how children are educated will be required to prepare them for an AI-augmented future.\n3. **Safety Nets**: Existing workers need safety nets to shield them from economic and social fallouts.\n4. **Regulatory Frameworks**: Regulatory frameworks need to be revisited and amended to ensure AI's use aligns with societal values, balancing innovation with accountability and transparency.\n5. **Corporate Social Responsibility**: The corporate sector must display a high degree of social responsibility in introducing AI over a longer horizon and handling it with sensitivity.\n\nThe goal is to ensure that India can capitalize on the opportunities presented by AI while minimizing its negative impacts on the labour market, aiming for an inclusive growth strategy. A tripartite compact between the government, private sector, and academia is suggested to ensure the gains from AI-driven productivity are widely distributed.",
+    "chunks": [
+      {
+        "chapter_number": 13,
+        "subchapter_number": 2,
+        "tags": [
+          "AI_and_Labor_Markets",
+          "Technological_Unemployment",
+          "Economic_Impact_of_AI"
+        ],
+        "score": 0.8642945885658264
+      },
+      {
+        "chapter_number": 13,
+        "subchapter_number": 7,
+        "tags": [
+          "AI_Economy",
+          "Labour_Market_Impact",
+          "Inclusive_Growth"
+        ],
+        "score": 0.6093695163726807
+      }
+    ]
+  },
+  {
+    "question": "How do India’s GDP and inflation trends compare in FY 2024-25?",
+    "answer": "## Comparison of India's GDP and Inflation Trends in FY2024-25\n\nThe Indian economy has shown resilience and growth despite global challenges. In FY24, the real GDP grew by 8.2%, posting growth of over 7% for a third consecutive year. The growth has been inclusive with a reduction in unemployment and multi-dimensional poverty and an increase in labor force participation.\n\n### GDP Growth\n\n*   The Indian economy grew at 8.2% in FY24, with a growth rate of over 7% for three consecutive years.\n*   The growth in FY24 was driven by stable consumption demand and steadily improving investment demand.\n*   The gross value added (GVA) at 2011-12 prices grew by 7.2% in FY24, with growth remaining broad-based.\n*   The shares of the agriculture, industry, and services sector in overall GVA at current prices were 17.7%, 27.6%, and 54.7% respectively in FY24.\n*   The manufacturing sector grew by 9.9% in FY24, while construction activities registered a growth of 9.9%.\n*   The services sector demonstrated double-digit growth in FY24, with financial and professional services being a major driver of growth.\n\n### Inflation Trends\n\n*   The Reserve Bank of India (RBI) has maintained policy rates at a high level to battle inflationary pressures.\n*   The Wholesale Price Index (WPI) inflation led to a deflator of (-)1.7% for the manufacturing sector during FY24.\n*   The core consumer price inflation has declined.\n\n### Outlook for FY25\n\n*   The Indian economy is expected to grow at 6.5-7% in FY25, with risks evenly balanced.\n*   The growth in FY25 is expected to be driven by stable consumption demand and steadily improving investment demand.\n\n## Conclusion\n\nThe Indian economy has shown resilience and growth despite global challenges. The GDP growth rate in FY24 was 8.2%, with a growth rate of over 7% for three consecutive years. The growth has been inclusive with a reduction in unemployment and multi-dimensional poverty and an increase in labor force participation. The RBI has maintained policy rates at a high level to battle inflationary pressures. The outlook for FY25 is positive, with the economy expected to grow at 6.5-7%.",
+    "chunks": [
+      {
+        "chapter_number": 1,
+        "subchapter_number": 3,
+        "tags": [
+          "GDP_Growth",
+          "Manufacturing",
+          "Investment_Demand"
+        ],
+        "score": 0.9702029824256897
+      },
+      {
+        "chapter_number": 3,
+        "subchapter_number": 6,
+        "tags": [
+          "Balance_of_Payments",
+          "Foreign_Direct_Investment",
+          "Trade_Policy"
+        ],
+        "score": 0.950569212436676
+      },
+      {
+        "chapter_number": 1,
+        "subchapter_number": 3,
+        "tags": [
+          "Global_Economic_Growth",
+          "Inflation_Trends",
+          "Trade_Policy_Uncertainty"
+        ],
+        "score": 0.9120810031890869
+      }
+    ]
+  },
+  {
+    "question": "How does fiscal consolidation help inflation management?",
+    "answer": "Fiscal consolidation helps inflation management by creating a stable macroeconomic environment. According to the provided context, the government has followed a path of fiscal consolidation while continuing to protect vulnerable sections and investing in the productive capacity of the economy. This approach has helped maintain macroeconomic stability, which is essential for managing inflation.\n\nThe Reserve Bank of India (RBI) has maintained policy rates at a high level to battle inflationary pressures. Fiscal consolidation can help reduce inflationary pressures by:\n\n1. Reducing the fiscal deficit: The Union Government's fiscal deficit was brought down from 6.4% of GDP in FY23 to 5.6% of GDP in FY24, indicating a commitment to fiscal consolidation.\n2. Increasing revenue receipts: The revenue receipts of the Union Government increased by 14.5% in FY24, which can help reduce reliance on borrowing and decrease inflationary pressures.\n3. Promoting economic growth: Fiscal consolidation can help promote economic growth by creating a stable macroeconomic environment, which can lead to increased investment, job creation, and higher productivity.\n\nBy achieving fiscal consolidation, the government can create an environment conducive to low and stable inflation, which is essential for sustainable economic growth. \n\nHowever, a direct quote from the Economic Survey or related policy documents that elaborates on the transmission of fiscal consolidation to inflation management was not found.",
+    "chunks": [
+      {
+        "chapter_number": 1,
+        "subchapter_number": 3,
+        "tags": [
+          "GDP_Growth",
+          "Manufacturing",
+          "Investment_Demand"
+        ],
+        "score": 0.40570443868637085
+      }
+    ]
+  },
+  {
+    "question": "What risks does India face due to reliance on Chinese supply chains?",
+    "answer": "The risks India faces due to its reliance on Chinese supply chains are not explicitly detailed in the provided context. However, the context does discuss the complexities and risks associated with India's economic relations with China, particularly in the areas of trade and investment.\n\n## Step 1: Understanding India's Economic Relations with China\nThe context highlights that China's domination over global supply chains across product categories is a key global concern. India's economy, being a fraction of China's, faces challenges in terms of trade and investment.\n\n## 2: Risks Associated with Dependence on China\nWhile the document does not explicitly list the risks, it implies that India's dependence on China for critical minerals and rare earth minerals, crucial for India's renewable energy program and other sectors, poses significant risks. These include vulnerability to supply disruptions and potential economic coercion.\n\n## 3: Impact on India's Manufacturing and Renewable Energy\nThe document notes that China's near-monopoly over the production and processing of critical and rare earth minerals has significant repercussions for India's renewable energy program. This dependence could hinder India's ability to achieve its renewable energy goals and transition to a low-carbon economy.\n\n## 4: Trade Deficit and Vulnerability\nIndia's large bilateral trade deficit with China makes it vulnerable to potential abrupt supply disruptions. This vulnerability underscores the need for India to carefully manage its economic relations with China.\n\n## 5: Policy Considerations\nThe context suggests that India needs to navigate its economic relations with China carefully, balancing the need for imports and investments from China with the goal of promoting domestic manufacturing and reducing dependence on Chinese supply chains.\n\nThe final answer is: \nThe risks India faces due to reliance on Chinese supply chains include potential supply disruptions, economic coercion, and vulnerability in critical sectors such as renewable energy. India's large trade deficit with China and dependence on Chinese critical minerals and rare earth minerals pose significant challenges to its economic and energy security.",
+    "chunks": [
+      {
+        "chapter_number": 5,
+        "subchapter_number": 3,
+        "tags": [
+          "Economic Growth Strategy",
+          "Sustainable Development",
+          "India Economic Policy"
+        ],
+        "score": 0.0824180468916893
+      }
+    ]
+  },
+  {
+    "question": "How did FDI inflows in FY 2024-25 compare with FY 2023-24?",
+    "answer": "Net FDI inflows to India declined from USD 42.0 billion during FY23 to USD 26.5 billion in FY24. However, gross FDI inflows moderated only by 0.6 per cent from USD 71.4 billion in FY23 to just under USD 71 billion in FY24. The contraction in net inflows was primarily due to a surge in repatriation/disinvestment due to many profitable exits. Repatriation of investment increased from USD 29.3 billion in FY23 to USD 44.5 billion in FY24.",
+    "chunks": [
+      {
+        "chapter_number": 4,
+        "subchapter_number": 6,
+        "tags": [
+          "FDI_Inflows",
+          "Capital_Account_Balance",
+          "Exchange_Rate_Dynamics"
+        ],
+        "score": 0.8460454344749451
+      },
+      {
+        "chapter_number": 4,
+        "subchapter_number": 5,
+        "tags": [
+          "Remittances",
+          "Current_Account_Balance",
+          "Trade_Policy"
+        ],
+        "score": 0.8460454344749451
+      },
+      {
+        "chapter_number": 4,
+        "subchapter_number": 2,
+        "tags": [
+          "Global_Trade_Dynamics",
+          "Foreign_Investment_Trends",
+          "External_Sector_Performance"
+        ],
+        "score": 0.8460454344749451
+      }
+    ]
+  },
+  {
+    "question": "What lessons does India draw from Europe’s competitiveness issues?",
+    "answer": "Based on the provided context, there is no specific mention of lessons drawn by India from Europe's competitiveness issues. However, the chapter discusses the changing global economic landscape, the rise of China as a manufacturing dominant force, and the impact of trade and investment restrictions.\n\nThe closest relevant information is in the context of global economic shifts and China's growing dominance. However, a specific answer to the question regarding lessons drawn by India from Europe's competitiveness issues cannot be provided as it is not mentioned in the given context.\n\nIf more information or specific documents related to India's Economic Survey or policy documents are provided, a more accurate and comprehensive answer may be possible. \n\nCurrently, based on the information provided, the response is: \n\nThere is no explicit mention of lessons drawn by India from Europe's competitiveness issues in the given context.",
+    "chunks": [
+      {
+        "chapter_number": 5,
+        "subchapter_number": 1,
+        "tags": [
+          "Manufacturing_Dominance",
+          "Global_Trade_Shift",
+          "Economic_Fragmentation"
+        ],
+        "score": 0.0021654879674315453
+      }
+    ]
+  },
+  {
+    "question": "How is agriculture framed as a sector of the future?",
+    "answer": "Agriculture is framed as a sector of the future in the context of India's economic growth and development. The sector continues to face structural issues that have implications for India's economic growth. The foremost concern confronting the sector pertains to sustaining agriculture growth without letting food price inflation rise beyond acceptable limits while incentivising farmers to raise production.\n\nThere is also a need to improve price discovery mechanisms for agriculture products, increase efficiency, reduce disguised unemployment, address the fragmentation of landholding, and increase crop diversification, among a host of other issues. All of these call for the upgradation of agricultural technology, the application of modern skills in farm practices, enhancing agricultural marketing avenues, price stabilisation, the adoption of innovation in farming, lowering wastages in the use of fertiliser, water, and other inputs, and improving the agriculture-industry linkages.\n\nThe agriculture sector has immense scope to contribute to employment and economic growth. Policies that enhance the economic viability of farming, ensure food and nutritional security, and place it on an economically, climatically, and environmentally sustainable footing will attract private sector investment and pave the way for higher value addition by the sector while allowing public resources to be deployed in health, education, and skilling.\n\nSome of the key strategies for the growth and expansion of the agriculture sector include:\n\n- Not banning futures or options markets at the first sign of price spikes.\n- Invoking export bans only under exceptional circumstances and allowing domestic consumers to substitute.\n- Allowing farmers to benefit from higher international prices.\n- Re-examining the inflation-targeting framework.\n- Increasing the Total Net Irrigated Area.\n- Making farming consistent with climate considerations.\n\nThe government has been paying focused attention to enabling the agriculture sector to occupy the centre stage in India's economic story. However, there is a need to re-imagine the contours of India's primary sector for the next generation. Striving to achieve consensus with wide stakeholder consultations on the various issues in the sector is a multi-bagger in terms of the economic and social returns on the investment of effort. \n\nThe chapter on agriculture discusses the policies being pursued by the Government to enable agriculture to tap its full potential. A six-pronged growth strategy is proposed to achieve India's goal of becoming a developed nation by 2047, which includes tapping the full potential of the agriculture sector.",
+    "chunks": [
+      {
+        "chapter_number": 5,
+        "subchapter_number": 3,
+        "tags": [
+          "Economic Growth Strategy",
+          "Sustainable Development",
+          "India Economic Policy"
+        ],
+        "score": 0.014297441579401493
+      }
+    ]
+  },
+  {
+    "question": "How does energy transition impact India’s competitiveness?",
+    "answer": "The energy transition significantly impacts India's competitiveness, as the country needs to balance its growing energy requirements with sustainable development goals. India has made progress in its energy transition, with 46.8% of its electricity generation capacity coming from non-fossil fuel sources as of November 2024. However, the country still relies heavily on coal, which is a reliable and affordable source of energy.\n\nThe friction between energy transition and energy security is evident in the actions of developed countries, which are crucial for India's competitiveness. Developed countries are not doing enough to reduce their emissions and are instead relying on fossil fuels, which can undermine India's efforts to transition to cleaner energy sources.\n\nIndia's energy transition is also influenced by its resource endowments, with coal being a significant contributor to its energy mix. The country has taken steps to promote the efficient use of coal, including the adoption of super-critical and ultra-super-critical technologies.\n\nTo enhance its competitiveness, India needs to focus on innovative strategies and investments in renewable energy, including battery storage, grid infrastructure, and critical minerals. The government has introduced various policies and schemes to boost energy transition, including the Production Linked Incentive Scheme for high-efficiency solar photovoltaic modules and the National Green Hydrogen Mission.\n\nIndia's competitiveness in the energy sector can be enhanced by:\n\n1. **Diversifying its energy mix**: India needs to diversify its energy mix to include more renewable energy sources, such as solar and wind power.\n2. **Improving energy efficiency**: India needs to improve energy efficiency in various sectors, including industry and agriculture.\n3. **Investing in grid infrastructure**: India needs to invest in grid infrastructure to support the integration of renewable energy sources.\n4. **Enhancing research and development**: India needs to enhance research and development in the energy sector to develop new technologies and innovative solutions.\n\nOverall, India's energy transition has significant implications for its competitiveness, and the country needs to adopt a balanced approach that takes into account its growing energy requirements, sustainable development goals, and resource endowments.",
+    "chunks": [
+      {
+        "chapter_number": 10,
+        "subchapter_number": 5,
+        "tags": [
+          "Energy_Transition",
+          "Renewable_Energy",
+          "Sustainable_Development"
+        ],
+        "score": 0.14733463525772095
+      }
+    ]
+  },
+  {
+    "question": "What are the employment and skills policies shaping up ?",
+    "answer": "The employment and skills policies in India are evolving to address the changing demands of the labor market, driven by factors such as technological advancements, globalization, and economic policies. The government has been working to strengthen the skill infrastructure, with initiatives such as:\n\n1. **Skill Development Initiatives**: The government has launched several initiatives, including the Craftsmen Training Scheme, Pradhan Mantri Kaushal Vikas Yojana (PMKVY), and Jan Sikshan Sansthan (JSS), which have trained and certified millions of individuals in various skills.\n\n2. **National Council for Vocational Education and Training**: The council has approved over 200 new age and future skill courses, and 29 new-age courses have been introduced in Industrial Training Institutes (ITIs).\n\n3. **Pradhan Mantri Vishwakarma**: The scheme has imparted basic skill training to 11.79 lakh artisans in 3,145 skill centers.\n\n4. **FutureSkills Prime platform**: Launched to up-skill and re-skill IT professionals in emerging technologies, including AI.\n\n5. **PM Internship Scheme**: Announced in the Union Budget 2024-25, the scheme aims to provide internship opportunities to one crore youth over five years in 500 top companies.\n\n6. **Credit Guarantee Fund Scheme for Skill Development**: The modified scheme provides loans up to ₹7.5 lakh with guarantee coverage.\n\nThe focus is on:\n\n* **Upskilling, Reskilling, and New Skilling**: To prepare the workforce for emerging opportunities and technological advancements.\n* **Industry-Academia Partnerships**: To create a globally competitive workforce.\n* **Flexible Learning Models**: To address diverse industry demands and workforce needs.\n* **Improving Learning Outcomes and Employability**: By incorporating skills that align with Industry 4.0 and new-age technologies.\n\nThe government aims to leverage the demographic dividend and achieve the Viksit Bharat 2047 goals through strategic planning, targeted schemes, and public-private partnerships.",
+    "chunks": [
+      {
+        "chapter_number": 12,
+        "subchapter_number": 5,
+        "tags": [
+          "Skill Development",
+          "Employment Ecosystem",
+          "Upskilling and Reskilling"
+        ],
+        "score": 0.05094493180513382
+      }
+    ]
+  },
+  {
+    "question": "How does deregulation affect state-wise industrialisation?",
+    "answer": "Based on the provided context documents, specifically Chapter 7, Subchapter 8, the impact of deregulation on state-wise industrialization can be inferred as follows:\n\nDeregulation is considered a crucial factor in promoting industrialization, particularly at the state level. The Economic Survey 2023-24 emphasizes that the path to further industrialization is paved with deregulation, along with R&D, innovation, and improving the skill levels of the workforce (7.55(iii)).\n\nThe state-wise analysis presented in Chapter 7 reveals that states have different industrial strengths, weaknesses, and accomplishments. Moreover, the state of business regulations and reforms varies across states, and these differences are closely related to their industrial progress or lack thereof (7.56(ii)).\n\nTherefore, it can be inferred that deregulation can positively affect state-wise industrialization by:\n\n1. Encouraging business reforms at the grassroots level, which is essential for industrial progress.\n2. Improving the competitiveness of the Indian industry, particularly in the context of a rather unsupportive global environment.\n3. Facilitating targeted support for smaller enterprises, such as MSMEs, which are critical for industrial growth.\n\nIn summary, deregulation is expected to play a vital role in promoting state-wise industrialization by fostering a favorable business environment, encouraging entrepreneurship, and enhancing the competitiveness of Indian industries.",
+    "chunks": [
+      {
+        "chapter_number": 7,
+        "subchapter_number": 8,
+        "tags": [
+          "Manufacturing_Competitiveness",
+          "Industrial_Policy",
+          "Global_Trade_Challenges"
+        ],
+        "score": 0.29665201902389526
+      }
+    ]
+  },
+  {
+    "question": "How does health & education policy affect long-term growth?",
+    "answer": "Health and education policies play a crucial role in India's long-term growth, as they are integral to the country's development and welfare. The virtuous cycle of economic and social development begins with sustainable and inclusive economic growth, which supports inclusion by providing better and more equal opportunities, enhancing incomes, and reducing extreme poverty.\n\nEffective health and education policies are essential for improving the quality of social and economic infrastructure in the country. The government has adopted interventions to ensure welfare for all, and social sector policies need to consider the complex interplay of multiple factors that determine their success.\n\nInvestments in education and health have been increasing, with the general government's social services expenditure showing a rising trend since FY17. Expenditure on education has grown at a CAGR of 12% from ₹5.8 lakh crore in FY21 to ₹9.2 lakh crore in FY25 (BE), while expenditure on health has grown at a CAGR of 18% from ₹3.2 lakh crore in FY21 to ₹6.1 lakh crore in FY25 (BE).\n\nThe Household Consumption Expenditure Survey (HCES) 2023-24 highlights the narrowing urban-rural gap in consumption expenditure, with social sector initiatives reducing inequality and increasing consumption spending. The survey shows that the Gini coefficient improved for rural and urban areas, indicating a reduction in income inequality.\n\nThe Public Distribution System (PDS) and PMGKAY have been effective in providing subsidized food to vulnerable populations, with the market-equivalent value of the PDS/PMGKAY subsidy equaling 4% of the post-subsidy nominal monthly consumption expenditure per capita (MPCE) on average across all households.\n\nIn conclusion, health and education policies have a significant impact on India's long-term growth, as they improve the quality of life, reduce inequality, and increase consumption spending. The government's investments in these sectors have been increasing, and the benefits of these policies are being felt by vulnerable populations. \n\nTo ensure sustained growth and development, it is essential to focus on:\n\n1. Improving access to quality education and healthcare\n2. Enhancing social sector infrastructure\n3. Implementing effective policies to reduce inequality\n4. Promoting inclusive growth and development\n\nBy prioritizing health and education policies, India can achieve sustainable and inclusive economic growth, leading to improved living standards and well-being for its citizens.",
+    "chunks": [
+      {
+        "chapter_number": 11,
+        "subchapter_number": 2,
+        "tags": [
+          "Inclusive_Growth",
+          "Social_Sector_Expenditure",
+          "Economic_Development"
+        ],
+        "score": 0.14908583462238312
+      }
+    ]
+  },
+  {
+    "question": "How do growth, inflation, and fiscal deficit trends interact FY 2023-24 → 2025-26?",
+    "answer": "Based on the provided context documents from India's Economic Survey, here's an analysis of how growth, inflation, and fiscal deficit trends are expected to interact from FY2023-24 to 2025-26:\n\n**Growth Trend:**\nThe Indian economy has shown resilience and growth despite global challenges, with a real GDP growth of 8.2% in FY24, posting growth of over 7% for a third consecutive year. The economy is expected to grow at 6.5-7% in FY25, with risks evenly balanced. The growth has been inclusive, with a reduction in unemployment and multi-dimensional poverty and an increase in labor force participation.\n\n**Inflation Trend:**\nRetail inflation declined to 5.4% in FY24 from 6.7% in FY23. The Reserve Bank of India (RBI) has maintained policy rates at a high level to battle inflationary pressures. Inflation is expected to moderate, with a combination of low and stable core inflation and volatile food prices.\n\n**Fiscal Deficit Trend:**\nThe fiscal deficit of the Union Government has been brought down from 6.4% of GDP in FY23 to 5.6% of GDP in FY24. The government has followed a path of fiscal consolidation while continuing to protect vulnerable sections and investing in productive capacity. The fiscal deficit is expected to drop to 4.5% of GDP or lower by FY26.\n\n**Interaction among Growth, Inflation, and Fiscal Deficit:**\n\n*   The growth trend is expected to be sustained, driven by stable consumption demand and steadily improving investment demand.\n*   Inflation is expected to moderate, which will provide space for monetary policy to support growth.\n*   Fiscal consolidation is expected to continue, which will help reduce the fiscal deficit and provide a stable macroeconomic environment.\n\nOverall, the Indian economy is expected to maintain its growth momentum, with a stable macroeconomic environment, moderate inflation, and a declining fiscal deficit. The interaction among growth, inflation, and fiscal deficit trends suggests a positive outlook for the Indian economy from FY2023-24 to 2025-26.",
+    "chunks": [
+      {
+        "chapter_number": 1,
+        "subchapter_number": 4,
+        "tags": [
+          "Fiscal_Consolidation",
+          "Macroeconomic_Stability",
+          "Economic_Growth"
+        ],
+        "score": 0.7419337034225464
+      },
+      {
+        "chapter_number": 1,
+        "subchapter_number": 3,
+        "tags": [
+          "GDP_Growth",
+          "Manufacturing",
+          "Investment_Demand"
+        ],
+        "score": 0.7419337034225464
+      },
+      {
+        "chapter_number": 1,
+        "subchapter_number": 5,
+        "tags": [
+          "Fiscal_Discipline",
+          "Economic_Stability",
+          "Inflation_Control"
+        ],
+        "score": 0.7409473657608032
+      }
+    ]
+  },
+  {
+    "question": "Is there any correlation between deregulation, investment, and services performance?",
+    "answer": "There is a correlation between deregulation, investment, and services performance. According to the Economic Survey, India's economic prospects for FY26 are balanced, but the country needs to improve its global competitiveness through grassroots-level structural reforms and deregulation to reinforce its medium-term growth potential.\n\nThe Survey highlights that investment activity is expected to pick up, supported by higher public capex and improving business expectations. In fact, the RBI's report on private investments showed that investment intentions increased to ₹2.45 lakh crore for FY25 as compared to ₹1.6 lakh crore for FY24. Additionally, the services sector continues to perform well, driven by healthy activity in financial, real estate, professional services, public administration, defense, and other services.\n\nMoreover, the Survey emphasizes the need for deregulation and reforms at the grassroots level to improve the overall competitiveness of the economy and to lift trend growth rates, supporting higher levels of economic activity. This suggests that deregulation can have a positive impact on investment and services performance.\n\nIn particular, the Survey notes that:\n\n* The services sector is expected to grow at 7.2% in FY25, driven by healthy activity in various sub-sectors.\n* Investment activity is expected to pick up, supported by higher public capex and improving business expectations.\n* Deregulation and reforms at the grassroots level are necessary to improve the overall competitiveness of the economy and to lift trend growth rates.\n\nOverall, the correlation between deregulation, investment, and services performance is positive, and the Survey suggests that deregulation can have a positive impact on investment and services performance in India. \n\nThe chapter also quoted as  \" Navigating global headwinds will require strategic and prudent policy management and reinforcing the domestic fundamentals. The Budget2024-25 laid out a multisectoral policy agenda for sustained growth push. In this context, Chapter5 elaborates on the need for deregulation and reforms at the grassroots level to improve the overall competitiveness of the economy and to lift trend growth rates, supporting higher levels of economic activity.\"",
+    "chunks": [
+      {
+        "chapter_number": 1,
+        "subchapter_number": 6,
+        "tags": [
+          "Global_Economic_Outlook",
+          "Inflation_Pressures",
+          "Manufacturing_Trends"
+        ],
+        "score": 0.1355987936258316
+      }
+    ]
+  },
+  {
+    "question": "What are long-term risks if India fails to indigenise EV/solar supply chains?",
+    "answer": "Based on the provided context documents, here is a comprehensive answer to the question:\n\nIf India fails to indigenize EV/solar supply chains, the long-term risks include:\n\n1. **Supply chain disruptions**: India's dependence on imported components and materials for EV and solar energy production can lead to supply chain disruptions, impacting the country's ability to achieve its renewable energy targets.\n2. **Trade deficits**: Relying on imports for critical components can widen India's trade deficit, potentially affecting the country's macroeconomic stability.\n3. **Loss of competitiveness**: Failure to indigenize EV/solar supply chains can make India's industries less competitive in the global market, hindering the country's ability to attract investments and create jobs.\n4. **Energy security risks**: Dependence on imported components can compromise India's energy security, making the country vulnerable to fluctuations in global markets and geopolitical tensions.\n5. **Limited economic benefits**: Without a strong domestic supply chain, India may not be able to fully capture the economic benefits of the EV and solar energy sectors, including job creation, technology transfer, and value addition.\n\nTo mitigate these risks, it is essential for India to focus on indigenizing EV/solar supply chains through a combination of policy support, investments in research and development, and promotion of domestic manufacturing. This can help the country to achieve its renewable energy targets, improve its global competitiveness, and ensure energy security. \n\nThe Economic Survey and related policy documents emphasize the importance of structural reforms, deregulation, and grassroots-level initiatives to reinforce India's medium-term growth potential. In the context of EV and solar energy, this may involve initiatives such as:\n\n* **Production Linked Incentive (PLI) schemes**: To encourage domestic manufacturing of critical components and promote investments in the sector.\n* **Research and Development (R&D) support**: To develop indigenous technologies and improve the efficiency of EV and solar energy systems.\n* **Skill development and training**: To create a skilled workforce that can support the growth of the EV and solar energy sectors.\n\nBy adopting a comprehensive approach to indigenize EV/solar supply chains, India can mitigate the long-term risks associated with dependence on imports and create a sustainable and competitive renewable energy sector.",
+    "chunks": [
+      {
+        "chapter_number": 1,
+        "subchapter_number": 3,
+        "tags": [
+          "Global_Economic_Growth",
+          "Inflation_Trends",
+          "Trade_Policy_Uncertainty"
+        ],
+        "score": 0.004717560950666666
+      }
+    ]
+  },
+  {
+    "question": "How does the “China challenge” affect India’s manufacturing?",
+    "answer": "The \"China challenge\" affects India's manufacturing in several ways, particularly in the context of the global supply chain and foreign direct investment (FDI). The \"China plus one\" strategy, adopted by many multinational companies (MNCs) to diversify their supply chains and reduce dependence on China, presents both opportunities and challenges for India.\n\nOn the one hand, India's large domestic consumer market, improving infrastructure, and the Production Linked Incentive (PLI) scheme make it an attractive destination for companies looking to set up operations. The PLI scheme has been instrumental in promoting domestic production, particularly in the electronics sector, with significant investments in smartphone manufacturing and assembly.\n\nFor instance, Apple assembled $14 billion worth of iPhones in India during FY24, constituting 14% of its global iPhone production. Foxconn has also started production of Apple mobile phones in Karnataka and Tamil Nadu. India's electronic exports to the US have transitioned from a trade deficit of $0.6 billion in FY17 to a trade surplus of $8.7 billion in FY24, underscoring a significant increase in value addition.\n\nOn the other hand, India faces competition from other countries, such as Mexico, Vietnam, Taiwan, and Korea, which have also benefited from the US's trade diversion from China. Moreover, China's dominance in various product categories poses a risk of economic coercion, making it essential for India to find the right balance between importing goods from China and attracting Chinese FDI.\n\nThe report suggests that focusing on FDI from China could be a promising strategy for boosting India's exports to the US. By having Chinese companies invest in India and then export products to these markets, India can minimize the risks associated with trade diversion and capitalize on the opportunities presented by the \"China plus one\" strategy.\n\nHowever, India's FDI flows have declined in recent years, and the country's ability to attract significant FDI, particularly from China, will be crucial in driving growth in its manufacturing sector. The report highlights that investment intentions in new and futuristic sectors, such as renewables, artificial intelligence, data centers, EVs, and batteries, have rapidly risen, and India must make these sectors more accessible for investments.\n\nIn conclusion, the \"China challenge\" presents both opportunities and challenges for India's manufacturing sector. While India's attractive domestic market, improving infrastructure, and PLI scheme make it an attractive destination for companies, the country must navigate the complexities of global supply chains, FDI, and trade diversion to capitalize on the opportunities presented by the \"China plus one\" strategy.",
+    "chunks": [
+      {
+        "chapter_number": 4,
+        "subchapter_number": 6,
+        "tags": [
+          "FDI_Inflows",
+          "Capital_Account_Balance",
+          "Exchange_Rate_Dynamics"
+        ],
+        "score": 0.06366537511348724
+      }
+    ]
+  },
+  {
+    "question": "How do fiscal deficit & inflation dynamics shape bond yields?",
+    "answer": "## Fiscal Deficit and Inflation Dynamics: Impact on Bond Yields\n\nThe relationship between fiscal deficit, inflation dynamics, and bond yields is crucial in understanding the macroeconomic stability of an economy. According to the provided context from India's Economic Survey, the fiscal deficit of the Union Government has been brought down from 6.4% of GDP in FY23 to 5.6% of GDP in FY24. This reduction in fiscal deficit, along with inflation dynamics, has implications for bond yields.\n\n### Fiscal Deficit and Bond Yields\n\nA higher fiscal deficit can lead to increased borrowing by the government, which can result in higher bond yields. This is because a larger supply of government bonds to finance the deficit can lead to upward pressure on yields unless absorbed by the market without significant price impact. However, in the case of India, the reduction in fiscal deficit from 6.4% in FY23 to 5.6% in FY24 indicates a move towards fiscal consolidation. This move, along with a stable and predictable fiscal policy, can contribute to lower and more stable bond yields over time.\n\n### Inflation Dynamics and Bond Yields\n\nInflation dynamics also play a significant role in determining bond yields. The Reserve Bank of India (RBI) has maintained policy rates at a high level to battle inflationary pressures. High inflation can erode the purchasing power of the fixed returns from bonds, leading to higher yields to compensate for the inflation risk. Conversely, if inflation expectations decrease, bond yields might also decrease.\n\n### Interaction Between Fiscal Deficit, Inflation, and Bond Yields\n\nThe interaction between fiscal deficit, inflation dynamics, and bond yields is complex. A reduction in fiscal deficit, as observed in India, can be seen as a positive step towards macroeconomic stability, potentially leading to lower bond yields if it results in lower borrowing costs and reduced supply of bonds. However, the RBI's decision to maintain high policy rates to combat inflation suggests that inflation concerns remain. High policy rates can directly influence bond yields by making borrowing more expensive and by setting a benchmark for the market.\n\n### Conclusion\n\nIn conclusion, the fiscal deficit and inflation dynamics significantly shape bond yields. The reduction in India's fiscal deficit and the RBI's efforts to manage inflation through high policy rates are critical factors influencing bond yields. A sustained fiscal consolidation path and stable inflation expectations can contribute to a favorable environment for lower and stable bond yields, which is conducive to economic growth.\n\nBased on the provided context, it can be inferred that:\n\n1. **Fiscal Consolidation**: The reduction in fiscal deficit from 6.4% to 5.6% of GDP indicates a move towards fiscal consolidation, which can have a positive impact on bond yields by reducing the supply of bonds and signaling a stable fiscal policy.\n\n2. **Inflation Management**: The RBI's maintenance of high policy rates aims to manage inflationary pressures. Stable or decreasing inflation can lead to lower bond yields as it reduces the risk premium investors demand for inflation.\n\n3. **Bond Yield Determinants**: The interaction between fiscal deficit, inflation dynamics, and monetary policy (as indicated by RBI's policy rates) determines bond yields. A balance between fiscal sustainability and inflation control is crucial for stable and potentially lower bond yields.\n\nTherefore, the dynamics of fiscal deficit and inflation play a crucial role in shaping bond yields, with implications for the overall macroeconomic stability and growth of the economy.",
+    "chunks": [
+      {
+        "chapter_number": 1,
+        "subchapter_number": 3,
+        "tags": [
+          "GDP_Growth",
+          "Manufacturing",
+          "Investment_Demand"
+        ],
+        "score": 0.01866152696311474
+      }
+    ]
+  },
+  {
+    "question": "How are NEP & skilling linked to AI-era employment?",
+    "answer": "Based on the provided context, specifically Subchapter 1: \"LABOUR IN THE AI ERA: CRISIS OR CATALYST?\", the National Education Policy (NEP) and skilling are linked to AI-era employment in the following way:\n\nThe rapid advancement of Artificial Intelligence (AI) presents both opportunities and challenges for labor markets. To benefit from AI, significant investments in education and workforce skilling are required. This implies that the National Education Policy (NEP) plays a crucial role in preparing the workforce for the AI era. \n\nThe NEP, along with skilling initiatives, aims to help workers adapt to changing demands in the labor market. By fostering collaboration between policymakers, the private sector, and academia, India can align AI-driven innovation with societal goals, ensuring inclusivity and sustainability in this transition.\n\nTherefore, the NEP and skilling are linked to AI-era employment as they enable workers to adapt to the changing demands of the labor market, ensuring that the workforce is equipped to thrive in an increasingly automated world. \n\nIn essence, NEP and skilling are critical components in making AI serve as a catalyst for equitable economic transformation, rather than a crisis, by positioning India to maximize benefits while minimizing disruptions.",
+    "chunks": [
+      {
+        "chapter_number": 13,
+        "subchapter_number": 1,
+        "tags": [
+          "AI_and_Labor_Markets",
+          "Economic_Transformation",
+          "Inclusive_Growth"
+        ],
+        "score": 0.025400575250387192
+      }
+    ]
+  },
+  {
+    "question": "How do external shocks and domestic demand resilience interact?",
+    "answer": "**Interaction between External Shocks and Domestic Demand Resilience**\n\nIndia's external sector has faced significant challenges due to global headwinds, including rising commodity prices, tightening international financial conditions, and a looming global growth slowdown. However, the country has demonstrated resilience due to strong macroeconomic fundamentals and buffers.\n\n**External Shocks:**\n\n1. **Global Commodity Prices:** The sharp rise in crude oil prices has widened the current account deficit (CAD), which reached $36.4 billion (4.4% of GDP) in Q2FY23.\n2. **Tightening International Financial Conditions:** The US Fed's aggressive monetary policy tightening has led to a strengthening of the US dollar, resulting in a depreciation of the Indian Rupee (INR) and outflows of Foreign Portfolio Investment (FPI).\n3. **Global Growth Slowdown:** The ongoing Russia-Ukraine conflict and the COVID-19 pandemic have contributed to a slowdown in global trade, affecting India's exports.\n\n**Domestic Demand Resilience:**\n\n1. **Strong Macroeconomic Fundamentals:** India's macroeconomic fundamentals, including a comfortable import cover and moderate CAD, have helped the country navigate external shocks.\n2. **Resilience of Net Services Exports:** Net services receipts increased from $51.4 billion in H1FY22 to $65.5 billion in H1FY23, primarily due to robust computer and business services receipts.\n3. **Buoyant Inward Remittances:** Remittances, the second-largest source of external financing, have been a stable constituent of the Balance of Payments (BoP) and are expected to reach $100 billion in 2022.\n\n**Interaction between External Shocks and Domestic Demand Resilience:**\n\nThe interaction between external shocks and domestic demand resilience is complex. While external shocks, such as rising commodity prices and tightening international financial conditions, have put pressure on India's external sector, the country's strong macroeconomic fundamentals and buffers have helped mitigate these effects. The resilience of net services exports and buoyant inward remittances have contributed to a surplus on the invisible account, which has cushioned the merchandise trade deficit.\n\nHowever, the slowdown in global trade and the depreciation of the INR have affected India's exports and increased the CAD. The country's external debt vulnerability indicators are benign, with external debt as a ratio to GDP at 19.2% and the debt service ratio at 5.0%.\n\n**Policy Measures:**\n\nTo nurture the inherent comparative advantage of Indian exports, various export promotion measures are being considered and implemented, including:\n\n1. **National Logistics Policy:** To ease domestic frictions and reduce the cost of internal logistics.\n2. **Free Trade Agreements:** With countries like UAE and Australia, to create opportunities for exports at concessional tariffs and non-tariff barriers.\n\nOverall, India's external sector faces challenges, but it has inbuilt shock absorbers to weather them. The sector is performing relatively better compared to many of its peers, with comfortable import cover and moderate CAD.",
+    "chunks": [
+      {
+        "chapter_number": 11,
+        "subchapter_number": 4,
+        "tags": [
+          "Current_Account_Balance",
+          "Balance_of_Payments",
+          "Foreign_Exchange_Reserves"
+        ],
+        "score": 0.13385412096977234
+      }
+    ]
+  },
+  {
+    "question": "How do lifestyle factors (processed food, mental health) affect growth?",
+    "answer": "Based on the provided context documents, specifically Chapter 13, there is no direct mention of how lifestyle factors such as processed food and mental health affect growth. However, the chapter does discuss the impact of technological advancements, specifically Artificial Intelligence (AI), on growth and the need for robust institutions to mitigate the negative effects of these advancements.\n\nThe chapter highlights the importance of enabling institutions, insuring institutions, and stewarding institutions in ensuring that technological progress leads to inclusive growth and benefits for all. It also discusses the challenges associated with the adoption of AI, including the need for practicality, reliability, infrastructure, and resource efficiency.\n\nWhile lifestyle factors such as processed food and mental health are not explicitly mentioned, the chapter does touch on the importance of mental health in the context of the potential negative effects of AI on society. Specifically, paragraph 13.18 mentions the potential mental-health effects of widespread disappointment and alienation due to substantial and permanent unemployment resulting from AI.\n\nHowever, to provide a comprehensive answer based on the context provided:\n\n- The chapter emphasizes the significance of institutions in managing the impact of technological changes on society, including potential effects on mental health and well-being.\n- It suggests that as India considers the effects of AI, actions should focus on strong institution building, which could potentially include addressing lifestyle factors that impact growth, such as access to healthy food and mental health support.\n\nIn conclusion, while the provided context does not directly address how lifestyle factors like processed food and mental health affect growth, it underscores the importance of robust institutions in managing the societal impacts of technological progress, which could include initiatives to promote healthy lifestyles and mitigate the negative effects of technological advancements on mental health and well-being. \n\nTherefore, a detailed analysis of lifestyle factors' impact on growth, specifically through the lens of processed food and mental health as requested, is not directly available in the given context. \n\nHowever, considering the information given and usual knowledge in this area, one can assume that unhealthy lifestyles, including a diet high in processed foods, can have negative impacts on health, potentially affecting productivity and economic growth. Similarly, mental health issues can impact an individual's ability to work and participate in economic activities, thereby affecting overall growth.\n\nGiven the information typically related to these topics, and in line with providing an accurate and comprehensive response based on standard knowledge:\n\nLifestyle factors, including diet (e.g., consumption of processed foods) and mental health, can significantly affect an individual's health and productivity, thereby influencing economic growth. Unhealthy diets and poor mental health can lead to increased healthcare costs, reduced workforce participation, and decreased economic output. \n\nPolicymakers and institutions can play a crucial role in promoting healthy lifestyles and supporting mental health through public health initiatives, education, and social safety nets, ultimately contributing to sustained economic growth and improved well-being for the population. \n\nIn the context of AI and technological advancements, addressing these lifestyle factors becomes even more critical to ensure that the benefits of growth are shared broadly and that the negative impacts on health and well-being are mitigated. \n\nTherefore, while direct evidence from the provided text is limited, the relationship between lifestyle factors, growth, and the role of institutions in promoting healthy and productive populations is well-established in the broader literature on economic development and public health.",
+    "chunks": [
+      {
+        "chapter_number": 13,
+        "subchapter_number": 4,
+        "tags": [
+          "Institution_Building",
+          "AI_Adoption",
+          "Economic_Growth"
+        ],
+        "score": 0.014563193544745445
+      }
+    ]
+  },
+  {
+    "question": "What is the combined message of fiscal, monetary & external indicators for FY 2025-26?",
+    "answer": "The combined message of fiscal, monetary, and external indicators for FY2025-26 is one of stability and cautious optimism. \n\nOn the fiscal front, the Union government's fiscal discipline has improved, with capital expenditure rebounding after a slowdown in Q1 FY25. The revenue expenditure of states grew at 12% YoY during April to November 2024, with subsidies and committed liabilities registering a growth of 25.7% and 10.4%, respectively. However, the quality of expenditure measured by capital outlay as a percent of revenue expenditure over the five years ending FY24, exhibited considerable variation across states.\n\nMonetarily, the banking and financial sector remains stable and well-capitalized, catering to the financing needs of the economy. Credit disbursal by scheduled commercial banks is growing in double digits, but there has been a moderation in growth in recent months. The gross non-performing assets (NPAs) in the banking system have declined to a 12-year low of 2.6% of gross loans and advances.\n\nExternally, India's external sector displayed mixed trends due to volatile global conditions. Merchandise exports grew by 1.6% YoY in April-December 2024, while non-petroleum exports were up by 7.1%. Services trade surplus has lent balance to the overall trade deficit. India's robust services exports have propelled the country to secure the seventh-largest share in global services exports. Remittances from abroad led to a healthy net inflow of private transfers, with India being the top recipient of remittances in the world.\n\nThe current account deficit (CAD) remains relatively contained at 1.2% of GDP in Q2 FY25. Comfortable financing of the CAD by the capital account has ensured external sector stability. Gross foreign direct investment (FDI) inflows increased 17.9% YoY in April-November 2024. Net FDI inflow declined over this period, primarily on account of the uptick in repatriation.\n\nOverall, the combined message of these indicators is that the Indian economy is on a stable footing, with a growth projection of 6.3-6.8% for FY26. However, there are headwinds, including elevated geopolitical and trade uncertainties and possible commodity price shocks. Domestically, the translation of order books of the private capital goods sector into sustained investment pick-up, improvements in consumer confidence, and corporate wage pick-up will be key to promoting growth.",
+    "chunks": [
+      {
+        "chapter_number": 1,
+        "subchapter_number": 5,
+        "tags": [
+          "Fiscal_Discipline",
+          "Economic_Stability",
+          "Inflation_Control"
+        ],
+        "score": 0.7676268219947815
+      },
+      {
+        "chapter_number": 1,
+        "subchapter_number": 4,
+        "tags": [
+          "GDP_Growth",
+          "Agricultural_Recovery",
+          "Manufacturing_Sector"
+        ],
+        "score": 0.7676268219947815
+      },
+      {
+        "chapter_number": 1,
+        "subchapter_number": 1,
+        "tags": [
+          "GDP_Growth",
+          "Global_Trade",
+          "Inflation_Pressures"
+        ],
+        "score": 0.7676268219947815
+      }
+    ]
+  },
+  {
+    "question": "How India must adapt Western policy lessons?",
+    "answer": "Based on the provided context, India must adapt Western policy lessons in the following ways:\n\n1. **Prioritize research and development (R&D) in climate-related technologies**: India needs to invest in R&D for battery storage technologies, recycling and sustainable disposal of waste associated with renewable energy systems, and carbon capture, utilization, and storage technology.\n2. **Develop resilient infrastructure**: India must focus on creating resilient infrastructure to minimize the adverse impacts of climate change, including climate-resilient seeds and improving agricultural practices.\n3. **Promote pro-environment lifestyle changes**: The LiFE Mission, which encourages low-carbon lifestyles and energy conservation behaviors, has significant potential to contribute to climate change mitigation.\n4. **Ensure a stable energy supply**: India should maximize the efficiency of its existing fossil fuel resources in the medium term and invest in low-emission thermal power technologies, including Advanced Ultra Super Critical (AUSC) power plants.\n5. **Address energy storage and critical mineral sourcing challenges**: India needs to overcome the hurdles in energy storage technologies and the sourcing of critical minerals necessary for the transition to renewable energy sources.\n6. **Integrate adaptation and mitigation strategies into existing policies and developmental programs**: India must adopt a holistic approach that embeds mitigation and adaptation in its growth strategy, ensuring that critical imperatives such as affordable energy security, job creation, sustained economic expansion, and environmental sustainability are met.\n\nBy adapting these Western policy lessons, India can effectively navigate the dual challenge of achieving low-carbon development while ensuring high and stable economic growth, ultimately becoming a developed nation by 2047.",
+    "chunks": [
+      {
+        "chapter_number": 10,
+        "subchapter_number": 7,
+        "tags": [
+          "LowCarbonDevelopment",
+          "ClimateResilience",
+          "RenewableEnergy"
+        ],
+        "score": 0.016477027907967567
+      }
+    ]
+  }
+]

@@ -1,0 +1,32 @@
+{
+  "Fiscal Developments: Revenue Relish": {
+    "filename": "chunk_01_Fiscal_Developments_Revenue_Relish.md",
+    "word_count": 348,
+    "char_count": 2269
+  },
+  "Introduction": {
+    "filename": "chunk_02_Introduction.md",
+    "word_count": 330,
+    "char_count": 2260
+  },
+  "Developments in Union Government Finances": {
+    "filename": "chunk_03_Developments_in_Union_Government_Finances.md",
+    "word_count": 5187,
+    "char_count": 40113
+  },
+  "Overview of State Government Finances": {
+    "filename": "chunk_04_Overview_of_State_Government_Finances.md",
+    "word_count": 3113,
+    "char_count": 24755
+  },
+  "Debt Profile of the Government": {
+    "filename": "chunk_05_Debt_Profile_of_the_Government.md",
+    "word_count": 2191,
+    "char_count": 14343
+  },
+  "Conclusion": {
+    "filename": "chunk_06_Conclusion.md",
+    "word_count": 4645,
+    "char_count": 29937
+  }
+}

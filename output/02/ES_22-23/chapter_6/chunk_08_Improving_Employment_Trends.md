@@ -1,0 +1,375 @@
+# Improving Employment Trends
+
+## improving employment trends
+
+6.26 Employment trends can be studied from the supply side of labour through household surveys such as the PLFS conducted by the Ministry of Statistics and Programme Implementation (MoSPI), and the demand side of labour through enterprise or establishment surveys such as the Annual Survey of Industries (ASI) by MoSPI, Quarterly Employment Survey (QES) by Labour Bureau, etc. These enable a complete view of the labour market and the trends therein.
+
+6.27 The broad-based improvement in employment indicators can be observed in data covering both the supply side and demand side of the labour market. Labour markets have recovered beyond pre-Covid levels, in both urban and rural areas, with unemployment rates falling from 5.8 per cent in 2018-19 to 4.2 per cent in 2020-21, and a noticeable rise in rural FLFPR from 19.7 per cent in 2018-19 to 27.7 per cent in 2020-21. More recent urban employment data shows progress beyond pre-pandemic levels as the unemployment rate declined from 8.3 per cent in July-September 2019 to 7.2 per cent in July-September 2022.
+
+The net addition to EPFO payroll is steadily moving upward, with the majority share coming from  the  youth.  Employment  in  nine  major  sectors  has  increased  by  10  lakh  over  the  year 2021-22 as per  the  QES.  Employment  in  the  organised  manufacturing  sector  has  also  been rising over the years, as per the ASI 2019-20 data. The steady increase in employment levels can be attributed to multiple measures taken to cushion the impact of Covid-19 on MSMEs,
+
+street vendors, and manufacturing units and provide job opportunities through various targeted schemes and measures as detailed in later in the chapter. The trends in employment on the supply and demand side, as available from various data sources, are presented below.
+
+## Supply Side of employment
+
+## Annual Periodic Labour Force Survey
+
+6.28 As per usual status 13 , the labour force participation rate (LFPR) 14 , worker population ratio (WPR) 15  and unemployment rate (UR) 16 in PLFS 2020-21(July-June) 17  have improved for both males and females in both rural and urban areas compared to PLFS 2019-20 and 2018-19.
+
+## tableVi.4: employment trends as per usual status
+
+(principal status + subsidiary status) for persons of all ages
+
+(per cent)
+
+|      | rural   | rural   | rural   | urban   | urban   | urban   | rural + urban   | rural + urban   | rural + urban   |
+|------|---------|---------|---------|---------|---------|---------|-----------------|-----------------|-----------------|
+|      | 2018-19 | 2019-20 | 2020-21 | 2018-19 | 2019-20 | 2020-21 | 2018-19         | 2019-20         | 2020-21         |
+| LFPR | 55.1    | 56.3    | 57.1    | 56.7    | 57.8    | 58.4    | 55.6            | 56.8            | 57.5            |
+| WPR  | 52.1    | 53.8    | 54.9    | 52.7    | 54.1    | 54.9    | 52.3            | 53.9            | 54.9            |
+| UR   | 5.6     | 4.5     | 3.9     | 7.1     | 6.4     | 6.1     | 6.0             | 5.1             | 4.5             |
+| LFPR | 19.7    | 24.7    | 27.7    | 16.1    | 18.5    | 18.6    | 18.6            | 22.8            | 25.1            |
+| WPR  | 19.0    | 24.0    | 27.1    | 14.5    | 16.8    | 17      | 17.6            | 21.8            | 24.2            |
+| UR   | 3.5     | 2.6     | 2.1     | 9.9     | 8.9     | 8.6     | 5.2             | 4.2             | 3.5             |
+| LFPR | 37.7    | 40.8    | 42.7    | 36.9    | 38.6    | 38.9    | 37.5            | 40.1            | 41.6            |
+| WPR  | 35.8    | 39.2    | 41.3    | 34.1    | 35.9    | 36.3    | 35.3            | 38.2            | 39.8            |
+| UR   | 5.0     | 4.0     | 3.3     | 7.7     | 7.0     | 6.7     | 5.8             | 4.8             | 4.2             |
+
+Source: Annual PLFS 2017-18 to 2020-21, MoSPI
+
+6.29 While usual status has a long reference period of one year, current weekly status (CWS) 18 is a stricter benchmark. It can capture the loss in duration of employment during events such as a pandemic, with a reference period of one week. As per CWS, labour market indicators recovered swiftly from 2019-20 (July-June) to 2020-21, and for both males and females, with improvement in employment indicators. Region-wise, while rural labour market indicators have been improving for both males and females, the urban labour market is slightly behind pre-Covid levels in 2020-21 (July-June). However, taking a cue from the Quarterly PLFS reports for urban areas available for more recent quarters, the recovery of urban labour markets beyond pre-Covid levels  is  discernible.  Quarterly  urban  unemployment  rate  declined  from  pre-pandemic  level
+
+13 For a person to be categorised as employed as per usual status (ps+ss), he/she must have pursued an economic activity for at least 30 days during the 365 days preceding the date of the survey.
+
+14 According to the PLFS, LFPR is the percentage of working-age population engaged in work or making tangible efforts to seek 'work' or being available for 'work' if it is available. 'Work' includes self-employment (subsistence agriculture and collection of firewood, poultry farming, etc, for self-consumption), regular wage/salaried employment, and casual labour.
+
+15 WPR is defined as the per centage of employed persons in the total population.
+
+16 UR is defined as the per centage of unemployed persons in the labour force.
+
+17 This is the lastest available annual survey released in June, 2022.
+
+18 For a person to be categorised as employed as per current weekly status, he/she must have pursued an economic activity for at least 1 hour during the seven days preceding the date of survey.
+
+of 8.3 per cent in July-September 2019 to 7.2 per cent in July-September 2022, accompanied by a rise in LFPR from 47.3 per cent to 47.9 per cent during the same period, as discussed in paraghaphs 6.33 and 6.34.
+
+table Vi.5: employment trends as per current weekly status (for ages 15-plus)
+
+(per cent)
+
+|         |         | rural   | rural   | rural   | urban   | urban   | urban   | rural + urban   | rural + urban   | rural + urban   |
+|---------|---------|---------|---------|---------|---------|---------|---------|-----------------|-----------------|-----------------|
+| 2018-19 | 2018-19 | 2018-19 | 2019-20 | 2020-21 | 2018-19 | 2019-20 | 2020-21 | 2018-19         | 2019-20         | 2020-21         |
+|         | LFPR    | 75.5    | 76.7    | 76.7    | 73.7    | 73.8    | 73.8    | 74.9            | 75.8            | 75.8            |
+|         | WPR     | 69.0    | 70.1    | 71.2    | 67.2    | 66.0    | 66.8    | 68.4            | 68.8            | 69.9            |
+|         | UR      | 8.6     | 8.7     | 7.1     | 8.8     | 10.5    | 9.4     | 8.7             | 9.3             | 7.8             |
+|         | LFPR    | 22.5    | 28.3    | 30.0    | 19.7    | 22.1    | 21.7    | 21.6            | 26.3            | 27.5            |
+|         | WPR     | 20.9    | 26.7    | 28.6    | 17.4    | 19.4    | 19.0    | 19.8            | 24.4            | 25.7            |
+|         | UR      | 7.3     | 5.5     | 4.8     | 12.1    | 12.4    | 12.2    | 8.7             | 7.3             | 6.6             |
+|         | LFPR    | 49.1    | 52.5    | 53.4    | 47.1    | 48.2    | 48.0    | 48.5            | 51.2            | 51.8            |
+|         | WPR     | 45.0    | 48.4    | 50.0    | 42.7    | 43.0    | 43.1    | 44.3            | 46.7            | 47.9            |
+|         | UR      | 8.3     | 7.8     | 6.5     | 9.5     | 11.0    | 10.1    | 8.7             | 8.8             | 7.5             |
+
+Source: Annual PLFS 2017-18 to 2020-21, MoSPI
+
+Note: 2020-21 refers to the period July 2020-June 2021 and likewise for 2019-20 and 2018-19
+
+6.30 According to broad status in employment, the share of self-employed increased and that of regular wage/salaried workers declined in 2020-21 vis-à-vis 2019-20, driven by trend in both rural and urban areas. The share of casual labour declined slightly, driven by rural areas.
+
+figure Vi.3: trends in broad employment status (Persons, rural+urban )
+
+<!-- image -->
+
+Source: Annual PLFS, MoSPI
+
+6.31 Based on the industry of work, the share of workers engaged in agriculture rose marginally from 45.6 per cent in 2019-20 to 46.5 per cent in 2020-21, the share of manufacturing declined
+
+faintly from 11.2 per cent to 10.9 per cent, the share of construction increased from 11.6 per cent to 12.1 per cent, and share of trade, hotel &amp; restaurants declined from 13.2 per cent to 12.2  per  cent,  over  the  same  period.  This  could  be  attributable  to  the  impact  of  Covid  on manufacturing and services employment (2020-21 data covers July 2020 to June 2021 period), while agricultural growth remained strong during the period. An upturn in the FLFPR (rising by 9.5 percentage points (pp) in 2017-18 to 2020-21 for usual status and by 8.3 pp for CWS) is a positive development on the gender aspect of employment, which could be attributable to rising rural amenities freeing up women's time, and high agricultural growth over the years. Box VI.2 provides a perspective on measurement aspects of FLPFR.
+
+figure Vi.4: change in female labour force participation rate (2020-21 over 2017-18; usual status, all ages)
+
+<!-- image -->
+
+Source: PLFS, MoSPI
+
+## box Vi.2: measurement issues in female labour force participation rate
+
+The common narrative of Indian women's low LFPR misses the reality of working females integral to the economy of the household and the country. Measurement of employment through the survey design and content can make a significant difference to final LFPR estimates, and this matters more for  measuring  female  LFPR  than  male  LFPR.  Here,  three  main  measurement  issues  have  been highlighted: overly broad categories, reliance on a single question to categorize labour force status, and the narrow approach of limiting productive work to labour force participation.
+
+use  of  overly  broad  categories  clubbing  productive  work  (collection  of  firewood,  poultry farming, etc.) with domestic duties can in one sweep shift a significant proportion of women in the labour force into the out-of- labour-force category. For example, unless the production of primary goods is identified as the main activity by the respondent, the PLFS questionnaire would categorize women who do both domestic activities and primary goods production/collection into 'Activity Code 93, 19 and thus out-of-the-labour-force.
+
+19 In the NSSO survey questionnaires, activity status codes are assigned to each household member, according to their primary activity undertaken. Activity code 93 refers to 'engaged in domestic duties and also engaged in free collection of goods (vegetable, firewood, cattle feed, etc.), tailoring, etc. for household use'.
+
+Adding the proportion of women in Activity code 93 to the official LFPR yields an ' Augmented Female LFPR ' of 46.2 per cent for FY21 for ages 15 years and above, much higher than the 32.5 per cent estimated by the conventional definition (PLFS data for usual status). A similar attempt has been made in an International Labour Organization (ILO) research paper 20 , arriving at a female LFPR of 56.4 per cent in India for 2012, against the far lower official estimate of 31.2 per cent for 2012.
+
+<!-- image -->
+
+Source: NSS Employment Unemployment Survey (NSS-EUS) for 1999-00 to 2011-12, PLFS from 2017-18 to 2011-12.
+
+Augmented FLPR calculations estimated using NSO data
+
+Note: 1. Usual activity (ps+ss) status (for age group 15 years &amp; above) in per cent
+
+2. NSS-EUS and PLFS may not be comparable, given different sampling weights, frequencies, and data collection techniques.
+
+no recovery questions in the plfS questionnaire: The survey design relies mainly on a single question for measuring the labour force status of an individual, which eliminates the scope to rectify any error in self-reporting, considering the large rural population and literacy levels. Contrary to ILO recommendations, there are no additional questions ('recovery questions') in the PLFS questionnaire to double-check individuals' labour force status, relying too much on how the individual self-identifies in the first instance. ILO recommends using multiple probing or recovery questions such as 'whether the person helped in the family business' and 'whether the person worked in own business in last one week/year' and 'whether person helped the family with job'.
+
+In a World Bank and ILO study in Sri Lanka 21 , such methodological issues accounted for close to eight percentage point underestimation of the female employment-to-population ratio.
+
+measurement of 'Work' alongside 'employment' :  There is a need to broaden the horizon of measuring work, which constitutes the whole universe of productive activities alongside employment. According to the latest ILO standards 22 ,  limiting  productive  work  to  labour  force  participation  is
+
+20 Kapsos, S., Bourmpola, E., Silberman, A. (2014), 'Why is female labour participation rate declining so sharply in India?', ILO Research Paper No. 10
+
+21  Discenza, A., Gaddis, I., Palacios-Lopez, A., Walsh, K. (2021). Measuring Women and Men's Work: Main Findings from a Joint ILO and World Bank Study in Sri Lanka.
+
+22 The 19 th International Conference of Labour Statisticians in 2013 adopted a new set of norms to expand the set of productive activities classified as 'work', comprising any activity performed by persons of any sex and age to produce goods or to provide services for use by others or for own use. The definition of work is aligned with the General production boundary as defined in the System of National Accounts 2008, including own use production work and volunteer work.
+
+narrow  and  only  measures  work  as  a  market  product.  It  does  not  include  the  value  of  women's unpaid domestic work, which can be seen as expenditure-saving work such as collecting firewood, cooking, tutoring children, etc, and contributes significantly to the household's standard of living. Thus, a wholesome measurement of 'work' may require improved quantification through redesigned surveys.
+
+That  said,  there  is  further  significant  scope  to  nullify  the  gender-based  disadvantages  to  enable free choice of women to join the labour market. Ecosystem services, including affordable creches, career counselling/handholding, lodging and transportation, etc., can further help unlock the gender dividend for inclusive and broad-based growth.
+
+6.32 It may be noted that more than 75 per cent of rural female workers are employed in the  agricultural  sector. This  implies  a  need  to  upskill  and  create  employment  for  women  in agriculture-related sectors such as food processing. Here, the self-help groups (SHGs) can play a  crucial  role  in  shaping  rural  women's  potential  into  concrete  developmental  outcomes  of financial inclusion, livelihood diversification, and skill development as discussed in Box VI.3.
+
+## box Vi.3: role of Self-Help groups in Women's empowerment
+
+The  Self-Help  Groups  (SHGs) 23   movement,  based  on  the  principles  of  group  solidarity  and microfinance, has existed in India for 50 years in one form or another, with its roots tracing back to the formation of the Self-Employed Women's Association in 1972. The transformative potential of SHGs, exemplified through their key role in the on-ground response to Covid-19, has served as the fulcrum of rural development through women empowerment.
+
+India  has  around  1.2  crore  SHGs,  88  per  cent  being  all-women  SHGs.  Success  stories  include Kudumbashree in Kerala, Jeevika in Bihar, Mahila Arthik Vikas Mahila Mandal in Maharashtra, and recently, Looms of Ladakh.
+
+The SHG Bank Linkage Project (SHG-BLP), launched in 1992, has blossomed into the world's largest microfinance project. The SHG movement, now in its 30th year, has emerged as a powerful intervention to cover the small and marginalised sections. Currently, bank-linked SHGs are promoted through Central Government, State Governments, NGOs, etc. They must practice the 'Panchasutra' of regular meetings, regular savings, regular inter-loaning, timely repayment and up-to-date books of accounts to avail of loans from banks. With the active collaboration of stakeholders, the SHG-BLP covers 14.2 crore families through 119 lakh SHGs with savings deposits of ` 47,240.5 crore and 67 lakh groups with collateral-free loans outstanding of ` 1,51,051.3 crore, as on 31 March 2022. The number of SHGs credit linked has grown at a CAGR of 10.8 per cent during the last ten years (FY13 to FY22), while credit disbursement per SHG has grown at a CAGR of 5.7 per cent during the same period. Notably, SHGs' bank repayment is more than 96 per cent, underscoring their credit discipline and reliability.
+
+23 A SHG is a socially and economically homogenous group of up to 20 persons, formed voluntarily for the collective purpose of savings and credit, with no insistence on collateral for loans and end usage of credit.
+
+## table: progress under SHg-bank linkage programme (2019-20 to 2021-22)
+
+## (Number in lakh/Amount in ` crore)
+
+|                                         |                                   | 2019-20     | 2019-20        | 2020-21      | 2020-21         | 2021-22     | 2021-22         |
+|-----------------------------------------|-----------------------------------|-------------|----------------|--------------|-----------------|-------------|-----------------|
+|                                         |                                   | no. of SHgs | amount         | no. of SHgs  | amount          | no. of SHgs | amount          |
+| SHG Savings with Banks as of 31st March | Total SHG Nos.                    | 102.4 (2.3) | 26152.1 (12.1) | 112.2 (9.6)  | 37477.6 (43.3)  | 118.9 (5.9) | 47240.5 (26.1)  |
+| SHG Savings with Banks as of 31st March | All women SHGs (W)                | 88.3 (3.5)  | 23320.6 (13.9) | 97.3 (10.1)  | 32686.1 (40.2)  | 104.1 (7.0) | 42104.8 (28.8)  |
+| SHG Savings with Banks as of 31st March | %ofW                              | 86.2        | 89.2           | 86.7         | 87.2            | 87.5        | 89.1            |
+| SHG Savings with Banks as of 31st March | DAY-NRLM SHGs                     | 57.9 (3.8)  | 14312.7 (11.2) | 64.8 (11.9)  | 19353.7 (35.2)  | 71.8 (10.9) | 27576.9 (42.5)  |
+|                                         | Total No. of SHGs extended loans. | 31.5 (16.6) | 77659.4 (33.2) | 28.9 (-8.2)  | 58070.7 (-25.2) | 33.9 (17.7) | 99729.2 (71.7)  |
+|                                         | All women SHGs (W)                | 28.8 (21.9) | 73297.6 (37.6) | 25.9 (-10.2) | 54423.1 (-25.8) | 31.5 (21.6) | 93817.2 (72.4)  |
+|                                         | %ofW                              | 91.7        | 94.4           | 89.7         | 93.7            | 92.7        | 94.1            |
+|                                         | DAY-NRLM SHGs                     | 20.5 (24.3) | 52183.7 (56.2) | 15.8 (-22.7) | 29643.0 (-43.2) | 22.9 (44.6) | 63100.8 (112.9) |
+
+(Figures in parenthesis indicate the increase/decrease over the previous year)
+
+Source: NABARD
+
+## impact of SHgs: empowered Women, empowered Hinterland
+
+Women's economic SHGs have a positive,  statistically  significant  effect  on  women's  economic, social, and political empowerment, with positive effects on empowerment achieved through various pathways  such  as  familiarity  with  handling  money,  financial  decision-making,  improved  social networks 24 , asset ownership 25 and livelihood diversification 26 .
+
+According to an recent assessment 27   of  DAY-National  Rural  Livelihood  Mission,  which  is  being undertaken through the SHGs, (for details see para 6.104) both participants and functionaries perceived high impacts of the programme in areas related to women empowerment, self-esteem enhancement, personality development, reduced social evils; and additionally, medium impacts in terms of better education, higher participation in village institutions and better access to government schemes.
+
+## covid-19 response as a montage of SHg's potential
+
+## Government's Covid-19 Package for SHGs
+
+- Under PMGKY, the limit for collateral-free loans for women's SHGs was doubled from ` 10 lakh to ` 20 lakh. This is expected to benefit 63 lakh women SHGs and 6.85 crore households.
+
+24  Brody, C, De Hoop, T, Vojtkova, M, Warnock, R, Dunbar, M, Murthy, P and Dworkin, SL (2016). 'Economic Self-Help Group Programmes for Improving Women's Empowerment: A Systematic Review', 3ie Systematic Review. London: International Initiative for Impact Evaluation (3ie)
+
+25 Datta, U. (2015). 'Socio-economic impacts of jeevika: A large-scale self-help group project in Bihar, India', World Development, 68:1-18.
+
+26 Pandey, V., Gupta, A., and Gupta, S. (2019). 'Labour and welfare impacts of a large-scale livelihoods program: Quasi-experimental evidence from India', Policy Research Working Paper No. 8883, World Bank.
+
+27  IRMA (2017). 'Independent Assessment of Design, Strategies and Impacts of DAY-NRLM', p. xvii and p. 198-99.
+
+- NRLM allowed for an additional Vulnerability Reduction Fund of ` 1.5 lakh to be extended to Village Organisations (VOs) in Covid hotspot areas and for vulnerable groups.
+
+## SHGs in action during Covid
+
+The years of pestilence acted as an opportunity towards mobilising SHG women to unite, transcend their  group  identity  and  collectively  contribute  to  crisis  management.  They  emerged  as  pivotal players in crisis management, leading from the front in - producing masks (with cultural variants such  as  Gamusa  Masks  in Assam),  sanitisers,  and  protective  gear,  creating  awareness  about  the pandemic (e.g. Patrakar Didis of Jharkhand), delivering essential goods (e.g. Floating supermarkets in Kerala), running community kitchens (e.g. Prerna Canteens in Uttar Pradesh), supporting farm livelihoods (e.g. Pashu Sakhis for animal health care services, Aajeevika Farm Fresh Online selling and  distribution  mechanism  for  vegetables  in  Jharkhand),  convergence  with  MGNREGS  (in  UP, Bihar, Chhattisgarh), and in delivery of financial services (e.g. Bank Sakhis managing bank rush for availing Covid-relief DBT cash transfers). The production of masks by SHGs has been a noteworthy contribution, enabling access to and use of masks by communities in remote rural areas and providing vital protection against the Covid-19 virus. As on 4 January 2023, more than 16.9 crore masks were produced by SHGs under DAY-NRLM.
+
+## Way forward
+
+SHGs are well-placed to facilitate overall rural development owing to their access to the last mile, ability to draw on communities' trust and solidarity, knowledge of local dynamics, and ability to swiftly manufacture simple products and services through the aggregation of members' economic activities. The demonstration of their resilience and flexibility during crises, including Covid, needs to be thus regularised for long-run rural transformation. This includes, among other things, addressing inter-regional  disparity  in  the  deepening  of  the  SHG  movement,  graduating  SHG  members  into micro-entrepreneurs, culturally contextualised skill development for moving up the value chain in products and services, and including the least privileged under the SHG umbrella .
+
+## Quarterly plfS for urban areas
+
+6.33  The PLFS conducted by the MoSPI at a quarterly level for urban areas is available till July-September 2022. The data shows an improvement in all the key labour market indicators in the quarter ending September 2022 both sequentially and over the last year, as per the CWS. The labour participation rate increased to 47.9 per cent in July-September 2022 from 46.9 per cent a year ago, while the worker-population ratio strengthened from 42.3 per cent to 44.5 per cent in the same period. The unemployment rate declined from 9.8 per cent in July-September 2021 to 7.2 per cent in July-September 2022.This trend highlights that the labour markets have recovered from the Covid impact.
+
+figure Vi.5: Quarterly urban employment indicators
+
+<!-- image -->
+
+Source: Quarterly PLFS Reports, MoS&amp;PI
+
+6.34 The composition of the urban workforce for the broad status of employment has been stable over the past four quarters, with the share of self-employed at 39.7 per cent, regular wage/ salaried at 48.7 per cent, and casual labour at 11.6 per cent in July-September 2022. Similar stability is visible in the work industry, with the share of workers engaged in the secondary sector at 33.4 per cent, and the share of the tertiary sector at 60.9 per cent in July-September 2022.
+
+## demand Side of employment
+
+## Quarterly employment Survey (QeS)
+
+6.35 The QES, conducted by the Labour Bureau, covers establishments  with  ten  or  more workers  in  nine  major  sectors  viz.  manufacturing,  construction,  trade,  transport,  education, health,  accommodation  &amp;  restaurants,  IT/BPOs,  and  financial  services.  These  nine  sectors account for around 83 per cent of the total employment in establishments with ten or more workers as per the 6 th  Economic Census (2013-14) conducted by MoSPI.
+
+- 6.36 So far, results of four rounds of the QES have been released, covering four quarters of FY22. 28 The estimated total employment in the nine selected sectors according to the fourth round of QES (January to March 2022) stood at 3.2 crore, which is nearly ten lakh higher than the estimated employment from the first round of QES (April-June 2021). The increase in estimates of workers from Q1FY22 to Q4FY22 was driven by rising employment in sectors such as IT/BPO (by 17.6 lakh), health (7.8 lakh), and education (1.7 lakh), due to rising digitisation and resurgence of services sector economy.
+- 6.37 Regarding terms of employment, regular employees constituted the majority of workers across sectors, with a share of 86.4 per cent in the total workforce in Q4FY22. Contractual employees formed a relatively small proportion of the workforce in these nine sectors, except Manufacturing (12.4 per cent) and Construction (19.0 per cent). Further, out of the total employed
+
+28  The latest Report on Fourth Round (January-March, 2022) of QES was released in September 2022.
+
+in the fourth round of QES, 98.0 per cent are employees while 1.9 per cent are self-employed. Gender-wise, 31.8 per cent of the total estimated employed are women and 68.2 per cent are men.
+
+table Vi.6: Sector-wise estimated number of workers as per QeS
+
+<!-- image -->
+
+(in lakh )
+
+| Sectors                    |   apr-Jun, 2021 |   Jul-Sep, 2021 |   oct-dec, 2021 |   Jan-mar, 2022 |
+|----------------------------|-----------------|-----------------|-----------------|-----------------|
+| Manufacturing              |           125.2 |           121.4 |           124   |           122.5 |
+| Construction               |             7.4 |             6.1 |             6.2 |             6.1 |
+| Trade                      |            20.4 |            16.5 |            16.8 |            17   |
+| Transport                  |            13.4 |            14.4 |            13.2 |            13.3 |
+| Education                  |            67.3 |            68.5 |            69.3 |            69   |
+| Health                     |            26   |            33.5 |            32.9 |            33.8 |
+| Accommodation& Restaurants |             8.9 |             7.8 |             8.1 |             8.2 |
+| IT /BPOs                   |            20.7 |            33.2 |            34.6 |            38.3 |
+| Financial Services         |            17.4 |             8.7 |             8.9 |             9.1 |
+| total                      |           308.2 |           310.6 |           314.5 |           318   |
+
+Source: QES Reports, Labour Bureau
+
+table Vi.7: Sector-wise distribution of workers according to terms of employment as per QeS (per cent, for Jan-Mar 2022 )
+
+| Sectors                    |   Self- employed |   regular (not on contract) employee |   contractual employee |   fixed term employee |   casual employee |
+|----------------------------|------------------|--------------------------------------|------------------------|-----------------------|-------------------|
+| Manufacturing              |              2.5 |                                 80.2 |                   12.4 |                   1   |               4   |
+| Construction               |              1.3 |                                 73.4 |                   19   |                   0.5 |               5.7 |
+| Trade                      |              4.2 |                                 90.1 |                    3.5 |                   0.3 |               2   |
+| Transport                  |              0.6 |                                 91.9 |                    5.1 |                   0.6 |               1.8 |
+| Education                  |              1.2 |                                 91.1 |                    6.4 |                   0.5 |               0.8 |
+| Health                     |              0.6 |                                 89   |                    9.1 |                   0.5 |               0.9 |
+| Accommodation& Restaurants |              6.7 |                                 84.5 |                    5.2 |                   0.6 |               3   |
+| IT /BPOs                   |              0.1 |                                 94.7 |                    4.8 |                   0   |               0.4 |
+| Financial Services         |              6.4 |                                 87.7 |                    1.9 |                   0.4 |               3.6 |
+| total                      |              2   |                                 86.4 |                    8.7 |                   0.7 |               2.3 |
+
+Source: QES Reports, Labour Bureau
+
+## annual Survey of industries (aSi) 2019-20 29
+
+6.38 The ASI,  conducted  by  MoSPI,  is  an  important  source  of  industrial  statistics  of  the registered  organised  manufacturing  sector  of  the  economy.  It  covers  all  factories  registered under Sections 2m(i) and 2m(ii) of the Factories Act, 1948, i.e., those factories employing ten or more workers using power; and those employing twenty or more workers without using power.
+
+6.39 As per  the  latest ASI  FY20,  employment  in  the  organised  manufacturing  sector  has maintained  a  steady  upward  trend  over  time,  with  the  employment  per  factory  increasing gradually. In terms of share of employment (total persons engaged) 30 , the food products industry (11.1 per cent) remained the largest employer, followed by wearing apparel (7.6 per cent), basic metals (7.3 per cent), and motor vehicles, trailers, and semi-trailers (6.5 per cent). State-wise, Tamil Nadu had the largest number of persons engaged in factories (26.6 lakh), followed by Gujarat (20.7 lakh), Maharashtra (20.4 lakh), Uttar Pradesh (11.3 lakh), and Karnataka (10.8 lakh).
+
+29 The results of ASI 2019-20 were released in 2022.
+
+30  Total Persons Engaged include the employees as defined above and all working proprietors and their family members who are actively engaged in the work of the factory even without any pay, and the unpaid members of the co-operative societies who worked in or for the factory in any direct and productive capacity.
+
+figure Vi.8: total persons engaged in factories by States/uts as per aSi (in FY20 )
+
+<!-- image -->
+
+Source: ASI, MoSPI
+
+Note: States/UTs with at least one lakh total persons engaged in factory sector have been shown in the chart.
+
+6.40 In terms of employment size, the data shows a skewed distribution of a larger number of factories with low employment sizes and a few factories with higher employment sizes. For example, out of an estimated 1,98,628 factories in operation, 1,34,577 factories are found to employ less than 50 employees each. However, the distribution of persons engaged is more balanced and right-skewed, with larger factories accounting for a greater share of employment. For instance, 77.3 per cent of the total persons engaged are in factories engaging more than 100 persons. Over time, there is a visible trend towards bigger factories employing more than 100 workers, their numbers rising by 12.7 per cent from FY17 to FY20, compared to a broadly constant number of smaller factories. Between FY17 and FY20, total persons engaged in larger factories rose by 13.7 per cent, compared to 4.6 per cent in smaller factories. Resultantly, the share of larger factories in the total number of factories has increased from 18 per cent in FY17 to 19.8 per cent in FY20, and their share in total persons engaged shows a similar expansion from 75.8 per cent in FY17 to 77.3 per cent in FY20. Thus, in terms of total persons engaged, employment has been rising in larger factories (employing more than 100 workers) than in smaller ones, suggesting scaling up of manufacturing units.
+
+figure Vi.9: trends in employment in factories as per aSi
+
+<!-- image -->
+
+<!-- image -->
+
+Source: ASI, MoSPI
+
+## formal employment
+
+6.41 Employment  generation  coupled  with  improving  employability  is  the  priority  of  the Government. Following this path, the organised sector job market conditions measured by payroll data  for  Employees'  Provident  Fund  Organisation  (EPFO)  and  Employees'  State  Insurance Corporation (ESIC) reveal the benefits of the government initiatives towards improvement in the labour market. EPFO data indicates a consistent YoY increase in payroll addition, pointing towards  improved  formalisation  as  economic  activities  picked  up.  The  net  addition  in  EPF subscriptions during FY22 was 58.7 per cent higher than in FY21 and 55.7 per cent higher than that  in  the  pre-pandemic year 2019. In FY23, net average monthly subscribers added under EPFO increased from 8.8 lakh in April-November 2021 to 13.2 lakh in April-November 2022.
+
+6.42 The swift rebound of formal sector payroll addition can be attributed to the Aatmanirbhar Bharat Rojgar Yojana (ABRY), launched in October 2020 to boost the economy, increase the employment generation in post Covid-19 recovery phase, and to incentivise creation of new employment along with social security benefits and restoration of employment lost during the pandemic.  As on 7 January 2023, total registration under the scheme is 75.1 lakh, and total benefits of ` 8,210 crore have been given to 60.2 lakh beneficiaries through 1.5 lakh establishments.
+
+6.43 Average monthly subscriber additions under ESIC for April-October period improved from 11.9 lakhs in 2021 to 14.4 lakh in 2022. Similarly, under National Pension Scheme (NPS), the average monthly net subscriptions increased from 61.9 thousand in 2021 to 63.2 thousand in 2022 for the April-October period. 31
+
+31 Data from Pension Fund Regulatory and Development Authority (PFRDA).
+
+<!-- image -->
+
+figure Vi.10: net addition of subscribers in the epfo (in lakh)
+
+<!-- image -->
+
+Source: EPFO
+
+Note: Net addition in payroll = No. of new subscribers + No. of exited members who re-joined - No. of members exited.
+
+6.44 In terms of industrial composition, expert services (consisting of manpower agencies, private  security  agencies,  and  small  contractors,  etc.)  form  the  largest  share  of  EPFO payroll  addition  (41.1  per  cent  in  FY23, April-November),  followed  by  trading-commercial establishments (6.9 per cent). Across age groups, the age group of 18-25 years contributed to 48.5 per cent of the net payroll addition in April-November 2022. With nearly 62.7 per cent of net payroll addition coming from less than 29 years of age (in the same period), new jobs in the organised sector are mainly going to the youth. In the 18-25 years age group, Maharashtra (21.4 per cent), Karnataka (12.1 per cent), Tamil Nadu (10.9 per cent), Haryana (9.0 per cent), Gujarat (8.4 per cent), and Delhi (7.6 per cent) contributed to nearly 70 per cent of the net payroll addition in Apr-Nov 2022.
+
+table Vi.8: epfo payroll data for main industries across all age groups (in lakhs)
+
+| industry                                                                      |   2019-20 |   2020-21 |   2021-22 |   2022-23 (apr-nov) |   %Share in 2022-23 |
+|-------------------------------------------------------------------------------|-----------|-----------|-----------|---------------------|---------------------|
+| Expert Services                                                               |      35.2 |      37   |      51.7 |                43.4 |                41.1 |
+| Trading - Commercial Establishments                                           |       5.2 |       3.4 |       8.7 |                 7.3 |                 6.9 |
+| Others                                                                        |       1.5 |       2.6 |       7.3 |                 7.1 |                 6.8 |
+| Engineers - Engg. Contractors                                                 |       4.1 |       4.9 |       6.2 |                 5.6 |                 5.4 |
+| Building and Construction Industry                                            |       5.1 |       4.7 |       6   |                 5.5 |                 5.2 |
+| Elec., Mech. or Gen. Engg. Products                                           |       3.8 |       3.8 |       4.9 |                 4.9 |                 4.7 |
+| Establishment engaged in Manufacture, Marketing Servicing, Usage of Computers |       2.7 |       2   |       4.4 |                 2.9 |                 2.7 |
+| Establishments engaged in Cleaning, Sweeping Services                         |       1.8 |       2.5 |       3.3 |                 3   |                 2.8 |
+| Textiles                                                                      |       1.7 |       1.7 |       3.1 |                 2   |                 1   |
+| grand total (all industries)                                                  |      78.6 |      77.1 |     122.3 |               105.4 |               100   |
+
+Source: EPFO, MoLE
+
+Note: Main Industries is a subset of all industries
+
+## demand for work under mgnregS
+
+6.45 The number of persons demanding work under MGNREGS was seen to be trending around  pre-pandemic  levels  from  July  to  November  2022.  This  could  be  attributed  to  the normalisation of the rural economy due to strong agricultural growth and a swift recovery from Covid induced slowdown, culminating in better employment opportunities. In FY23, as on 24 January 2023, 6.49 crore households demanded employment under MGNREGS, and 6.48 crore households were offered employment out of which 5.7 crore availed employment.
+
+figure Vi.11: number of persons demanding work under mgnregS
+
+<!-- image -->
+
+Source: MGNREGS Web portal
+
+6.46 The number of works done under MGNREGS has steadily increased over the years, with 85 lakh completed works in FY22 and 70.6 lakh completed works so far in FY23 (as on 9 January 2023). Regarding the composition of works, the share of 'works done on individual's land' (included in the permissible work list in 2009 and expanded since then) has increased from 16 per cent of the total completed works in FY15 to 73 per cent in FY22. These works include creating household assets such as animal sheds, farm ponds, dug wells, horticulture plantations, vermicomposting pits etc., in which the beneficiary gets both labour and material costs as per standard rates. Empirically, within a short span of 2-3 years, these assets have been observed to have a significant positive impact on agricultural productivity, production-related expenditure, and income per household, along with a negative association with migration and fall in indebtedness, especially from non-institutional sources. 32 This has long-term implications for aiding income diversification and infusing resilience into rural livelihoods.
+
+32  Rapid Assessment of Natural Resource Management Component under MGNREGA and Its Impact on Sustainable Livelihoods, Institute of Economic Growth, May 2018
+
+figure Vi.12: number of projects under mgnregS
+
+<!-- image -->
+
+figure Vi.13: Share of completed works under mgnregS (by count)
+
+<!-- image -->
+
+Source: MGNREGS Web portal, data for FY23 is as on 10 January 2023
+
+6.47 The Government has been taking several measures to enhance the reach of employment opportunities to all eligible and willing to work. One such measure is the National Career Service (NCS) project, which is detailed in Box VI.4.
+
+## box Vi.4: national career Service project
+
+The  'National  Career  Service  (NCS')project  was  launched  in  July  2015,  as  a  one-stop  solution providing an array of employment and career-related services. It works towards bridging the gap between candidates and employers; candidates seeking training and career guidance and agencies providing training and career counselling. NCS portal has a job fair module to streamline the process of job fair activity on a single online platform by engaging all stakeholders i.e. model career centres, nodal officers, job seekers and employers. It is also supported by a dedicated helpline (multi-lingual) for assisting users.
+
+As on 5 January 2023, 2.8 crore jobseekers and 6.8 lakh employers have registered in NCS portal, 2.5 lakh active vacancies and 1.2 crore total vacancies have been mobilised, and more than 9,100 job fairs have been organised as part of the Project.
+
+NCS has partnered with private sector under DigiSaksham programme to offer a free, self-paced Online/Offline Training Programme on 'Career Skills', to equip the jobseekers with an array of soft and digital skills with the mandate of improving their employability. This programme also includes advanced computing areas and is being provided free of cost.
+
+NCS is also working closely with Ministry of Education  All India Council for Technical Education and All India Survey of Higher Education ) to ensure that its benefits are reaching to prospective students/ candidates. Online integration with EPFO and ESIC has also been done to link the willing employers for enabling them to shortlist right candidates through a countrywide database of workforce on NCS portal. NCS has also integrated with DigiLocker to enable candidates to upload their documents/ certificates and make them available to the employers to quicken the hiring process.
+
+As  per  budget  announcement  of  2022-23,  NCS  portal  has  been  successfully  interlinked  with e-Shram, Udyam and Skill India portal (primary data source of ASEEM portal). This has resulted in development of an employment ecosystem to facilitate job search and matching for both jobseekers and employers . So far, more than 10 lakh candidates from e-Shram have registered on NCS out of which, more than 1.2 lakh candidates have been shortlisted by employers for jobs. More than 46 lakh skilled candidates of Skill India portal have been registered on NCS through data exchange. These candidates can showcase their skills to the prospective employers, thus enhancing their opportunity to get a job. Integration between Udyam and NCS has facilitated more than 4,76,650 MSME employers in getting seamless registration on NCS portal.
+
+NCS has recently added 'International Job' module on the portal in March 2022, which facilitates employers registered with the Ministry of External Affairs to post international job opportunities on the NCS portal and the jobseekers to search and apply for these opportunities via the NCS portal. So far, more than 400 plus Recruting Agents have registered on the NCS portal and posted around 1400 plus international vacancies.
+
+## the trend in rural wages
+
+6.48 Nominal rural wages have increased at a steady positive rate during FY23 (till November 2022). In agriculture, the YoY rate of growth of nominal wage rates in agriculture was 5.1 per cent for men and 7.5 per cent for women, during the period April-November 2022. In non-
+
+agricultural activities, the growth of nominal wage rates was 4.7 per cent for men and 3.7 per cent for women, during the same period. However, growth in real rural wages has been negative due to elevated inflation. Going forward, as inflation is expected to soften with the easing of international commodity prices and domestic food prices, it is expected that this will translate into a rise in real wages.
+
+figure Vi.14: trends in rural wages
+
+<!-- image -->
+
+Source: Monthly Rural Wage Rates by Labour Bureau 33

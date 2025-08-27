@@ -1,0 +1,1611 @@
+{
+  "ES_22-23": {
+    "1": {
+      "total_chunks": 6,
+      "chunk_info": {
+        "State of the Economy 2022-23: Recovery Complete": {
+          "filename": "chunk_01_State_of_the_Economy_2022_23_Recovery_Complete.md",
+          "word_count": 1143,
+          "char_count": 7470
+        },
+        "The Global Economy Battles Through a Unique Set of Challenges": {
+          "filename": "chunk_02_The_Global_Economy_Battles_Through_a_Unique_Set_of.md",
+          "word_count": 2226,
+          "char_count": 26734
+        },
+        "Macroeconomic and Growth Challenges in the Indian Economy": {
+          "filename": "chunk_03_Macroeconomic_and_Growth_Challenges_in_the_Indian_.md",
+          "word_count": 749,
+          "char_count": 4890
+        },
+        "India's Economic Resilience and Growth Drivers": {
+          "filename": "chunk_04_Indias_Economic_Resilience_and_Growth_Drivers.md",
+          "word_count": 1828,
+          "char_count": 12319
+        },
+        "India's Inclusive Growth": {
+          "filename": "chunk_05_Indias_Inclusive_Growth.md",
+          "word_count": 868,
+          "char_count": 5664
+        },
+        "Outlook: 2023-24": {
+          "filename": "chunk_06_Outlook_2023_24.md",
+          "word_count": 735,
+          "char_count": 4826
+        }
+      },
+      "has_summary": false
+    },
+    "2": {
+      "total_chunks": 5,
+      "chunk_info": {
+        "India's Medium-term Growth Outlook: With Optimism and Hope": {
+          "filename": "chunk_01_Indias_Medium_term_Growth_Outlook_With_Optimism_an.md",
+          "word_count": 330,
+          "char_count": 2244
+        },
+        "Introduction": {
+          "filename": "chunk_02_Introduction.md",
+          "word_count": 276,
+          "char_count": 1768
+        },
+        "Product and Capital Market Reforms": {
+          "filename": "chunk_03_Product_and_Capital_Market_Reforms.md",
+          "word_count": 4807,
+          "char_count": 35334
+        },
+        "Returns to the Economic and Structural Reforms after 2014": {
+          "filename": "chunk_04_Returns_to_the_Economic_and_Structural_Reforms_aft.md",
+          "word_count": 1075,
+          "char_count": 10022
+        },
+        "Growth Magnets in this Decade (2023-2030)": {
+          "filename": "chunk_05_Growth_Magnets_in_this_Decade_2023_2030.md",
+          "word_count": 1194,
+          "char_count": 8402
+        }
+      },
+      "has_summary": false
+    },
+    "3": {
+      "total_chunks": 6,
+      "chunk_info": {
+        "Fiscal Developments: Revenue Relish": {
+          "filename": "chunk_01_Fiscal_Developments_Revenue_Relish.md",
+          "word_count": 348,
+          "char_count": 2269
+        },
+        "Introduction": {
+          "filename": "chunk_02_Introduction.md",
+          "word_count": 330,
+          "char_count": 2260
+        },
+        "Developments in Union Government Finances": {
+          "filename": "chunk_03_Developments_in_Union_Government_Finances.md",
+          "word_count": 5187,
+          "char_count": 40113
+        },
+        "Overview of State Government Finances": {
+          "filename": "chunk_04_Overview_of_State_Government_Finances.md",
+          "word_count": 3113,
+          "char_count": 24755
+        },
+        "Debt Profile of the Government": {
+          "filename": "chunk_05_Debt_Profile_of_the_Government.md",
+          "word_count": 2191,
+          "char_count": 14343
+        },
+        "Conclusion": {
+          "filename": "chunk_06_Conclusion.md",
+          "word_count": 4645,
+          "char_count": 29937
+        }
+      },
+      "has_summary": false
+    },
+    "4": {
+      "total_chunks": 12,
+      "chunk_info": {
+        "Monetary Developments": {
+          "filename": "chunk_01_Monetary_Developments.md",
+          "word_count": 1147,
+          "char_count": 7155
+        },
+        "Liquidity Conditions": {
+          "filename": "chunk_02_Liquidity_Conditions.md",
+          "word_count": 277,
+          "char_count": 1720
+        },
+        "Monetary Policy Transmission": {
+          "filename": "chunk_03_Monetary_Policy_Transmission.md",
+          "word_count": 367,
+          "char_count": 2802
+        },
+        "Developments in the G-sec Market": {
+          "filename": "chunk_04_Developments_in_the_G_sec_Market.md",
+          "word_count": 505,
+          "char_count": 3743
+        },
+        "Banking Sector": {
+          "filename": "chunk_05_Banking_Sector.md",
+          "word_count": 525,
+          "char_count": 3409
+        },
+        "Credit Growth Aided by a Sound Banking System and Deleveraged Corporate Sector": {
+          "filename": "chunk_06_Credit_Growth_Aided_by_a_Sound_Banking_System_and_.md",
+          "word_count": 858,
+          "char_count": 5521
+        },
+        "Progress Made Under the Insolvency and Bankruptcy Code": {
+          "filename": "chunk_07_Progress_Made_Under_the_Insolvency_and_Bankruptcy_.md",
+          "word_count": 1128,
+          "char_count": 8643
+        },
+        "Development in Capital Markets": {
+          "filename": "chunk_08_Development_in_Capital_Markets.md",
+          "word_count": 2952,
+          "char_count": 25108
+        },
+        "Other Developments": {
+          "filename": "chunk_09_Other_Developments.md",
+          "word_count": 3178,
+          "char_count": 22714
+        },
+        "Developments in the Insurance Market": {
+          "filename": "chunk_10_Developments_in_the_Insurance_Market.md",
+          "word_count": 1740,
+          "char_count": 13560
+        },
+        "Pension Sector": {
+          "filename": "chunk_11_Pension_Sector.md",
+          "word_count": 1513,
+          "char_count": 10317
+        },
+        "Outlook": {
+          "filename": "chunk_12_Outlook.md",
+          "word_count": 238,
+          "char_count": 1610
+        }
+      },
+      "has_summary": false
+    },
+    "5": {
+      "total_chunks": 7,
+      "chunk_info": {
+        "Prices and Inflation: Successful Tight-Rope Walking": {
+          "filename": "chunk_01_Prices_and_Inflation_Successful_Tight_Rope_Walking.md",
+          "word_count": 555,
+          "char_count": 3441
+        },
+        "Introduction": {
+          "filename": "chunk_02_Introduction.md",
+          "word_count": 730,
+          "char_count": 4589
+        },
+        "Domestic Retail Inflation": {
+          "filename": "chunk_03_Domestic_Retail_Inflation.md",
+          "word_count": 2410,
+          "char_count": 14855
+        },
+        "Domestic Wholesale Price Inflation": {
+          "filename": "chunk_04_Domestic_Wholesale_Price_Inflation.md",
+          "word_count": 1153,
+          "char_count": 7569
+        },
+        "Fuel Price Inflation: Declining Global Crude Oil Prices": {
+          "filename": "chunk_05_Fuel_Price_Inflation_Declining_Global_Crude_Oil_Pr.md",
+          "word_count": 207,
+          "char_count": 1273
+        },
+        "Convergence of WPI and CPI Inflation": {
+          "filename": "chunk_06_Convergence_of_WPI_and_CPI_Inflation.md",
+          "word_count": 2324,
+          "char_count": 15026
+        },
+        "Conclusion": {
+          "filename": "chunk_07_Conclusion.md",
+          "word_count": 387,
+          "char_count": 2376
+        }
+      },
+      "has_summary": false
+    },
+    "6": {
+      "total_chunks": 16,
+      "chunk_info": {
+        "Social Infrastructure and Employment: Big Tent": {
+          "filename": "chunk_01_Social_Infrastructure_and_Employment_Big_Tent.md",
+          "word_count": 962,
+          "char_count": 6630
+        },
+        "Introduction": {
+          "filename": "chunk_02_Introduction.md",
+          "word_count": 716,
+          "char_count": 4904
+        },
+        "Social Sector Expenditure Keeping Pace with Growing Importance of the Sector": {
+          "filename": "chunk_03_Social_Sector_Expenditure_Keeping_Pace_with_Growin.md",
+          "word_count": 1061,
+          "char_count": 11001
+        },
+        "Improving Human Development Parameters": {
+          "filename": "chunk_04_Improving_Human_Development_Parameters.md",
+          "word_count": 1352,
+          "char_count": 10088
+        },
+        "Transformation of Aspirational Districts Programme": {
+          "filename": "chunk_05_Transformation_of_Aspirational_Districts_Programme.md",
+          "word_count": 781,
+          "char_count": 5415
+        },
+        "Progressing Labour Reform Measures": {
+          "filename": "chunk_06_Progressing_Labour_Reform_Measures.md",
+          "word_count": 741,
+          "char_count": 6264
+        },
+        "Aadhaar: The Many Achievements of the Unique Identity": {
+          "filename": "chunk_07_Aadhaar_The_Many_Achievements_of_the_Unique_Identi.md",
+          "word_count": 868,
+          "char_count": 5777
+        },
+        "Improving Employment Trends": {
+          "filename": "chunk_08_Improving_Employment_Trends.md",
+          "word_count": 6526,
+          "char_count": 44552
+        },
+        "Ensuring Quality Education for all": {
+          "filename": "chunk_09_Ensuring_Quality_Education_for_all.md",
+          "word_count": 3441,
+          "char_count": 23389
+        },
+        "Equipping the Workforce with Employable Skills and Knowledge in Mission Mode": {
+          "filename": "chunk_10_Equipping_the_Workforce_with_Employable_Skills_and.md",
+          "word_count": 1643,
+          "char_count": 17701
+        },
+        "Quality and Affordable Health for all": {
+          "filename": "chunk_11_Quality_and_Affordable_Health_for_all.md",
+          "word_count": 5349,
+          "char_count": 37497
+        },
+        "Social Protection for the Rainy Day": {
+          "filename": "chunk_12_Social_Protection_for_the_Rainy_Day.md",
+          "word_count": 906,
+          "char_count": 5367
+        },
+        "Development of India's Aspiring Rural Economy": {
+          "filename": "chunk_13_Development_of_Indias_Aspiring_Rural_Economy.md",
+          "word_count": 4817,
+          "char_count": 33240
+        },
+        "Direct Benefit Transfer: a Game Changer": {
+          "filename": "chunk_14_Direct_Benefit_Transfer_a_Game_Changer.md",
+          "word_count": 859,
+          "char_count": 5951
+        },
+        "Enhancing Rural Governance for Inclusive Growth": {
+          "filename": "chunk_15_Enhancing_Rural_Governance_for_Inclusive_Growth.md",
+          "word_count": 668,
+          "char_count": 4439
+        },
+        "Conclusion and Way Forward": {
+          "filename": "chunk_16_Conclusion_and_Way_Forward.md",
+          "word_count": 384,
+          "char_count": 2737
+        }
+      },
+      "has_summary": false
+    },
+    "7": {
+      "total_chunks": 8,
+      "chunk_info": {
+        "Climate Change and Environment: Preparing to Face the Future": {
+          "filename": "chunk_01_Climate_Change_and_Environment_Preparing_to_Face_t.md",
+          "word_count": 434,
+          "char_count": 2991
+        },
+        "Introduction": {
+          "filename": "chunk_02_Introduction.md",
+          "word_count": 2218,
+          "char_count": 14760
+        },
+        "Progress on India's Climate Action": {
+          "filename": "chunk_03_Progress_on_Indias_Climate_Action.md",
+          "word_count": 3575,
+          "char_count": 24587
+        },
+        "Finance for Sustainable Development": {
+          "filename": "chunk_04_Finance_for_Sustainable_Development.md",
+          "word_count": 1297,
+          "char_count": 8670
+        },
+        "Major Decisions at COP 27": {
+          "filename": "chunk_05_Major_Decisions_at_COP_27.md",
+          "word_count": 547,
+          "char_count": 3455
+        },
+        "India's Initiatives at the International Stage": {
+          "filename": "chunk_06_Indias_Initiatives_at_the_International_Stage.md",
+          "word_count": 557,
+          "char_count": 3938
+        },
+        "Initiatives Related to other Environmental Issues": {
+          "filename": "chunk_07_Initiatives_Related_to_other_Environmental_Issues.md",
+          "word_count": 2525,
+          "char_count": 16942
+        },
+        "Conclusion": {
+          "filename": "chunk_08_Conclusion.md",
+          "word_count": 402,
+          "char_count": 2798
+        }
+      },
+      "has_summary": false
+    },
+    "8": {
+      "total_chunks": 10,
+      "chunk_info": {
+        "Introduction": {
+          "filename": "chunk_01_Introduction.md",
+          "word_count": 448,
+          "char_count": 3140
+        },
+        "Record Production of Foodgrains": {
+          "filename": "chunk_02_Record_Production_of_Foodgrains.md",
+          "word_count": 263,
+          "char_count": 1666
+        },
+        "MSP to Ensure Returns Over the Cost of Production": {
+          "filename": "chunk_03_MSP_to_Ensure_Returns_Over_the_Cost_of_Production.md",
+          "word_count": 127,
+          "char_count": 775
+        },
+        "Enhanced Access to Agricultural Credit": {
+          "filename": "chunk_04_Enhanced_Access_to_Agricultural_Credit.md",
+          "word_count": 356,
+          "char_count": 2180
+        },
+        "Farm Mechanisation- Key to Improving Productivity": {
+          "filename": "chunk_05_Farm_Mechanisation_Key_to_Improving_Productivity.md",
+          "word_count": 139,
+          "char_count": 944
+        },
+        "Chemical-free India: Organic and Natural Farming": {
+          "filename": "chunk_06_Chemical_free_India_Organic_and_Natural_Farming.md",
+          "word_count": 350,
+          "char_count": 2359
+        },
+        "Other Important Initiatives in Agriculture": {
+          "filename": "chunk_07_Other_Important_Initiatives_in_Agriculture.md",
+          "word_count": 1684,
+          "char_count": 11445
+        },
+        "Allied Sectors: Animal Husbandry, Dairying and Fisheries Catching up in Recent Years": {
+          "filename": "chunk_08_Allied_Sectors_Animal_Husbandry_Dairying_and_Fishe.md",
+          "word_count": 1075,
+          "char_count": 7415
+        },
+        "Food Processing Sector-The Sunrise Sector": {
+          "filename": "chunk_09_Food_Processing_Sector_The_Sunrise_Sector.md",
+          "word_count": 1495,
+          "char_count": 9888
+        },
+        "Conclusion": {
+          "filename": "chunk_10_Conclusion.md",
+          "word_count": 214,
+          "char_count": 1507
+        }
+      },
+      "has_summary": false
+    },
+    "9": {
+      "total_chunks": 9,
+      "chunk_info": {
+        "Industry: Steady Recovery": {
+          "filename": "chunk_01_Industry_Steady_Recovery.md",
+          "word_count": 1024,
+          "char_count": 6692
+        },
+        "Introduction": {
+          "filename": "chunk_02_Introduction.md",
+          "word_count": 517,
+          "char_count": 4263
+        },
+        "Demand Stimulus to Industrial Growth": {
+          "filename": "chunk_03_Demand_Stimulus_to_Industrial_Growth.md",
+          "word_count": 1302,
+          "char_count": 8278
+        },
+        "Supply Response of Industry": {
+          "filename": "chunk_04_Supply_Response_of_Industry.md",
+          "word_count": 1338,
+          "char_count": 9284
+        },
+        "Robust Growth in Bank Credit to Industry": {
+          "filename": "chunk_05_Robust_Growth_in_Bank_Credit_to_Industry.md",
+          "word_count": 604,
+          "char_count": 4120
+        },
+        "Resilient FDI Inflow in Manufacturing Sector": {
+          "filename": "chunk_06_Resilient_FDI_Inflow_in_Manufacturing_Sector.md",
+          "word_count": 657,
+          "char_count": 4356
+        },
+        "Industry Groups and their Challenges": {
+          "filename": "chunk_07_Industry_Groups_and_their_Challenges.md",
+          "word_count": 4392,
+          "char_count": 56087
+        },
+        "India's Prospects as a Key Player in the Global Value Chain": {
+          "filename": "chunk_08_Indias_Prospects_as_a_Key_Player_in_the_Global_Val.md",
+          "word_count": 2941,
+          "char_count": 20496
+        },
+        "Conclusion and Outlook": {
+          "filename": "chunk_09_Conclusion_and_Outlook.md",
+          "word_count": 332,
+          "char_count": 2192
+        }
+      },
+      "has_summary": false
+    },
+    "10": {
+      "total_chunks": 5,
+      "chunk_info": {
+        "Services: Source of Strength": {
+          "filename": "chunk_01_Services_Source_of_Strength.md",
+          "word_count": 478,
+          "char_count": 3270
+        },
+        "Introduction": {
+          "filename": "chunk_02_Introduction.md",
+          "word_count": 297,
+          "char_count": 1987
+        },
+        "Trends in High-Frequency Indicators": {
+          "filename": "chunk_03_Trends_in_High_Frequency_Indicators.md",
+          "word_count": 1305,
+          "char_count": 8538
+        },
+        "Major Services: Sub-Sector-Wise Performance": {
+          "filename": "chunk_04_Major_Services_Sub_Sector_Wise_Performance.md",
+          "word_count": 5735,
+          "char_count": 39179
+        },
+        "Outlook": {
+          "filename": "chunk_05_Outlook.md",
+          "word_count": 149,
+          "char_count": 1032
+        }
+      },
+      "has_summary": false
+    },
+    "11": {
+      "total_chunks": 7,
+      "chunk_info": {
+        "External Sector: Watchful and Hopeful": {
+          "filename": "chunk_01_External_Sector_Watchful_and_Hopeful.md",
+          "word_count": 525,
+          "char_count": 3665
+        },
+        "Introduction": {
+          "filename": "chunk_02_Introduction.md",
+          "word_count": 522,
+          "char_count": 3460
+        },
+        "Trade Helping India Reap the Benefits of Globalised World": {
+          "filename": "chunk_03_Trade_Helping_India_Reap_the_Benefits_of_Globalise.md",
+          "word_count": 5856,
+          "char_count": 39175
+        },
+        "Balance of Payments in Challenging Times": {
+          "filename": "chunk_04_Balance_of_Payments_in_Challenging_Times.md",
+          "word_count": 2463,
+          "char_count": 16026
+        },
+        "Exchange Rates Moving in Tandem with Global Developments": {
+          "filename": "chunk_05_Exchange_Rates_Moving_in_Tandem_with_Global_Develo.md",
+          "word_count": 606,
+          "char_count": 3686
+        },
+        "International Investment Position: A Reflection of India's Financial Soundness": {
+          "filename": "chunk_06_International_Investment_Position_A_Reflection_of_.md",
+          "word_count": 392,
+          "char_count": 2503
+        },
+        "Safe and Sound External Debt Situation": {
+          "filename": "chunk_07_Safe_and_Sound_External_Debt_Situation.md",
+          "word_count": 1920,
+          "char_count": 16107
+        }
+      },
+      "has_summary": false
+    },
+    "12": {
+      "total_chunks": 6,
+      "chunk_info": {
+        "Physical and Digital Infrastructure: Lifting Potential Growth": {
+          "filename": "chunk_01_Physical_and_Digital_Infrastructure_Lifting_Potent.md",
+          "word_count": 931,
+          "char_count": 6478
+        },
+        "Introduction": {
+          "filename": "chunk_02_Introduction.md",
+          "word_count": 1317,
+          "char_count": 9215
+        },
+        "Government's Vision and Approaches to Infrastructure Development in India": {
+          "filename": "chunk_03_Governments_Vision_and_Approaches_to_Infrastructur.md",
+          "word_count": 3222,
+          "char_count": 21750
+        },
+        "Developments in Physical Infrastructure Sectors": {
+          "filename": "chunk_04_Developments_in_Physical_Infrastructure_Sectors.md",
+          "word_count": 3218,
+          "char_count": 21905
+        },
+        "Developments in Digital Infrastructure": {
+          "filename": "chunk_05_Developments_in_Digital_Infrastructure.md",
+          "word_count": 4933,
+          "char_count": 32968
+        },
+        "Conclusion/Outlook": {
+          "filename": "chunk_06_ConclusionOutlook.md",
+          "word_count": 465,
+          "char_count": 3317
+        }
+      },
+      "has_summary": false
+    }
+  },
+  "ES_23-24": {
+    "1": {
+      "total_chunks": 6,
+      "chunk_info": {
+        "STATE OF THE ECONOMY: STEADY AS SHE GOES": {
+          "filename": "chunk_01_STATE_OF_THE_ECONOMY_STEADY_AS_SHE_GOES.md",
+          "word_count": 391,
+          "char_count": 2710
+        },
+        "Global Economic Scenario": {
+          "filename": "chunk_02_Global_Economic_Scenario.md",
+          "word_count": 1850,
+          "char_count": 14669
+        },
+        "A Resilient Domestic Economy": {
+          "filename": "chunk_03_A_Resilient_Domestic_Economy.md",
+          "word_count": 1902,
+          "char_count": 14110
+        },
+        "Macroeconomic Stability Safeguards Growth": {
+          "filename": "chunk_04_Macroeconomic_Stability_Safeguards_Growth.md",
+          "word_count": 4497,
+          "char_count": 29569
+        },
+        "Inclusive Growth": {
+          "filename": "chunk_05_Inclusive_Growth.md",
+          "word_count": 492,
+          "char_count": 3415
+        },
+        "Outlook": {
+          "filename": "chunk_06_Outlook.md",
+          "word_count": 653,
+          "char_count": 4287
+        }
+      },
+      "has_summary": false
+    },
+    "2": {
+      "total_chunks": 9,
+      "chunk_info": {
+        "MONETARY MANAGEMENT AND FINANCIAL INTERMEDIATION: STABILITY IS THE WATCHWORD": {
+          "filename": "chunk_01_MONETARY_MANAGEMENT_AND_FINANCIAL_INTERMEDIATION_S.md",
+          "word_count": 393,
+          "char_count": 2690
+        },
+        "Introduction": {
+          "filename": "chunk_02_Introduction.md",
+          "word_count": 429,
+          "char_count": 3025
+        },
+        "Monetary Developments": {
+          "filename": "chunk_03_Monetary_Developments.md",
+          "word_count": 1308,
+          "char_count": 8621
+        },
+        "Financial Intermediation": {
+          "filename": "chunk_04_Financial_Intermediation.md",
+          "word_count": 206,
+          "char_count": 1573
+        },
+        "Performance of the Banking Sector and Credit Availability": {
+          "filename": "chunk_05_Performance_of_the_Banking_Sector_and_Credit_Avail.md",
+          "word_count": 8305,
+          "char_count": 56560
+        },
+        "Trends in Indian Capital Markets": {
+          "filename": "chunk_06_Trends_in_Indian_Capital_Markets.md",
+          "word_count": 5071,
+          "char_count": 34071
+        },
+        "Developments in the Insurance Sector": {
+          "filename": "chunk_07_Developments_in_the_Insurance_Sector.md",
+          "word_count": 1867,
+          "char_count": 12379
+        },
+        "Developments in the Pension Sector": {
+          "filename": "chunk_08_Developments_in_the_Pension_Sector.md",
+          "word_count": 2324,
+          "char_count": 16203
+        },
+        "Assessment and Outlook": {
+          "filename": "chunk_09_Assessment_and_Outlook.md",
+          "word_count": 581,
+          "char_count": 3745
+        }
+      },
+      "has_summary": false
+    },
+    "3": {
+      "total_chunks": 7,
+      "chunk_info": {
+        "PRICES AND INFLATION: UNDER CONTROL": {
+          "filename": "chunk_01_PRICES_AND_INFLATION_UNDER_CONTROL.md",
+          "word_count": 228,
+          "char_count": 1546
+        },
+        "Introduction": {
+          "filename": "chunk_02_Introduction.md",
+          "word_count": 680,
+          "char_count": 4615
+        },
+        "Domestic Retail Inflation": {
+          "filename": "chunk_03_Domestic_Retail_Inflation.md",
+          "word_count": 487,
+          "char_count": 3194
+        },
+        "Core Inflation Dynamics in the Post-pandemic World": {
+          "filename": "chunk_04_Core_Inflation_Dynamics_in_the_Post_pandemic_World.md",
+          "word_count": 871,
+          "char_count": 5783
+        },
+        "Food Inflation": {
+          "filename": "chunk_05_Food_Inflation.md",
+          "word_count": 1222,
+          "char_count": 7569
+        },
+        "Interstate Variations in Retail Inflation": {
+          "filename": "chunk_06_Interstate_Variations_in_Retail_Inflation.md",
+          "word_count": 205,
+          "char_count": 1355
+        },
+        "Outlook and Way Forward": {
+          "filename": "chunk_07_Outlook_and_Way_Forward.md",
+          "word_count": 1100,
+          "char_count": 7727
+        }
+      },
+      "has_summary": false
+    },
+    "4": {
+      "total_chunks": 8,
+      "chunk_info": {
+        "EXTERNAL SECTOR: STABILITY AMID PLENTY": {
+          "filename": "chunk_01_EXTERNAL_SECTOR_STABILITY_AMID_PLENTY.md",
+          "word_count": 339,
+          "char_count": 2352
+        },
+        "Introduction": {
+          "filename": "chunk_02_Introduction.md",
+          "word_count": 539,
+          "char_count": 3492
+        },
+        "Changing Global Trade Dynamics": {
+          "filename": "chunk_03_Changing_Global_Trade_Dynamics.md",
+          "word_count": 1104,
+          "char_count": 7082
+        },
+        "India's Trade: Resilience Amidst Global Turmoil": {
+          "filename": "chunk_04_Indias_Trade_Resilience_Amidst_Global_Turmoil.md",
+          "word_count": 10031,
+          "char_count": 68977
+        },
+        "Favourable Current Account Balance": {
+          "filename": "chunk_05_Favourable_Current_Account_Balance.md",
+          "word_count": 1291,
+          "char_count": 8635
+        },
+        "Capital Account Balance": {
+          "filename": "chunk_06_Capital_Account_Balance.md",
+          "word_count": 4622,
+          "char_count": 30738
+        },
+        "Stable External Debt Position": {
+          "filename": "chunk_07_Stable_External_Debt_Position.md",
+          "word_count": 500,
+          "char_count": 4737
+        },
+        "Outlook and Challenges": {
+          "filename": "chunk_08_Outlook_and_Challenges.md",
+          "word_count": 795,
+          "char_count": 5411
+        }
+      },
+      "has_summary": false
+    },
+    "5": {
+      "total_chunks": 4,
+      "chunk_info": {
+        "MEDIUM TERM OUTLOOK: A GROWTH VISION FOR NEW INDIA": {
+          "filename": "chunk_01_MEDIUM_TERM_OUTLOOK_A_GROWTH_VISION_FOR_NEW_INDIA.md",
+          "word_count": 209,
+          "char_count": 1208
+        },
+        "Setting the Context": {
+          "filename": "chunk_02_Setting_the_Context.md",
+          "word_count": 1455,
+          "char_count": 9540
+        },
+        "Key Areas of Policy Focus in the Short to Medium Term": {
+          "filename": "chunk_03_Key_Areas_of_Policy_Focus_in_the_Short_to_Medium_T.md",
+          "word_count": 9586,
+          "char_count": 64473
+        },
+        "Outlook in the Medium Term": {
+          "filename": "chunk_04_Outlook_in_the_Medium_Term.md",
+          "word_count": 982,
+          "char_count": 6280
+        }
+      },
+      "has_summary": false
+    },
+    "6": {
+      "total_chunks": 6,
+      "chunk_info": {
+        "Introduction": {
+          "filename": "chunk_01_Introduction.md",
+          "word_count": 1971,
+          "char_count": 13363
+        },
+        "Present Status of India's Climate Action": {
+          "filename": "chunk_02_Present_Status_of_Indias_Climate_Action.md",
+          "word_count": 931,
+          "char_count": 6444
+        },
+        "Adaptation is Critical for India": {
+          "filename": "chunk_03_Adaptation_is_Critical_for_India.md",
+          "word_count": 8155,
+          "char_count": 57823
+        },
+        "International Commitments on Climate Finance: The Developments": {
+          "filename": "chunk_04_International_Commitments_on_Climate_Finance_The_D.md",
+          "word_count": 1178,
+          "char_count": 8316
+        },
+        "India's International Initiatives to Address Climate Change Issues": {
+          "filename": "chunk_05_Indias_International_Initiatives_to_Address_Climat.md",
+          "word_count": 837,
+          "char_count": 5717
+        },
+        "Conclusion": {
+          "filename": "chunk_06_Conclusion.md",
+          "word_count": 733,
+          "char_count": 5362
+        }
+      },
+      "has_summary": false
+    },
+    "7": {
+      "total_chunks": 7,
+      "chunk_info": {
+        "SOCIAL SECTOR: BENEFITS THAT EMPOWER": {
+          "filename": "chunk_01_SOCIAL_SECTOR_BENEFITS_THAT_EMPOWER.md",
+          "word_count": 178,
+          "char_count": 1278
+        },
+        "Introduction": {
+          "filename": "chunk_02_Introduction.md",
+          "word_count": 1240,
+          "char_count": 10778
+        },
+        "Dovetailing Growth with Empowering Welfare: A Paradigm Shift": {
+          "filename": "chunk_03_Dovetailing_Growth_with_Empowering_Welfare_A_Parad.md",
+          "word_count": 13187,
+          "char_count": 111535
+        },
+        "Social and Economic Empowerment of Women": {
+          "filename": "chunk_04_Social_and_Economic_Empowerment_of_Women.md",
+          "word_count": 3803,
+          "char_count": 25954
+        },
+        "Rural Economy: Driving the Growth Engine": {
+          "filename": "chunk_05_Rural_Economy_Driving_the_Growth_Engine.md",
+          "word_count": 5001,
+          "char_count": 36093
+        },
+        "Towards Sustainable Development": {
+          "filename": "chunk_06_Towards_Sustainable_Development.md",
+          "word_count": 667,
+          "char_count": 3918
+        },
+        "Conclusion and Way Forward": {
+          "filename": "chunk_07_Conclusion_and_Way_Forward.md",
+          "word_count": 407,
+          "char_count": 2664
+        }
+      },
+      "has_summary": false
+    },
+    "8": {
+      "total_chunks": 8,
+      "chunk_info": {
+        "EMPLOYMENT AND SKILL DEVELOPMENT: TOWARDS QUALITY": {
+          "filename": "chunk_01_EMPLOYMENT_AND_SKILL_DEVELOPMENT_TOWARDS_QUALITY.md",
+          "word_count": 209,
+          "char_count": 1410
+        },
+        "Introduction": {
+          "filename": "chunk_02_Introduction.md",
+          "word_count": 279,
+          "char_count": 1926
+        },
+        "Current Employment Scenario": {
+          "filename": "chunk_03_Current_Employment_Scenario.md",
+          "word_count": 677,
+          "char_count": 4334
+        },
+        "Youth and female employment": {
+          "filename": "chunk_04_Youth_and_female_employment.md",
+          "word_count": 3131,
+          "char_count": 21979
+        },
+        "The Evolving Landscape of Jobs in India": {
+          "filename": "chunk_05_The_Evolving_Landscape_of_Jobs_in_India.md",
+          "word_count": 3590,
+          "char_count": 24484
+        },
+        "Requirement of Job Creation until 2036": {
+          "filename": "chunk_06_Requirement_of_Job_Creation_until_2036.md",
+          "word_count": 4742,
+          "char_count": 32504
+        },
+        "Developments and Progress in Skilling": {
+          "filename": "chunk_07_Developments_and_Progress_in_Skilling.md",
+          "word_count": 3246,
+          "char_count": 30580
+        },
+        "Conclusion and Way Forward": {
+          "filename": "chunk_08_Conclusion_and_Way_Forward.md",
+          "word_count": 749,
+          "char_count": 4962
+        }
+      },
+      "has_summary": false
+    },
+    "9": {
+      "total_chunks": 6,
+      "chunk_info": {
+        "AGRICULTURE AND FOOD MANAGEMENT: PLENTY OF UPSIDE LEFT IF WE GET IT RIGHT": {
+          "filename": "chunk_01_AGRICULTURE_AND_FOOD_MANAGEMENT_PLENTY_OF_UPSIDE_L.md",
+          "word_count": 206,
+          "char_count": 1398
+        },
+        "Introduction": {
+          "filename": "chunk_02_Introduction.md",
+          "word_count": 845,
+          "char_count": 5794
+        },
+        "Agriculture Production: Performance and Promoting Crop Diversification": {
+          "filename": "chunk_03_Agriculture_Production_Performance_and_Promoting_C.md",
+          "word_count": 7106,
+          "char_count": 49151
+        },
+        "Allied Sectors: Animal Husbandry, Dairying and Fisheries are significant growth drivers": {
+          "filename": "chunk_04_Allied_Sectors_Animal_Husbandry_Dairying_and_Fishe.md",
+          "word_count": 1570,
+          "char_count": 10932
+        },
+        "Food processing sector (FPI): Processing Potential": {
+          "filename": "chunk_05_Food_processing_sector_FPI_Processing_Potential.md",
+          "word_count": 1353,
+          "char_count": 8929
+        },
+        "Conclusion": {
+          "filename": "chunk_06_Conclusion.md",
+          "word_count": 461,
+          "char_count": 3386
+        }
+      },
+      "has_summary": false
+    },
+    "10": {
+      "total_chunks": 4,
+      "chunk_info": {
+        "Introduction": {
+          "filename": "chunk_01_Introduction.md",
+          "word_count": 620,
+          "char_count": 4229
+        },
+        "Performance of Key Sectors and Related Issues": {
+          "filename": "chunk_02_Performance_of_Key_Sectors_and_Related_Issues.md",
+          "word_count": 5939,
+          "char_count": 77207
+        },
+        "Cross-cutting Themes": {
+          "filename": "chunk_03_Cross_cutting_Themes.md",
+          "word_count": 2877,
+          "char_count": 25521
+        },
+        "Conclusion and Outlook": {
+          "filename": "chunk_04_Conclusion_and_Outlook.md",
+          "word_count": 669,
+          "char_count": 4789
+        }
+      },
+      "has_summary": false
+    },
+    "11": {
+      "total_chunks": 7,
+      "chunk_info": {
+        "SERVICES: FUELLING GROWTH OPPORTUNITIES": {
+          "filename": "chunk_01_SERVICES_FUELLING_GROWTH_OPPORTUNITIES.md",
+          "word_count": 158,
+          "char_count": 1147
+        },
+        "Introduction": {
+          "filename": "chunk_02_Introduction.md",
+          "word_count": 432,
+          "char_count": 3222
+        },
+        "Overview Of The Services Sector Performance": {
+          "filename": "chunk_03_Overview_Of_The_Services_Sector_Performance.md",
+          "word_count": 1471,
+          "char_count": 10353
+        },
+        "Financing Sources for Services Sector Activity": {
+          "filename": "chunk_04_Financing_Sources_for_Services_Sector_Activity.md",
+          "word_count": 433,
+          "char_count": 3031
+        },
+        "Major Services: Sector-wise Performance": {
+          "filename": "chunk_05_Major_Services_Sector_wise_Performance.md",
+          "word_count": 7438,
+          "char_count": 54054
+        },
+        "Challenges and Opportunities": {
+          "filename": "chunk_06_Challenges_and_Opportunities.md",
+          "word_count": 552,
+          "char_count": 4400
+        },
+        "Conclusion and Way Forward": {
+          "filename": "chunk_07_Conclusion_and_Way_Forward.md",
+          "word_count": 619,
+          "char_count": 4593
+        }
+      },
+      "has_summary": false
+    },
+    "12": {
+      "total_chunks": 7,
+      "chunk_info": {
+        "INFRASTRUCTURE: LIFTING POTENTIAL GROWTH": {
+          "filename": "chunk_01_INFRASTRUCTURE_LIFTING_POTENTIAL_GROWTH.md",
+          "word_count": 257,
+          "char_count": 1943
+        },
+        "Introduction": {
+          "filename": "chunk_02_Introduction.md",
+          "word_count": 234,
+          "char_count": 1661
+        },
+        "Infrastructure financing: the public expenditure push": {
+          "filename": "chunk_03_Infrastructure_financing_the_public_expenditure_pu.md",
+          "word_count": 1203,
+          "char_count": 8135
+        },
+        "Developments across infrastructure sectors": {
+          "filename": "chunk_04_Developments_across_infrastructure_sectors.md",
+          "word_count": 10762,
+          "char_count": 78820
+        },
+        "Challenges and Opportunities": {
+          "filename": "chunk_05_Challenges_and_Opportunities.md",
+          "word_count": 1105,
+          "char_count": 7801
+        },
+        "Facilitation and addressing the bottlenecks": {
+          "filename": "chunk_06_Facilitation_and_addressing_the_bottlenecks.md",
+          "word_count": 962,
+          "char_count": 6800
+        },
+        "Conclusions and Outlook": {
+          "filename": "chunk_07_Conclusions_and_Outlook.md",
+          "word_count": 863,
+          "char_count": 6259
+        }
+      },
+      "has_summary": false
+    },
+    "13": {
+      "total_chunks": 5,
+      "chunk_info": {
+        "CLIMATE CHANGE AND INDIA: WHY WE MUST LOOK AT THE PROBLEM THROUGH OUR LENS": {
+          "filename": "chunk_01_CLIMATE_CHANGE_AND_INDIA_WHY_WE_MUST_LOOK_AT_THE_P.md",
+          "word_count": 413,
+          "char_count": 2670
+        },
+        "Introduction": {
+          "filename": "chunk_02_Introduction.md",
+          "word_count": 727,
+          "char_count": 4845
+        },
+        "Why is the Current Approach Flawed?": {
+          "filename": "chunk_03_Why_is_the_Current_Approach_Flawed.md",
+          "word_count": 8376,
+          "char_count": 54719
+        },
+        "The Indian Way: A Sustainable Lifestyle": {
+          "filename": "chunk_04_The_Indian_Way_A_Sustainable_Lifestyle.md",
+          "word_count": 3079,
+          "char_count": 20783
+        },
+        "Conclusion": {
+          "filename": "chunk_05_Conclusion.md",
+          "word_count": 435,
+          "char_count": 2966
+        }
+      },
+      "has_summary": false
+    }
+  },
+  "ES_24-25": {
+    "1": {
+      "total_chunks": 6,
+      "chunk_info": {
+        "STATE OF THE ECONOMY: GETTING BACK INTO THE FAST LANE": {
+          "filename": "chunk_01_STATE_OF_THE_ECONOMY_GETTING_BACK_INTO_THE_FAST_LA.md",
+          "word_count": 350,
+          "char_count": 2595
+        },
+        "Introduction": {
+          "filename": "chunk_02_Introduction.md",
+          "word_count": 137,
+          "char_count": 1041
+        },
+        "Global Economic Scenario": {
+          "filename": "chunk_03_Global_Economic_Scenario.md",
+          "word_count": 1965,
+          "char_count": 13695
+        },
+        "Domestic Economy Remains Steady Amidst Global Uncertainties": {
+          "filename": "chunk_04_Domestic_Economy_Remains_Steady_Amidst_Global_Unce.md",
+          "word_count": 2444,
+          "char_count": 16002
+        },
+        "Economy Characterised by Stability and Inclusivity on Multiple Fronts": {
+          "filename": "chunk_05_Economy_Characterised_by_Stability_and_Inclusivity.md",
+          "word_count": 2873,
+          "char_count": 19115
+        },
+        "Outlook and Way Forward": {
+          "filename": "chunk_06_Outlook_and_Way_Forward.md",
+          "word_count": 423,
+          "char_count": 2947
+        }
+      },
+      "has_summary": false
+    },
+    "2": {
+      "total_chunks": 5,
+      "chunk_info": {
+        "Introduction": {
+          "filename": "chunk_01_Introduction.md",
+          "word_count": 244,
+          "char_count": 1779
+        },
+        "Monetary Developments": {
+          "filename": "chunk_02_Monetary_Developments.md",
+          "word_count": 701,
+          "char_count": 4336
+        },
+        "Financial Intermediation": {
+          "filename": "chunk_03_Financial_Intermediation.md",
+          "word_count": 15015,
+          "char_count": 102283
+        },
+        "Risks Pertaining to India's Financial Sector": {
+          "filename": "chunk_04_Risks_Pertaining_to_Indias_Financial_Sector.md",
+          "word_count": 1246,
+          "char_count": 8539
+        },
+        "Outlook": {
+          "filename": "chunk_05_Outlook.md",
+          "word_count": 604,
+          "char_count": 4239
+        }
+      },
+      "has_summary": false
+    },
+    "3": {
+      "total_chunks": 7,
+      "chunk_info": {
+        "EXTERNAL SECTOR: GETTING FDI RIGHT": {
+          "filename": "chunk_01_EXTERNAL_SECTOR_GETTING_FDI_RIGHT.md",
+          "word_count": 301,
+          "char_count": 2105
+        },
+        "Introduction": {
+          "filename": "chunk_02_Introduction.md",
+          "word_count": 792,
+          "char_count": 5842
+        },
+        "Global Trade Dynamics": {
+          "filename": "chunk_03_Global_Trade_Dynamics.md",
+          "word_count": 4675,
+          "char_count": 31728
+        },
+        "Trend in India's Trade Performance": {
+          "filename": "chunk_04_Trend_in_Indias_Trade_Performance.md",
+          "word_count": 4224,
+          "char_count": 28748
+        },
+        "Ease of Doing Business Initiatives for Exporters": {
+          "filename": "chunk_05_Ease_of_Doing_Business_Initiatives_for_Exporters.md",
+          "word_count": 380,
+          "char_count": 2700
+        },
+        "Balance of Payments: Resilience Amid Challenges": {
+          "filename": "chunk_06_Balance_of_Payments_Resilience_Amid_Challenges.md",
+          "word_count": 3207,
+          "char_count": 20805
+        },
+        "Outlook": {
+          "filename": "chunk_07_Outlook.md",
+          "word_count": 294,
+          "char_count": 1921
+        }
+      },
+      "has_summary": false
+    },
+    "4": {
+      "total_chunks": 4,
+      "chunk_info": {
+        "Introduction": {
+          "filename": "chunk_01_Introduction.md",
+          "word_count": 248,
+          "char_count": 1641
+        },
+        "Global Inflation": {
+          "filename": "chunk_02_Global_Inflation.md",
+          "word_count": 339,
+          "char_count": 2311
+        },
+        "Domestic Inflation": {
+          "filename": "chunk_03_Domestic_Inflation.md",
+          "word_count": 2126,
+          "char_count": 17463
+        },
+        "Outlook and Way Forward": {
+          "filename": "chunk_04_Outlook_and_Way_Forward.md",
+          "word_count": 606,
+          "char_count": 3951
+        }
+      },
+      "has_summary": false
+    },
+    "5": {
+      "total_chunks": 4,
+      "chunk_info": {
+        "India's Medium-term Outlook": {
+          "filename": "chunk_01_Indias_Medium_term_Outlook.md",
+          "word_count": 2036,
+          "char_count": 13103
+        },
+        "The Elephant and The Dragon in the Room": {
+          "filename": "chunk_02_The_Elephant_and_The_Dragon_in_the_Room.md",
+          "word_count": 577,
+          "char_count": 3975
+        },
+        "Climate Transition, China and Geopolitics": {
+          "filename": "chunk_03_Climate_Transition_China_and_Geopolitics.md",
+          "word_count": 1956,
+          "char_count": 13342
+        },
+        "Implications for India's Growth Prospects": {
+          "filename": "chunk_04_Implications_for_Indias_Growth_Prospects.md",
+          "word_count": 5987,
+          "char_count": 44032
+        }
+      },
+      "has_summary": false
+    },
+    "6": {
+      "total_chunks": 10,
+      "chunk_info": {
+        "Introduction": {
+          "filename": "chunk_01_Introduction.md",
+          "word_count": 450,
+          "char_count": 3250
+        },
+        "Infrastructure Capex Improves Post-Election": {
+          "filename": "chunk_02_Infrastructure_Capex_Improves_Post_Election.md",
+          "word_count": 179,
+          "char_count": 1247
+        },
+        "Physical Connectivity": {
+          "filename": "chunk_03_Physical_Connectivity.md",
+          "word_count": 2130,
+          "char_count": 14716
+        },
+        "Power Sector": {
+          "filename": "chunk_04_Power_Sector.md",
+          "word_count": 596,
+          "char_count": 4076
+        },
+        "Digital Connectivity": {
+          "filename": "chunk_05_Digital_Connectivity.md",
+          "word_count": 694,
+          "char_count": 4760
+        },
+        "Rural Infrastructure": {
+          "filename": "chunk_06_Rural_Infrastructure.md",
+          "word_count": 1062,
+          "char_count": 7644
+        },
+        "Urban Infrastructure": {
+          "filename": "chunk_07_Urban_Infrastructure.md",
+          "word_count": 1513,
+          "char_count": 12236
+        },
+        "Tourism Infrastructure": {
+          "filename": "chunk_08_Tourism_Infrastructure.md",
+          "word_count": 162,
+          "char_count": 1180
+        },
+        "Space Infrastructure": {
+          "filename": "chunk_09_Space_Infrastructure.md",
+          "word_count": 327,
+          "char_count": 2461
+        },
+        "Conclusions and Way Forward": {
+          "filename": "chunk_10_Conclusions_and_Way_Forward.md",
+          "word_count": 505,
+          "char_count": 3737
+        }
+      },
+      "has_summary": false
+    },
+    "7": {
+      "total_chunks": 7,
+      "chunk_info": {
+        "INDUSTRY: ALL ABOUT BUSINESS REFORMS": {
+          "filename": "chunk_01_INDUSTRY_ALL_ABOUT_BUSINESS_REFORMS.md",
+          "word_count": 185,
+          "char_count": 1459
+        },
+        "Global Background": {
+          "filename": "chunk_02_Global_Background.md",
+          "word_count": 385,
+          "char_count": 2683
+        },
+        "Recent Domestic Developments": {
+          "filename": "chunk_03_Recent_Domestic_Developments.md",
+          "word_count": 323,
+          "char_count": 2292
+        },
+        "Core Input Industries": {
+          "filename": "chunk_04_Core_Input_Industries.md",
+          "word_count": 591,
+          "char_count": 3981
+        },
+        "Performance of Capital Goods and Consumer Goods Industries": {
+          "filename": "chunk_05_Performance_of_Capital_Goods_and_Consumer_Goods_In.md",
+          "word_count": 3778,
+          "char_count": 26491
+        },
+        "Appropriate Policies Likely to Bring in Greater Equity in State-Wise Patterns in Industrial Production": {
+          "filename": "chunk_06_Appropriate_Policies_Likely_to_Bring_in_Greater_Eq.md",
+          "word_count": 2337,
+          "char_count": 22486
+        },
+        "Conclusion and Outlook": {
+          "filename": "chunk_07_Conclusion_and_Outlook.md",
+          "word_count": 426,
+          "char_count": 3043
+        }
+      },
+      "has_summary": false
+    },
+    "8": {
+      "total_chunks": 8,
+      "chunk_info": {
+        "SERVICES: NEW CHALLENGES FOR THE OLD WAR HORSE": {
+          "filename": "chunk_01_SERVICES_NEW_CHALLENGES_FOR_THE_OLD_WAR_HORSE.md",
+          "word_count": 163,
+          "char_count": 1179
+        },
+        "Introduction": {
+          "filename": "chunk_02_Introduction.md",
+          "word_count": 319,
+          "char_count": 2227
+        },
+        "Services Sector Performance in India": {
+          "filename": "chunk_03_Services_Sector_Performance_in_India.md",
+          "word_count": 590,
+          "char_count": 3778
+        },
+        "Sources of Financing: Bank Credit and FDI": {
+          "filename": "chunk_04_Sources_of_Financing_Bank_Credit_and_FDI.md",
+          "word_count": 1493,
+          "char_count": 10506
+        },
+        "Other Services": {
+          "filename": "chunk_05_Other_Services.md",
+          "word_count": 432,
+          "char_count": 2930
+        },
+        "Business Services": {
+          "filename": "chunk_06_Business_Services.md",
+          "word_count": 1768,
+          "char_count": 12811
+        },
+        "State Wise Analysis of Service Sector Performance": {
+          "filename": "chunk_07_State_Wise_Analysis_of_Service_Sector_Performance.md",
+          "word_count": 1437,
+          "char_count": 9998
+        },
+        "Conclusion and Way Forward": {
+          "filename": "chunk_08_Conclusion_and_Way_Forward.md",
+          "word_count": 495,
+          "char_count": 3505
+        }
+      },
+      "has_summary": false
+    },
+    "9": {
+      "total_chunks": 14,
+      "chunk_info": {
+        "AGRICULTURE AND FOOD MANAGEMENT: SECTOR OF THE FUTURE": {
+          "filename": "chunk_01_AGRICULTURE_AND_FOOD_MANAGEMENT_SECTOR_OF_THE_FUTU.md",
+          "word_count": 106,
+          "char_count": 840
+        },
+        "Introduction": {
+          "filename": "chunk_02_Introduction.md",
+          "word_count": 1375,
+          "char_count": 10184
+        },
+        "Crop Production: Incentivising Productivity Increase, Crop Diversification and Efficiency in the Use of Inputs": {
+          "filename": "chunk_03_Crop_Production_Incentivising_Productivity_Increas.md",
+          "word_count": 284,
+          "char_count": 1937
+        },
+        "Seeds-Quality and Use of Fertilisers: The Critical Differentiator": {
+          "filename": "chunk_04_Seeds_Quality_and_Use_of_Fertilisers_The_Critical_.md",
+          "word_count": 293,
+          "char_count": 2239
+        },
+        "Rainfall and Irrigation System: Building Efficiency and Extending Coverage": {
+          "filename": "chunk_05_Rainfall_and_Irrigation_System_Building_Efficiency.md",
+          "word_count": 1566,
+          "char_count": 10499
+        },
+        "Agriculture Credit: A Critical Input": {
+          "filename": "chunk_06_Agriculture_Credit_A_Critical_Input.md",
+          "word_count": 902,
+          "char_count": 6141
+        },
+        "Agriculture Mechanisation: Facilitating Access": {
+          "filename": "chunk_07_Agriculture_Mechanisation_Facilitating_Access.md",
+          "word_count": 263,
+          "char_count": 1863
+        },
+        "Agriculture Extension: The Enabler": {
+          "filename": "chunk_08_Agriculture_Extension_The_Enabler.md",
+          "word_count": 243,
+          "char_count": 1799
+        },
+        "Improvement in Agriculture Marketing Infrastructure": {
+          "filename": "chunk_09_Improvement_in_Agriculture_Marketing_Infrastructur.md",
+          "word_count": 782,
+          "char_count": 5487
+        },
+        "Climate Action In Agriculture": {
+          "filename": "chunk_10_Climate_Action_In_Agriculture.md",
+          "word_count": 307,
+          "char_count": 2376
+        },
+        "Allied Sectors: Potential to Build Resilience": {
+          "filename": "chunk_11_Allied_Sectors_Potential_to_Build_Resilience.md",
+          "word_count": 975,
+          "char_count": 7010
+        },
+        "Food Processing Industries: Critical for the Economy": {
+          "filename": "chunk_12_Food_Processing_Industries_Critical_for_the_Econom.md",
+          "word_count": 291,
+          "char_count": 2153
+        },
+        "Food Management: Enabling Food Security": {
+          "filename": "chunk_13_Food_Management_Enabling_Food_Security.md",
+          "word_count": 579,
+          "char_count": 3842
+        },
+        "Conclusion": {
+          "filename": "chunk_14_Conclusion.md",
+          "word_count": 639,
+          "char_count": 4628
+        }
+      },
+      "has_summary": false
+    },
+    "10": {
+      "total_chunks": 8,
+      "chunk_info": {
+        "CLIMATE AND ENVIRONMENT: ADAPTATION MATTERS": {
+          "filename": "chunk_01_CLIMATE_AND_ENVIRONMENT_ADAPTATION_MATTERS.md",
+          "word_count": 166,
+          "char_count": 1169
+        },
+        "Introduction": {
+          "filename": "chunk_02_Introduction.md",
+          "word_count": 1031,
+          "char_count": 7417
+        },
+        "Bringing Adaptation to the Forefront": {
+          "filename": "chunk_03_Bringing_Adaptation_to_the_Forefront.md",
+          "word_count": 2313,
+          "char_count": 17665
+        },
+        "Energy Transition - Learning from the Experience of Developed Countries and Weighing the options": {
+          "filename": "chunk_04_Energy_Transition_Learning_from_the_Experience_of_.md",
+          "word_count": 2640,
+          "char_count": 18776
+        },
+        "Progress Made on India's Energy Transition": {
+          "filename": "chunk_05_Progress_Made_on_Indias_Energy_Transition.md",
+          "word_count": 2087,
+          "char_count": 14813
+        },
+        "Optimising Lifestyles for Sustainable Development": {
+          "filename": "chunk_06_Optimising_Lifestyles_for_Sustainable_Development.md",
+          "word_count": 1581,
+          "char_count": 11555
+        },
+        "Air Pollution": {
+          "filename": "chunk_07_Air_Pollution.md",
+          "word_count": 342,
+          "char_count": 2328
+        },
+        "Conclusion": {
+          "filename": "chunk_08_Conclusion.md",
+          "word_count": 711,
+          "char_count": 5356
+        }
+      },
+      "has_summary": false
+    },
+    "11": {
+      "total_chunks": 6,
+      "chunk_info": {
+        "SOCIAL SECTOR: EXTENDING REACH AND DRIVING EMPOWERMENT": {
+          "filename": "chunk_01_SOCIAL_SECTOR_EXTENDING_REACH_AND_DRIVING_EMPOWERM.md",
+          "word_count": 146,
+          "char_count": 1139
+        },
+        "Introduction": {
+          "filename": "chunk_02_Introduction.md",
+          "word_count": 2798,
+          "char_count": 18719
+        },
+        "Education: Treading New Pathways": {
+          "filename": "chunk_03_Education_Treading_New_Pathways.md",
+          "word_count": 8455,
+          "char_count": 61608
+        },
+        "Towards A Healthy Nation": {
+          "filename": "chunk_04_Towards_A_Healthy_Nation.md",
+          "word_count": 7773,
+          "char_count": 56178
+        },
+        "Rural Economy": {
+          "filename": "chunk_05_Rural_Economy.md",
+          "word_count": 4256,
+          "char_count": 33742
+        },
+        "Outlook": {
+          "filename": "chunk_06_Outlook.md",
+          "word_count": 529,
+          "char_count": 3814
+        }
+      },
+      "has_summary": false
+    },
+    "12": {
+      "total_chunks": 6,
+      "chunk_info": {
+        "EMPLOYMENT AND SKILL DEVELOPMENT: EXISTENTIAL PRIORITIES": {
+          "filename": "chunk_01_EMPLOYMENT_AND_SKILL_DEVELOPMENT_EXISTENTIAL_PRIOR.md",
+          "word_count": 186,
+          "char_count": 1488
+        },
+        "Introduction": {
+          "filename": "chunk_02_Introduction.md",
+          "word_count": 516,
+          "char_count": 3582
+        },
+        "State of Employment": {
+          "filename": "chunk_03_State_of_Employment.md",
+          "word_count": 6040,
+          "char_count": 41283
+        },
+        "Job Creation: Action Towards Enhanced Employment Opportunities": {
+          "filename": "chunk_04_Job_Creation_Action_Towards_Enhanced_Employment_Op.md",
+          "word_count": 4540,
+          "char_count": 33195
+        },
+        "Skill Development: Upskilling, Reskilling and New Skilling for a Changing World": {
+          "filename": "chunk_05_Skill_Development_Upskilling_Reskilling_and_New_Sk.md",
+          "word_count": 4450,
+          "char_count": 33227
+        },
+        "Conclusion": {
+          "filename": "chunk_06_Conclusion.md",
+          "word_count": 263,
+          "char_count": 1835
+        }
+      },
+      "has_summary": false
+    },
+    "13": {
+      "total_chunks": 9,
+      "chunk_info": {
+        "LABOUR IN THE AI ERA: CRISIS OR CATALYST?": {
+          "filename": "chunk_01_LABOUR_IN_THE_AI_ERA_CRISIS_OR_CATALYST.md",
+          "word_count": 221,
+          "char_count": 1733
+        },
+        "Introduction": {
+          "filename": "chunk_02_Introduction.md",
+          "word_count": 1165,
+          "char_count": 7723
+        },
+        "Revolutions and Ripples": {
+          "filename": "chunk_03_Revolutions_and_Ripples.md",
+          "word_count": 1534,
+          "char_count": 10444
+        },
+        "The Need for Robust Institutions": {
+          "filename": "chunk_04_The_Need_for_Robust_Institutions.md",
+          "word_count": 1053,
+          "char_count": 7310
+        },
+        "Vision to Viability: AI's Real World Challenges": {
+          "filename": "chunk_05_Vision_to_Viability_AIs_Real_World_Challenges.md",
+          "word_count": 2395,
+          "char_count": 16264
+        },
+        "AI and India: Are There Opportunities?": {
+          "filename": "chunk_06_AI_and_India_Are_There_Opportunities.md",
+          "word_count": 1205,
+          "char_count": 8054
+        },
+        "The Labour Market Evolution": {
+          "filename": "chunk_07_The_Labour_Market_Evolution.md",
+          "word_count": 953,
+          "char_count": 6682
+        },
+        "Augmenting India's Services Sector": {
+          "filename": "chunk_08_Augmenting_Indias_Services_Sector.md",
+          "word_count": 2308,
+          "char_count": 15635
+        },
+        "Conclusion": {
+          "filename": "chunk_09_Conclusion.md",
+          "word_count": 798,
+          "char_count": 5200
+        }
+      },
+      "has_summary": false
+    }
+  }
+}

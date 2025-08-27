@@ -1,0 +1,17 @@
+# Conclusion
+
+## CONCLUSION
+
+9.48  The performance of the agriculture sector remains critical for the economy's growth and has been growing at an average growth rate of 4.18 per cent over the last five years. The growing significance of allied sectors such as animal husbandry, dairying, and fisheries in enhancing farmers' income suggests that greater emphasis should be placed on tapping into the potential of these activities to boost farmers' incomes. Smallholder farmers' incomes cannot be increased by producing rice, wheat, or even millets, pulses and oilseeds. They need to move to high-value agriculture - fruits and vegetables, fisheries, poultry, dairy and buffalo meat. Once the incomes of  smallholders  increase,  they  will  demand  manufactured  goods,  spurring  a  manufacturing revolution. That is what happened in China between 1978 and 1984 when the real incomes of farmers doubled in just 6 years. India is well-placed to emulate this.
+
+9.49  Promoting  crop  diversification  towards  oilseeds,  pulses,  and  horticulture  requires addressing  critical  issues  such  as  investment  in  agri-infrastructure,  credit  accessibility  and appropriate market institutions. MSP has incentivised crop diversification and there is evidence that MSP has a positive and statistically significant effect on retail prices of all crops, with a stronger effect for those crops where procurement is substantial, such as paddy and wheat. 49
+
+49 https://rbidocs.rbi.org.in/rdocs/AnnualReport/PDFs/0ANREPORT201718077745EC9A874DB38C991F580ED14242.PDF
+
+Efforts must be made to encourage production patterns and practices in various geographies that are consistent with their agro-climatic characteristics and natural resources. Research and development and promotion of digital technologies in agriculture, as well as improving the quality of seeds, including promoting organic and natural farming, can play a significant role in the realisation of sustainable agriculture practices that efficiently improve farm income and influence farmer behaviour.
+
+9.50    Enhancing  private  sector  investment  in  agriculture  is  vital  to  provide  impetus  to  the agriculture sector. Investment in technology, production methods, marketing infrastructure, and reduction in  post-harvest  losses  need  to  be  scaled  up.  A  greater  focus  on  post-harvest infrastructure and the development of the food processing sector can reduce wastage/loss and increase the length of storage, ensuring better prices for the farmers. Productivity of the crop sector can also be enhanced through greater investment, including from the private sector.
+
+9.51  E-NAM,  promoting  FPOs,  and  allowing  cooperatives  to  participate  in  agri-marketing can improve the market infrastructure and allow better price discovery. Improving the market infrastructure by incentivising states can be explored. This can be done by creating an index to rank states, allowing the participation of cooperatives, and enabling remunerative returns to investors according to the functioning of their APMCs and other market institutions. Such a competitive framework can drive states to strive for improved agricultural marketing. It is also worth considering providing financial incentives for states to undertake necessary interventions to modernise agriculture marketing as recommended by the 15th Finance Commission.
+
+********

@@ -1,0 +1,7 @@
+# SOCIAL SECTOR: BENEFITS THAT EMPOWER
+
+## SOCIAL SECTOR: BENEFITS THAT EMPOWER
+
+<!-- image -->
+
+India's  high  and  sustained  economic  growth  in  recent  years  is  being  accompanied by social and institutional progress, underpinned by transformational and effective implementation  of  Government  programmes  with  an  empowering  edge  that  has become the hallmark of a transformed approach to welfare. Be it health, education, sanitation, digital empowerment, or quality of life in rural areas, each aspect of the social  infrastructure  ecosystem  has  made  strides  through  effective  planning  and delivery of various welfare schemes. The outcomes and success stories of the endeavours being made by the Government to ensure ease of living for one and all are evident. The realms of health and education are witnessing turning points in quality and access. Women-led development is being promoted with 360-degree enabling interventions for socioeconomic empowerment. A slew of programmes for transparent and digitalised rural  governance  have  accompanied  a  perceptible  improvement  in  the  standard  of living. To attain the much-avowed status of a developed country by 2047, effective and efficient Government programmes and state-level initiatives, augmented by community participation, are key.

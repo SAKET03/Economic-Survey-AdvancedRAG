@@ -1,0 +1,171 @@
+# Social and Economic Empowerment of Women
+
+## SOCIAL AND ECONOMIC EMPOWERMENT OF WOMEN
+
+7.76  India is transitioning from women's development to women-led development with the vision of a new India where women are equal partners in the story of growth and national progress. To realise the clarion call to Nari Shakti, the Government has made various legislative interventions and enabling provisions to ensure women's participation in various professions.
+
+7.77 India's  G20  Presidency  in  2023  also  listed  'women-led  development'  as  one  of  its  six priorities amid rising global attention towards women's workforce participation. With the award of the Noble Prize in Economics to Prof. Claudia Goldin for her work on key drivers of gender differences in the labour market, the widespread recognition of gender issues is apparent.
+
+7.78  The issues affecting women range from lack of basic necessities such as sanitation, piped water,  menstrual  hygiene  etc.,  safety,  proper  nutrition,  economic  and  political  equality  of opportunity, and a sense of individual identity. Transitioning from women's development to women-led development requires a 360-degree review of the issues and a sincere, pragmatic approach to tackling them.
+
+72    https://dst.gov.in/document/reports/rd-statistics-glance-2022-23
+
+73    Strategy for New India@75, NITI AAYOG https://tinyurl.com/bdzdzb2u
+
+74    PIB release dated 30 March 2022 https://tinyurl.com/y4s82kts
+
+75    PIB release dated 16 March 2023 https://tinyurl.com/5h5buk9y
+
+76    https://dst.gov.in/anusandhan-national-research-foundation-anrf
+
+77    The Anusandhan National Research Foundation Act, 2023 is an Act of the Parliament of India. It seeks to regulate all research and development in the fields of natural sciences establishments in India. It repeals the Science and Engineering Research Board Act, 2008 and dissolves the SERB.
+
+7.79  With this intent, the Government of India has undertaken multipronged initiatives to improve the well-being of women in the socio-political and economic context.
+
+## Steady Rise in Gender Budget
+
+7.80  Over the years, the element of women-centricity in Government initiatives has been rising and is visible in the expanding gender budget. In FY14, the Government provisioned ₹97,134 crore (BE) on the schemes for the welfare and empowerment of women, which has consistently increased over the years and reached ₹3.10 lakh crore in FY25. This shows a 38.7 per cent rise in the Gender Budget Statement (GBS) 78  vis-à-vis FY24 BE and a 218.8 per cent increase over FY14 BE. The share of the Gender Budget in the total Union Budget has increased to 6.5 per cent in FY25, the highest since the introduction of GBS in FY06. 79
+
+## Social empowerment of women
+
+7.81  Women-led development begins with ensuring the health and education of the girl child. The emphasis on 'Beti Bachao, Beti Padhao' has sensitised collective consciousness towards cherishing, educating, and saving for the girl child (via Sukanya Samriddhi Yojana) 80 . The sex ratio at birth (SRB) at the national level has improved from 918 (2014-15) to 930 (2023-24, provisional), 81  and the maternal mortality rate has declined from 130/lakh live births in 201416 to 97/lakh live births in 2018-20. 82
+
+7.82  Over the last decade, the prevalence of institutional delivery has increased from 78.9 per cent in 2015-16 to 88.6 per cent in 2019-21. 83  Besides a rise in incomes and awareness of health practices,  the  positive  trend  is  attributable  to  the  Government's  programme  to  incentivise institutional delivery through Janani Shishu Suraksha Karyakram. The PM Matru Vandana Yojana 84 , entailing a cash payment of ₹ 5000 for the birth of the first child and ₹6000 for second child who is female, encourages proper rest for the new mothers by partially compensating for any wage loss. Called India's largest conditional cash transfer programme ever, the scheme has been empirically associated with positive side effects of rise in long-term utilisation of public health services and increasing the interval between births (Haaren and Klonner 2021). 85
+
+## Nutritional security of women and children through Anganwadi centres
+
+7.83  The  nutritional  status  of  women  is  doubly  important  -  first,  for  their  own  health, productivity,  and  well-being,  and  second,  for  preventing  malnutrition  in  their  young  ones. Women's health thus forms the bedrock of societal health. In recognition of this, the Mission
+
+78    The Gender Budget Statement is a reporting mechanism for Ministries/Departments to review their Programmes from a gender perspective and present information on allocations for women and girls.
+
+79    Source: Budget documents, Union Government
+
+80    Sukanya Samriddhi Yojana is a flagship small deposits scheme for financial planning for the girl child. The scheme has more than 3.1 crore accounts to its credit
+
+81    Source: Health Management Information System (HMIS) of Ministry of Health &amp; Family Welfare
+
+82    Source: Sample Registration Survey
+
+83    Source: NFHS-5, India Fact Sheet available at https://rchiips.org/nfhs/NFHS-5\_FCTS/India.pdf .
+
+84 The scheme was launched in 2017. As of December 2023, 3.59 crore beneficiaries have been enrolled, of which 3.05 crore beneficiaries have been provided benefit with a total disbursement of ₹13,460 crore. https://tinyurl. com/tnpesma8
+
+85    von  Haaren  P,  Klonner  S.  (2021):  'Lessons  learned?  Intended  and  unintended  effects  of  India's  secondgeneration maternal cash transfer scheme' Health Econ. 2021 Sep;30(10):2468-2486.
+
+Saksham Anganwadi &amp; Poshan 2.0 programme endeavours to address malnutrition in pregnant women, lactating mothers, children, and adolescent girls by adopting a lifecycle approach to achieve a malnutrition-free India.
+
+7.84  As  an  integrated  nutrition  support  programme 86 ,  it  shifts  the  focus  from  calorific sufficiency alone to improved health, wellness, and immunity through micronutrient sufficiency. It  also  includes  awareness  building  on  infant  and  young  child  feeding  practices  (including breastfeeding  and  complementary  nutrition),  maternal  and  adolescent  nutrition,  treatment of  malnourished children, and promoting AYUSH practices. The programme lays thrust on improvement in process (using growth measurement devices, equipping Anganwadi workers with smartphones, using Poshan Tracker 87  for real-time progress and dynamic identification of  malnutrition)  and  behavioural  change  through  community-based  events  such  as  Poshan Maah and Poshan Pakhwada, and counselling on health practices. In a further widening of their ambit, Anganwadi centres are being upgraded to Saksham Anganwadis 88 , equipped with LED screens, audio-visual teaching aids, Poshan Vatikas, rainwater harvesting structures, etc., to act as institutions of early childhood care and education for all children.
+
+7.85  The battle against Kuposhan stands to benefit from the participation of Panchayat and women's collectives, as exemplified in Odisha's case, where Jaanch Committees and Mothers Committees have been set up at the village level to monitor and strengthen the services provided by the ICDS program. The Mothers Committees ensure the quality of meals at AWCs, while the Jaanch Committees oversee the feeding programs' quality and quantity accreditation. This setup enhances the accountability of SHGs and increases trust in the safety of the provided food. 89
+
+7.86 Access to basic necessities : For women-led development to even begin, gender-specific disadvantages affecting a large section of women belonging to rural and low-income households need to be tackled first. Towards this goal, the construction of toilets under 'Swachh Bharat Mission',  the  provision  of  clean  cooking  gas  connections  under  'Ujjawala  Yojana'  and  the provision of tap drinking water connections under 'Jal Jeevan Mission' have transformed the lives of women by reducing the drudgery and care burden. These initiatives, besides addressing concerns  of  safety  and  dignity,  also  free  up  time  and  energy  for  productive  work  such  as participation in women's collectives through National Rural Livelihood Mission (NRLM).
+
+7.87 Safety  through  Sambal: 90 To  deal  with  gender  violence  and  safety  issues,  one-stop centres 91  or Sakhi centres offer regular and emergency access to medical and legal aid, police
+
+86    The  mission  integrates  three  existing  schemes,  i.e.,  Anganwadi  Services,  Poshan  Abhiyaan  and  Scheme  for Adolescent Girls, to be implemented during the 15th Finance Commission period 2021-22 to 2025-26
+
+87    As of 31 May 2023, 10.06 crore beneficiaries (pregnant women, lactating mothers, and children up to 6 years) are registered under Poshan Tracker.
+
+88    Under the programme, 2 lakh AWCs will be upgraded to Saksham Anganwadis @40,000 annually up to 202526.
+
+89    Kapur,  K.  and  Suri,  S.  (2020):  'Towards  a  Malnutrition-Free  India:  Best  Practices  and  Innovations  from POSHAN Abhiyaan,' ORF Special Report No. 103, March 2020, Observer Research Foundation.
+
+90    Mission  Shakti  has  been  launched  as  a  comprehensive  solution  to  the  perceived  need  for  women's  safety, rehabilitation,  and  empowerment.  The  Mission  comprises  two  sub-schemes,  'Sambal.'  for  the  safety  and security of women and 'Samarthya' for the empowerment of women. Under Samarthya, existing schemes of Pradhan Mantri Matru Vandana Yojana (PMMVY), Ujjwala &amp; Swadhar Greh named as Shakti Sadan; Working Women Hostel named as Sakhi Niwas; Gender Budgeting; National Creche Scheme (PALNA); along with a new component of Hubs for Empowerment of Women at National, State and District level have been subsumed.
+
+91    801 One Stop Centres OSCs have been approved, of which 733 are operational in nationwide since 1 April 2015.
+
+facilitation, temporary shelter and counselling to empower women affected by violence and in distress to seek justice and rebound from adversity. The 24-hour toll-free women's helpline '181' 92  offers prompt response on Government schemes and emergency services.
+
+7.88 Education and Skilling: India has a long history of social reform movements advocating women's education, with Savitribai Phule 93  stating in the 19 th  century that '… a woman without education is like a banyan tree without roots or leaves .' Women's education continues to be an instrument of empowerment in terms of decision-making, intra-household bargaining power, control over resources, and political engagement (Engida 2017). 94  Sinha (2023) attributes the high rate of human development indicators in southern states of India to high female enrolment in secondary education, which propelled the participation of a sizeable chunk of aware and confident women in development work and self-help groups. 95
+
+7.89  In terms of enrolment in schools, gender parity has been achieved at all levels 96  with the implementation of the Sarva Shiksha Abhiyan (launched in 2000) and the Right to Education Act  2009.  In  higher  education,  the  female  GER  has  been  greater  than  male  GER  for  five consecutive years. 97 While this implies rising importance of girls' education, its translation to economic  empowerment  will  require  better  learning  outcomes,  employability,  labour  force participation and conducive infrastructure.
+
+7.90  The  skilling  schemes  put  a  special  focus  on  covering  women.  Under  PMKVY,  the participation of women among those trained has increased from 42.7 per cent in FY16 to 52.3 per cent in FY24. Under the Jan Shikshan Sansthan (JSS) Scheme, women constituted about 82 per cent of the total beneficiaries. In the long-term ecosystem, i.e., in ITIs and National Skill Training Institutes (NSTIs), the participation of women has gone up from 9.8 per cent in FY16 to 13.3 per cent in FY24. Under NAPS, the participation of women also increased from 7.7 per cent in FY17 to 20.8 per cent in FY24. However, to materialise the gains from skilling programmes, they need to be complemented with supportive infrastructure such as safe and affordable transport and logistics, creches, and long-term career counselling.
+
+7.91 Women in Science: According to World Bank data for 2018 98 , India has among the highest proportion of female Science, Technology, Engineering, and Mathematics (STEM) graduates, at 42.7 per cent. However, the share of female scientists in Research and Development is only 18.6 per cent. 99  To rectify this contrast, the umbrella scheme 'Women in Science and EngineeringKIRAN (WISE KIRAN)' strives to boost the involvement of women in STEM fields. Between
+
+92    As of now, Women Help Lines are operational in 34 States/ UTs. The WHLs have handled more than 1.26 crore calls so far and have assisted more than 63.95 lakh women up to March 2023.
+
+93    Savitribai Phule was a pioneer of modern Indian education, social reformer, and poet. Along with her husband, Jyotiba Phule, she established India's first girls' school in Pune in 1948.
+
+94    Engida, Y.M. (2021). The Three-Dimensional Role of Education for Women Empowerment. Journal of Social Sciences.
+
+95    Sinha, A. (2023): 'The Last Mile: Turning Public Policy Upside Down'. 1st edition. Routledge India. Chapter 11, Revisiting Skills for Full Employment
+
+96    See  data  at  UDISE+  dashboard  of  Dept  of  School  Education,  at  https://dashboard.udiseplus.gov.in/#/ reportDashboard/sReport
+
+97    That is, from 2017-18 to 2021-22, as per All India Survey on Higher Education (AISHE) report by Dept. of Higher Education, Ministry of Education.
+
+98    https://tinyurl.com/mr4btwfx
+
+99    PIB release dated 7   February 2024 https://tinyurl.com/5n8p8y29
+
+2018 and 2023, nearly 1962 women scientists benefitted under the Women Scientist Scheme, which provides opportunities for women scientists, especially those with a career break. The Vigyan Jyoti programme, initiated in 2020, aims to address the underrepresentation of girls in various science and technology courses from 9 th  to 12 th  grades. As of December 2023, around 21,600 female students of Class IX-XII from 250 districts are enrolled under this programme. In April 2023, the Council of Scientific &amp; Industrial Research (CSIR) started exclusive Research Grants for Women Scientists under CSIR-ASPIRE and dedicated an exclusive portal. Women's leadership in cutting-edge space research programmes like the Chandrayaan-3 and Aditya-L1 solar missions reflects the ongoing gender transformation in niche scientific sectors.
+
+7.92 Breaking  into  male  bastions: The  Government  has  also  made  enabling  provisions allowing women's participation in non-conventional sectors such as fighter pilots in the Indian Air Force, Commandos, Central Police Forces, admissions in Sainik Schools, etc.
+
+7.93 Political empowerment: In the arena of public life and political empowerment, the Nari Shakti  Vandan Abhiniyam, 2023 (NSVA) is a leap towards women's political participation, empirically associated with improved institutions and greater integrity. In Indian history, the reservation of one-third of seats for women in Panchayats was constitutionalised in 1991, and three decades later, 46 per cent of elected representatives of Panchayats are women. According to  research, reservations for women in panchayats have led to greater investment in public goods closely linked to women's concerns, such as drinking water and public roads. 100  Besides, female  political  representation  is  also  associated  with  better  child  health 101   and  primary education outcomes. 102  Along those lines, the NSVA opens new possibilities for inclusive growth besides being a beacon of gender equality.
+
+7.94 Transformation  of  the  feminine  identity:  Nari  Shakti begins  with  the  recognition  of women as individuals with an independent identity. The significance of this can be seen in an interesting example in history. In 1952, when the Election Commission of India was preparing for the first general elections in independent India, nearly 28 lakh women enrolled not using their proper names but as a mother/wife of someone, leading to the invalidation of their voter registration. 103  The India of today has come far ahead, and multiple steps have been taken to strengthen the identity of women citizens, recent ones including the issuance of ration card in the name of the eldest woman of the household under NFSA, 2013 104 , requirement of female's joint or sole ownership of houses constructed under PM Awas Yojana 105 , reaching more than 25 crore unbanked women through the Jan Dhan Yojana 106 , and collectivisation of nearly 10 crore rural women under SHGs 107 .
+
+100    Chattopadhyay,  R  and  Duflo,  E  (2004),  'Women  as  Policy  Makers:  Evidence  from  a  Randomized  Policy Experiment in India', Econometrica, vol. 72, no. 5, 2004, pp. 1409-43.
+
+101    Bhalotra,  S.  and  Clots-Figueras,  I.  (2010):  'Health  and  the  Political  Agency  of  Women,'  mimeo,  Bristol University.
+
+102    Clots-Figueras,  I.  (2007)  'Are  female  leaders  good  for  education?  :  Evidence  from  India,'  UC3M  Working papers. Economics we077342, Universidad Carlos III de Madrid.
+
+103    The Hindu, 19March 2024, https://tinyurl.com/ytsy4d3z
+
+104    National Food Security Act, 2013.
+
+105    Under PM AWAS Yojana (Gramin), 26.6 per cent of the 2.41 crore completed houses are solely in the name of women, and 69 per cent are jointly in the name of wife and husband.
+
+106    https://tinyurl.com/bd7234z6
+
+107    Source: PIB release 6 Feb 2024, Release ID: 2003170 https://tinyurl.com/3nh99vnb
+
+## Economic empowerment of women
+
+7.95 Rising  participation  in  the  labour  force :  Increased  access  to  education  and  skill development,  as  well  as  other  initiatives  for  women's  empowerment,  has  elevated  the participation of women in the nation's development and progress. The female LFPR rose to 37 per cent in 2022-23 from 23.3 per cent in 2017-18. However, rural India has driven the trend, where nearly three-fourths of the women workers are engaged in agriculture-related work. Thus, the rise in LFPR needs to be tapped into higher value-addition sectors suitable to the needs and qualifications of the rural female workforce, and agro-processing emerges as a good contender for the same, as discussed in the chapter on Employment. The role of valuable employment in changing girls' image from liability to breadwinner is exemplified in the story of Krishnagiri district in Tamil Nadu, discussed in Box VII.8.
+
+## Box VII.8: Girls of Krishnagiri writing their own destinies with the ink of financial independence 108
+
+A recent spate of industrial investment in the last decade has led to significant job creation for females in Krishnagiri, a remote district in Tamil Nadu, catalysing a positive socioeconomic chain reaction. The experience shows how women's financial independence is deeply linked with their overall development, besides being a pivot for social change.
+
+The district was reeling under a high incidence of child marriage, prenatal sex selection, a low child-sex ratio (of 920, compared to the state average of 946) 109 , and low female literacy (at 65 per cent) 110 .
+
+The  setup  of  manufacturing  units  in  electronics,  mobile  assembly,  electric  scooters, footwear, etc., has favoured large-scale employment of women, as manufacturers believed female  workers  to  be  more  productive  and  dexterous.  This  triggered  a  mindset  shift  as households  who  considered  girls  a  burden  now  view  them  as  breadwinners,  besides bolstering Government welfare efforts towards female empowerment. This has resulted in a declining incidence of child marriage and school dropout rates of girls, a rise in the average age of marriage, coupled with a surge in female enrolment in polytechnic institutes.
+
+The Krishnagiri experience also spurred second-order effects from the state and corporates. The  state  Government-initiated  policies  on  providing  career  guidance  in  Government schools from class 9 th itself, setting up industrial hostels, counselling parents, etc. The rising demand for female employees has also instilled hiring competition among companies, luring their workforce with better pay and relaxation in education criteria by introducing on-thejob training, pick-up and drop facilities, daycare facilities, etc.
+
+7.96  To truly realise the gender dividend of workforce participation by an increasingly educated and skilled female population, proper development of the care economy is essential and long pending, as discussed in the following chapter on Employment.
+
+108    Sourced from a media article: Madhavan, N., 27 Feb 2024, 'Why women, once ignored, are being treasured in Krishnagiri' Livemint, https://tinyurl.com/57pkyrra accessed on 4 June 2024.
+
+109    Census of India, 2011.
+
+110    https://krishnagiri.nic.in/about-district/district-at-a-glance/ accessed on 4 June 2024.
+
+7.97 Financial Inclusion: Access to financial services improves women's control over household resources and is a gateway to accessing credit and insurance. The PM Jan Dhan Yojana has facilitated the opening of 52.3 crore bank accounts, of which 55.6 per cent of accountholders are women as of May 2024. This is accompanied by a rise in average deposits by nearly four times, from ₹1,065 in March 2015 to ₹4,398 in May 2024.
+
+7.98 Rural Microfinance :  The Deendayal Antyodaya Yojana- NRLM, which is the Government's Self-Help  Groups  (SHGs) 111   programme  covering  more  than  89  million  women  into  8.3 million  SHGs 112 ,  has  been  empirically  associated  with  women  empowerment,  self-esteem enhancement, personality development, reduced social evils, and medium impacts in terms of better education, higher participation in village institutions and better access to Government schemes. The mission also emphasises social capital and inter-regional knowledge sharing and handholding by community resource persons (CRPs), who are women who have emerged out of poverty through hard work and enterprise. Called the foot soldiers of the livelihood movement, more than 3.5 crore CRPs (comprising Krishi Sakhis, Pashu Sakhis, Bank Sakhis, Bima Sakhis, Banking  Correspondent  Sakhis)  are  instrumental  in  implementing  and  scaling  up  SHGs 113 . Success stories include Kudumbashree in Kerala, Jeevika in Bihar, Mahila Arthik Vikas Mahila Mandal in Maharashtra, and recently, Looms of Ladakh. The programme is discussed in further detail in Box VII.10 of this chapter.
+
+7.99 Entrepreneurship :  Female  participation  has  been  quite  encouraging  in  the  wave  of entrepreneurship through Start-up and Stand-Up India. Around 68 per cent of the loans have been sanctioned to women entrepreneurs under PM Mudra Yojana, and 77.7 per cent of the beneficiaries  under  Stand-Up  India  are  women,  as  of  May  2024. 114 Realising  the  vision  of Digital India, more than 53 per cent of the Prime Minister's Rural Digital Literacy Campaign (PMGDISHA) beneficiaries are women (as of July 2023). Bain and Co. (2020) estimate that there are roughly 13.5-15.7 million women-owned businesses in India, making up 17-20 per cent of the country's total enterprises. With more encouragement and support, this number can increase to 31.5 million, i.e., one-third of all enterprises, by 2030, as per estimates. 115
+
+## Towards equality of asset ownership
+
+7.100  Although the social acceptance of women breaking into traditionally male domains such as flying a fighter plane, running a unicorn company, or leading a district/department has been rising  with  such  news  being  celebrated,  much scope remains in enhancing asset ownership among women and normalising female property rights. Besides the intrinsic moral worth of equality, female ownership of land/assets is crucial for their financial security and utilisation of economic opportunities, enabling rural women's control over resources for farming and related loans and household well-being through family-oriented rather than personal use of resources
+
+111    SHG is a socially and economically homogenous group of up to 20 persons, formed voluntarily for the collective purpose of savings and credit, with no insistence on collateral for loans and end usage of credit.
+
+112    PIB release dated 14 March 2023 https://tinyurl.com/4a4eruau
+
+113    PIB release 6 December 2023, RU-33-01-335-061223/EXPLAINER https://tinyurl.com/4a4eruau
+
+114    Source: Inputs from Dept of Financial Services
+
+115    Bain &amp; Company (2020): 'Powering the Economy with Her: Women entrepreneurship in India' https://tinyurl. com/43cw2vky accessed on 21 June 2024
+
+(Agarwal  1994) 116 .  Property  ownership  has  even  been  associated  with  decreased  spousal violence (Agarwal and Panda, 2007) 117 . In spite of women-friendly legislation on succession, research estimates that only 14 per cent of landowners in nine sample states 118  of India were women 119  (Agarwal, Anthwal, and Mahesh, 2021). Even landowning women are found to face multiple issues, such as limited access to single titles, and smaller and inferior quality land 120 (Jain, Saxena, Sen, and Sanan, 2023).
+
+7.101  The requirement of female ownership of houses constructed under PM AWAS Yojana 121 is an effort by the state to nudge social change towards gender equity. Yet, broader progress will have to emerge from the grassroots, and, borrowing from the wisdom of literature published half a century ago, ' Indicators of social acceptance of any goals set for the future must include attitudes of men and women as well as the availability of institutionalised infrastructures that support the attainment of such goals '. 122  Substantive equality in asset ownership would indeed be a high point in actualising the independent identity of women. For development to be led by women, it will also have to be 'owned' by them.

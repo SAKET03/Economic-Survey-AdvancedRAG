@@ -1,0 +1,75 @@
+# Progress Made on India's Energy Transition
+
+## PROGRESS MADE ON INDIA'S ENERGY TRANSITION
+
+10.32    India's  efforts  in  mitigation  have  been  ambitious.  India  has  successfully established  an  installed  electricity  generation  capacity  of  213,701  megawatts  from non-fossil fuel sources, which accounts for 46.8 per cent of the total capacity as of 30 November 2024 (see Chart 5). 51  The goal is to reach 50 per cent by 2030.
+
+46  ibid.
+
+47    Bad Harmonics means the distortions in power supply to households on account of increased power consumption by data centres. This distortion can erode the quality of the power supply, which can damage electrical appliances and increase risk of electrical fires. Based on the research by Nicoletti, L., Malik, N., &amp; Tartar, A. (2024, December 27). AI Needs So Much Power, It's Making Yours Worse. Bloomberg. Retrieved January 4, 2025, from https:// tinyurl.com/trehmcpa.
+
+48    Unbundled REC are sold, purchased, or delivered separately from electricity. The REC provides no physical delivery of electricity  to  customers,  and  the  latter  purchases  electricity  from  another  producer  and  the  REC from another. Source: Unbundled Renewable Energy Certificates (RECs) | US EPA. (2020, June 11). US EPA. Retrieved January 2, 2025, from https://tinyurl.com/5eujv97a.
+
+49    Rathi,  A.,  &amp;  White,  N.  (2024,  August  21).  How  Tech  Companies  Are  Obscuring  AI's  Real  Carbon  Footprint. Bloomberg. Retrieved December 12, 2024, from https://tinyurl.com/3e2sapee.
+
+50    Saul, J., Malik, N. S., &amp; Chediak, M. (2024, September 16). AI Boom Is Driving a Surprise Resurgence of US GasFired Power. Bloomberg. Retrieved on January 4, 2025, from https://tinyurl.com/2ubfaha9.
+
+51    Ministry of Power (November 2024). Power sector at a glance "All India". Retrieved on December 20, 2024 from https://powermin.gov.in/sites/default/files/uploads/power\_sector\_at\_glance\_Nov\_2024.pdf.
+
+<!-- image -->
+
+Source: Internal calculation based on data from Ministry of Power https://powermin.gov.in/sites/default/files/ uploads/power\_sector\_at\_glance\_Nov\_2024.pdf.
+
+10.33    There  has  been  notable  progress  in  energy  generation  from  non-fossil  fuels, including nuclear, hydro, and renewable sources. This segment reached 420.8 thousand gigawatt hours in the 2022-23 provisional data, making up 22.8 per cent of the total gross  energy  generation.  Within  this,  large  hydro  represents  8.81  per  cent,  nuclear contributes 2.49 per cent, and renewables account for 11.52 per cent (refer to Chart 6(a)). 52
+
+52    Based on Tables 3.6 (a) and (b) in Energy Statistics of India 2024, M/o Statistics, Planning and Implementation. Accessed from https://www.mospi.gov.in/publication/energy-statistics-india-2024-1.
+
+<!-- image -->
+
+Source:  Based  on  Tables  3.6  (a)  and  (b)  in  Energy  Statistics  of  India  2024,  M/o  Statistics,  Planning  and Implementation. Accessed from https://www.mospi.gov.in/publication/energy-statistics-india-2024-1.
+
+## New initiatives  and  updates  on  existing  policies/schemes  to  boost energy transition
+
+10.34  The Ministry of New and Renewable Energy (MNRE) initially launched New Solar Power Scheme (for Particularly Vulnerable Tribal Group (PVTG) Habitations/
+
+Villages) under Pradhan Mantri Janjati Adivasi Nyaya Maha Abhiyan (PM JANMAN) on 4 January 2024, which was later revised on 18 October 2024 to also include other tribal habitations/villages and renamed as New Solar Power Scheme (for Tribal and PVTG Habitations/Villages) under PM JANMAN and Dharti Aabha Janjatiya Gram Utkarsh Abhiyan (DA JGUA). The Scheme will cover electrification of one lakh unelectrified households (HHs) in Tribal and PVTG areas of over 63000 villages identified by the Ministry of Tribal Affairs (MoTA) by the provision of off-grid solar systems. The scheme also includes provision for off-grid solar lighting in 1500 Multi-Purpose Centres (MPCs) in PVTG areas and solarisation of 2000 public institutions through offgrid solar systems. The off-grid solar systems shall be provided only where electricity supply through grid is not techno-economically feasible.
+
+10.35  Additionally, the PM - Surya Ghar: Muft Bijli Yojana aims to install rooftop solar plants in one crore households, which is expected to enable approximately 30 gigawatts of residential rooftop solar capacity and contribute to an overall rooftop solar capacity addition of 40-45 gigawatts by 2027. So far, rooftop solar systems for more than 7 lakh households (as on 9 January 2025) have already been installed.
+
+10.36  In  offshore  wind  energy,  the  Viability  Gap  Funding  (VGF)  scheme  has  been introduced, featuring a total budget of ₹7,453 crore. This includes VGF of ₹6,853 crore allocated for one gigawatt of projects (500 megawatts each off the coasts of Gujarat and Tamil Nadu), and ₹600 crore grant designated for upgrading two ports to enhance logistic infrastructure.
+
+10.37  The  projects  under  the  Green  Energy  Corridor  (GEC)  aim  to  establish  an intra-state transmission system that enhances grid capabilities for renewable energy. Currently,  GEC-I  is  being  implemented  across  eight  states,  successfully  installing 9,136  circuit  kilometres  of  transmission  lines  and  21,413  megavolt-amperes  (MVA) substations. Meanwhile, GEC-II is progressing across seven additional states.
+
+10.38  The  National  Bioenergy  Programme  is  structured  around  three  main  pillars: the  Waste  to  Energy  Programme,  the  Biomass  Programme,  which  supports  the manufacturing of briquettes and pellets as well as promotes biomass (non-bagasse) based  cogeneration  in  industries,  and  the  Biogas  Programme,  which  focuses  on promoting family-type biogas plants. As of 31 December 2024, the installed capacity for biomass power and cogeneration projects stood at approximately 9.8 gigawatts (gridconnected)  and  0.92-gigawatt  equivalent  (off-grid),  while  waste-to-energy  projects reached  a  capacity  of  249.74  megawatts  (grid-connected)  and  370.19-megawatt equivalent (as on 9 January 2025) (off-grid). Under the biogas programme, around 5.1  million  small  biogas  plants  and  361  medium-sized  biogas  plants  (totalling  11.5 megawatts) have been installed.
+
+10.39  Furthermore, the Scheme for the Development of Solar Parks and Ultra-mega Solar Power Projects sets a target for establishing 40,000 megawatts of capacity. This scheme  focuses  on  developing  essential  infrastructure  such  as  land,  roads,  power evacuation systems, and water facilities,  ensuring  all  necessary  statutory  clearances and approvals are in place for the expedited development of utility-scale solar projects. As of 31 December 2024, 55 Solar Parks with a cumulative capacity of 39.9 gigawatts have been sanctioned across 13 states. Notably, solar projects with a capacity of 12.2 gigawatts  have  already  been  commissioned,  while  others  are  at  various  stages  of implementation.
+
+10.40  The  Pradhan  Mantri  Kisan  Urja  Suraksha  evam  Utthaan  Mahabhiyan  (PMKUSUM)  aims  to  add  34.8  gigawatts  of  solar  capacity  by  promoting  small  gridconnected solar energy power plants, stand-alone solar-powered agricultural pumps, and the solarisation of existing grid-connected agricultural pumps. As of 31 December 2024, a decentralised solar capacity of 397 megawatts has been installed, along with the solarisation of 7.28 lakh agricultural pumps under this scheme.
+
+10.41  To enhance the manufacturing capabilities in the solar sector, the Production Linked Incentive Scheme for the National Programme on High-Efficiency Solar Photovoltaic Modules has been initiated. The goal is to achieve a gigawatt-scale manufacturing capacity of high-efficiency solar photo-voltaic modules. So far, Letters of Award have been issued to establish manufacturing units with a total capacity of 48,337 megawatts.
+
+10.42  The National Green Hydrogen Mission aims to achieve a production capacity of about five million metric tonnes per annum of Green Hydrogen, along with an associated renewable energy capacity of around 125 gigawatts and the potential for 50 million metric tonnes of CO2 annual emission abatement by 2030. The mission also focuses on bolstering research and development, as well as standards and testing within the green hydrogen ecosystem. Under the mission, the green hydrogen production capacity of 412,000 tonnes per annum and electrolyser manufacturing capacity of 3000 megawatts per annum have been successfully awarded.
+
+10.43  Lastly, the Central Public Sector Undertaking Scheme Phase-II aims to establish grid-connected  solar  photo-voltaic  power  projects  funded  by  CPSUs,  state  PSUs, and  government  organizations,  utilising  domestically  manufactured  solar  PV  cells and  modules  with  VGF  support.  Out  of  approximately  8.2  gigawatts  of  sanctioned solar photo-voltaic capacity, 1.81 gigawatts have already been commissioned as of 31 December 2024.
+
+## Lessons Learned
+
+10.44  Lessons  learnt  from  the  experiences  of  developed  economies  caution  against shutting down thermal energy without adequate technological alternatives that allow a  stable  energy  supply.  India  is  uniquely  positioned  in  terms  of  its  growing  energy requirements. India must decisively leverage its best resources, advanced technologies, and expertise to accelerate its journey toward becoming a developed nation by 2047 while  ensuring  a  low-carbon  pathway.  Following  this  critical  milestone,  the  nation must  pursue  its  ambitious  goal  of  achieving  net  zero  emissions  by  2070.  This  will demand innovative strategies  and  strong  implementation  plans  to  confront  climate challenges while ensuring sustainable development takes centre stage. Innovation and investment in addressing the problems related to renewable energy - battery storage, grid infrastructure and critical minerals - must be the focus in the short to medium term.
+
+## Developments in financial regulation on green investments
+
+10.45  Based  on  the  2019  National  Guidelines  on  Responsible  Business  Conduct (NGRBC)  by  the  government,  SEBI  introduced  new  reporting  mandates  on  ESG parameters - the Business Responsibility and Sustainability Report (BRSR) - for the top  1000  listed  companies,  mandatory  from  FY23,  replacing  the  previous  Business Responsibility  Report  (BRR)  of  2012.  The  BRSR  norms  were  further  expanded  in 2023, with the Board introducing the BRSR core for assurance and ESG disclosures for value chains by the listed entities. The value chain for the purpose of BRSR core reports encompasses  the  top  upstream  and  downstream  partners,  cumulatively  comprising 75 per cent of the purchases/sales (by value), respectively. From FY26, the top 500 listed entities would be mandated to report under BRSR core, which will be expanded to the top 1000 listed entities from FY27 onwards. The BRSR Core consists of a set of  Key  Performance Indicators (KPIs)/metrics under nine ESG attributes, including GHG emission  footprints,  water  footprints,  energy  footprint,  embracing  circularity, enhancing  employee  well-being  and  safety,  enabling  gender  diversity  in  business, enabling inclusive development, fairness in engaging with customers and suppliers, and open-ness of business.
+
+10.46  SEBI also introduced the regulatory framework for the issuance of green debt securities in 2017, which outlines an illustrative list of activities that can be financed through green debt securities. The framework was revamped in 2023 by introducing the concepts of transition bonds (funds raised for transitioning to a more sustainable form of operations, in line with India's Intended Nationally Determined Contributions), blue bonds (related to water management and marine sector), and yellow bonds (related to solar energy), and circular economy as sub-categories of the green debt securities. The
+
+framework mandates the issuers of green debt securities to disclose details related to the perceived social and environmental risks and proposed mitigation plan associated with the project(s) proposed to be financed/refinanced through the proceeds from the issue of green debt securities, in the offer documents. By March 2024, green debt securities amounting to a total of ₹6,128 crore have been issued by various listed companies. 53
+
+10.47  In addition to these measures, the Government of India has included Sovereign Green  Bonds  (SGrBs)  in  its  overall  market  borrowings  with  the  aim  of  mobilising resources  for  green  infrastructure.  Adhering  to  the  framework  for  sovereign  green bonds that sets forth the obligations of the Government of India as a green bond issuer, the government has issued various lots of SGrBs of varying maturities of 5, 10 and 30 years. On the whole, SGrBs worth ₹16,000 crore were issued in FY23 and ₹20,000 crore in FY24. As for FY25, so far, the Government of India has raised 10-year SGrBs worth ₹11,697.40 crores and plans to raise ₹10,000 crore in remaining period of H2 FY25, i.e., ₹5,000 crore each under 10-year and 30-year securities, respectively.
+
+10.48  In order to foster and strengthen the country's green finance ecosystem, the RBI put in place the framework for accepting Green Deposits for Regulated Entities (REs), with effect from 1 June 2023, to encourage green deposits to augment the flow of credit to green activities/projects address greenwashing concerns. RBI has also classified bank loans of up to ₹30 crore for borrowers seeking funding for renewable energy projects under  the  priority  sector  lending  category.  This  includes  solar  power  generators, biomass-based power generators, windmills, micro-hydel plants, and renewable energy public utilities such as street lighting systems and remote village electrification.
+
+## BOX-X.5  Growing Carbon sink of forests in India
+
+India's NDC aims to increase the carbon sinks by 2.5 to 3 billion tonnes of CO2 equivalent through improvement and addition of tree cover by 2030. As per the latest Forest Survey of India 2024, India is estimated to have a total carbon sink of 30.43 billion tonnes of CO2 equivalent in 2023, as compared to 2005, when the carbon sink was estimated to be 28.14 billion tonnes of CO2 equivalent. The addition to the carbon sink between 2005 and 2023 is of 2.29 billion tonnes CO2 equivalent, closer to the NDC target. Based on the trends, the FSI projects a carbon sink of 31.71 billion tonnes in 2030, which would even surpass the NDC target of 2.5 to 3 billion tonnes of CO2 equivalent.
+
+Source:  India  State  of  Forest  Report  2023,  Volume  1.  Ministry  of  Environment,  Forest  &amp;  Climate  Change. Retrieved on December 27, 2024, from https://tinyurl.com/5n7f69zk.

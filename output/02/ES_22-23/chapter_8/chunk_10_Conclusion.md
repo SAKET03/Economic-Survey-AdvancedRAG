@@ -1,0 +1,7 @@
+# Conclusion
+
+## conclusion
+
+8.36  The  performance  of  the  agriculture  sector  remains  critical  to  growth  and  employment in  the  country.  Investment  in  the  sector  must  be  encouraged  through  an  affordable,  timely and inclusive approach to credit delivery. Intervention by the Government through PM Kisan to  provide  income  support,  strengthening  of  institutional  finance  and  insurance  through  the PMFBY and the push given to Kisan Credit Cards as also access to machines and tools that improve productivity have been significant. A focus on the horticulture sector and the thrust towards allied activities have diversified farmers' income making them more resilient to weather shocks. All these initiatives have led to sustainable and inclusive development of the sector.
+
+8.37  A greater focus on the development of the food processing sector can reduce wastage/ loss and increase the length of storage, ensuring better prices for the farmers. The initiatives like  e-NAM  and  the  Promotion  of  FPOs  formation  have  been  introduced  to  strengthen  the agricultural market. With the interventions including PMKSY, PMFME, PLI, etc., attempts have been made to boost the food processing industries to harness its linkages with the agriculture sector. A well-developed food processing sector with improved infrastructure like cold storage and better logistics helps reduce wastage, improve value addition, ensure better farmers' returns, promote employment, and increase export earnings.

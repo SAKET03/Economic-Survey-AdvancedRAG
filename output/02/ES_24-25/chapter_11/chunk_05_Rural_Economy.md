@@ -1,0 +1,232 @@
+# Rural Economy
+
+## RURAL ECONOMY
+
+11.90   The government's emphasis has been on improving the quality of life in rural areas  to  ensure  more  equitable  and  inclusive  development.  Various  measures  have been taken in this regard by focusing on infrastructure encompassing rural housing, drinking  water  and  sanitation,  clean  fuel,  social  protection,  and  rural  connectivity, along with enhancing rural livelihoods. The financing needs of rural households and small businesses are being met through microfinance institutions, SHGs, and other financial  intermediaries.  Taking  digitisation  and  technology  to  the  rural  economy has  also  been  a  key  aspect  of  the  rural  development  agenda,  be  it  in  agricultural activities or governance. For instance, the emphasis on digital land records through SVAMITVA shows a structural shift in rural land management and individual economic empowerment. A primary focus has also been on the health parameters of the rural population, with enhanced emphasis necessitated by the pandemic.
+
+167  https://tinyurl.com/yre63w5k
+
+168 https://fitindia.gov.in/
+
+169    Kelly, B. et al. (2019). Global benchmarking of children's exposure to television advertising of unhealthy foods and beverages across 22 countries. Obesity reviews: an official journal of the International Association for the Study of Obesity, 20 Suppl 2(Suppl 2), 116-128. https://doi.org/10.1111/obr.12840
+
+170    Gupta, Arun (2024). Why there is a Need to Priortise Regulation of Ultra-processed Foods and HFSS Foods in India?. Preventive Medicine Research &amp; Reviews 1(2):p 90-93. | DOI: 10.4103/PMRR.PMRR\_59\_23 (https:// tinyurl.com/34dyy7bx).
+
+## Rural Infrastructure
+
+11.91 The summary of progress made under various schemes and initiatives for rural infrastructure development is as follows.
+
+## Table XI.6: Progress of Rural infrastructure development schemes
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+| Roads                                                                 | Pradhan Mantri GramSadak Yojana (PMGSY) ( as of 9 January 2025 ) 171 • 8,34,695 km of road length sanctioned. • 7,70,983 km of road length completed. • 99.6 per cent of the targeted habitations provided connectivity.   | Pradhan Mantri GramSadak Yojana (PMGSY) ( as of 9 January 2025 ) 171 • 8,34,695 km of road length sanctioned. • 7,70,983 km of road length completed. • 99.6 per cent of the targeted habitations provided connectivity.   | Pradhan Mantri GramSadak Yojana (PMGSY) ( as of 9 January 2025 ) 171 • 8,34,695 km of road length sanctioned. • 7,70,983 km of road length completed. • 99.6 per cent of the targeted habitations provided connectivity.   |
+|-----------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Housing                                                               | 2.69 crore houses completed since 2016 under Pradhan Mantri Awaas Yojana-Gramin (PMAY-G). 172                                                                                                                              | 2.69 crore houses completed since 2016 under Pradhan Mantri Awaas Yojana-Gramin (PMAY-G). 172                                                                                                                              | 2.69 crore houses completed since 2016 under Pradhan Mantri Awaas Yojana-Gramin (PMAY-G). 172                                                                                                                              |
+| Water bodies                                                          | 68,843 Amrit Sarovars (ponds) constructed under Mission Amrit Sarovar. 173                                                                                                                                                 | 68,843 Amrit Sarovars (ponds) constructed under Mission Amrit Sarovar. 173                                                                                                                                                 | 68,843 Amrit Sarovars (ponds) constructed under Mission Amrit Sarovar. 173                                                                                                                                                 |
+| Health Infrastructure National Health Mission 174 (Figures in '000s.) | 165.6 Sub-centres (SCs)                                                                                                                                                                                                    | 25.4 Primary Health Centres (PHCs)                                                                                                                                                                                         | 5.5 Community Health Centres (CHCs)                                                                                                                                                                                        |
+| Health Infrastructure National Health Mission 174 (Figures in '000s.) | 32.9 Doctors at PHCs 4.4 Total Specialists CHCs                                                                                                                                                                            | at 79.3 Nursing Staff at PHCs & CHCs                                                                                                                                                                                       | 27.7 Pharmacists at PHCs & CHCs 23.2 Lab Technicians at PHCs & CHCs                                                                                                                                                        |
+| Drinking Water                                                        | 12.2 crore households provided with tap water connections under Jal Jeevan Mission (as of 27 January 2025). 175                                                                                                            | 12.2 crore households provided with tap water connections under Jal Jeevan Mission (as of 27 January 2025). 175                                                                                                            | 12.2 crore households provided with tap water connections under Jal Jeevan Mission (as of 27 January 2025). 175                                                                                                            |
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+11.8 crore toilets and 2.51 lakh community sanitary complexes were  constructed  under  Swachh  Bharat  Mission  (Gramin)  (As  of  27 January 2025). 176
+
+Saansad Adarsh Gram Yojana (SAGY) (as of 10 January 2025) 177
+
+-   3,361 Gram Panchayats (GPs) adopted by MPs.
+-   3,120 GPs uploaded Village Development Plans.
+
+Comprehensive transformation
+
+-   2,30,206 projects completed.
+
+11.92 For  the  development  of  Particularly  Vulnerable  Tribal  Group  (PVTG)  under Pradhan  Mantri  Janjati  Adivasi  Nyaya  Maha  Abhiyan  (PM-JANMAN),  a  separate vertical has been launched under PMGSY by relaxing the population norms upto 100 to provide the connectivity to unconnected PVTG habitations. A total of 8,000 Km of Road length is targeted to be constructed under this vertical. The implementation period is till March 2028.  A total of 1,557 road works of 4,781.44 Km of road length have been sanctioned till 9 January 2025.
+
+## Rural Housing: A Milestone for identity and economic growth
+
+11.93 For most families in India, owning a house is both a milestone and a leap in living standards, especially for the rural poor, where it signifies identity and well-being. Beyond meeting basic needs, rural housing drives local employment and the economy and serves as a durable credit asset that enhances family welfare.
+
+11.94 Providing housing for economically deprived rural households has long been integral  to  India's  development  strategy.  Aligning  with  SDG  Goal  11.1  on  'Safe  and affordable housing' and India's vision of 'Housing for All,' the Pradhan Mantri Awaas Yojana-Gramin (PMAY-G) was launched on 1 April 2016. The Government of India has approved Phase-IV of PMGSY to provide all-weather connectivity to 25,000 rural habitations  based  on  the  population  criteria  of  Census  2011.  The  PMGSY-IV  will incorporate international benchmarks and good practices in road construction. The survey of habitations has started through GIS based App. The PM Gati Shakti is being utilized to plan and implement the programme. Box XI.12 discusses the outcomes of PMAY-G, which is not merely providing housing but also many attended benefits that the scheme is bringing to the lives of the rural people.
+
+177  https://saanjhi.gov.in/
+
+## Box XI.12: The many outcomes of Pradhan Mantri Awaas Yojana-Gramin
+
+PMAY-G aims to provide a pucca house with basic amenities to all houseless families and families living in kutcha and dilapidated houses in rural areas by 2029. The construction of 2.69 crore houses has been completed with support under the scheme since 2016. The scheme has been extended to construct an additional two crore rural houses over the next five  years,  i.e.  till  2029. 178 Holistic  design  and  efficient  implementation  elements  of  the scheme have contributed to its success.
+
+The target  beneficiary  identification  is  made  on  the  basis  of  a  waitlist  derived  from  the Socio-Economic Caste Census, 2011 and Awaas+ survey, 2018, done for this purpose and then  verified  by  the  Gram  Sabhas.  Recently,  the  number  of  objective  exclusion  criteria used for the identification of beneficiaries has been reduced from 13 to 10 (ownership of a fishing boat or motorised two-wheeler, raising the income threshold to ₹15,000 per month were removed) to enhance inclusivity in the target group. The Awaas+ survey, 2024 is also underway to verify eligible beneficiaries.
+
+The  scheme  operates  on  the  DBT  model,  where  assistance  is  credited  directly  into  the beneficiary's  bank  account,  and  construction  work  is  monitored  through  geo-tagged photographs. Evaluation study (National Institute for Public Finance and Policy (NIPFP), July 2019 179 )  shows that the introduction of DBT, as well as geotagging, has reduced the levels of administrative clearances required and the time taken for funds to be released as verification became more efficient. It improves fund utilisation of the scheme as it reduces leakages. DBT under the scheme has improved financial inclusion in rural areas (NIPFP, Dec 2019 180 ).
+
+PAHAL - a repository of designs of housing typologies that are suitable to different regions/ states has been developed and made available to the beneficiaries. These designs incorporate elements of disaster resilience, the use of eco-friendly local materials and skills, the use of cost-effective technologies etc. A rural mason training programme has been developed in partnership with the Construction Skill Development Council of India (CSDCI) and the National Skill Development Corporation (NSDC) and launched as part of the scheme to improve the availability of skilled/trained masons in rural areas for construction under the scheme and other works. So far 2,86,843 181 masons have been trained and certified.  With the above measures on average, the time taken for the construction of one unit has improved to 114 days under PMAY-G from 314 days under IAY. 182
+
+The scheme has been a source of employment for labourers, masons, and artisans. The construction of a house under PMAY-G generates direct employment of approximately 314
+
+178  https://tinyurl.com/22fbpm48
+
+179    National  Institute  for  Public  Finance  and  Policy  NIPFP,  July,  2019:  Impact  of  Reforms  in  Pradhan  Mantri Awaas Yojana -Gramin (A Secondary Data Analysis) available at https://tinyurl.com/3yxpafzu.
+
+180    NIPFP, December, 2019: Evaluation of Governance Parameters of Pradhan Mantri Awaas Yojana- Gramin, available at https://tinyurl.com/39wxz2kz.
+
+181 As on 2 December 2024 and on basis of information received from CSDCI
+
+182  Ibid note 179 above.
+
+person-days, which includes 81 skilled, 71 semi-skilled, and 164 unskilled person-days. The  total  direct  employment  generated  for  houses  completed  in  the  first  two  years  of the scheme was 4.82 crore person days for skilled labour and 7.60 crore person days for unskilled labour (NIPFP, 2018 183 ). Extrapolating the estimates, it is seen that more than 192 crore man-days of skilled labour and almost 250 crore man-days of unskilled labour could have been employed since 2016. The study also shows that indirect employment from the backward and forward linkages to construction activities is considerable and beneficial to the rural economy.
+
+The  AwaasSoft  MIS  and  AwaasApp  enable  the  implementation  of  all  functions  and transactions  of  the  scheme  and  evidence-based  monitoring.  This  is  open  to  the  public, allowing  more  transparency.  The  use  of  emerging  technologies,  such  as  AI/ML-based object detection in house images and geo-referencing, enhances transparency and enables better deduplication of PMAY-G assets. Additionally, an eKYC app integrated with Aadhaar and equipped with AI-enabled face authentication technology is used to verify PMAY-G beneficiaries.
+
+The scheme reserves a minimum of 60 per cent of targets for SC/ST households, with 59.58 lakh SC houses and 58.57 lakh ST houses completed. Five per cent of the target is reserved for differently-abled beneficiaries, and another five per cent prioritises housing for families affected by natural disasters.  Scheme has placed a special focus on women's empowerment, with 74 per cent of sanctioned houses owned by women solely or jointly.
+
+PMAY-G converges with schemes like MGNREGA 184 , SBM-G, Jal Jeevan Mission, and Surya Ghar , ensuring beneficiaries access to water, toilets, LPG, electricity, and solar energy. An evaluation shows that the ease of living of beneficiaries is enhanced due to the construction of  the  house  and  88  per  cent  of  respondents  confirmed  improvements  in  the  standard of  living  with  the  construction  of  houses. 185 The  scheme  is  one  of  the  key  interventions facilitating SDG achievements, specifically in terms of the percentage of households living in kuccha houses. 186
+
+## Localising SDGs: Powering rural progress
+
+11.95 Localisation  of  SDGs  ensures  that  rural  development  aligns  with  global goals,  addressing  basic  amenities  such  as  housing,  sanitation,  water  supply,  and electrification. This approach drives inclusive growth and improved quality of life at the grassroots level. SDGs localisation is being pursued at the Gram Panchayat (GP) level through  Village  Panchayat  Development  Plans  under  Mission  Antyodaya 187 and  the
+
+183  NIPFP, April 2018 Impact of PMAY-G on Income and Employment https://tinyurl.com/2aw8erjx .
+
+184 Mahatma Gandhi National Rural Employment Guarantee Act.
+
+185 NITI Aayog, Evaluation of CSS Scheme - Rural Development Sector, in respect of PMAY-G - 2020-21
+
+186 NITI Aayog SDG India Index 2023-24 https://tinyurl.com/bddb4733
+
+187 Mission  Antyodaya.  Mission  Antyodaya  Dashboard  2020.  Ministry  of  Rural  Development,  Government  of India, https://missionantyodaya.nic.in/ma2020/.
+
+Transformation of Aspirational Districts Programme (TADP), adopted in 2018 188 with districts as the lowest level of implementation. Accelerating forward, the preparation for a Local Indicator Framework (LIF) at the GP level is already in the process where nine themes have been designed spanning across the 17 SDGs. Box XI.13 discusses these initiatives.
+
+## Box XI.13: Localisation of Sustainable Development Goals
+
+The adoption of 17 SDGs in 2015 marked a paradigm shift in how the world understood and prepared itself to pursue the development agenda. India continues to wholeheartedly accept, engage, and progress with the idea of SDG implementation. Our timely submission of Voluntary National Reviews of 2017, 2020 and 2023 189 and the adoption of the SDG Index 190 reflects India's commitment to the cause. The call for 'Sabka Saath, Sabka Vikas' and the vision of Viksit Bharat by 2047 lays the roadmap for achieving the SDGs.
+
+A  'whole-of-the-government'  strategy  with  an  emphasis  on  cooperative  and  competitive federalism  among  states  is  being  followed.    The  'collaborative  competition'  approach, supported by comparative rankings on SDG progress, has generated momentum among states and complements the strategy.
+
+There is a global shift towards the 'localisation' of SDGs to achieve the goals by 2030 and increase the rate and impact of progress. SDG localisation is the process of adapting and customising these goals and translating them into local development plans and strategies that fit the needs, context and priorities of a particular region or locality in coherence with national frameworks (United Nations, 2024). 191 This approach places local communities at the centre of sustainable development and anchors development action on the principles of subsidiarity, inclusion, partnership and multilevel governance, with adequate data and financing availability at the local level.
+
+In India, state governments have been proactive and have laid out strategies and frameworks for  achieving  SDGs  at  various  administrative  levels.  Some  states  have  extended  their indicator frameworks to the district and block levels, ensuring that local budgets align with SDG objectives. This multi-layered approach to SDG implementation is based on the Indian model of SDG Localisation 192 comprising four key pillars: creating institutional ownership, fostering collaborative competition, enhancing capacities, and embracing a whole-of-society approach.
+
+188 NITI Aayog. Aspirational Districts Programme. Government of India, https://tinyurl.com/bdhfrbxx.
+
+189 United Nations, Voluntary National Reviews (VNRs) https://hlpf.un.org/vnrs.
+
+190 https://sdgindiaindex.niti.gov.in/
+
+191 United Nations, Inter-agency Policy Briefs: Accelerating Progress on the 2030 Agenda from Local to Global Levels (United Nations, 2024)https://tinyurl.com/mvwcm8ye.
+
+192  NITI Aayog, SDG India Index 2023-24 (NITI Aayog, 2024) https://tinyurl.com/bdhdr8kx
+
+## Kerala offers a replicable model for SDG localisation.
+
+Kerala uses a robust, community-based model that leverages its strong local governance institutions.  Awareness and community engagement efforts focus on educating local officials on the relevance of poverty alleviation and environmental resilience, which are led by state and  national  leaders.  The  Local  Self  Government  Department,  with  technical  support from the Kerala Institute for Local Administration (KILA), have developed comprehensive guidelines and processes to incorporate SDGs into local planning. They also train stakeholders in SDG-aligned development and data collection. The state has a real-time SDG dashboard to monitor the panchayats and is able to use such localised data for decision-making and to provide insights on development indicators.
+
+Localisation efforts are driven by the   SDG Coordination Centres (SDGCCs) in states and UTs by governments in partnership with implementing agencies.  Currently, SDGCCs are operational in 10 states/UTs, namely Andhra Pradesh, Haryana, Himachal Pradesh, Jammu &amp; Kashmir, Karnataka, Nagaland, Punjab, Tamil Nadu, Uttar Pradesh, and Uttarakhand. These  centres  play  a  pivotal  role  in  supporting  and  facilitating  implementation  on  the ground.  This  is  achieved  through  integrated  policymaking,  fostering  interlinkages  and synergies, establishing monitoring systems, adopting a convergence-based approach, and fostering participation at all levels of government among all stakeholders.
+
+Over the past six years, the SDGCCs have established a strong foundation for understanding and ownership of the SDGs at the state level. With all levels of government fully committed to achieving the SDGs, there has been a shift in departmental mindsets towards adopting result-based, integrated planning. Through continuous training and handholding support, departments  are  increasingly  aligning  their  efforts  with  outcome-linked  planning  and budgeting. This evolution has fostered evidence-based decision-making and the identification of viable solutions, to reach the most vulnerable population first, realising the principle of 'Leaving No One Behind'.
+
+NITI Aayog is transitioning to SDG Coordination and Acceleration Centres (SDGCACs) 193 as we approach the 2030 deadline. The SDGCACs will uphold the current SDGCC approach while  encouraging  innovative  solutions,  scaling  up  successful  initiatives  and  fostering synergistic  collaborations  among  diverse  stakeholders.  They  aim  to  (a)  go  beyond  the planning  department  and  intensify  engagement  with  other  key  departments,  especially the finance department (b) go beyond the whole of the government approach and foster the  whole  of  the  society  approach  for  the  systematic  and  sustained  participation  of  civil society organisations (CSOs) and private sectors and (c) have an interconnected approach to challenges by identifying critical actors and working towards a collaboration.
+
+In conclusion, the localisation of SDGs ensures that rural development is in harmony with international goals, focusing on essential services like housing, sanitation, water supply, and electrification. This strategy promotes inclusive growth and enhances the quality of life at the grassroots level.
+
+193 SDGCCs  are  Specialised  Project  Management  Units  within  State  Government  departments  of  Planning, Economics and Statistics or Finance to align the planning process with the SDGs. (https://sdgknowledgehub. undp.org.in/sdgcc/ )
+
+## Other measures towards rural welfare
+
+11.96 Food,  Nutrition,  Health,  and  WASH  (FNHW): To  address  health, nutrition, WASH, and sanitation issues, DAY-NRLM implements FNHW interventions, focusing on promoting the consumption of produce from nutri-gardens, poultry, small ruminants, and dairy. Currently, FNHW interventions are being implemented in 5369 blocks across 682 districts. 194
+
+11.97 Social Inclusion and Gender: State  Rural  Livelihoods  Missions  (SRLMs) have  developed  state-specific  strategies  to  integrate  DAY-NRLM  components  and community  institutions,  addressing  issues  such  as  child  education,  early  marriage, asset  creation  for  women,  and  violence  against  women.  Currently,  32  SRLMs  are implementing these gender interventions.
+
+11.98 Gender Resource Centres (GRCs) are being established to address gender issues at the local level, supported by Gender Point Persons (GPPs) who sensitise SHG members on gender-based violence and discrimination. GPPs are trained by Gender Community Resource Persons (Gender-CRPs), who build capacity in both SHG members and the wider community.
+
+11.99 Over 25 lakh GPPs and more than 89,000 Gender-CRPs work within more than 31,000 Cluster Level Federations (CLFs) and 5,00,000 Village Organisations (VOs), tackling gender issues with the support of 40,061 GP-level Gender Forums and 1927 Block-level Gender Forums. A total of 3997 GRCs are operating across 18 States and UTs under DAY-NRLM, empowering women and gender-diverse persons to address violence and access their rights.
+
+11.100 Free legal  assistance  in  remote  and  rural  areas: The  National  Legal Services Authority (NALSA), established under the Legal Services Authorities (LSA) Act of 1987, provides free legal services to disadvantaged sections of society to ensure equal access to justice, as outlined in Section 12 of the Act. It operates through legal service institutions from the Taluk Court to the Supreme Court, offering services such as legal aid, advice, awareness programmes, Lok Adalats, and the Victim Compensation Scheme.
+
+11.101  Additionally, the government has launched the 'Designing Innovative Solutions for Holistic Access to Justice in India' scheme, which strengthens pre-litigation advice through Tele-Law, facilitates pro bono legal services via the Nyaya Bandhu programme, and  promotes  legal literacy through  pan-India  awareness  campaigns,  utilising technology, and region-specific IEC materials to improve accessibility for the poor and marginalised.
+
+11.102  The Gram Nyayalayas Act, 2008 aims to provide access to justice at the grassroots level in rural areas. As of October 2024, 313 Gram Nyayalayas have disposed of over 2.99 lakh cases from December 2020 to October 2024. 195
+
+11.103  The National Social Assistance Programme (NSAP) is a social security programme for the vulnerable section of our society. The objective of the programme is to provide a basic level of financial assistance to old age, widows, and disabled persons as well as to bereaved households in the event of the death of the breadwinner belonging to the Below Poverty Line. NSAP caters to 3.09 crore BPL beneficiaries. Further, States/UTs are also providing financial assistance to additional 5.86 crore beneficiaries through State Pension Schemes. Therefore, around nine crore beneficiaries (central NSAP plus additional state beneficiaries) are covered under the pension safety net of the country at an estimated annual expenditure of more than ₹1 lakh crore. 196
+
+## Enhancing rural incomes
+
+## Deendayal Antyodaya Yojana-National Rural Livelihood Mission (DAYNRLM)
+
+11.104   DAY-NRLM  is  a  flagship  poverty  alleviation  programme,  launched  in  2011 with  the  aim  to  reduce  poverty  by  enabling  poor  households  to  access  gainful  selfemployment and skilled wage employment opportunities, resulting in sustainable and diversified livelihood options for the poor. This is one of the world's largest initiatives to improve the livelihoods of the poor.
+
+11.105   The  Mission  seeks  to  achieve  its  objective  through  investing  in  four  core components  viz.,  (a)  social  mobilisation  and  promotion  and  strengthening  of  selfmanaged and financially sustainable community institution so the rural poor women; (b)  financial  inclusion;  (c)  sustainable  livelihoods;  and  (d)  social  inclusion,  social development, and access to entitlements through convergence.
+
+11.106   The  programme  leverages  community  resources  (social  capital)  to  build institutions and promote livelihoods, with trained SHG members serving as CRPs in various roles like Pashu Sakhi, Krishi Sakhi, Bank Sakhi, Bima Sakhi, CRP-EP, Poshan Sakhi etc. The key programme components and their progress is as follows. 197
+
+195  https://pib.gov.in/PressReleasePage.aspx?PRID=2078998
+
+196 Based on inputs received from MoRD
+
+197 Cumulative progress of key components (till October 2024)
+
+<!-- image -->
+
+Table XI.7: Progress under key programme components of DAY-NRLM
+
+| Capacity Building                                                                                                                | Financial Inclusion                                                               | Farm Livelihoods                                                                                                                                              | Non-Farm Livelihoods                                                                                          |
+|----------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
+| Mobilised 10.05 crore rural poor Households into 90.90 lakh SHGs, 5.96 lakh VOs and 32,439 CLFs in 7,143 blocks of 745 districts | • 1.37 lakh SHG women members p o s i t i o n e d as Banking Correspondent Sakhi. | • More than 2.64 crore households have agri-nutri gardens                                                                                                     | • Start-Up Village Entrepreneurship P r o g r a m m e (SVEP):nearly 3.13 lakh enterprises in 280 blocks of 31 |
+| Mobilised 10.05 crore rural poor Households into 90.90 lakh SHGs, 5.96 lakh VOs and 32,439 CLFs in 7,143 blocks of 745 districts | • ₹49,284 crore c a p i t a l i s a t i o n support provided to SHGs.             | • Around 36,205 Custom Hiring C e n t r e s established to help small and marginal farmers hire farm tools and services at a nominal cost. • 4.30crore Mahila | • AajeevikaGrameen Express Yojana: 2297 vehicles operational in 26 states connecting remote villages.         |
+| Mobilised 10.05 crore rural poor Households into 90.90 lakh SHGs, 5.96 lakh VOs and 32,439 CLFs in 7,143 blocks of 745 districts | • ₹ 9.85 lakh crore of bank credit accessed by SHG.                               | Kisan covered                                                                                                                                                 |                                                                                                               |
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+## Mahatma Gandhi National Rural Employment Guarantee Scheme
+
+11.107  The MGNREGA 2005 aims at enhancing the livelihood security of households in  rural  areas  of  the  country  by  providing  at  least  100  days  of  guaranteed  wage employment in a financial year to every household whose adult members volunteer to do unskilled manual work. The physical progress of MGNREGS (the Scheme through which MGNREGA is implemented) is indicated below:
+
+Table XI.8: Key indicators on MGNREGS
+
+| Indicator                         |   2020-21 |   2021-22 |   2022-23 |   2023-24* |   2024-25* |
+|-----------------------------------|-----------|-----------|-----------|------------|------------|
+| Person-days generated (in crore)  |     389.1 |     363.3 |     293.8 |      308.9 |     220.11 |
+| Average person-days per household |      51.5 |      50.1 |      47.8 |       52.1 |      42.77 |
+| Women participation rate (%age)   |      53.2 |      54.7 |      57.5 |       58.9 |      57.97 |
+
+*As per MIS (as of 10 January 2025)
+
+11.108  Multiple efficiency reforms have been introduced to fully utilise the scheme. To ensure probity and elimination of leakages, geotagging before, during, and after the work is being done, 99.98 per cent payments are through National Electronic Fund Management System, wages are transferred under DBT, Aadhaar-based payment has been enabled for 96.3 per cent of total active workers, 99.23 per cent of total successful transactions for wage beneficiaries has been processed through APBS (Aadhaar Payment Bridge System)  in Dec 2024and social audit units have been set up in 28 states/UTs.
+
+11.109  While MGNREGS began as a wage employment scheme, it has evolved into a durable rural asset creation programme for sustainable livelihood diversification, as seen in the rise in the share of individual beneficiary 'works on individual land' from 16.2 per cent of total completed works in FY15 to 71.2 per cent in FY25 (the share in terms of expenditure is much lower, yet rose from 11.65 per cent in FY15 to 28.9 per cent in FY25). MGNREGS has also helped in boosting rural ecological health through improvement of soil quality and plantation and has improved rural water management for agriculture through  integrated  watershed  management  (IWM)  assets.  Capacity  development  of workers is being promoted through initiatives like Bare Foot Technicians (BFT) 198 and UNNATI 199 skilling project.
+
+11.110  Further,  the  scheme  is  converged  with  various  initiatives,  including  NutriGardens with NRLM, fodder farms with the Department of Animal Husbandry and Dairying (DAHD), horticulture with the Ministry of Agriculture, medicinal plantations with the Ministry of Ayush, Gram Panchayat buildings with the Ministry of Panchayati Raj, community sanitary complexes with SBM Grameen, construction of Anganwadi Centres  with  Ministry  of  Women  and  Child  Development,  promoting  sericulture plantations  with  Ministry  of  Textiles,  supporting  rubber  plantations  with  Rubber Board (Ministry of Commerce),  promoting aquaculture in ponds and farm ponds with Department of Fisheries, rural roads with PM Gram Sadak Yojana, and all-weather roads with BRO for border areas. Apart from that, convergence is also made at the state  level  with  different  state  departments  such  as  Forest  Department,  agriculture Department, Horticulture  Department,  Tribal  Development  Department  and  others for implementation of developmental works in rural areas.

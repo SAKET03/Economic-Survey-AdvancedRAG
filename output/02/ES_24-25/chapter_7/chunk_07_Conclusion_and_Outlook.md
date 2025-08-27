@@ -1,0 +1,20 @@
+# Conclusion and Outlook
+
+## CONCLUSION AND OUTLOOK
+
+7.55  Economic Survey 2023-24, released in July 2024, reported that:
+
+- i.    Over the last decade, output shares were realigned among industrial segments in favour of sectors like chemicals, wood products and furniture, pharmaceuticals, automobiles, steel and machinery and equipment.
+- ii.    Import dependency in key sectors like coal, capital goods and chemicals continues. Global uncertainties may constrain export demand and affect the domestic cost of production by influencing the prices of import-intensive raw materials.
+
+38    Is  Service  Orientation  Benefitting  Manufacturing  Exports  from  Low-Middle  Income  Countries?  Firm-level Empirical Evidence from WBES Data Sonia Pant and Debashis Chakraborty, 2024.
+
+- iii.    The  path  to  further  industrialisation  is  paved  with  deregulation,  R&amp;D  and, innovation and improving the skill levels of the workforce. Commitment to R&amp;D must be in the DNA of the industry, independent of any fiscal incentive since it is about global competitiveness and profitability.
+- iv.    Sectors with widely scattered production units, like textiles, and the MSME sector in general, seek support systems to develop projects and ensure finance, easier compliance, and grassroots-level facilitation to ensure market access.
+
+7.56  The foregoing analysis supports and reinforces these conclusions and suggestions, particularly strongly in the following respects.
+
+- i.    The  first  is  the  connection  between  the  uncertain  and  unsupportive  global environment  and  the  Indian  industry.  There  was  a  manufacturing  growth deceleration in H1 FY25. A part of it was due to seasonal causes like the alignment of  festivities  and  monsoon-related  disturbances.  Slackening  global  trade  and aggressive trade and industrial policies of many major economies have affected manufacturing and investment by the private sector. However, business surveys and purchasing managers' index point to improving optimism. The way ahead lies in vigorous focus on deregulation, R&amp;D, appropriate skilling and employment strategies, and targeted support for smaller enterprises.  This will improve the competitiveness of the Indian industry and prepare it to weather global challenges.
+- ii.    The brief State-wise analysis presented in this Chapter reveals that they are vastly different in their industrial strengths, weaknesses and accomplishments. It also highlighted that the state of business regulations and reforms varied across States, and these differences are closely related to their industrial progress or the lack of it. This reiterates the need for appropriate business reforms at the grassroots level.
+
+7.57  Hence, as noted in the Chapter, in a rather unsupportive global environment, it calls for lasting, synchronised efforts of all tiers of governments, the private sector, the skilling eco-system, academia and R&amp;D institutions, as well, and financial stakeholders to enable India realise its ambition as a manufacturing powerhouse.

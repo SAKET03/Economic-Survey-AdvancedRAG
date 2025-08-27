@@ -1,0 +1,9 @@
+# Financial Intermediation
+
+## FINANCIAL INTERMEDIATION
+
+2.14 Financial  development  and  economic  growth  are  inextricably  linked,  and  financial intermediation is the pathway through which the former translates into the latter. Financial intermediation helps in the efficient allocation of limited resources. Renowned economist Joseph Schumpeter believed  that  the  services  provided  by  financial  intermediaries,  viz.  mobilising
+
+savings,  extending  credit,  storing  assets,  growing  them,  managing  risk,  and  facilitating transactions, were essential for technological innovation and economic development. 9 Financial intermediation also facilitates and encourages the inflows of foreign capital. Empirical studies 10 show that efficient and developed financial markets can lead to increased and inclusive economic growth by improving the allocation and utilisation of savings and ensuring access to finance to all sections of society, including vulnerable groups and small and medium-sized firms.
+
+2.15 Financial  development  parameters  should  not  only  be  sound,  but  they  also  ensure the  system's  financial  stability  as  a  whole.  This  requires  indicators  such  as  Capital  to  Risk (Weighted) Assets Ratio (CRAR) , liquid assets to deposits, and short-term credit to be within manageable limits. Further, an essential part of financial sector development is implementing robust policies for regulation and supervision of all the financial market entities, market players, and financial instruments. Coordinating amongst Regulators is paramount in this regard.

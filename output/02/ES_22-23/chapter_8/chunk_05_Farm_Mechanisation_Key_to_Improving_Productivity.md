@@ -1,0 +1,5 @@
+# Farm Mechanisation- Key to Improving Productivity
+
+## Farm mechanisation- Key to Improving Productivity
+
+8.8 Farm mechanisation helps increase productivity through timely and efficient use of other inputs and natural resources while at the same time reducing the cost of cultivation and the drudgery  associated  with  various  farm  operations.  Under  the  Sub  Mission  on  Agricultural Mechanisation (SMAM), State Governments are being assisted in training and demonstrating agricultural  machinery  and  helping  farmers  procure  various  farm  machinery  and  equipment besides setting up Custom Hiring Centres (CHC). As of December 2022, 21628 CHCs and 467 Hi-Tech hubs and 18306 farm machinery banks have been established. Increasing fragmentation of farm holdings (with the average size of household ownership holdings declining from 1.23 ha in 2005-06 to 1.10 ha in 2010-11 and further to 1.08 ha in 2015-16) requires machines that are viable and efficient for small farm holdings 1 .

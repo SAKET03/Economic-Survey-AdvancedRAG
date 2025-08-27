@@ -1,0 +1,17 @@
+# Conclusion and Way Forward
+
+## CONCLUSION AND WAY FORWARD
+
+8.47  In the Economic Survey 2023-24, we reported that two significant transformations are reshaping India's services landscape: the rapid technology-driven transformation of domestic service delivery and the diversification of India's services exports. At the helm of this change are financial and professional services. In the first half of FY25, about 45 per cent of the total service sector GVA growth in India was due to financial, real estate, rental and professional services; almost as much as they did during the last decade. Globally, services are presently shoring up growth even in countries where there is a manufacturing slowdown inflicted by moderation in merchandise trade buoyancy. This presents an upside of possibilities to services exports and hence domestic services output.
+
+8.48  At the same time, new risks have surfaced in the growth of IT and professional services in view of the recent changes in global policies following key electoral outcomes. Regulators, have expressed concerns about the potential impact of offshore work on the quality of audits. The general concerns expressed seem to stem from the breakdown of traditional apprenticeship model, inadequate direct supervision, language barriers and inability  to  communicate  instructions  effectively  in  complex  cases,  information gaps of the remote auditors, risks of loss of confidentiality and differences in regulatory provisions  in  the  countries  involved,  resulting  in  compliance  gaps.  These  perceived risks present a downside risk to export-led services growth.
+
+8.49   Domestically,  the  embedded  service  content  of  the  non-service  economic activities has increased significantly, as evidenced by the National Accounts Statistics. There is also growing literature emphasising the 'servicification' of manufacturing, i.e., increasing  utilization  of  services  in  manufacturing  production  and  post-production value addition 22 .  This means that growth in manufacturing has a significant bearing on service sector growth, and vice versa. At the same time, the increasing penetration of digital technologies and artificial intelligence in manufacturing and service sector activities  like  finance,  retail  and  commerce,  telecom,  and,  transport  and  logistics  is changing the very composition of demand for embedded services.
+
+8.50  This picture of the emerging services landscape auto-generates two conclusions. First,  it  is  widely  believed  that  the  manpower  (and  sectors)  with  suitable  digital
+
+22    Pant, S., &amp; Chakraborty, D. (2024). Is service orientation benefitting manufacturing exports from low-middle income countries? Firm-level empirical evidence from WBES data [Working Paper]. Indian Institute of Foreign Trade (IIFT)
+
+and technical skills stand to benefit from AI penetration. Hence, one of the primary conditions for manufacturing and service sector progress is the focus on appropriate skilling of the labour force. The significant initiatives taken in the Budget 2024-25 need to be carried forward into action by the synergic efforts of all tiers of the government, private sector and skilling institutions. Second, there is an urgent need to review and amend complicated procedures at the grassroot level, regulations and rules that hinder both manufacturing and services. Chapter 5 offers several suggestions in this regard. These will help build resilience against the likely persistent global headwinds.
+
+******

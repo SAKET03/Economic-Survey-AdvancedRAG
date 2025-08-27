@@ -1,0 +1,22 @@
+# Introduction
+
+## Introduction
+
+- 9.1 Industry holds a prominent position in the Indian economy, accounting for 31 per cent of GDP, on average, during FY12 and FY21 and employing over 12.1 crore people. The sector's relevance  can  be  identified  through  various  direct  and  indirect  linkages  with  other  sectors, contributing to economic growth and employment. First, it ensures that domestic production can  accommodate domestic demand and reduces the reliance on imports. Thereby assisting in  the  improvement  of  trade  and  current  account  balances.  Second,  industrial  growth  has multiplier effects, which translates into employment growth. Some industries, such as textiles and construction, have high employment elasticities. Third, industrial growth spurs growth in services sectors such as banking, insurance, logistics, etc.
+
+Table IX.1: Growth and Share of Industrial components (in Per cent)
+
+|                                                        | Growth in Per cent   | Growth in Per cent   | Real Gva growth in   | Real Gva growth in FY23 over   | Share in total GvaFY23   |
+|--------------------------------------------------------|----------------------|----------------------|----------------------|--------------------------------|--------------------------|
+|                                                        | H1:FY23              | H2:FY23 (estimated)  | FY23 over FY22       | FY20                           |                          |
+| Industry                                               | 3.7                  | 4.5                  | 4.1                  | 11.1                           | 30.0                     |
+| Mining &quarrying                                      | 2.2                  | 2.6                  | 2.4                  | 4.4                            | 2.3                      |
+| Manufacturing                                          | 0.1                  | 3.0                  | 1.6                  | 11.0                           | 17.3                     |
+| Electricity, gas, water supply &other utility services | 10.0                 | 7.9                  | 9.0                  | 13.0                           | 2.3                      |
+| Construction                                           | 11.5                 | 7.3                  | 9.1                  | 12.8                           | 8.1                      |
+| overall Gva                                            | 9.0                  | 4.7                  | 6.7                  | 9.8                            | -                        |
+
+Source: National Statistical Office (NSO), Ministry of Statistics and Programme Implementation (MoSPI) Note: Data for FY23 presents the First Advance Estimates
+
+- 9.2 Industrial production is a means to increase industrial income in the country. As measured by industrial GVA, growth in industrial income has kept pace with overall GVA growth in the economy since the pre-pandemic year of FY20. Manufacturing GVA, which contributes more than 50 per cent of industrial GVA, has grown at an even higher rate when compared to overall GVA. In FY23, the Industry sector witnessed modest growth of 4.1 per cent compared to the strong growth of 10.3 per cent in FY22. This is likely on account of input cost-push pressures, supply chain disruptions and the China lockdown impacting the availability of essential inputs and slowing the global economy. The fading away of the base effect must have also weighed on growth in FY23. On a positive note, estimates of H2:FY23 shows improvement in overall industrial growth, especially in the manufacturing sector, both yearly and sequentially. Easing input prices and conducive demand conditions will support growth, ceteris paribus.
+- 9.3 In this chapter, the survey will review the performance of the Indian industry in the current financial year. It explores the demand stimulants to industrial growth, the supply response of the industry, trends in credit to the industry and foreign investment in India's industrial sector. The chapter also addresses the developments in key sub-industries and their challenges. Towards the end, it evaluates India's aspirations and prospects of becoming a key player in global value chains.

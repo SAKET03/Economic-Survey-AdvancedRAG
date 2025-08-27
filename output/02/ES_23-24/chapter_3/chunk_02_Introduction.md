@@ -1,0 +1,40 @@
+# Introduction
+
+## INTRODUCTION
+
+- 3.1 Low and stable inflation is key to sustaining economic growth. Governments and Central Banks  face  the  challenge  of  keeping  inflation  at  a  moderate  level  while  ensuring  financial stability. Achieving this delicate balance requires careful monitoring of economic indicators and taking appropriate and timely corrective actions. With the commitment of the Reserve Bank of India (RBI) to the goal of price stability and policy actions by the Central Government, India successfully managed to keep retail inflation at 5.4 per cent in FY24, the lowest level since the Covid-19 pandemic period ('pandemic' hereinafter).
+- 3.2. After the pandemic, the global economy experienced another set of supply chain disruptions beginning with the Russia-Ukraine war in the first half of FY23. In the latter half of the year and FY24, there was a decline in global inflation because of the diminishing impact of price shocks, particularly in energy prices, as well as lower core inflation and monetary tightening. According to the International Monetary Fund 1 , the coordinated monetary tightening by Central Banks in
+
+1 World Economic Outlook, April 2024: Steady but Slow: Resilience amid Divergence, pages 3-4. https://tinyurl. com/38pederj
+
+major advanced economies during 2022-23 significantly contributed to the decline in energy prices  due  to  its  high  level  of  synchronisation  and  the  resulting  impact  on  reducing  global energy demand.
+
+## India's retail inflation is lower than the EMDEs and world average
+
+3.3. Despite the synchronous tightening of monetary policy by most central banks to restore price stability, the global economy has shown unexpected resilience in 2023. This is evident in both advanced economies (AEs), and emerging markets &amp; developing economies (EMDEs), as they are returning to their inflation targets. This trend is also observed in India. As per the IMF 2 data, where India's inflation rate was lower than the global average and that of EMDEs in 2022 and 2023.
+
+3.4. There is a clear negative relationship between cross-country inflation and per capita GDP. Historically, inflation in advanced economies has generally been lower than in EMDEs. Factors such as established monetary policies, economic stability, well-developed and efficient markets that balance supply and demand conditions, and stable currencies contribute to the effective management of inflation (Ha, Kose &amp; Ohnsurge, 2018) 3 .
+
+<!-- image -->
+
+Source: World Economic Outlook Database, April 2024, IMF
+
+Note: (i) Chart III.2 excludes countries with GDP lower than USD100 billion &amp; double-digit inflation
+
+(ii) In IMF data, for India 2023 represents FY2023-24 (FY24)
+
+(iii) Blue coloured dots for AEs and Red coloured dots for EMDEs
+
+## India's inflation management was relatively better to keep it within the target
+
+3.5. With the goal of maintaining price stability, many countries have established their own inflation targets based on various factors that serve their economic objectives best. Factors such as the level of economic development, the structure of the economy, the state of the financial
+
+2   World Economic Outlook, April 2024: Steady but Slow: Resilience amid Divergence, page 145
+
+3     Ha,  Jongrim;  Kose,  Ayhan;  Ohnsorge,  Franziska  Lieselotte  (2018).  Inflation  in  Emerging  and  Developing Economies: Evolution, Drivers, and Policies. World Bank Group, Washington, D.C. https://tinyurl.com yf2zzx95s
+
+system, and the trade-off between inflation and other economic objectives may influence these targets (Jahan, Sarwat) 4 . In pursuit of specific inflation targets set by countries, they employ various policies and measures. Interestingly, India is performing better than various developed and emerging economies in relation to its inflation target.
+
+3.6. In 2023, India's inflation rate was within its target range of 2 to 6 per cent. Compared to  advanced  economies  like  the  USA,  Germany,  and  France,  India  had  one  of  the  lowest deviations from its inflation target in the triennial average inflation from 2021-2023. Despite the challenges posed by global demand-supply imbalances due to ongoing geopolitical tensions, India's inflation rate was 1.4 percentage points below the global average in 2023. Against this background, the survey discusses trends and drivers of retail inflation and its constituents headline, core, and food inflation, state-wise variations in retail inflation, rural-urban inflation differential and fiscal policy measures undertaken to contain inflation as the chapter proceeds.
+
+<!-- image -->

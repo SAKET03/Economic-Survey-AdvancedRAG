@@ -1,0 +1,85 @@
+# A Resilient Domestic Economy
+
+## A RESILIENT DOMESTIC ECONOMY
+
+1.11 India's economy carried forward the momentum it built in FY23 into FY24 despite a gamut of global and external challenges. The focus on maintaining macroeconomic stability ensured that these challenges had minimal impact on India's economy. As a result, India's real GDP grew by 8.2 per cent in FY24, posting growth of over 7 per cent for a third consecutive year, driven by stable consumption demand and steadily improving investment demand. On the supply side, gross value added (GVA) at 2011-12 prices grew by 7.2 per cent in FY24, with growth remaining broad-based. Net taxes at constant (2011-12) prices grew by 19.1 per cent in FY24, aided by reasonably strong tax growth, both at the centre and state levels and rationalisation of subsidy expenditure. This led to the difference between GDP and GVA growth in FY24.
+
+<!-- image -->
+
+Source: Statement 13: Annual and Quarterly Estimates of GDP at Constant Prices, and Annual and Quarterly Estimates of GDP at Current Prices 2011-12 Series, National Accounts Data, MoSPI; Note: RE - Revised Estimates, PE - Provisional Estimates
+
+1.12 The shares of the agriculture, industry and services sector in overall GVA at current prices were 17.7 per cent, 27.6 per cent and 54.7 per cent respectively in FY24. GVA in the agriculture sector  continued  to  grow,  albeit  at  a  slower  pace.  Erratic  weather  patterns  during  the  year and an uneven spatial distribution of the monsoon in 2023 impacted overall output. This is reflected in the marginal decline in total foodgrain output for FY24 of 0.3 per cent as per the third advanced estimate of foodgrain production released by the Ministry of Agriculture and Farmers' Welfare (MoAFW). 19
+
+<!-- image -->
+
+Source: Statement 12: Annual and Quarterly Estimates of GDP at Current Prices, 2011-12 Series, and Statement 13: Annual and Quarterly Estimates of GDP at Constant Prices, 2011-12 Series, National Accounts; Note: PFCE Private Final Consumption Expenditure. GFCF - Gross Fixed Capital Formation
+
+1.13  Within the industrial sector, manufacturing GVA shrugged off a disappointing FY23 and grew by 9.9 per cent in FY24. Manufacturing activities benefitted from reduced input prices while  catering  to  stable  domestic  demand.  The  input  price  advantage  was  reflected  in  the subdued growth in the Wholesale Price Index (WPI) inflation, which led to a deflator of (-)1.7 per cent for the manufacturing sector during FY24. Manufacturers also passed on the reduction in  input  prices  to  consumers,  reflected  in  the  sustained  decline  in  the  core  consumer  price inflation. The strength of manufacturing is further corroborated by the strong performance of the HSBC India PMI for manufacturing, which consistently remained well above the threshold value  of  50,  indicating  sustained  expansion  and  stability  in  India's  manufacturing  sector. Construction activities displayed increased momentum and registered a growth of 9.9 per cent in FY24 due to the infrastructure buildout and buoyant commercial and residential real estate demand.
+
+1.14  Various high-frequency indicators reflect the growth in the services sector. Both Goods and Services Tax (GST) collections and the issuance of e-way bills, reflecting wholesale and retail  trade,  demonstrated double-digit growth in FY24. Financial and professional services
+
+19  https://tinyurl.com/2eekevhu
+
+have been a major driver of growth post the pandemic. Contact-intensive services-prominently trade, transport, real estate and their ancillary services that were impacted the most during the pandemic have emerged much stronger in the post-pandemic period, embedding greater technology and digital content in them and transforming the nature of the service delivery in India. The proliferation of global capability centres (GCCs) has also imparted resilience to India's services exports, giving further thrust to the sector.
+
+1.15  On the demand side, private consumption has been a crucial and steadfast cog in the GDP growth. Private final consumption expenditure (PFCE) grew by 4.0 per cent in real terms in FY24. Urban demand conditions remain strong, as reflected in various urban consumption indicators such as domestic passenger vehicle sales 20 and air passenger traffic 21 .  It  is  also  reported that rural consumption growth has gradually picked up pace during the quarter ending March 2024. 22   As per the Federation of Automobile Dealers Associations, two and three-wheeler and passenger vehicle sales also registered an uptick in FY24.
+
+<!-- image -->
+
+1.16  Gross  Fixed  Capital  Formation  (GFCF)  continues  to  emerge  as  an  important  driver of growth, as indicated in its rising share of nominal GDP. India is in the midst of a private capex upcycle that has been aided by government capital expenditure. As per Statement 1.11 of the National Accounts Statistics 2024 released by the Ministry of Statistics and Programme Implementation (MoSPI), GFCF by private non-financial corporations increased by 19.8 per cent in FY23. There are early signs that the momentum in private capital formation has been sustained in FY24. As per data provided by Axis Bank Research, private investment across a consistent set of over 3,200 listed and unlisted non-financial firms has grown by 19.8 per cent in FY24.
+
+20 https://tinyurl.com/y2xhx5bb
+
+21  https://tinyurl.com/4x9udsdz
+
+22   https://tinyurl.com/yjkpdsau
+
+<!-- image -->
+
+1.17 Apart from private corporations, households have also been at the forefront of the capital formation  process.  The  growth  in  housing  sales  in  cities  has  been  particularly  impressive, indicating that urban households are diversifying the deployment of their savings. In 2023, residential real estate sales in India were at their highest since 2013, witnessing a 33 per cent YoY growth, with a total sale of 4.1 lakh units in the top eight cities. As per real estate research firm Proptiger, new supply witnessed an all-time high, with 5.2 lakh units launched in 2023, as against 4.3 lakh units in 2022. The momentum continued in Q1 of 2024, witnessing recordbreaking sales of 1.2 lakh units, clocking a robust 41 per cent YoY growth. New supply has consistently exceeded one lakh units since Q2 of 2022, underscoring persistent demand-supply dynamics in the housing market.
+
+1.18  With  cleaner  balance  sheets  and  adequate  capital  buffers,  the  banking  and  financial sector is well-positioned to cater to the growing financing needs of investment demand. Credit disbursal  by  scheduled  commercial  banks  (SCBs)  to  industrial  micro,  small  and  medium enterprises (MSMEs) and services continues to grow in double digits despite a higher base. Similarly, personal loans for housing have surged, corresponding to the increase in housing demand. However, credit offtake by large industries seems to be growing at a lower albeit stable pace. These larger industries seem to be tapping the corporate bond market. Corporate bond issuances in FY24 were up by 70.5 per cent, with private placement remaining the preferred channel for corporates. Outstanding corporate bonds were up by 9.6 per cent (YoY) as of the end of March 2024.
+
+23     FY24  figures  for  the  Union  Government  are  Provisional  Actuals  released  by  CGA;  FY24  figures  for  State Governments are Budget Estimates and FY23 values are Revised Estimates.
+
+<!-- image -->
+
+## Chart I.24: SCBs catering to investment demand
+
+## Chart I.25: Large corporates tapping corporate bond markets
+
+<!-- image -->
+
+Source: Table 170, Sectoral Deployment of Bank Credit, Handbook of Statistics on Indian Economy, RBI
+
+<!-- image -->
+
+1.19  Global trade growth slowed in 2023, leading to a marginal decline in merchandise exports growth.  As  merchandise  imports  slowed  more  than  exports  and  services  trade  recorded  a larger surplus compared to the year before, the drag exerted by net exports on GDP reduced. The subdued contribution of exports was more than counterbalanced by the pick-up in fixed investment, thereby continuing the trend of domestic stimulus seamlessly replacing external stimuli.
+
+24    The  eight  major  cities  referred  to  in  the  Proptiger  reports  are  Ahmedabad, Bengaluru, Chennai, Delhi NCR, Hyderabad, Kolkata, Pune, and Mumbai MMR.
+
+25  https://www.proptiger.com/guide/news-views
+
+1.20  FY24 also marked the year GDP reached levels projected by the pre-pandemic trajectory. A trend analysis in Box I.1 details how the overall economy and most supply and demand-side sectors have grown at a pace to erase any permanent losses in output and demand.
+
+## Box I.1: Growth in GDP, GVA, and their components ensure no permanent losses in demand and output
+
+A permanent output loss refers to a downward level shift in the observed variable due to the loss in output capacity. This box item visualises the pre-pandemic and post-pandemic trends in India's aggregate macroeconomic variables such as GDP, GVA, private consumption and the subcomponents of GVA.
+
+<!-- image -->
+
+<!-- image -->
+
+In  the  analysis,  six  key  macroeconomic  variables  at  constant  (2011-12)  prices,  i.e.,  GDP, GVA,  PFCE,  GFCF,  industry  GVA,  and  services  GVA  of  quarterly  frequency,  have  been deseasonalised using the X-12 ARIMA technique that decomposes variables into its trend, seasonal, cyclical, and idiosyncratic components. The deseasonalised variables have been visualised  to  understand  where  these  variables  stand  vis-à-vis  their  pre-pandemic  trend projections.  A  trend  line  based  on  de-seasonalised  data  between  June  2011  and  March 2020 has been plotted and extended until March 2024. This trend reflects the approximate projection of the variable in each quarter from June 2020 to March 2024 had the pandemicinduced contraction of economic activity not occurred.
+
+The visualisation reveals that GDP, GVA, private consumption, GFCF, and industrial GVA have recovered quickly. We see that the compounded quarterly growth rate (CQGR) of these variables is greater in the period Q3 FY21 - Q4 FY24 than the CQGR in the pre-pandemic period of Q1 FY12 - Q4 FY20 (Table I.). This enabled a broad catch-up to the levels projected by the pre-pandemic trends, thereby averting any permanent losses in demand/output. The reasons for this are manifold. The pandemic-induced contraction presented an opportunity for the deployment of a counter-cyclical fiscal policy that focussed on capital expenditure, thereby  positioning  government-driven  capital  formation  as  a  driver  of  growth.  It  also enabled the implementation of multiple process reforms and the deployment of public digital infrastructure that boosted the ease of doing business. The pandemic also accelerated the adoption of digital technologies amongst the population and enhanced financial inclusion. With the GST and the Insolvency and Bankruptcy Code (IBC) acting as tailwinds to the economy, growth took off.
+
+| Table I.1: Faster growth since the pandemic-induced contraction   | Table I.1: Faster growth since the pandemic-induced contraction   | Table I.1: Faster growth since the pandemic-induced contraction   | Table I.1: Faster growth since the pandemic-induced contraction   | Table I.1: Faster growth since the pandemic-induced contraction   | Table I.1: Faster growth since the pandemic-induced contraction   | Table I.1: Faster growth since the pandemic-induced contraction   |
+|-------------------------------------------------------------------|-------------------------------------------------------------------|-------------------------------------------------------------------|-------------------------------------------------------------------|-------------------------------------------------------------------|-------------------------------------------------------------------|-------------------------------------------------------------------|
+| Compounded growth in deseasonalised quarterly series (in %)       | GDP                                                               | GVA                                                               | PFCE                                                              | Industrial GVA                                                    | Services GVA                                                      | GFCF                                                              |
+| Between Q1FY12 - Q4FY20                                           | 1.5                                                               | 1.5                                                               | 1.4                                                               | 1.1                                                               | 1.9                                                               | 1.3                                                               |
+| Between Q3FY21 - Q4FY24                                           | 1.9                                                               | 1.8                                                               | 1.7                                                               | 1.4                                                               | 2.1                                                               | 2.0                                                               |
+
+GVA of the services sector is yet to reach the level projected by the pre-pandemic trend. The granular data available until FY23 reveals that this is on account of the trade, hotel, road and air transport sectors. These sectors, taken together, contributed about 28.5 per cent to total real GVA in FY23 and were only one per cent above their levels in FY20.
+
+Chart I.27 reveals that the gap between GDP and its pre-pandemic trend has been closing, and GDP was only around 1 per cent below this trend on an annual average basis in FY24. There is still some catching up left. The extant momentum in growth not only allows the economy to catch up with its pre-pandemic trend without stoking inflationary pressures but aids in surpassing it.

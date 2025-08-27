@@ -1,0 +1,9 @@
+# Agriculture Mechanisation: Facilitating Access
+
+## AGRICULTURE MECHANISATION: Facilitating access
+
+9.29 The  high  machinery  cost  presents  a  significant  barrier  to  promoting  farm mechanisation among small and marginal farmers. Custom hiring arrangements can enhance these farmers' adoption of farm mechanisation, particularly in regions where mechanisation is currently limited. The Sub-Mission on Agricultural Mechanisation (SMAM)  supports  state  governments  with  training  and  demonstrations  related  to agricultural machinery, in establishing Custom Hiring Centres (CHCs), and assisting farmers  in  acquiring  various  farming  equipment.  Further,  farm  machinery  banks enable  the  renting  of  machinery  at  affordable  rates,  thereby  promoting  access  to high-tech machinery for small and marginal farm holdings in areas with low levels of mechanisation. As of 31 December, 26,662 CHCs were established under this initiative, with 138 CHCs set up in the year FY25 alone.
+
+9.30 Furthermore, the government has promoted a recently approved scheme aimed at  providing drones to Women SHGs. This initiative targets 15000 selected Women SHGs to offer rental services to farmers for agricultural purposes, including for the application of fertilisers and pesticides. Central financial assistance of 80 percent of the drone's cost and related ancillary charges, up to a maximum of ₹8 lakh, will be granted to  the  women  SHGs  for  drone  purchases.  This  scheme  will  also  deliver  sustainable business and livelihood support to the SHGs, enabling them to generate an additional income of at least ₹1 lakh per annum.
+
+28    Weather Information and Network Data Systems (WINDS), Yield Estimation System based on Technology (YESTech), Collection of Real Time Observations and Photographs of Crops (CROPIC) provide real time data on weather, yield and uploading full size photos of crops.

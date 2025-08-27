@@ -1,0 +1,5 @@
+# Introduction
+
+## INTRODUCTION
+
+- 1.1 Global economic conditions are shaped by changing growth dynamics, fluctuating commodity prices, and evolving monetary policies, which influence domestic inflation, trade balances, and capital flows. At present, this interconnectedness is complicated by unusual levels of geopolitical tensions, supply chain disruptions, and climate-related shocks. Against this background, this chapter is organised broadly into four sections. The first section outlines the global economic scenario comprehensively, highlighting growth and inflation trends, policy stances, and key emerging risks and uncertainties. The  second  section  focuses  on  the  domestic  macroeconomic  situation,  examining developments from the demand and supply sides. The third section delves into the emerging trends in public finances, inflation, external sector, financial markets and employment. The concluding section presents the prospects and outlook for growth in the presence of global headwinds while capitalising on domestic growth drivers.

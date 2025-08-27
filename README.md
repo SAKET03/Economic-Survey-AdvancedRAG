@@ -55,6 +55,38 @@ This repository implements an end-to-end Retrieval-Augmented Generation (RAG) pi
 * Neo4j (community/enterprise, with APOC enabled)
 * GPU recommended for embedding + reranking
 
+### Docker Commands
+
+```
+docker pull neo4j:community
+```
+
+```
+docker run \
+  -p 7474:7474 -p 7687:7687 \
+  -v $PWD/data:/data \
+  -v $PWD/plugins:/plugins \
+  -v $PWD:/workspace \
+  --name neo4jLangchain \
+  -e NEO4J_PLUGINS='["apoc"]' \
+  -e NEO4J_dbms_security_procedures_unrestricted=apoc.* \
+  -e NEO4J_dbms_security_procedures_allowlist=apoc.* \
+  -e NEO4J_apoc_export_file_enabled=true \
+  -e NEO4J_apoc_import_file_enabled=true \
+  -e NEO4J_apoc_import_file_useneo4jconfig=true \
+  -itd --gpus all \
+  -w /workspace \
+  neo4j:community
+
+```
+
+### Git Commands
+
+```
+git clone https://github.com/SAKET03/Economic-Survey-AdvancedRAG
+```
+
+
 ### System Dependencies
 
 Run `bash setup.sh`

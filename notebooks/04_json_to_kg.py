@@ -21,8 +21,8 @@ def create_knowledge_graph_from_chunks(json_directory: str):
     graph = Graph(URI, auth=(USER, PASSWORD))
 
     # Delete all existing nodes and relationships in the graph
-    print("Clearing existing graph...")
-    graph.delete_all()
+    # print("Clearing existing graph...")
+    # graph.delete_all()
 
     # Create constraints for better performance and data integrity
     print("Creating constraints...")
@@ -311,7 +311,8 @@ def main():
     # json_directory = "processed_chunks"
     # json_directory = "/workspace/processed_chunks_24-25"
     # json_directory = "/workspace/processed_chunks_24-25"
-    json_directory = "/workspace/output/03/ES_24-25"
+    # json_directory = "/workspace/output/03/ES_24-25"
+    json_directory = "/workspace/output/03/"
 
     if not os.path.exists(json_directory):
         print(f"Error: Directory '{json_directory}' does not exist.")
@@ -321,15 +322,18 @@ def main():
         return
 
     try:
-        # Create the knowledge graph
-        create_knowledge_graph_from_chunks(json_directory)
+        for i in os.listdir(json_directory):
+            # Create the knowledge graph
+            create_knowledge_graph_from_chunks(os.path.join(json_directory, i))
 
-        # Verify the creation
-        graph = Graph(URI, auth=(USER, PASSWORD))
-        verify_graph_creation(graph)
+            # Verify the creation
+            graph = Graph(URI, auth=(USER, PASSWORD))
+            verify_graph_creation(graph)
 
-        print(f"\nKnowledge graph successfully created from {json_directory}")
-        print("You can now query the graph using Neo4j Browser or other tools.")
+            print(
+                f"\nKnowledge graph successfully created from {os.path.join(json_directory, i)}"
+            )
+            print("You can now query the graph using Neo4j Browser or other tools.")
 
     except Exception as e:
         print(f"Error creating knowledge graph: {e}")
